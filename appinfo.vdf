@@ -1,0 +1,515 @@
+"appid" "677120"
+"common"
+{
+	"name" "Heroes of Hammerwatch"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"clienticon" "eb3038edaf378360c4a987a1184e55f2f566e682"
+	"clienttga" "ad28807a1b89a7ab5aa32333f8c42a50a49deb53"
+	"icon" "35b858239823230dbf0eea1daab15b2d00201aa6"
+	"logo" "63720e85d69379dba906d470c2b17f05549be86d"
+	"logo_small" "63720e85d69379dba906d470c2b17f05549be86d_thumb"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1661817600"
+		"tested_build_id" "4737785"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Heroes of Hammerwatch"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "47"
+			"height_pct" "35"
+		}
+	}
+	"store_asset_mtime" "1553506784"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Crackshell"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Crackshell"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hammerwatch"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_38" "1"
+		"category_33" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_17" "1"
+		"category_9" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1519937974"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "677120"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "42804"
+		"2" "1685"
+		"3" "3964"
+		"4" "122"
+		"5" "3859"
+		"6" "1720"
+		"7" "3843"
+		"8" "492"
+		"9" "19"
+		"10" "21"
+		"11" "3871"
+		"12" "5125"
+		"13" "1646"
+		"14" "4791"
+		"15" "1716"
+		"16" "4182"
+		"17" "4885"
+		"18" "1684"
+		"19" "4231"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Crackshell"
+	"publisher" "Crackshell"
+	"homepage" "http://www.heroesofhammerwatch.com"
+	"listofdlc" "1015030,1086870,1142880"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Heroes of Hammerwatch"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HWR.exe"
+			"description" "Heroes of Hammerwatch (OpenGL, recommended)"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "HWR.exe"
+			"arguments" "dx"
+			"description" "Heroes of Hammerwatch (DirectX, alternate)"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "HWR"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"677121"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4955975841382525118"
+				"size" "277530788"
+				"download" "256503904"
+			}
+			"launch_build"
+			{
+				"gid" "8389980702370148051"
+				"size" "110121649"
+				"download" "101351680"
+			}
+			"public_beta_testing"
+			{
+				"gid" "4955975841382525118"
+				"size" "277530788"
+				"download" "256503904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatesting"
+			{
+				"gid" "9FEF93F98FB9A708BAB8ACF5C160ED1D"
+				"size" "4C11AF3ED1BF5D555B0F4EAA7622215B"
+				"download" "85A357CE1ED8295CC611FAC5435C643D"
+			}
+			"testing"
+			{
+				"gid" "AE0A90448C42989483B6DC572245FA10"
+				"size" "40988D644C4B34E9C10E1B43AF34CECB"
+				"download" "B1F091A982C741859B20B0998CEBC749"
+			}
+		}
+	}
+	"677122"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1939039533802692619"
+				"size" "31806184"
+				"download" "10983424"
+			}
+			"launch_build"
+			{
+				"gid" "1720438728875330818"
+				"size" "21123872"
+				"download" "5405808"
+			}
+			"public_beta_testing"
+			{
+				"gid" "1939039533802692619"
+				"size" "31806184"
+				"download" "10983424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatesting"
+			{
+				"gid" "696A43091D4E0161AE44CBEB95D2EA5C"
+				"size" "3E4700BBA2694175315C9AE93F600F2C"
+				"download" "713CA7704586496620C51F4C4832CB52"
+			}
+			"testing"
+			{
+				"gid" "A1F9A5A19296C898406E6F9F67929A7F"
+				"size" "6247A89491F4F54FDD785ECB5E4BED61"
+				"download" "A9CE7F6C02D6EFE05459FFE1C8234BA4"
+			}
+		}
+	}
+	"677123"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3082374968312957695"
+				"size" "19720055"
+				"download" "5921712"
+			}
+			"launch_build"
+			{
+				"gid" "69831974611287745"
+				"size" "29818348"
+				"download" "7420304"
+			}
+			"public_beta_testing"
+			{
+				"gid" "3082374968312957695"
+				"size" "19720055"
+				"download" "5921712"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatesting"
+			{
+				"gid" "3263449210371ACE252ACF06E01626B1"
+				"size" "B49A6561A72836A96E86E2F644C8F682"
+				"download" "E1D96F97841756146DF57B20C510C5C7"
+			}
+			"testing"
+			{
+				"gid" "D86F6A5D844A2747BFD8F03E1D4F007D"
+				"size" "AFF718E61EC7D64FE3B31D7B0AFA78BC"
+				"download" "B120CA76900C4A890B82F97D998CE82A"
+			}
+		}
+	}
+	"677124"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6716460885025870369"
+				"size" "20711158"
+				"download" "6260896"
+			}
+			"launch_build"
+			{
+				"gid" "2383828506215066765"
+				"size" "24879235"
+				"download" "7008016"
+			}
+			"public_beta_testing"
+			{
+				"gid" "6716460885025870369"
+				"size" "20711158"
+				"download" "6260896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatesting"
+			{
+				"gid" "EC0BFED9FD6BB203CF2D54D9D1C3A67B"
+				"size" "453700302905E1CF593AD0856D6D01D5"
+				"download" "5929513CD6D9C31107C45BF7DE729D33"
+			}
+			"testing"
+			{
+				"gid" "9561701DA0580CD7CC70F3145CA1A8D8"
+				"size" "4A3A2D6A8D77C0CE0414CB170852D6AC"
+				"download" "FE60B42AFF9DE9FE7B24F6E1CED028AA"
+			}
+		}
+	}
+	"workshopdepot" "677120"
+	"baselanguages" "english,schinese,tchinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14160978"
+			"timeupdated" "1713986162"
+		}
+		"launch_build"
+		{
+			"buildid" "2567519"
+			"description" "Initial launch version of the game"
+			"timeupdated" "1609726446"
+		}
+		"betatesting"
+		{
+			"buildid" "14160978"
+			"pwdrequired" "1"
+			"timeupdated" "1713970434"
+		}
+		"public_beta_testing"
+		{
+			"buildid" "14160978"
+			"description" "Public testing of early builds"
+			"timeupdated" "1713970654"
+		}
+		"testing"
+		{
+			"buildid" "14160978"
+			"pwdrequired" "1"
+			"timeupdated" "1713986149"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "saves"
+			"pattern" "*.*"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_inmainmenu" "In main menu"
+				"#status_intown" "In town"
+				"#status_indungeon" "Dungeon: Level %level% in {#Act_%act%} floor %floor%"
+				"#status_indungeon_ngp" "Dungeon: Level %level% in {#Act_%act%} floor %floor% (NG+%ngp%)"
+				"#status_inbossbattle" "Boss battle: Level %level% in {#Act_%act%}"
+				"#status_inbossbattle_ngp" "Boss battle: Level %level% in {#Act_%act%} (NG+%ngp%)"
+				"#status_inportallevel" "Portal: {#Act_%act%} to {#Act_%nextact%}"
+				"#status_inportallevel_ngp" "Portal: {#Act_%act%} to {#Act_%nextact%} (NG+%ngp%)"
+				"#status_inarena" "Arena: Wave %wave% / %totalwaves%"
+				"#act_1" "Mines"
+				"#act_2" "Prison"
+				"#act_3" "Armory"
+				"#act_4" "Archives"
+				"#act_5" "Chambers"
+				"#act_6" "Battlements"
+				"#act_7" "Top"
+				"#act_pop_1" "Desert"
+				"#act_pop_2" "Lower Pyramid"
+				"#act_pop_3" "Upper Pyramid"
+				"#act_mt_1" "Outer Halls"
+				"#act_mt_2" "Inner Halls"
+				"#act_mt_3" "Inner Sanctum"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23755755"
+"_sha" "db853a7cc26e670688aa25b1b48b28884404480a"
+"_size" "10021"
