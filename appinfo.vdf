@@ -1,0 +1,589 @@
+"appid" "368390"
+"common"
+{
+	"name" "The Darkside Detective"
+	"type" "Game"
+	"oslist" "windows,macos,linux"
+	"icon" "5d6af724579453c87a82a63c4341ccaac58a4dc1"
+	"clienticon" "488b27f1c976869e4e90c167dd6971e5805d334f"
+	"clienttga" "feb06f18ec926ddadbce05eac510f18e2424f4f0"
+	"logo" "60156d25fe0a22998c21ef2ea76000029d7f58a2"
+	"logo_small" "60156d25fe0a22998c21ef2ea76000029d7f58a2_thumb"
+	"releasestate" "released"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "6812492"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "The Darkside Detective"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "53.33121814510063"
+			"height_pct" "93.1055577044175"
+		}
+	}
+	"store_asset_mtime" "1634689159"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Spooky Doorway"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Akupara Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Akupara Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "The Darkside Detective"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1501138800"
+	"steam_release_date" "1501181670"
+	"metacritic_score" "77"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-darkside-detective\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "368390"
+	"store_tags"
+	{
+		"0" "1698"
+		"1" "5613"
+		"2" "3964"
+		"3" "21"
+		"4" "1742"
+		"5" "5716"
+		"6" "1719"
+		"7" "4136"
+		"8" "4182"
+		"9" "492"
+		"10" "10808"
+		"11" "4004"
+		"12" "1664"
+		"13" "3871"
+		"14" "597"
+		"15" "5923"
+		"16" "7432"
+		"17" "4195"
+		"18" "7743"
+		"19" "6691"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"developer" "Spooky Doorway"
+	"publisher" "Akupara Games"
+	"homepage" "http://darksidedetective.com/"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "The Darkside Detective"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "thedarksidedetective.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "thedarksidedetective.app\\Contents\\MacOS\\thedarksidedetective"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "thedarksidedetective.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+		"3"
+		{
+			"executable" "thedarksidedetective.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamconfigurator3rdpartynative" "65524"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"368392"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4445881799414791970"
+				"size" "1065072705"
+				"download" "136777296"
+			}
+			"public_debug"
+			{
+				"gid" "4691824607958799631"
+				"size" "1151525542"
+				"download" "205202704"
+			}
+			"public_migration_beta"
+			{
+				"gid" "7458904268342445895"
+				"size" "1064551481"
+				"download" "137171520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2020.3"
+			{
+				"gid" "30F7F56C8E1F2C351CDFCBC03F1B6E57"
+				"size" "D5F28AC882FA1F935DA32BFAC7E727FB"
+				"download" "0E5C86A0B12B60AA92E52B6F59DCEEE3"
+			}
+			"demo_test"
+			{
+				"gid" "7990F38294B0C27A3F4CF4F9AA76CC02"
+				"size" "EA55A25D6B92A7162E8DF6FCC56A6745"
+				"download" "9D53272859B907D4605B859F2E01F316"
+			}
+			"development_debug"
+			{
+				"gid" "3EA61B73428F1741A21776ED89E79CE0"
+				"size" "4B3FF25FFBD1530C7F0177D15DF359B6"
+				"download" "725B2A0A955C4F4801396A1B66FA241B"
+			}
+			"legacy"
+			{
+				"gid" "B5444A0C489DD823F14785A13A157E27"
+				"size" "AC2C892CA3156BD4E8BB347D3B3EA53E"
+				"download" "DF4285827FFB2C61E64F23D1AC4251F7"
+			}
+			"older_builds"
+			{
+				"gid" "567D4E81F01FBA9C37B066A7F437889F"
+				"size" "A3A0E899392CED19EA927CFBB21D38C2"
+				"download" "FF4892CD51D488DF452686CF8257408E"
+			}
+			"staging"
+			{
+				"gid" "707CC47C7AA3125E92B828B0AEDB98CC"
+				"size" "C5BA89CFA18625BCA3A3A47E018E4B47"
+				"download" "3B295266B048068A069FE6EB0F71FDE7"
+			}
+			"development"
+			{
+				"gid" "C8D81EF3111B6B85AC299564A79C0A8E"
+				"size" "88F2DC5B86F5DB67279E80EBCFC8B806"
+				"download" "78B8121596E88805E3B639740F0596F5"
+			}
+		}
+	}
+	"368393"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3720539876836341096"
+				"size" "1095670020"
+				"download" "142426848"
+			}
+			"public_debug"
+			{
+				"gid" "948575997663943853"
+				"size" "1214724076"
+				"download" "212170960"
+			}
+			"public_migration_beta"
+			{
+				"gid" "8674654014764284443"
+				"size" "1095149304"
+				"download" "142816400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2020.3"
+			{
+				"gid" "CA0BCE114CB4FB1471CDA152AFF17E65"
+				"size" "F455C95A6799A81D70FC804C04D381F3"
+				"download" "3ECAAEF9D738C850A1152DABC1D0518B"
+			}
+			"demo_test"
+			{
+				"gid" "E4EB6E5B6F4BE764750BE89D016451F9"
+				"size" "52818BCBC35018DCA0E6086F317353A3"
+				"download" "96FD4C2AF61F2BA67A1478473C0BE538"
+			}
+			"development_debug"
+			{
+				"gid" "834D7685070FBB73ED70A551B479A3CB"
+				"size" "215D392523B8428E6BEC955C6CC9ACF0"
+				"download" "AB2897BAD7E35B67695F59056D963FF2"
+			}
+			"legacy"
+			{
+				"gid" "8C905293638F69EA8E90FF78F5A79C1E"
+				"size" "303957026C7136D4F3CEF4E95181C1FD"
+				"download" "C748341B15CB5BD6E107BB450E7AA651"
+			}
+			"older_builds"
+			{
+				"gid" "5971DD3EF5A908E52E3557ED571D8CAB"
+				"size" "9934DDE5F02D51E1F28FC805D2433543"
+				"download" "70CCB7F6DE76959E1FDCF4EC0BC3CFC5"
+			}
+			"staging"
+			{
+				"gid" "6D9E14B8FDE0F8BCF0EBD9290F917440"
+				"size" "60C98F65E9A79795A7A02BBA14BB7B73"
+				"download" "2A2F9BDFF6759E14C114DF05F5026D64"
+			}
+			"development"
+			{
+				"gid" "543AD0AC26DDAEC2F8AA1DC94180EB5A"
+				"size" "6DA7CEC1795D76C7E9B1E3110F20F52F"
+				"download" "F4E13B9D62C5AB709FA05ABEE32ED894"
+			}
+		}
+	}
+	"368394"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4385399187848730607"
+				"size" "1070577837"
+				"download" "137561696"
+			}
+			"public_debug"
+			{
+				"gid" "2089524817394867314"
+				"size" "1161628727"
+				"download" "205633824"
+			}
+			"public_migration_beta"
+			{
+				"gid" "3267940104844895890"
+				"size" "1070056613"
+				"download" "137951520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2020.3"
+			{
+				"gid" "6AB39BC5CF92A09ADDC75530A27B5590"
+				"size" "0BA6E80A6B3F002D358994A65CB990EE"
+				"download" "611346E15F5DF0DD9786E449236CC508"
+			}
+			"demo_test"
+			{
+				"gid" "4EE787D80DB55BEBE3A417C9009FAA55"
+				"size" "BCD052BF057B5330D6193EF39F33E8CC"
+				"download" "4A48060CC703E7188B206F5164E9F404"
+			}
+			"development_debug"
+			{
+				"gid" "958D01FFF4E985C537AA55B6C1C3B0D9"
+				"size" "8DDA6528F3DDA1E4161ABE4C9A16B511"
+				"download" "29F734AED8E4A793E268DC0BA9969D9F"
+			}
+			"legacy"
+			{
+				"gid" "F441EF76F70D74459DD4B2C8818D2F23"
+				"size" "7BFC31FFE7091532A0945FA2D228EBBA"
+				"download" "31336FE5324805F3F164FC8C41AF8A67"
+			}
+			"older_builds"
+			{
+				"gid" "EC9A35EF9514997A20184DFCF0F48C16"
+				"size" "EFE02649B5DEF8660F7207C13E90A43C"
+				"download" "AA42AC56E89F98B65FDF87714F292DFC"
+			}
+			"staging"
+			{
+				"gid" "BF9A3C27D301BF1F5172312EED5A87FA"
+				"size" "C55FA2B4B90189C9EAD134877D49C87D"
+				"download" "7F41DEC86845BF4683DB02F0C47F4BAE"
+			}
+			"development"
+			{
+				"gid" "A403C403515878A760A98B7484B86567"
+				"size" "8C51AFF8194328489D261908A8C2557B"
+				"download" "104FD9E16F7C08FD45DC34B6B470E0F0"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13723106"
+			"timeupdated" "1710525980"
+		}
+		"2020.3"
+		{
+			"buildid" "7540722"
+			"pwdrequired" "1"
+			"timeupdated" "1634307939"
+		}
+		"demo_test"
+		{
+			"buildid" "13988901"
+			"pwdrequired" "1"
+			"timeupdated" "1712599908"
+		}
+		"development_debug"
+		{
+			"buildid" "9493258"
+			"pwdrequired" "1"
+			"timeupdated" "1662893691"
+		}
+		"legacy"
+		{
+			"buildid" "3833580"
+			"pwdrequired" "1"
+			"timeupdated" "1623233146"
+		}
+		"older_builds"
+		{
+			"buildid" "12512926"
+			"pwdrequired" "1"
+			"timeupdated" "1698251597"
+		}
+		"public_debug"
+		{
+			"buildid" "6840568"
+			"description" "A beta branch, a place to do some debugging with the public"
+			"timeupdated" "1623251611"
+		}
+		"public_migration_beta"
+		{
+			"buildid" "12595018"
+			"description" "A beta branch for updated migration regression testing"
+			"timeupdated" "1698934282"
+		}
+		"staging"
+		{
+			"buildid" "13723106"
+			"pwdrequired" "1"
+			"timeupdated" "1710314994"
+		}
+		"development"
+		{
+			"buildid" "14349371"
+			"pwdrequired" "1"
+			"timeupdated" "1715605021"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Spooky Doorway/The Darkside Detective"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Spooky Doorway/The Darkside Detective"
+					"replace" "Spooky Doorway/The Darkside Detective"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Spooky Doorway/The Darkside Detective"
+					"replace" ".config/unity3d/Spooky Doorway/The Darkside Detective"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "784aa3484c49df32827621a7725572f91153fc71"
+"_size" "12153"
