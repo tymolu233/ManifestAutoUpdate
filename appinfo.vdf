@@ -1,0 +1,563 @@
+"appid" "967050"
+"common"
+{
+	"name" "Pacify"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"logo" "c5198416b722fafd379a416606ecdd44334fb0f5"
+	"logo_small" "c5198416b722fafd379a416606ecdd44334fb0f5_thumb"
+	"icon" "58100bbcafa4244c8ea086d8de1208787c44c7e0"
+	"clienticon" "65dcfab692d1ebf0a7f9e2463c1448ffa3a19d40"
+	"clienttga" "fc37a75faf204ce213d9e6a93a93443f97e6be70"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1645747200"
+		"tested_build_id" "8189285"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.59952903778063"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1708618658"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shawn Hitchcock"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hitchcock Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_25" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1550865725"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "967050"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3843"
+		"2" "3859"
+		"3" "1721"
+		"4" "1685"
+		"5" "3978"
+		"6" "3834"
+		"7" "10808"
+		"8" "3839"
+		"9" "3942"
+		"10" "5125"
+		"11" "4342"
+		"12" "9541"
+		"13" "5716"
+		"14" "4106"
+		"15" "6730"
+		"16" "4064"
+		"17" "4166"
+		"18" "21"
+		"19" "16689"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Shawn Hitchcock"
+	"publisher" "Hitchcock Games"
+}
+"config"
+{
+	"installdir" "Pacify"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pacify.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Pacify.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"967051"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8776328153087146076"
+				"size" "2737935755"
+				"download" "2539204704"
+			}
+			"beforelastupdate"
+			{
+				"gid" "8470083512200008477"
+				"size" "2737933707"
+				"download" "2539204128"
+			}
+			"beforevoicechat"
+			{
+				"gid" "2596031047179860178"
+				"size" "4581281767"
+				"download" "2188568320"
+			}
+			"beforewoodsupdate"
+			{
+				"gid" "956979588960452256"
+				"size" "4882500210"
+				"download" "2327941024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "CEA75910D3595C03625828188B7FF611"
+				"size" "9C83EF984D4ABC21E4775FF284503602"
+				"download" "F87B1AF03E763EEC16EBF7F2E91E820E"
+			}
+			"betadeck"
+			{
+				"gid" "8ED7B841536515DB0FA1CC4340038B39"
+				"size" "EC1D1D6B58FE4931522344858EEAD1B9"
+				"download" "4CB252A46BF55E5B4073326390A15A0D"
+			}
+			"betahq"
+			{
+				"gid" "15820C6826E044921FBF53DA8F19C1DB"
+				"size" "F7869B7D1FCD86FDB2B8CD0D262BE3B2"
+				"download" "7E9A53B46CCA63FF933B4DE635D2C024"
+			}
+			"betawoods"
+			{
+				"gid" "0EAB7AD74EF3ABAD9CE0AE3C28D9BC47"
+				"size" "3B609F0885D7610DA84F4589FEB332A1"
+				"download" "1FC40DD6240FA6333D2A076731B60568"
+			}
+			"original"
+			{
+				"gid" "4AA4D7C8ED64AAE54EF6EFB24FF69941"
+				"size" "7F8F65FAA7D444113AE16721FF022690"
+				"download" "44DAEA76F27989C08B9847017F3BB737"
+			}
+		}
+	}
+	"967052"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7446047750781643410"
+				"size" "2547528243"
+				"download" "2371983072"
+			}
+			"beforelastupdate"
+			{
+				"gid" "1106189134538808642"
+				"size" "2547270404"
+				"download" "2370928336"
+			}
+			"beforevoicechat"
+			{
+				"gid" "2775818209891412246"
+				"size" "4727333909"
+				"download" "2288219248"
+			}
+			"beforewoodsupdate"
+			{
+				"gid" "7320454687369854624"
+				"size" "4896127290"
+				"download" "2391476608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "21C7D7409327A400943AB7F6B2B0CE16"
+				"size" "ED6B3E655C3FBBF406F7D455B1BA1A48"
+				"download" "8927C470F286030475E7B180507652A6"
+			}
+			"betadeck"
+			{
+				"gid" "EE03F626E75A340935F3609E29B035BC"
+				"size" "6C7A48D1C12EA8DBA031EC1598C8F4CA"
+				"download" "993CFB65AC005F0F7B84405E89102DCD"
+			}
+			"betahq"
+			{
+				"gid" "BA7CDFB7E95D6A21C741796283E5B0EA"
+				"size" "6CE63F0ACF14FEB0BC0D961EB2C332D5"
+				"download" "C79038F8BDC1398AED599698D5F340E7"
+			}
+			"betawoods"
+			{
+				"gid" "BB8111EA31BE7B3E6EAD6CDC71D0B2C4"
+				"size" "5A8D2B2711E45CE87A56ABA648DFB69D"
+				"download" "5F777FC4C6D01B49B77FCAEFEED8FDA3"
+			}
+			"original"
+			{
+				"gid" "063CD87CB7557888859A354483C0CA3B"
+				"size" "9CCB5387F8BA74C929B3D5D31451E35D"
+				"download" "FC651739883FC58E47A2F5BC9C1388E0"
+			}
+		}
+	}
+	"967053"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6587702386118890818"
+				"size" "2737935792"
+				"download" "2541672800"
+			}
+			"beforelastupdate"
+			{
+				"gid" "175377928697099233"
+				"size" "2737933744"
+				"download" "2541674016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betadeck"
+			{
+				"gid" "3A10DC0DE0E57FC88682EB03E35A04B5"
+				"size" "BA2D8749BC9B7681684AFA9629BB0518"
+				"download" "8F9FAD5246741E09F9B53821166F30C6"
+			}
+			"betahq"
+			{
+				"gid" "944EC954ABE77DC644E1BF58BA1DF18F"
+				"size" "E3323E838CDE015A54D5D577F9637FD4"
+				"download" "C1BC9EFCEFD93D164704A0D857A03DDF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13990405"
+			"timeupdated" "1712613155"
+		}
+		"beforelastupdate"
+		{
+			"buildid" "13696000"
+			"description" "This is the game before the most recent update"
+			"timeupdated" "1712613112"
+		}
+		"beforevoicechat"
+		{
+			"buildid" "5697819"
+			"description" "Pre voice chat build"
+			"timeupdated" "1602983341"
+		}
+		"beforewoodsupdate"
+		{
+			"buildid" "5856843"
+			"description" "PACIFY before the woods update"
+			"timeupdated" "1644266792"
+		}
+		"beta"
+		{
+			"buildid" "5856843"
+			"pwdrequired" "1"
+			"timeupdated" "1623358177"
+		}
+		"betadeck"
+		{
+			"buildid" "8269498"
+			"pwdrequired" "1"
+			"timeupdated" "1645726910"
+		}
+		"betahq"
+		{
+			"buildid" "13660521"
+			"pwdrequired" "1"
+			"timeupdated" "1709750205"
+		}
+		"betawoods"
+		{
+			"buildid" "7864811"
+			"pwdrequired" "1"
+			"timeupdated" "1639170778"
+		}
+		"original"
+		{
+			"buildid" "3615901"
+			"pwdrequired" "1"
+			"timeupdated" "1645715959"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "5"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Pacify/Saved/SaveGames"
+			"pattern" "pacify*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23595783"
+"_sha" "be3695ea4548f33ea32a781980fc53f6d00db9a5"
+"_size" "10404"
