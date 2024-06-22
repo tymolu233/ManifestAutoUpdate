@@ -1,0 +1,495 @@
+"appid" "596970"
+"common"
+{
+	"name" "Sunless Skies"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "a90426c5bd9325bd8c61d581c8559b8bdb3540fb"
+	"logo_small" "a90426c5bd9325bd8c61d581c8559b8bdb3540fb_thumb"
+	"icon" "959d17866ffcadd88c9b2629961588088f0d0126"
+	"clienticon" "cdfdae275376cc2ee3dc3fc229cff81aeaa3f776"
+	"clienttga" "562d5e774ce667e0aa29e35acbd6b3b3d4566135"
+	"osextended" "macos64"
+	"clienticns" "a3db9ddf25d5bb1b85722b9ebf9edc305010b9e3"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1663804800"
+		"tested_build_id" "7888392"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Sunless Skies"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "81.62193698949824"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1661865768"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Failbetter Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Failbetter Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Fallen London Universe"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1548957576"
+	"metacritic_score" "87"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sunless-skies\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "596970"
+	"store_tags"
+	{
+		"0" "1777"
+		"1" "7432"
+		"2" "3834"
+		"3" "122"
+		"4" "1742"
+		"5" "4182"
+		"6" "4791"
+		"7" "4166"
+		"8" "492"
+		"9" "1662"
+		"10" "21"
+		"11" "1716"
+		"12" "1616"
+		"13" "4342"
+		"14" "5153"
+		"15" "5230"
+		"16" "1755"
+		"17" "7113"
+		"18" "6426"
+		"19" "4598"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "Failbetter Games"
+	"publisher" "Failbetter Games"
+	"homepage" "http://www.failbettergames.com"
+	"listofdlc" "598920,598921"
+}
+"config"
+{
+	"installdir" "Sunless Skies"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Sunless Skies.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Sunless Skies.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Sunless Skies.x86_64"
+			"description" "Launch"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"3"
+		{
+			"executable" "Sunless Skies.x86"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "32"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"596971"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6080213639442969589"
+				"size" "3379413691"
+				"download" "970609104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"live-debug"
+			{
+				"gid" "0CF7558E8ACDEA0FA4438C758D06222A"
+				"size" "4094DFC9870E2A45A30FC88721777E01"
+				"download" "C826B3BD6959ECC5293DA50836E2B079"
+			}
+			"releasecandidate"
+			{
+				"gid" "E206C161AD515D997B2885F4142A1133"
+				"size" "88A3CA8D63A8342E45B29FB5E0A20044"
+				"download" "1D4E49BDD0CA1F44FF045A077E36D134"
+			}
+			"sovereign"
+			{
+				"gid" "F15E2910DF2E5FD053D2351CB83C6F3A"
+				"size" "CAFBF42AA0FF818046999316B87AFB36"
+				"download" "605098A66536BE06F31C197C54739E1F"
+			}
+		}
+	}
+	"596972"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1953075790377778569"
+				"size" "3351102749"
+				"download" "957516656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"live-debug"
+			{
+				"gid" "85C07898A7E8E50E96E1800F0C8CD77D"
+				"size" "FD662BA5345A1032A7FCC18D8208CF58"
+				"download" "FD662BA5345A1032A7FCC18D8208CF58"
+			}
+			"releasecandidate"
+			{
+				"gid" "D8BF395DC24DC441D6D24478B5E2EEBE"
+				"size" "7821485638A7AAE045265EFDE79FC1B1"
+				"download" "26E5AFBA3E61188344F709DACBD78066"
+			}
+			"sovereign"
+			{
+				"gid" "36182E61F236B1C9392B4971CB2EA7A6"
+				"size" "7F3D302AB30E9F41E10365375B453E5C"
+				"download" "813441807B249FAFD5FEC3478085C7DE"
+			}
+		}
+	}
+	"596973"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7195125867741805714"
+				"size" "3361092057"
+				"download" "959455264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"live-debug"
+			{
+				"gid" "3A84D8BC9ED8DEABDB664D93493A8CDA"
+				"size" "FD662BA5345A1032A7FCC18D8208CF58"
+				"download" "FD662BA5345A1032A7FCC18D8208CF58"
+			}
+			"releasecandidate"
+			{
+				"gid" "8580B79F0C358844DDC220DFF684EC5D"
+				"size" "04CEFC17BDA9324978DDE86D8CDA9038"
+				"download" "ADE81B60A22D4311A5A310DFF5812FB0"
+			}
+			"sovereign"
+			{
+				"gid" "7F62A18110414FA703CFEDCD7B86C62E"
+				"size" "80A9123EAD8C7BFEDA872980C5A80880"
+				"download" "F8C0D0B66383804D71BE024DF20C452D"
+			}
+		}
+	}
+	"598920"
+	{
+		"dlcappid" "598920"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1359840957912133754"
+				"size" "126"
+				"download" "144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"live-debug"
+			{
+				"gid" "2139A4B54C7AA56F4EF7ADF281070066"
+				"size" "A382F888DD166575ED25E7DFF1D9C000"
+				"download" "455C0F1606FAC8C27131C6C9B3F06176"
+			}
+			"releasecandidate"
+			{
+				"gid" "39892F67721A80B1C34A59DC6F352943"
+				"size" "37E173F66410B20C5BFF8022CD47A0A9"
+				"download" "D01E517B09F9A6EAB055CCF8DB237F33"
+			}
+			"sovereign"
+			{
+				"gid" "BE6E0E517CF3720191B6E3DDFD69CFF7"
+				"size" "9B8572CC87735464258514A563BE7D8B"
+				"download" "B8D1EBE984BB2F7A85BE7937C2966655"
+			}
+		}
+	}
+	"598921"
+	{
+		"dlcappid" "598921"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3176034861701629476"
+				"size" "122"
+				"download" "144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"live-debug"
+			{
+				"gid" "CCEA27B8FBFF436CD39421720C2127E0"
+				"size" "1F81F8796B708D967082F72192F1A365"
+				"download" "455C0F1606FAC8C27131C6C9B3F06176"
+			}
+			"releasecandidate"
+			{
+				"gid" "38A7456537AC515899AE43310985D73C"
+				"size" "19CF938AFF8257AA72D15EF6658B99EB"
+				"download" "D01E517B09F9A6EAB055CCF8DB237F33"
+			}
+			"sovereign"
+			{
+				"gid" "41C291B7F3639AE0CF00F07D5C04FE95"
+				"size" "AB3FD27BBF13498378BDF62F81BC315F"
+				"download" "B8D1EBE984BB2F7A85BE7937C2966655"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "7888392"
+			"timeupdated" "1639578345"
+		}
+		"live-debug"
+		{
+			"buildid" "13523468"
+			"pwdrequired" "1"
+			"timeupdated" "1708545774"
+		}
+		"releasecandidate"
+		{
+			"buildid" "13520123"
+			"pwdrequired" "1"
+			"timeupdated" "1708524071"
+		}
+		"sovereign"
+		{
+			"buildid" "6695186"
+			"pwdrequired" "1"
+			"timeupdated" "1622803924"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Failbetter Games/Sunless Skies/storage/characterrepository"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Failbetter Games/Sunless Skies/storage/characterrepository"
+					"replace" "unity.Failbetter Games.Sunless Skies/storage/characterrepository"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Failbetter Games/Sunless Skies/storage/characterrepository"
+					"replace" "/Library/Caches/unity.Failbetter Games.Sunless Skies/storage/characterrepository"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Failbetter Games/Sunless Skies/storage/characterrepository"
+					"replace" ".config/unity3d/Failbetter Games/Sunless Skies/storage/characterrepository"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22760529"
+"_sha" "64626bc208515777d760391b05c77f7df32013e8"
+"_size" "9831"
