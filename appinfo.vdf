@@ -1,0 +1,721 @@
+"appid" "282070"
+"common"
+{
+	"name" "This War of Mine"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "4d2ecaa400d7937fdfae6642b73ad5695c393bf7"
+	"logo_small" "4d2ecaa400d7937fdfae6642b73ad5695c393bf7_thumb"
+	"icon" "38ad6fd10e2b89ab24e8013584ece7961bebe086"
+	"clienttga" "e85549ac5e6c671acc253a3484a5f8cad2ccdbfb"
+	"clienticon" "198d8cf28f0add2fe3a6f49135dd6d8e122f8e00"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1647648000"
+		"tested_build_id" "7167747"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "This War of Mine"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "77.93932322053678"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1713788261"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "11 bit studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "11 bit studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "11 bit studios"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1415987820"
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/this-war-of-mine\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "282070"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1678"
+		"2" "4166"
+		"3" "4182"
+		"4" "9"
+		"5" "6426"
+		"6" "599"
+		"7" "1702"
+		"8" "7332"
+		"9" "8945"
+		"10" "1742"
+		"11" "3835"
+		"12" "12472"
+		"13" "492"
+		"14" "5608"
+		"15" "4175"
+		"16" "5984"
+		"17" "5186"
+		"18" "4975"
+		"19" "1687"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "94"
+}
+"extended"
+{
+	"developer" "11 bit studios"
+	"publisher" "11 bit studios"
+	"homepage" "http://www.thiswarofmine.com"
+	"listofdlc" "348040,481090,750030,750031,974610,1125630"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "This War of Mine"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "x64\\This War of Mine.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+		"1"
+		{
+			"executable" "This War of Mine.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "This War of Mine"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"3"
+		{
+			"executable" "Storyteller.exe"
+			"description" "Tools"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"4"
+		{
+			"executable" "This War of Mine.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "devops_upload_test"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian"
+	"workshopdepot" "282070"
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"282077"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6796256525174304979"
+				"size" "20344206"
+				"download" "5951392"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "60720B6CF6019D28AD0167DCE079308F"
+				"size" "85CEB02C3164B78225537752CC1CCE35"
+				"download" "26DDCC89EA26B87CB49CB4F41C597806"
+			}
+			"devops_upload_test"
+			{
+				"gid" "A8C96152022648C7A24E1E4C426F2359"
+				"size" "A8F667AAE7B3F2211F9DC710E97D05E8"
+				"download" "93F0D22B00FEE78520A87520DFF46391"
+			}
+		}
+	}
+	"282078"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2909354918856024957"
+				"size" "24843818"
+				"download" "7737920"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "B49790B409962A715CDA69128A83A8F1"
+				"size" "537DFE5B87F5C4C9D62B8A6B223CB932"
+				"download" "4502932C437993838380593F8D08BD75"
+			}
+			"devops_upload_test"
+			{
+				"gid" "48DFEA0B28E12F81D5B6607241E56FDB"
+				"size" "913D307FFD82E2B0BE5249B940AD5AFC"
+				"download" "2E2754FA6A059F778AD3C32442F05168"
+			}
+		}
+	}
+	"282079"
+	{
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6523227002308586919"
+				"size" "1325506"
+				"download" "747888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "D2F7565C86706AC2F2C4454434BD5776"
+				"size" "CD21E7A806CCB75F93F2B31014E500AE"
+				"download" "746EE99A87146D548613DAECADFB118A"
+			}
+			"devops_upload_test"
+			{
+				"gid" "DA82F0E9A84392AD3D90D6D71742E106"
+				"size" "8ADB860868FC38AA67FBCDD7A2527ADC"
+				"download" "46ABA13C005C9B065DA0A9BBF2564DF4"
+			}
+		}
+	}
+	"282080"
+	{
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "784671959319524124"
+				"size" "99985719"
+				"download" "31670288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "FA1CACE4D0F298B390C44009D1071F37"
+				"size" "1BEC439AD54D8AFC73B2380D1AD93126"
+				"download" "42A32AE81CCA43F3950C75AB49C81A3D"
+			}
+			"devops_upload_test"
+			{
+				"gid" "279E1DD4694BB2C0894B809DC3E80677"
+				"size" "E2623798B6FD5AA641EA8DAD3A70D906"
+				"download" "F6C2783C85D7FD5E84271BB5F59F5A2B"
+			}
+		}
+	}
+	"282081"
+	{
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3242930624967074512"
+				"size" "170146309"
+				"download" "170770144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "19DA80AB79E3F04901FC8A8149C99819"
+				"size" "40DBE0F35A68A4C0F516B62E7EADF1B2"
+				"download" "1BCA12CEE317991A14BA565E1A8267FF"
+			}
+			"devops_upload_test"
+			{
+				"gid" "DFA1D49A225DA0986D3D94F54D25D2D9"
+				"size" "F80DA839928FD1C4A78C309D5D9D32BA"
+				"download" "CB1CCAC8DA12465D5273D47D5B6F101B"
+			}
+		}
+	}
+	"282082"
+	{
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4263756927733991882"
+				"size" "2015441566"
+				"download" "2009012176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "E00F4ACB0099BF2AFCF59957FA660A0E"
+				"size" "7605892C078CA12D6A81401AF56719CC"
+				"download" "1D771D52BEBD2A6F7D03D1ADBBC10FFF"
+			}
+			"devops_upload_test"
+			{
+				"gid" "93214DE500B28FB1017F8621705A192C"
+				"size" "3001C55AB25F47338D90A03EF1E97931"
+				"download" "D372D098F6F52D40B0208BA01D07E047"
+			}
+		}
+	}
+	"282083"
+	{
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6485357841802375341"
+				"size" "476439658"
+				"download" "466545552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "1AAF5096DCF5B371A2DFBC3BC4C7190A"
+				"size" "7E8660438779E03FAEE5DEF00BC86B54"
+				"download" "3E7EC8EB9475D40CCF8BC12E49250D1C"
+			}
+			"devops_upload_test"
+			{
+				"gid" "A35CE22D8087CCE115532651DDE41F14"
+				"size" "76C4D7CD6810AF6C977050432A603C5C"
+				"download" "DE82F1B332EAB322630EFB3D0789B77A"
+			}
+		}
+	}
+	"282075"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8880811861723404629"
+				"size" "2781440296"
+				"download" "2684504976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "B1F786722ED6CC68A962177EEAF3C73C"
+				"size" "871E749CA6F6CEB07B3066EAA764CA20"
+				"download" "BB1E1D4CE3D24AA44606BB2CDB166DDF"
+			}
+			"devops_upload_test"
+			{
+				"gid" "21A87C909A9EB03D1F267F3A1390EA8A"
+				"size" "8AB8AF242F8D4C32C0E6F8E95F1A57B1"
+				"download" "11AF1E7884E84BC8E3050998DBAFD8B1"
+			}
+		}
+	}
+	"282076"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"steamdeck" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8000559690476979944"
+				"size" "2788785571"
+				"download" "2686055216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bc_test"
+			{
+				"gid" "29A6763F5DE8166EFC475C2D1685DD65"
+				"size" "5FA01AC0FD5694CB212F7286DD522C14"
+				"download" "332AC41C75516FB350A1F7E472A4FAD9"
+			}
+			"devops_upload_test"
+			{
+				"gid" "1A4288226EBED2EE792580BAF0206EFF"
+				"size" "2266FD015E9806FD9A723E8A0CD866FC"
+				"download" "E0A6718A2CEFA201606665B420DE6634"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13271214"
+			"timeupdated" "1706191257"
+		}
+		"bc_test"
+		{
+			"buildid" "13270061"
+			"pwdrequired" "1"
+			"timeupdated" "1706186948"
+		}
+		"classic"
+		{
+			"buildid" "4284918"
+			"pwdrequired" "1"
+			"timeupdated" "1571047576"
+		}
+		"gold64"
+		{
+			"buildid" "7834515"
+			"pwdrequired" "1"
+			"timeupdated" "1638789018"
+		}
+		"original"
+		{
+			"buildid" "4227233"
+			"description" "This War of Mine: Original Release 1.0"
+			"timeupdated" "1573746169"
+		}
+		"scenario_gold"
+		{
+			"buildid" "4357345"
+			"pwdrequired" "1"
+			"timeupdated" "1572948970"
+		}
+		"stories"
+		{
+			"buildid" "4032881"
+			"pwdrequired" "1"
+			"timeupdated" "1563812405"
+		}
+		"stories2"
+		{
+			"buildid" "3411762"
+			"pwdrequired" "1"
+			"timeupdated" "1545212763"
+		}
+		"stories3"
+		{
+			"buildid" "4353807"
+			"pwdrequired" "1"
+			"timeupdated" "1572859891"
+		}
+		"test_gold"
+		{
+			"buildid" "4506321"
+			"pwdrequired" "1"
+			"timeupdated" "1617974945"
+		}
+		"twom_stories"
+		{
+			"buildid" "3899144"
+			"pwdrequired" "1"
+			"timeupdated" "1560152168"
+		}
+		"vanilla"
+		{
+			"buildid" "4227233"
+			"pwdrequired" "1"
+			"timeupdated" "1569401076"
+		}
+		"devops_upload_test"
+		{
+			"buildid" "14754304"
+			"pwdrequired" "1"
+			"timeupdated" "1718711357"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "64000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "24016474"
+"_sha" "8c21d2676d22aa2d480b8194ced334d641be038f"
+"_size" "13280"
