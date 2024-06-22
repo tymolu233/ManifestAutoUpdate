@@ -1,0 +1,590 @@
+"appid" "997010"
+"common"
+{
+	"name" "Police Simulator: Patrol Officers"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "9dd4503b39eaa4f7edd4e0e40428f198c2e8ed79"
+	"logo_small" "9dd4503b39eaa4f7edd4e0e40428f198c2e8ed79_thumb"
+	"icon" "c70e222d018ee6aa2571d1c41b7c928f20dfc00f"
+	"clienticon" "51eb2a9d34699586790c95d9236a0bde6d9afae7"
+	"clienttga" "c36e19d9d5f2bf862a2e6c1bf1db14db130e2ae5"
+	"releasestate" "released"
+	"name_localized"
+	{
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "997010_eula_0"
+			"name" "Police Simulator: Patrol Officers EULA"
+			"url" "https://store.steampowered.com//eula/997010_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1697673600"
+		"tested_build_id" "12407000"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "59.794267469447746"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718804127"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Aesir Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "astragon Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "astragon Entertainment"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1668095460"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "997010"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "6378"
+		"2" "1695"
+		"3" "3859"
+		"4" "4175"
+		"5" "8369"
+		"6" "9204"
+		"7" "3843"
+		"8" "13190"
+		"9" "4182"
+		"10" "1697"
+		"11" "1685"
+		"12" "4191"
+		"13" "1100687"
+		"14" "3834"
+		"15" "4747"
+		"16" "6426"
+		"17" "1036"
+		"18" "493"
+		"19" "7208"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Aesir Interactive"
+	"publisher" "astragon Entertainment"
+	"homepage" "https://patrol-officers.com/"
+	"listofdlc" "2009550,2199030,2210960,2350410,2513250,2527820,2527830"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Police Simulator Patrol Officers"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Boston.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"997011"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4372593433405069809"
+				"size" "12221721641"
+				"download" "3877979440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphadev"
+			{
+				"gid" "CC1F0A70CC0DC6DB7015F39EA566A8E0"
+				"size" "A32509DD48298C89BC81C96FB1A37128"
+				"download" "6D3B5A32141A8BB60964FB31C91CF938"
+			}
+			"baseline"
+			{
+				"gid" "927FD86C8B07715BC09585880BB3F051"
+				"size" "187210101EF5BC3BF3F91E62F1DFDAFC"
+				"download" "12D99BEE4912FBCBC25EBBF9CE03F782"
+			}
+			"delivery1"
+			{
+				"gid" "3AE8E796D4D55255F775546B8E9DA332"
+				"size" "950C0CFD6D53391F7A7C6239E30DD4C2"
+				"download" "34A591A79A7E0888664C0C4B4B509F78"
+			}
+			"delivery2"
+			{
+				"gid" "B02AE0DFF9A94F16E117345F7F6927F8"
+				"size" "D3CE2C65FDC9514A0A15046143AF7664"
+				"download" "91B3FFAADA7E488B032DAFE5FFC25967"
+			}
+			"betadev"
+			{
+				"gid" "81DC077593F82462904CC81B463C3D47"
+				"size" "6E07BFD0ADA8F0C45F88A6BF5B2CEEC7"
+				"download" "F2F87266FE942875614DAEC3694EB21E"
+			}
+			"featuretesting1"
+			{
+				"gid" "27AD7F34E67CDDE8832F5157479826F3"
+				"size" "D0482E5238FB00DB8EFA3C0B554D5510"
+				"download" "505B8C348ECB997EA12F868D3FF5743C"
+			}
+			"featuretesting2"
+			{
+				"gid" "C998DE65B3EF43D1344DBC8B3C2A0DC3"
+				"size" "7EBC66658104240AC671909552794E41"
+				"download" "B3E50EB93FA905BFA9194AE37EEBAA2E"
+			}
+			"featuretesting3"
+			{
+				"gid" "FF6AA05672C20197FD3991FE2E3173A8"
+				"size" "63EDED220FAD08C225E5F778C8E377EC"
+				"download" "38D36D621318F396301B00DC207E1B18"
+			}
+			"featuretesting4"
+			{
+				"gid" "D63C3AFFC61F5BA581827FA9021A2A66"
+				"size" "189E333B07A9949B8914E7E072D23ADE"
+				"download" "36211A91F74C199733B8444B019B83CA"
+			}
+			"featuretesting5"
+			{
+				"gid" "706B6A34DED55E9152DC8F3B5F8140E5"
+				"size" "568CD15205D764ABD3170BA08AF0E413"
+				"download" "3F446DF0C5229E1A1661C477B6E9AF77"
+			}
+			"featuretesting6"
+			{
+				"gid" "13C7FBCD3F243FBDD9F592DDFFB06742"
+				"size" "75DF429D9C6E708CF30E00D4A2E56A40"
+				"download" "B5C4C0F53231BA90933D602D76DEE064"
+			}
+			"featuretesting7"
+			{
+				"gid" "A0A4F98F936F6EDB4B33CB8DDA30E5F4"
+				"size" "675B85BB9923ABF36A22B2EB812E8446"
+				"download" "4F4F4E17AD6136D97A2D4148980A17AB"
+			}
+			"featuretesting8"
+			{
+				"gid" "08395E1C6457E0B563559A782E922695"
+				"size" "5E69AD118B6CB932A822B841802E6D6C"
+				"download" "98F96835FFD08A69A60BBF313A4623E0"
+			}
+			"hardeningdev"
+			{
+				"gid" "3EF4982C5023ECC6AAF2690F00746FF5"
+				"size" "D4F9B049D78658872A325F5FFFE4A839"
+				"download" "9D786DD3259307EC69F1DD0F975F19D5"
+			}
+			"highwayrelease"
+			{
+				"gid" "D8061EBCBEAB1552A0E565318E569DED"
+				"size" "14C34DE4D3E196B2E3D230680E560F35"
+				"download" "F97BC4346BD215255AA44C0758730B7A"
+			}
+			"highwayrelease_cheat"
+			{
+				"gid" "71C71F6D436625A8E22A40CF09065695"
+				"size" "10C838959274624DF6793C39002E99DD"
+				"download" "0865F6832A450D58EC5F14ED1FB487A2"
+			}
+			"hw-press-access"
+			{
+				"gid" "8A77C003F427994FAC6A67870DA55151"
+				"size" "496BAD9D234A009A1CF39D6E0C21054D"
+				"download" "1A18CB28AC68B7E6E16DB22280108574"
+			}
+			"hwp-closed-beta"
+			{
+				"gid" "8E967510004028A1669B54BE7AC89DDE"
+				"size" "841454FE1FA46A955E2BEB46524C4032"
+				"download" "77045C3ECA09D693F00C0DF4C8DE8DAF"
+			}
+			"hwp-closed-beta-cheat"
+			{
+				"gid" "BDC9860B8D163429BBE34209EBCA16AC"
+				"size" "0AD275C70E137A4A53C552D54266907C"
+				"download" "FDCB94EDA83259366BDBEC929F01258C"
+			}
+			"stablerc"
+			{
+				"gid" "5F5A439AA1E9A600F2EFC984B077A3F2"
+				"size" "15425179120D72099F75EC19EFD35A08"
+				"download" "7E56B49C1F82A4A2E4A9D4A6A50E83D8"
+			}
+			"stablercdev"
+			{
+				"gid" "73B7C9DEFE5DFE0B45820AECED32B912"
+				"size" "DB3C5EB272E14047A5851DF027EBFF14"
+				"download" "E50EBBA85077C4C6DE45AC2744C64B34"
+			}
+		}
+	}
+	"workshopdepot" "997010"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14794303"
+			"timeupdated" "1718995080"
+		}
+		"alphadev"
+		{
+			"buildid" "13087427"
+			"pwdrequired" "1"
+			"timeupdated" "1704321824"
+		}
+		"baseline"
+		{
+			"buildid" "9627203"
+			"pwdrequired" "1"
+			"timeupdated" "1664876777"
+		}
+		"delivery1"
+		{
+			"buildid" "12972805"
+			"pwdrequired" "1"
+			"timeupdated" "1702667133"
+		}
+		"delivery2"
+		{
+			"buildid" "12105746"
+			"pwdrequired" "1"
+			"timeupdated" "1694167356"
+		}
+		"betadev"
+		{
+			"buildid" "14773353"
+			"pwdrequired" "1"
+			"timeupdated" "1718832381"
+		}
+		"featuretesting1"
+		{
+			"buildid" "14762352"
+			"pwdrequired" "1"
+			"timeupdated" "1718762047"
+		}
+		"featuretesting2"
+		{
+			"buildid" "14783936"
+			"pwdrequired" "1"
+			"timeupdated" "1718900368"
+		}
+		"featuretesting3"
+		{
+			"buildid" "14782376"
+			"pwdrequired" "1"
+			"timeupdated" "1718892292"
+		}
+		"featuretesting4"
+		{
+			"buildid" "14752129"
+			"pwdrequired" "1"
+			"timeupdated" "1718698642"
+		}
+		"featuretesting5"
+		{
+			"buildid" "14439819"
+			"pwdrequired" "1"
+			"timeupdated" "1716284235"
+		}
+		"featuretesting6"
+		{
+			"buildid" "14720095"
+			"pwdrequired" "1"
+			"timeupdated" "1718375802"
+		}
+		"featuretesting7"
+		{
+			"buildid" "14713205"
+			"pwdrequired" "1"
+			"timeupdated" "1718331436"
+		}
+		"featuretesting8"
+		{
+			"buildid" "14695286"
+			"pwdrequired" "1"
+			"timeupdated" "1718213761"
+		}
+		"hardeningdev"
+		{
+			"buildid" "14799372"
+			"pwdrequired" "1"
+			"timeupdated" "1719004583"
+		}
+		"highwayrelease"
+		{
+			"buildid" "14723273"
+			"pwdrequired" "1"
+			"timeupdated" "1718422125"
+		}
+		"highwayrelease_cheat"
+		{
+			"buildid" "14723128"
+			"pwdrequired" "1"
+			"timeupdated" "1718422102"
+		}
+		"hw-press-access"
+		{
+			"buildid" "14736283"
+			"pwdrequired" "1"
+			"timeupdated" "1718601500"
+		}
+		"hwp-closed-beta"
+		{
+			"buildid" "14794303"
+			"pwdrequired" "1"
+			"timeupdated" "1718975325"
+		}
+		"hwp-closed-beta-cheat"
+		{
+			"buildid" "14783113"
+			"pwdrequired" "1"
+			"timeupdated" "1718975367"
+		}
+		"stablerc"
+		{
+			"buildid" "14794303"
+			"pwdrequired" "1"
+			"timeupdated" "1718972556"
+		}
+		"stablercdev"
+		{
+			"buildid" "14795557"
+			"pwdrequired" "1"
+			"timeupdated" "1718978924"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000"
+	"maxnumfiles" "15"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Boston/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24072336"
+"_sha" "68dfa48c3a05f0a703ccc332e6331c83a8c66e92"
+"_size" "11982"
