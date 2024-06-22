@@ -1,0 +1,456 @@
+"appid" "1690800"
+"common"
+{
+	"name" "Satisfactory Dedicated Server"
+	"type" "Tool"
+	"parent" "526870"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "b830a7fe1880ee85614322be91d9903078708945"
+	"clienttga" "241bffea0b057c62689441b289bb6fd3a960823d"
+	"icon" "ff894b01499d6f8cfb53bba894b6624bc22cefbb"
+	"logo" "d051096ae8bc6094e4c6e05ecb345a536871563c"
+	"logo_small" "d051096ae8bc6094e4c6e05ecb345a536871563c_thumb"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "1690800"
+}
+"config"
+{
+	"installdir" "SatisfactoryDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FactoryServer.exe"
+			"arguments" "-log -unattended"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "FactoryServer.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1690801"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4491309279459097906"
+				"size" "12941042310"
+				"download" "2467477088"
+			}
+			"experimental"
+			{
+				"gid" "4491309279459097906"
+				"size" "12941042310"
+				"download" "2467477088"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"crashfix-tickfactoryactors"
+			{
+				"gid" "6A83BD43671F3F95ACC882E7E923AA48"
+				"size" "55C04AC9944D55F0F798F7B75C8C1588"
+				"download" "57939787CDCADA6969B0FF390930AC08"
+			}
+			"default-cheats"
+			{
+				"gid" "EB88A2372CA5BFAF1A5DB90E896CB0B5"
+				"size" "0360DDAEE4907D8951F40D82DB65DB37"
+				"download" "71ABD1A593D1B4C4A86DCE619ECE0069"
+			}
+			"epic"
+			{
+				"gid" "0CC0A3B3B394A6930420DEA3393F2EFD"
+				"size" "A88FC3B449EA58D0D9BFAA4565FB213C"
+				"download" "7198AEBAC8D864C18EFA8FE568BECBC6"
+			}
+			"experimental-cheats"
+			{
+				"gid" "42DD49A3C3BF451332D8D2CB723F456D"
+				"size" "AC7FE2403426E0AD36D2ECC75041AC1D"
+				"download" "F87D5EF227C5963BE441188436D7E0C6"
+			}
+			"internal5"
+			{
+				"gid" "87B55C30EA1D33F77369101A58698D16"
+				"size" "2C65E09A20093D0CF38504F0ED733084"
+				"download" "1EC4CBD97F05DA2DE20ADAF44CFDE343"
+			}
+			"internal7"
+			{
+				"gid" "4597A725297359E9DA8370F482A0050A"
+				"size" "F9FCAC04ECAEB572F59892B9356B3002"
+				"download" "65CBB934CAC3EE4284E78F4DDDC93E11"
+			}
+			"patching"
+			{
+				"gid" "CA5C7B9AAEB7220D7EAC853D9D898429"
+				"size" "A3B88AF38D8C2442FA5E9344A54F8F85"
+				"download" "9984172EDCEB766BEDB864A613918E8C"
+			}
+			"qa-cheats"
+			{
+				"gid" "3BE7FA5F96FC800A2314CA12C26BB8E2"
+				"size" "1E4F1F55DE8C275674E330DAB668472B"
+				"download" "68307D139DB3CB83DA00E84074DDA541"
+			}
+			"staging"
+			{
+				"gid" "2F90E603104FF701EF176E4EC3D3BB86"
+				"size" "0F113A16645415C34F2FFCC14341D98F"
+				"download" "B317203FFDE34FBFBB1C4EA78BBDF716"
+			}
+			"internal"
+			{
+				"gid" "298E4CD4A30976147A38000306EB0564"
+				"size" "3CD1C3F5E64CD61D801423A83CF68317"
+				"download" "40CAC13D77D8BD6EF774885C18003C66"
+			}
+			"internal2"
+			{
+				"gid" "F306A569E6400B9324623EDD54474FDA"
+				"size" "251223C9FC6DBBD3236789833743E696"
+				"download" "67C7779DF95431096454D56925EFA239"
+			}
+			"internal3"
+			{
+				"gid" "93E27B6CBDCF666214880093D52B08C6"
+				"size" "FFDF9E1967DD2D4AE5382B0C09D01684"
+				"download" "D08857A0504BE0EA68AE28DF6B5A7017"
+			}
+			"internal4"
+			{
+				"gid" "CE7F15EE618BB3CF026885136D92D456"
+				"size" "36A2EB5D961036EA0BC19DAF2E14891C"
+				"download" "F4CA00355132FA35C635C8F5BC49E076"
+			}
+			"internal6"
+			{
+				"gid" "4EDF97B849D89EC3976BE15597B46054"
+				"size" "56105EEBCA201A9069A69F831B998E0F"
+				"download" "706E7781D41FF59A42935A4CDDB0487B"
+			}
+			"internal8"
+			{
+				"gid" "134DDAF52F644B69013FB24D65062C0F"
+				"size" "219BEC63321693E903322E2F3A3744E0"
+				"download" "FF2B5FCF15B102552B80FC8132178125"
+			}
+			"nightly"
+			{
+				"gid" "BC9077060536D3A580DAAC1C032D0F1D"
+				"size" "F3D9CE6A4B575E70AEB71E2DFB9004A7"
+				"download" "C3912527DF0603BFE8000C93DC6D69B2"
+			}
+		}
+	}
+	"1690802"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3834057001613892701"
+				"size" "5083540902"
+				"download" "1108322240"
+			}
+			"experimental"
+			{
+				"gid" "3834057001613892701"
+				"size" "5083540902"
+				"download" "1108322240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"crashfix-tickfactoryactors"
+			{
+				"gid" "D14CFF06C0C25E89A0D133AE7BB05B7C"
+				"size" "F0B6A511ED3286F46744F5A7811B23A0"
+				"download" "B747B807EC5D454B51EBE462E6C34AF2"
+			}
+			"default-cheats"
+			{
+				"gid" "3EF84EED2D7FE1575968211A9E1DEE1F"
+				"size" "4D434BE8CF5F761DF59DCAF74BEF52EB"
+				"download" "5CA9DB2C8026A243268A3807442F6291"
+			}
+			"epic"
+			{
+				"gid" "45C2565EE9237D189F00B31D5EA895CD"
+				"size" "992E33D353FF787254A7E602AA4ACFC9"
+				"download" "B7C2A4E8F3CE354B16B224A91937D353"
+			}
+			"experimental-cheats"
+			{
+				"gid" "44431E7553B8410C62400195DC089A70"
+				"size" "383FBBFD9A8F55F4E0FF79BF022EA479"
+				"download" "30AF01360A0B8753FBF03CEE302DA3FC"
+			}
+			"internal5"
+			{
+				"gid" "8B53B3EA5A8B19B476E40E551ED5B297"
+				"size" "FFDD2A5F2135683A0C5822B9F32BB47B"
+				"download" "A4D823D16EF1406952AFFE8E148F3CEB"
+			}
+			"internal7"
+			{
+				"gid" "7FE4317F8C294DCB56261711DB99B1C6"
+				"size" "430D306073C785AB682821BCC5CAFE2E"
+				"download" "DF462764FEBC6C696948498E51FEEDF3"
+			}
+			"patching"
+			{
+				"gid" "A42F0D7C1AED3C1A7DC5F9B128FAA7DC"
+				"size" "B649014662B43097267B5F94B33098E6"
+				"download" "2DF98E5C1E67BE4F10D25FFB2B2560DA"
+			}
+			"qa-cheats"
+			{
+				"gid" "785EF0A4E0203E4800900A951E96E85E"
+				"size" "0691FA72CBFABA86284CB5F78B0E868C"
+				"download" "2A25922A1CFE093E6B3BADA521BB59E3"
+			}
+			"staging"
+			{
+				"gid" "F15971D87107E1B003B3B42782B692C8"
+				"size" "6EC2E42A04530FC67CE71F5D84A13553"
+				"download" "5DF72195354293571F3B040EE5305F95"
+			}
+			"internal"
+			{
+				"gid" "CD5ED6A1D64517B6F24DFD690AF78C55"
+				"size" "697F97FBE617B7516C4F5354AABCA9C0"
+				"download" "ADB153D69EEA2A0F2EF9C146DDBF406A"
+			}
+			"internal2"
+			{
+				"gid" "2380F1670903FB2C294E7F7AA5C0F44F"
+				"size" "06A5A39EB344C54B91FAD29F093318D0"
+				"download" "9ED73F92998143DF93AE44430E3059F2"
+			}
+			"internal3"
+			{
+				"gid" "B44D4DBFE8DE444016499B7C8AD700FA"
+				"size" "8F9274E843DE9A2898B48DD496709026"
+				"download" "1D4E435D4FD4640E9731741D6ADF5F58"
+			}
+			"internal4"
+			{
+				"gid" "F9BE5E1EE1E93EC7B268AB791A30CDFF"
+				"size" "1949C27D7DFF6DF2BA437275C479AE64"
+				"download" "46DE407408E37A3569F0FED5899D8606"
+			}
+			"internal6"
+			{
+				"gid" "2FAEF646AF74B7CEA54854434327CCFE"
+				"size" "930C6B96385EF329E76F0EA8BD7B7DA1"
+				"download" "71E0BFFC69967724C447FA20ABAC97C3"
+			}
+			"internal8"
+			{
+				"gid" "F8CDF95AC7F4B0D3BAD310BE4942C33F"
+				"size" "392500E121D78639F08EC53737B2D5D2"
+				"download" "8DFEEB450BD2EBC86009E4DA11257421"
+			}
+			"nightly"
+			{
+				"gid" "731379807B258C3646003908B40BEB2E"
+				"size" "1CDCEA2B623291E5087A589849BCD9C9"
+				"download" "8AAACAA646074B0B51555ED851E06EAA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12929915"
+			"timeupdated" "1702398487"
+		}
+		"crashfix-tickfactoryactors"
+		{
+			"buildid" "13372123"
+			"pwdrequired" "1"
+			"timeupdated" "1707221121"
+		}
+		"default-cheats"
+		{
+			"buildid" "10593110"
+			"pwdrequired" "1"
+			"timeupdated" "1677071669"
+		}
+		"epic"
+		{
+			"buildid" "12629664"
+			"pwdrequired" "1"
+			"timeupdated" "1699274263"
+		}
+		"experimental"
+		{
+			"buildid" "12929915"
+			"timeupdated" "1702398459"
+		}
+		"experimental-cheats"
+		{
+			"buildid" "10593110"
+			"pwdrequired" "1"
+			"timeupdated" "1677495096"
+		}
+		"internal5"
+		{
+			"buildid" "12964317"
+			"pwdrequired" "1"
+			"timeupdated" "1702574764"
+		}
+		"internal7"
+		{
+			"buildid" "13577949"
+			"pwdrequired" "1"
+			"timeupdated" "1709050431"
+		}
+		"patching"
+		{
+			"buildid" "13870174"
+			"pwdrequired" "1"
+			"timeupdated" "1711544490"
+		}
+		"qa-cheats"
+		{
+			"buildid" "11678712"
+			"pwdrequired" "1"
+			"timeupdated" "1689114585"
+		}
+		"staging"
+		{
+			"buildid" "12933214"
+			"pwdrequired" "1"
+			"timeupdated" "1702328351"
+		}
+		"internal"
+		{
+			"buildid" "14547165"
+			"pwdrequired" "1"
+			"timeupdated" "1717072400"
+		}
+		"internal2"
+		{
+			"buildid" "14392890"
+			"pwdrequired" "1"
+			"timeupdated" "1715881478"
+		}
+		"internal3"
+		{
+			"buildid" "14468014"
+			"pwdrequired" "1"
+			"timeupdated" "1716465225"
+		}
+		"internal4"
+		{
+			"buildid" "14602879"
+			"pwdrequired" "1"
+			"timeupdated" "1717529037"
+		}
+		"internal6"
+		{
+			"buildid" "14690207"
+			"pwdrequired" "1"
+			"timeupdated" "1718187819"
+		}
+		"internal8"
+		{
+			"buildid" "14676045"
+			"pwdrequired" "1"
+			"timeupdated" "1718101087"
+		}
+		"nightly"
+		{
+			"buildid" "14800486"
+			"pwdrequired" "1"
+			"timeupdated" "1719012923"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24073567"
+"_sha" "8ac3ce953380a44d5abff28a0041fb549e4ba3fe"
+"_size" "9888"
