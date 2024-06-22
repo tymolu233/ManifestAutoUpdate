@@ -1,0 +1,744 @@
+"appid" "774941"
+"common"
+{
+	"name" "Squad - Public Testing"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"clienticon" "8540ba04ef7cd6f408d604f5b3fe49d528bd7570"
+	"clienttga" "054b6d3ec1741e7957b5d46d77b1c07eac2191f2"
+	"icon" "6a9ee44c92c5ca7ddacf0d56bb7d5720961da0f8"
+	"logo" "264bb774a3821287a3b0d430679cf6b0122cf88b"
+	"logo_small" "264bb774a3821287a3b0d430679cf6b0122cf88b_thumb"
+	"name_localized"
+	{
+		"schinese" "Squad - 公开测试服"
+	}
+	"metacritic_name" "Squad - Public Testing"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1569020122"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Offworld Industries"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Offworld Industries"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_18" "1"
+		"category_49" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"community_hub_visible" "1"
+	"gameid" "774941"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "19"
+		"2" "492"
+	}
+}
+"extended"
+{
+	"gamedir" "squad"
+	"serverbrowsername" "Squad - Public Testing"
+	"developer" "Offworld Industries"
+	"publisher" "Offworld Industries"
+	"homepage" "http://joinsquad.com"
+}
+"config"
+{
+	"installdir" "Squad - Public Testing"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "squad_launcher.exe"
+			"arguments" "-saveddirsuffix=uat"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Squad.exe"
+			"arguments" "-noeac -saveddirsuffix=uat"
+			"description" "without EAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal-testing"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,ukrainian"
+	"hasdepotsindlc" "0"
+	"774942"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "575738622144812837"
+				"size" "86372357660"
+				"download" "33993184416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"uat_ares"
+			{
+				"gid" "D18E9A7AAE3EF019EDE70AF586CF1138"
+				"size" "C25E3B0F108B7CD640FE82AE4CBFFEBD"
+				"download" "9D36C2CE61DBC5B01DC140789804FE46"
+			}
+			"uat_content"
+			{
+				"gid" "CD8A24A8CE62B6FF9DA585FE905AA0D7"
+				"size" "7D29098E3055D6A4A961EF0D6FAF21C8"
+				"download" "3C1B0E6EE929B402F38B6782E662787F"
+			}
+			"uat_content_pt"
+			{
+				"gid" "DBE526F71E66F30F8808F6E5C1C16CD4"
+				"size" "F2DD9282D1CFC5751F16A7F11EDD9464"
+				"download" "2C83EB67BA02BF1125DEAFEC028DE217"
+			}
+			"uat_cpt"
+			{
+				"gid" "9F492F01A28654F1CE5F4339E94F6525"
+				"size" "E54B644AE96A37944080C8D065D5E674"
+				"download" "997A589BBE8716D69A0C284B5BB163D6"
+			}
+			"uat_crashtest"
+			{
+				"gid" "0D8693817E7EC4CCEB4201D6D100AD3A"
+				"size" "413234A43E252B47CA2C48EEBE1978FF"
+				"download" "EA0183FE58457DE51FAF86FF082EDC03"
+			}
+			"uat_experimental"
+			{
+				"gid" "3127D0A666B961B4E417505A8AAE294F"
+				"size" "B4A3F5947E0DDA7757566B32D42A4930"
+				"download" "0EDA976B0977DBC7AC7C8F5B383A1B96"
+			}
+			"uat_features"
+			{
+				"gid" "9BC8B46471F2B7354C66E44A5AF0A416"
+				"size" "D99D5245BD58995EC2413B748EC415E9"
+				"download" "9E9D759A329E204D870165300AAF3CB0"
+			}
+			"uat_featuretest1"
+			{
+				"gid" "3A0331E27BD5953CEA8791BFC5B57E96"
+				"size" "BDF1917D8EA8512FB350828C2C07CE5A"
+				"download" "58C87A6FAEC8E823B57D1EDF3923B2BB"
+			}
+			"uat_featuretest2"
+			{
+				"gid" "DCA731E4547DC2FA01CEF553520ED847"
+				"size" "0F988471B8EA3957C0CA8FADDDE9ED77"
+				"download" "0C5D9F368DC0CF8AE0502EC314EB8272"
+			}
+			"uat_featuretest3"
+			{
+				"gid" "80A0B01E67F31F9D0E795EC9C19A4CE3"
+				"size" "D7C985D746D448F5D42449463CC6A171"
+				"download" "4A01110A164FCAACE4375052B679DCEC"
+			}
+			"uat_featuretest4"
+			{
+				"gid" "2E61D967272155C1207DA782A2EF28AA"
+				"size" "A07B734FB521DB2A6AD522AA6E460E31"
+				"download" "0EC0C6F6ABC40A8BC426A56E2949E475"
+			}
+			"uat_featuretest5"
+			{
+				"gid" "741E6239BB305FFFDDB6D5F58D98FA72"
+				"size" "15B684767B7CA6E696D57F280C89417B"
+				"download" "23A2179AA5BFC70841A15E497BE2FF57"
+			}
+			"uat_featuretest6"
+			{
+				"gid" "1FC9AFD6FC7EB857E62E278701CB49C0"
+				"size" "A7E36ED1CA6D10385C76950409A4D1CE"
+				"download" "CAF8F3CF94B675AEF64B86A464BA7327"
+			}
+			"uat_featuretest7"
+			{
+				"gid" "52271DD3FADA6144B6981CB1D664FB05"
+				"size" "1072D6D7364D6E558C9BB23B1FC61FDF"
+				"download" "90DBE2C298745A7326CCD64BF606E4F3"
+			}
+			"uat_featuretest8"
+			{
+				"gid" "DEA976E985F1496B36E976A22F46B36F"
+				"size" "92393E5798EDA070364B020BFC2D953B"
+				"download" "3915791970DFC1DA92421B13F5920A58"
+			}
+			"uat_featuretest9"
+			{
+				"gid" "67FDDE7C8EB3683B04EBAD99782E7291"
+				"size" "EC3509AC4BF7C9A2BF833DBEF5C6FA18"
+				"download" "12DDC39935872672CC5D2BE236818CA7"
+			}
+			"uat_featuretest10"
+			{
+				"gid" "37934AA7E420D2E69EC9CB88FF11C746"
+				"size" "F69D62C506F3C819F2A2E74A583A6481"
+				"download" "5BD03645C0A9EA3C575C18CE61AD8829"
+			}
+			"uat_featuretest11"
+			{
+				"gid" "60CAE80B15A8AF9906458E2D2F141F52"
+				"size" "4D3BD88E52A32BE4D26821017335FA52"
+				"download" "D12C2F1CFDEB2806ED0D35507DCAB7D1"
+			}
+			"uat_functionality_test"
+			{
+				"gid" "5C94B9A6947CD0A42A27EDEB734177EF"
+				"size" "287E0333834C7AFF3B92E9FF3748847F"
+				"download" "5F501942F6630B14DCCA66B760E3E94D"
+			}
+			"uat_internalpt"
+			{
+				"gid" "D405DDF7FF6AABEFE431CCE627619625"
+				"size" "A0522CD31CFD9F4260849A0D7479AD98"
+				"download" "EBDDCAF80DEC9E96837CB121814898B3"
+			}
+			"uat_main"
+			{
+				"gid" "DE471BB8F2DEE0FE6A39F6BFACCEF3AF"
+				"size" "D0AF53C1F742607DC69AE8380CD84BCA"
+				"download" "151225C41F7E249F96E9EAFF22EA9033"
+			}
+			"uat_marketing"
+			{
+				"gid" "563097B18D4E35C08F7B5B7ECACD98F6"
+				"size" "F455CCA3A2DFF731403734D231697691"
+				"download" "E88D2D8AD86208B7A1039220D7EC75B8"
+			}
+			"uat_ppt"
+			{
+				"gid" "D0B110639A6E81D74024FCB03771BF91"
+				"size" "58BB01376C054AE5CA44868E9BCA1E76"
+				"download" "22E728D535830D327E1F264A9E5F3BF6"
+			}
+			"uat_release"
+			{
+				"gid" "877B12DBC6A79E25874FC2178C09D2E9"
+				"size" "B3151AC0CA62C016379616BF64D63700"
+				"download" "D645D63CAF69341645C8ED51F0420F85"
+			}
+		}
+	}
+	"774943"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2545188719619349744"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"uat_ares"
+			{
+				"gid" "E866164E8717C1BB3BE14C1CC4745ED8"
+				"size" "3B25C917967FFCE23271F5F4424B2272"
+				"download" "3B25C917967FFCE23271F5F4424B2272"
+			}
+			"uat_content"
+			{
+				"gid" "232BA75A4DE356DB32528582145A2C7A"
+				"size" "879B8EBE45E3796D5D4260602E5892B2"
+				"download" "879B8EBE45E3796D5D4260602E5892B2"
+			}
+			"uat_content_pt"
+			{
+				"gid" "745758CE97764A22C416D8E1C362083B"
+				"size" "F3E329E80D1DA3F59AC80141AD1CE895"
+				"download" "F3E329E80D1DA3F59AC80141AD1CE895"
+			}
+			"uat_cpt"
+			{
+				"gid" "7DB983698AD874BCE4BC57B77BF81EAC"
+				"size" "F16EB1424FC1CDECDEA7C01C6558F81B"
+				"download" "F16EB1424FC1CDECDEA7C01C6558F81B"
+			}
+			"uat_crashtest"
+			{
+				"gid" "0B281FCF4D4B0BBC40A234FA86D9BAA6"
+				"size" "B5741334F895FCF35D721F49CFC4FA11"
+				"download" "B5741334F895FCF35D721F49CFC4FA11"
+			}
+			"uat_experimental"
+			{
+				"gid" "D3C2B5C2A08B2E551340C304574FEB9A"
+				"size" "1B4537538B57784FBD35F2C09FE9D4B6"
+				"download" "1B4537538B57784FBD35F2C09FE9D4B6"
+			}
+			"uat_features"
+			{
+				"gid" "1AF8036E92AD21D96F20E15FE10C08BB"
+				"size" "C83A2F733BF434BC827EAA67D171135E"
+				"download" "437F21FA543A3A4EFF4307A59FD3A9E0"
+			}
+			"uat_featuretest1"
+			{
+				"gid" "2505ABD9BA1B2AB464894598574FB4D0"
+				"size" "3DB0738E331130CEB233FFA7B4FBA2F3"
+				"download" "3DB0738E331130CEB233FFA7B4FBA2F3"
+			}
+			"uat_featuretest2"
+			{
+				"gid" "5895692CD88BE9458E79125956A101FA"
+				"size" "D1F6539A6474434CD43734B0C509C048"
+				"download" "D1F6539A6474434CD43734B0C509C048"
+			}
+			"uat_featuretest3"
+			{
+				"gid" "4A4B23B213A55D52DE1E4BCB0D120264"
+				"size" "3350D4E168A005166A500A1F1AA70E08"
+				"download" "3350D4E168A005166A500A1F1AA70E08"
+			}
+			"uat_featuretest4"
+			{
+				"gid" "226BDD79126D9644AB45D2AD351255F1"
+				"size" "67F127770999A99AADA66F7FF452ED14"
+				"download" "67F127770999A99AADA66F7FF452ED14"
+			}
+			"uat_featuretest5"
+			{
+				"gid" "65B30D059F15FC439472C46E7A2EB18A"
+				"size" "DD8F2435F78E998D7B96B34407C9B6BE"
+				"download" "DD8F2435F78E998D7B96B34407C9B6BE"
+			}
+			"uat_featuretest6"
+			{
+				"gid" "019BC24C397FB69F946C5C5A6960E573"
+				"size" "B22CBA2E61FCE6ED76BA918C1D0CF517"
+				"download" "B22CBA2E61FCE6ED76BA918C1D0CF517"
+			}
+			"uat_featuretest7"
+			{
+				"gid" "ED5B4BAC8C375A0DFEC0B16ACE8351CF"
+				"size" "FDF452801D69F25DA80862989A85A50D"
+				"download" "FDF452801D69F25DA80862989A85A50D"
+			}
+			"uat_featuretest8"
+			{
+				"gid" "0D0760EB4CA8E29F4D3E65C8AD6DA9BB"
+				"size" "FEEFD2E5FFE93AA4E5EBAD2D18F37737"
+				"download" "FEEFD2E5FFE93AA4E5EBAD2D18F37737"
+			}
+			"uat_featuretest9"
+			{
+				"gid" "2FF01A2F1C9D2866421EB8DF25781C45"
+				"size" "5C8346B278712C8128F68836664FD5E0"
+				"download" "5C8346B278712C8128F68836664FD5E0"
+			}
+			"uat_featuretest10"
+			{
+				"gid" "3A80DDBE33B82EB52BE4B4A9656AD6EC"
+				"size" "E63E7E765BE5FB4DC14F52E43F3E818F"
+				"download" "E63E7E765BE5FB4DC14F52E43F3E818F"
+			}
+			"uat_featuretest11"
+			{
+				"gid" "A667D90199EC31635EFCEBC2D92E8F12"
+				"size" "498CD69ABA3BDA1A2CF6E6632FA22F72"
+				"download" "498CD69ABA3BDA1A2CF6E6632FA22F72"
+			}
+			"uat_functionality_test"
+			{
+				"gid" "A2BC581A3E30DBF076DC0CA30E85CA30"
+				"size" "F9ABD0A65A2190AD88756955292B540E"
+				"download" "F9ABD0A65A2190AD88756955292B540E"
+			}
+			"uat_internalpt"
+			{
+				"gid" "545C1C4C1FCCA0CC3917A5C38B49E6D3"
+				"size" "0307E9AEADA5F00A6CB1A2EA045D63B3"
+				"download" "0307E9AEADA5F00A6CB1A2EA045D63B3"
+			}
+			"uat_main"
+			{
+				"gid" "7BE0CBDA30AA3EEC5EFECEC1C5EF26A6"
+				"size" "FAB2C2C33643759AC304D7FF8DFBA87D"
+				"download" "FAB2C2C33643759AC304D7FF8DFBA87D"
+			}
+			"uat_marketing"
+			{
+				"gid" "3607751A9E0CEEF52880CF6396E03F09"
+				"size" "D10544D3770FDFD2A6B25DEB7413E779"
+				"download" "D10544D3770FDFD2A6B25DEB7413E779"
+			}
+			"uat_ppt"
+			{
+				"gid" "8FC0FFB989865722AAD551623C7BF29F"
+				"size" "1AEE36DC033AF6A062A20599622C1D4F"
+				"download" "1AEE36DC033AF6A062A20599622C1D4F"
+			}
+			"uat_release"
+			{
+				"gid" "4FBBCB669E0A4E92A615DA4AA1B5616E"
+				"size" "229FE26A61B194379CBE5219A90FFDD5"
+				"download" "229FE26A61B194379CBE5219A90FFDD5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13662852"
+			"timeupdated" "1709836031"
+		}
+		"uat_ares"
+		{
+			"buildid" "14260091"
+			"pwdrequired" "1"
+			"timeupdated" "1715027972"
+		}
+		"uat_content"
+		{
+			"buildid" "14803002"
+			"pwdrequired" "1"
+			"timeupdated" "1719044509"
+		}
+		"uat_content_pt"
+		{
+			"buildid" "14783284"
+			"pwdrequired" "1"
+			"timeupdated" "1718896946"
+		}
+		"uat_cpt"
+		{
+			"buildid" "14779178"
+			"pwdrequired" "1"
+			"timeupdated" "1718921416"
+		}
+		"uat_crashtest"
+		{
+			"buildid" "14485960"
+			"pwdrequired" "1"
+			"timeupdated" "1716571689"
+		}
+		"uat_experimental"
+		{
+			"buildid" "13455967"
+			"pwdrequired" "1"
+			"timeupdated" "1707952522"
+		}
+		"uat_features"
+		{
+			"buildid" "7136719"
+			"pwdrequired" "1"
+			"timeupdated" "1628185175"
+		}
+		"uat_featuretest1"
+		{
+			"buildid" "13580098"
+			"pwdrequired" "1"
+			"timeupdated" "1709064499"
+		}
+		"uat_featuretest2"
+		{
+			"buildid" "14619674"
+			"pwdrequired" "1"
+			"timeupdated" "1717634432"
+		}
+		"uat_featuretest3"
+		{
+			"buildid" "14278960"
+			"pwdrequired" "1"
+			"timeupdated" "1715005414"
+		}
+		"uat_featuretest4"
+		{
+			"buildid" "14787835"
+			"pwdrequired" "1"
+			"timeupdated" "1718996143"
+		}
+		"uat_featuretest5"
+		{
+			"buildid" "14788820"
+			"pwdrequired" "1"
+			"timeupdated" "1718934875"
+		}
+		"uat_featuretest6"
+		{
+			"buildid" "14684068"
+			"pwdrequired" "1"
+			"timeupdated" "1718146922"
+		}
+		"uat_featuretest7"
+		{
+			"buildid" "14593050"
+			"pwdrequired" "1"
+			"timeupdated" "1717471644"
+		}
+		"uat_featuretest8"
+		{
+			"buildid" "14671670"
+			"pwdrequired" "1"
+			"timeupdated" "1718123579"
+		}
+		"uat_featuretest9"
+		{
+			"buildid" "14763304"
+			"pwdrequired" "1"
+			"timeupdated" "1718769893"
+		}
+		"uat_featuretest10"
+		{
+			"buildid" "14804441"
+			"pwdrequired" "1"
+			"timeupdated" "1719063260"
+		}
+		"uat_featuretest11"
+		{
+			"buildid" "14644391"
+			"pwdrequired" "1"
+			"timeupdated" "1717791541"
+		}
+		"uat_functionality_test"
+		{
+			"buildid" "14675470"
+			"pwdrequired" "1"
+			"timeupdated" "1718097897"
+		}
+		"uat_internalpt"
+		{
+			"buildid" "10017370"
+			"pwdrequired" "1"
+			"timeupdated" "1669391140"
+		}
+		"uat_main"
+		{
+			"buildid" "12884861"
+			"pwdrequired" "1"
+			"timeupdated" "1701971238"
+		}
+		"uat_marketing"
+		{
+			"buildid" "14588023"
+			"pwdrequired" "1"
+			"timeupdated" "1717435204"
+		}
+		"uat_ppt"
+		{
+			"buildid" "14631595"
+			"pwdrequired" "1"
+			"timeupdated" "1717710673"
+		}
+		"uat_release"
+		{
+			"buildid" "14803586"
+			"pwdrequired" "1"
+			"timeupdated" "1719051110"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24077989"
+"_sha" "9afd29e75e20ce10ef161b1a81accfb2ffdb2022"
+"_size" "16029"
