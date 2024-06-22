@@ -1,0 +1,660 @@
+"appid" "307110"
+"common"
+{
+	"name" "We Need To Go Deeper"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "6186e39deb1ab38eed9ccd55d96ef6c36cca9687"
+	"logo_small" "6186e39deb1ab38eed9ccd55d96ef6c36cca9687_thumb"
+	"clienticon" "4bc15b1441d3bc8ef45aaa643ccf8f62666f4bcc"
+	"clienttga" "ae916742dd84453cc94e71be43c2391bb5a539fe"
+	"icon" "980d4587a1b72672ba1cd056f5fdb7351fa79be7"
+	"linuxclienticon" "5a9a7bdaa37b1e45debf69860f8d6d5e0aac24e1"
+	"clienticns" "808887fbcf92862df38626b91de9e2ae320ecbd5"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"languages"
+	{
+		"english" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644883200"
+		"tested_build_id" "8004042"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-1"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "We Need To Go Deeper"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "92.82380396732788"
+			"height_pct" "82.2963666587509"
+		}
+	}
+	"store_asset_mtime" "1670545413"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Deli Interactive LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Deli Interactive LLC"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_27" "1"
+		"category_9" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_49" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1564675364"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "307110"
+	"store_tags"
+	{
+		"0" "1685"
+		"1" "3871"
+		"2" "7432"
+		"3" "3959"
+		"4" "6815"
+		"5" "3859"
+		"6" "9157"
+		"7" "19780"
+		"8" "19"
+		"9" "1777"
+		"10" "599"
+		"11" "5711"
+		"12" "6730"
+		"13" "3834"
+		"14" "1716"
+		"15" "21"
+		"16" "3843"
+		"17" "4236"
+		"18" "5379"
+		"19" "4562"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Deli Interactive LLC"
+	"publisher" "Deli Interactive LLC"
+	"homepage" "http://weneedtogodeeper.com/"
+	"listofdlc" "1128020,1534780,2241680"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "WeNeedtoGoDeeper"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WeNeedToGoDeeper.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "WeNeedToGoDeeper.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "WeNeedToGoDeeper"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"307111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7971069730908405506"
+				"size" "1570512378"
+				"download" "407116720"
+			}
+			"beta"
+			{
+				"gid" "3991482578854882192"
+				"size" "1219428223"
+				"download" "377852256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch1"
+			{
+				"gid" "C220A1780FEB0D30A3FFBBCAE6C3DECB"
+				"size" "A76F2953A2F341496C73A28D55D18422"
+				"download" "279DA6660A08C7E3CD260C9EB563DB17"
+			}
+			"devbranch2"
+			{
+				"gid" "0437598F32868BC073F48AC30B931311"
+				"size" "F58CD2287F04E92DE23BDD67FFBF434F"
+				"download" "B0721030A8DEBDF83F0A7D93C0B49E5E"
+			}
+		}
+	}
+	"307114"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4875580352727289346"
+				"size" "1577877098"
+				"download" "409484736"
+			}
+			"beta"
+			{
+				"gid" "7626763071531350334"
+				"size" "1227938575"
+				"download" "380535616"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch1"
+			{
+				"gid" "0B71360D18748B5243CEE72BD4D6B5A0"
+				"size" "8D4CCE9380E4AA36BF16DFAB1A3AB97F"
+				"download" "148BDB731E12A01D709819D4DD19818A"
+			}
+			"devbranch2"
+			{
+				"gid" "4A08FD5F8491B0DE9588BED11AF15938"
+				"size" "69057B32BF38F46206867F0A5B095F9D"
+				"download" "029E698675B6401CE5829B23BEE7A6E0"
+			}
+		}
+	}
+	"307112"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2063221984369622415"
+				"size" "1585574870"
+				"download" "411241184"
+			}
+			"beta"
+			{
+				"gid" "1185869983030399720"
+				"size" "1584847882"
+				"download" "411073632"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch1"
+			{
+				"gid" "3CB09FEB49BA45CC2E022264F1C463E0"
+				"size" "478C3820AB611F9F583146D51708FC03"
+				"download" "3FB0A4FB11677F7C804042B8081176D8"
+			}
+			"devbranch2"
+			{
+				"gid" "1F719BE4983FAAE07D1429886853FF7D"
+				"size" "CB525710BBEACAE27F0B59924FD196AE"
+				"download" "9E1EAFDD6D2D760B1A74E92B5B294306"
+			}
+		}
+	}
+	"307115"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6432409571651417519"
+				"size" "1589507174"
+				"download" "411618096"
+			}
+			"beta"
+			{
+				"gid" "5142951198724394142"
+				"size" "1588780186"
+				"download" "411450656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch1"
+			{
+				"gid" "48D09C30D01EEE0ED17A20A8A5C119A9"
+				"size" "E155900E815F1D2B75F92D93C059F1B9"
+				"download" "BC1927783EE1E7E745ECD6480EE1B262"
+			}
+			"devbranch2"
+			{
+				"gid" "084944C9266B7CC3B17C612E8BB22A71"
+				"size" "5B2C55186532DBFF0911A3BC7C9EF8F9"
+				"download" "5B83F88AA62F6C5EB71B3E99147F1364"
+			}
+		}
+	}
+	"307113"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7225382583402153622"
+				"size" "1577435425"
+				"download" "410056608"
+			}
+			"beta"
+			{
+				"gid" "5088253751930478412"
+				"size" "1576708437"
+				"download" "409892016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch1"
+			{
+				"gid" "A9BE6741270F7D5C9803C5452F014AAB"
+				"size" "A9F3DD4E9014C503D55D282CE35FF10F"
+				"download" "CCA0D67E1DA991F37AEAE8CB83B4771F"
+			}
+			"devbranch2"
+			{
+				"gid" "8FBDDF90F91656387A948AC50A62CB52"
+				"size" "2FAB16041A0C8C0FC7D176177E38D5ED"
+				"download" "33600991B3FD14DAC00D00AD3BE6088D"
+			}
+		}
+	}
+	"307116"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5660055320112701650"
+				"size" "1620283940"
+				"download" "422194944"
+			}
+			"beta"
+			{
+				"gid" "1245461234912684163"
+				"size" "1619556952"
+				"download" "422029696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch1"
+			{
+				"gid" "BF5559EDAF8F7821D6F0246E81961566"
+				"size" "44AA21E09D7782D6E673CFFAB0D438B2"
+				"download" "11D442ED38D9A290FB86A9294CDD04AD"
+			}
+			"devbranch2"
+			{
+				"gid" "75CA80794180AF00E66BA32C0B4D69A4"
+				"size" "433001B0205046EE57C4ACCD3970AC84"
+				"download" "493B0FA280BC87F8DD90A9A19F56187B"
+			}
+		}
+	}
+	"1128020"
+	{
+		"dlcappid" "1128020"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5358610731384728477"
+				"size" "302819314"
+				"download" "300371008"
+			}
+			"beta"
+			{
+				"gid" "5358610731384728477"
+				"size" "302819314"
+				"download" "300371008"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch1"
+			{
+				"gid" "EB95523A68083CC141BD7FD35BE5B4F5"
+				"size" "339791D983A250067EBA2A25F26FEABC"
+				"download" "34936FEAE9DE5CFA4DD371475743AE86"
+			}
+			"devbranch2"
+			{
+				"gid" "D9FFF6AE4B47F085B8D7BDDD907966B1"
+				"size" "549576CB4894D50C6E33D8CB907AB9E7"
+				"download" "256E1D555A67B4425C2C01C23BAEBFE1"
+			}
+		}
+	}
+	"2241680"
+	{
+		"dlcappid" "2241680"
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4543144246981051578"
+				"size" "241751621"
+				"download" "216875872"
+			}
+			"beta"
+			{
+				"gid" "4543144246981051578"
+				"size" "241751621"
+				"download" "216875872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devbranch1"
+			{
+				"gid" "3D9C9C4F6BEE46D087EBDB7F72E05567"
+				"size" "3B195E848CFB4C7DEEE4F1D8D3EB5E1E"
+				"download" "67A40DC90DEC757934476B6DD01DE07A"
+			}
+			"devbranch2"
+			{
+				"gid" "0DC5D4E8456DE915402C6EF1FCB15D72"
+				"size" "A8212072539D7FBF1E0942E210289752"
+				"download" "FB36BFB1624EEB124B0A232BA5561250"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "10480421"
+			"timeupdated" "1705277124"
+		}
+		"beta"
+		{
+			"buildid" "13616435"
+			"timeupdated" "1709410725"
+		}
+		"devbranch1"
+		{
+			"buildid" "13616435"
+			"pwdrequired" "1"
+			"timeupdated" "1709318593"
+		}
+		"devbranch2"
+		{
+			"buildid" "11203869"
+			"pwdrequired" "1"
+			"timeupdated" "1683765754"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Deli Interactive/We Need to Go Deeper"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Deli Interactive/We Need to Go Deeper"
+					"replace" "Deli Interactive/We Need to Go Deeper"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Deli Interactive/We Need to Go Deeper"
+					"replace" "unity3d/Deli Interactive/We Need to Go Deeper"
+				}
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Deli Interactive/We Need to Go Deeper"
+					"replace" "Deli Interactive/We Need to Go Deeper"
+				}
+			}
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Deli Interactive/We Need to Go Deeper"
+				}
+			}
+		}
+		"4"
+		{
+			"root" "MacAppSupport"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "unity3d/Deli Interactive/We Need to Go Deeper"
+				}
+			}
+		}
+		"5"
+		{
+			"root" "LinuxXdgConfigHome"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Deli Interactive/We Need to Go Deeper"
+				}
+			}
+		}
+		"6"
+		{
+			"root" "LinuxXdgConfigHome"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ""
+					"replace" "Deli Interactive/We Need to Go Deeper"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "ba467a2a8f9c705e24b77dfadd3446e67a219f9f"
+"_size" "12405"
