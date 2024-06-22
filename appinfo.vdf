@@ -1,0 +1,559 @@
+"appid" "376210"
+"common"
+{
+	"name" "The Isle"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"logo" "e6a2dea5c0cc5f5093dd6c192a759d1ae61d212a"
+	"logo_small" "e6a2dea5c0cc5f5093dd6c192a759d1ae61d212a_thumb"
+	"icon" "7ae88c1923dbcdee670769fca9c89cc0e540ab46"
+	"clienticon" "dcc409f581316cdb0deb73f8bcc5202d32edaee8"
+	"clienttga" "a25c7e5766e615588f7eb45df5d97d67438d6ca4"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "376210_eula_0"
+			"name" "The Isle EULA"
+			"url" "http://store.steampowered.com//eula/376210_eula_0"
+		}
+	}
+	"clienticns" "53533f9475efe72df68bb319c5efc5907ff491a3"
+	"linuxclienticon" "3222a9de0598172781a707686044eb194d98e855"
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1676419200"
+		"tested_build_id" "8163187"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "The Isle"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41"
+			"height_pct" "41"
+		}
+	}
+	"store_asset_mtime" "1604082178"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Afterthought LLC"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Afterthought LLC"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "29"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_18" "1"
+		"category_8" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1449026820"
+	"community_hub_visible" "1"
+	"gameid" "376210"
+	"store_tags"
+	{
+		"0" "5160"
+		"1" "1662"
+		"2" "1695"
+		"3" "3859"
+		"4" "599"
+		"5" "9564"
+		"6" "4175"
+		"7" "128"
+		"8" "21"
+		"9" "493"
+		"10" "19"
+		"11" "1697"
+		"12" "1685"
+		"13" "1667"
+		"14" "3810"
+		"15" "5900"
+		"16" "9"
+		"17" "5711"
+		"18" "492"
+		"19" "122"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"gamedir" "theisle"
+	"serverbrowsername" "The Isle"
+	"developer" "Afterthought LLC"
+	"publisher" "Afterthought LLC"
+	"homepage" "https://survivetheisle.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "The Isle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheIsle.exe"
+			"description" "Play The Isle"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "TheIsle.sh"
+			"description" "Play The Isle"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "TheIsle.app"
+			"description" "Play The Isle"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228987"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229005"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229020"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,arabic,brazilian,bulgarian,greek,ukrainian"
+	"workshopdepot" "376210"
+	"376211"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"language" ""
+		}
+	}
+	"376212"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "923669276770277096"
+				"size" "22223594178"
+				"download" "10120942624"
+			}
+			"spiro0.11.59.04"
+			{
+				"gid" "7844762550082018681"
+				"size" "19808224800"
+				"download" "14333571856"
+			}
+			"evrima"
+			{
+				"gid" "8197055756175140967"
+				"size" "5174407980"
+				"download" "4860870192"
+			}
+			"hordetesting"
+			{
+				"gid" "732211651069352536"
+				"size" "5408198824"
+				"download" "5096618896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"stress-testing"
+			{
+				"gid" "FE0F1E4897DA78B1D84A63ADEE75DECC"
+				"size" "AD32753C36D33C4AE5F1E766913768BF"
+				"download" "1356B0C1C9C910E6A699B7946855AC2B"
+			}
+			"devinternal"
+			{
+				"gid" "627152451832C4CFDD4E7EA686D86132"
+				"size" "DF8ACE58C5D8F0FABB7A7A9129F65A8A"
+				"download" "699E99C7E9625D7A9BA1627238088559"
+			}
+			"internal"
+			{
+				"gid" "0014D8AB5F2D9BF918B59B3C726F1564"
+				"size" "CFF98E1C2F70B8A0F23CAF0C036AC6E0"
+				"download" "5B3DE0F5D77BB6D2B9F3B8E49333055B"
+			}
+			"legacy-qa"
+			{
+				"gid" "DDECE2DAADF51247CD9E08E34FC1E441"
+				"size" "F2ADDD8DF82369C8EE4E0CF5EFF266B2"
+				"download" "7BBD817DF803D475F6EF42EB1AA2022B"
+			}
+			"qa-debug"
+			{
+				"gid" "E7947B100B2855DDA48B297DBF5865DF"
+				"size" "CC2B51D171BC4198E6B2C439E4AC42EA"
+				"download" "F4569EA4548B18B9DFB6C7BA03367232"
+			}
+			"qa-debug-h"
+			{
+				"gid" "4478E360A4EBACF113EEE30CA511768B"
+				"size" "146E7F1F269C1713F783AE4923C2D89F"
+				"download" "A7F9F31023A887026526EFC5B1EEF439"
+			}
+			"qa-debug-hf"
+			{
+				"gid" "535C1868E5D34316D51F48DD686C73F5"
+				"size" "ECFDA775A21B19573597B2E0CF26DDD5"
+				"download" "9C48C8B47F1F056371E7BE76998D19E7"
+			}
+			"qa-shipping"
+			{
+				"gid" "E232B8BF4CE951860F7AC7AB7198E0A1"
+				"size" "95AD19D53293F5340D6B1ABAE34D1DD2"
+				"download" "DCAE3188D432FE4953D8A230E16529D8"
+			}
+			"qa-shipping-h"
+			{
+				"gid" "460BEB269B1052336B3307845EF4D02B"
+				"size" "9848C34109E466B7A4A84A311CDD3440"
+				"download" "690602C355FA13B39ECD317B249FD276"
+			}
+			"qa-shipping-hf"
+			{
+				"gid" "DDB179E391C3F3EA0ADDAA22864F55CB"
+				"size" "28FF934D7D8F44B8C5D9119E8C8F05E3"
+				"download" "2C9213514FCB2D30AA7E70D2885E612E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "8163187"
+			"timeupdated" "1644302032"
+		}
+		"spiro0.11.59.04"
+		{
+			"buildid" "12380438"
+			"description" "Build 0.11.59.04 - Isla Spiro"
+			"timeupdated" "1699982621"
+		}
+		"stress-testing"
+		{
+			"buildid" "13499853"
+			"pwdrequired" "1"
+			"timeupdated" "1708382523"
+		}
+		"devinternal"
+		{
+			"buildid" "14424389"
+			"pwdrequired" "1"
+			"timeupdated" "1716240333"
+		}
+		"evrima"
+		{
+			"buildid" "14424772"
+			"description" "EVRIMA Public Branch"
+			"timeupdated" "1716187406"
+		}
+		"hordetesting"
+		{
+			"buildid" "14800088"
+			"description" "Public Testing Branch"
+			"timeupdated" "1719009776"
+		}
+		"internal"
+		{
+			"buildid" "14424389"
+			"pwdrequired" "1"
+			"timeupdated" "1716240394"
+		}
+		"legacy-qa"
+		{
+			"buildid" "8163187"
+			"pwdrequired" "1"
+			"timeupdated" "1644301983"
+		}
+		"qa-debug"
+		{
+			"buildid" "14621471"
+			"pwdrequired" "1"
+			"timeupdated" "1717649777"
+		}
+		"qa-debug-h"
+		{
+			"buildid" "14800009"
+			"pwdrequired" "1"
+			"timeupdated" "1719009258"
+		}
+		"qa-debug-hf"
+		{
+			"buildid" "14426426"
+			"pwdrequired" "1"
+			"timeupdated" "1716198572"
+		}
+		"qa-shipping"
+		{
+			"buildid" "14673863"
+			"pwdrequired" "1"
+			"timeupdated" "1718088525"
+		}
+		"qa-shipping-h"
+		{
+			"buildid" "14803806"
+			"pwdrequired" "1"
+			"timeupdated" "1719054501"
+		}
+		"qa-shipping-hf"
+		{
+			"buildid" "14424713"
+			"pwdrequired" "1"
+			"timeupdated" "1716186639"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "3960000"
+	"maxnumfiles" "25"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "24077231"
+"_sha" "5f79f29f76900fcb5c27648c52cbbe0f8444a911"
+"_size" "10380"
