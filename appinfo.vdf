@@ -1,0 +1,457 @@
+"appid" "838350"
+"common"
+{
+	"name" "太吾绘卷 The Scroll Of Taiwu"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "1172ac149d3c0df8dfac70947f313d52786b3746"
+	"clienticon" "28d86b212df4d1edabd2fb4ef7fcf25527bde12b"
+	"icon" "da986cd91bbd3b3963b2d7e21f4ec7a67771b1f8"
+	"logo" "84c9153ddf3410ccff58f36b70f22cf0a9833801"
+	"logo_small" "84c9153ddf3410ccff58f36b70f22cf0a9833801_thumb"
+	"steamchinaapproved" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "4945721"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "太吾绘卷"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "73.1697327901565"
+			"height_pct" "36.32153882688197"
+		}
+	}
+	"store_asset_mtime" "1663773017"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ConchShip Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ConchShip Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_42" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1537513200"
+	"steam_release_date" "1537459260"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "838350"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6915"
+		"2" "3810"
+		"3" "1695"
+		"4" "9"
+		"5" "492"
+		"6" "493"
+		"7" "4182"
+		"8" "21"
+		"9" "599"
+		"10" "597"
+		"11" "3959"
+		"12" "9551"
+		"13" "16094"
+		"14" "1643"
+		"15" "1716"
+		"16" "3871"
+		"17" "17305"
+		"18" "4085"
+		"19" "4474"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "ConchShip Games"
+	"publisher" "ConchShip Games"
+	"listofdlc" "946970,2172690,2241120,2764950,2764960"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Scroll Of Taiwu"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TaiwuLauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "启动器"
+			}
+			"description" "启动器"
+		}
+		"2"
+		{
+			"executable" "The Scroll Of Taiwu Alpha V1.0.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "taiwu"
+			}
+			"description_loc"
+			{
+				"english" "EA版入口"
+			}
+			"description" "EA版入口"
+		}
+		"3"
+		{
+			"executable" "The Scroll of Taiwu.exe"
+			"arguments" "--test-branch --enable-gm"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "alpha"
+			}
+			"description_loc"
+			{
+				"english" "With GM"
+			}
+			"description" "With GM"
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2036507026"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "schinese"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"838351"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6822939051390136509"
+				"size" "3579631975"
+				"download" "2844704128"
+			}
+			"frame-test"
+			{
+				"gid" "6687659281010261726"
+				"size" "3920897875"
+				"download" "3141460880"
+			}
+			"taiwu"
+			{
+				"gid" "1649667934146144224"
+				"size" "1019675928"
+				"download" "267130736"
+			}
+			"event-test"
+			{
+				"gid" "6470934786091352529"
+				"size" "3579632923"
+				"download" "2844706928"
+			}
+			"test"
+			{
+				"gid" "5213446646684698"
+				"size" "3579632447"
+				"download" "2844704128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "2CF0C87F326C40CDBB899FF4C8439973"
+				"size" "3F8D0609971E9DFE679A5CEAEC82EAB4"
+				"download" "69D13E990ACD0E99D2DCEE7278897F91"
+			}
+			"alpha1"
+			{
+				"gid" "B2D969768C3F31B234FEE709F00AA676"
+				"size" "5EF64E683BE422D08CEB6AD50F1FF5F4"
+				"download" "2DF126446A7BF4A3BCCD855627ECCBFC"
+			}
+			"alpha2"
+			{
+				"gid" "9937722DA1667926500283E73E329908"
+				"size" "DD698F73CD6C00FBB1A830ED2E86CFC6"
+				"download" "9C13B9C58DA99AC447C941B047682666"
+			}
+			"longterm-test"
+			{
+				"gid" "39CF3F45F6F3D5A55C136F970172FCB5"
+				"size" "3F6F1A72335D6F48424A4BD10DD25C64"
+				"download" "CCE7A0180D49D93C86247E2FFA642739"
+			}
+		}
+	}
+	"946970"
+	{
+		"dlcappid" "946970"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2089095199798162434"
+				"size" "1208029130"
+				"download" "1087279040"
+			}
+			"frame-test"
+			{
+				"gid" "2089095199798162434"
+				"size" "1208029130"
+				"download" "1087279040"
+			}
+			"taiwu"
+			{
+				"gid" "2089095199798162434"
+				"size" "1208029130"
+				"download" "1087279040"
+			}
+			"event-test"
+			{
+				"gid" "2089095199798162434"
+				"size" "1208029130"
+				"download" "1087279040"
+			}
+			"test"
+			{
+				"gid" "2089095199798162434"
+				"size" "1208029130"
+				"download" "1087279040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "3030723567BEE0437223FB5507AF7B0B"
+				"size" "5A6CE509F1782190A5A460C0C8C22322"
+				"download" "6642FCC23EAD0CE7285F7E2538781CFF"
+			}
+			"alpha1"
+			{
+				"gid" "687D38430C392103D5712F78705D7AF6"
+				"size" "08F307D5500765B4651A0F3054A42D12"
+				"download" "70EF2BA2FE63824488DDD50338346891"
+			}
+			"alpha2"
+			{
+				"gid" "8AF2C47BE34F8701CBE9E95E433E5656"
+				"size" "7A7BF28F78E792179BF8551B34941B5A"
+				"download" "723BD4165F419B701EEBFB64CFBCBF10"
+			}
+			"longterm-test"
+			{
+				"gid" "A6A7873CF3BCEF685D4E5D50321A259E"
+				"size" "2750A929343191CA1A24C7B21E0C17DA"
+				"download" "D717756774DD03D6F2EF2C643084CEF8"
+			}
+		}
+	}
+	"2172691"
+	{
+		"dlcappid" "2172690"
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+	}
+	"workshopdepot" "838350"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14425688"
+			"timeupdated" "1716196834"
+		}
+		"frame-test"
+		{
+			"buildid" "13865514"
+			"description" "框架测试分支"
+			"timeupdated" "1711605870"
+		}
+		"taiwu"
+		{
+			"buildid" "4945721"
+			"description" "《太吾绘卷》纪念版"
+			"timeupdated" "1663765671"
+		}
+		"alpha"
+		{
+			"buildid" "14741727"
+			"pwdrequired" "1"
+			"timeupdated" "1718625521"
+		}
+		"alpha1"
+		{
+			"buildid" "14479707"
+			"pwdrequired" "1"
+			"timeupdated" "1716539866"
+		}
+		"alpha2"
+		{
+			"buildid" "14479707"
+			"pwdrequired" "1"
+			"timeupdated" "1716539883"
+		}
+		"event-test"
+		{
+			"buildid" "14450587"
+			"description" "事件编辑器分支"
+			"timeupdated" "1716366760"
+		}
+		"longterm-test"
+		{
+			"buildid" "14741727"
+			"pwdrequired" "1"
+			"timeupdated" "1718628650"
+		}
+		"test"
+		{
+			"buildid" "14425087"
+			"description" "测试分支"
+			"timeupdated" "1716196812"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "24001155"
+"_sha" "d17897a893fb29d9de50fde57cde7ff3465967ac"
+"_size" "8970"
