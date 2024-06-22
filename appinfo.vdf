@@ -1,0 +1,335 @@
+"appid" "1943950"
+"common"
+{
+	"name" "Escape the Backrooms"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "2bd4431dd3b71ea7fd11cbcef9594f0d09e4079d"
+	"clienticns" "14c09835cf4e66ae9cff89bccfcb289f82fc7674"
+	"clienticon" "4f900d57e7b67d92a1c770a2b3c2d2488d65c094"
+	"clienttga" "4356d79b953a384c64cca26e957ad7fc13953625"
+	"linuxclienticon" "4c7b9b91764cfe8590e40c033b8dcfa8ab6fe03d"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1943950_eula_0"
+			"name" "Escape the Backrooms EULA"
+			"url" "https://store.steampowered.com//eula/1943950_eula_0"
+			"version" "4"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+	}
+	"openvr_action_manifest_path" "EscapeTheBackrooms/Config/SteamVRBindings/steamvr_manifest.json"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1664841600"
+		"tested_build_id" "9309810"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "28.25581395348837"
+			"height_pct" "51.89978627404416"
+		}
+	}
+	"store_asset_mtime" "1708023242"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fancy Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Fancy Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1660237200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1943950"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3859"
+		"2" "3843"
+		"3" "1721"
+		"4" "1685"
+		"5" "3978"
+		"6" "3839"
+		"7" "3834"
+		"8" "21"
+		"9" "769306"
+		"10" "19"
+		"11" "21978"
+		"12" "4191"
+		"13" "4182"
+		"14" "493"
+		"15" "492"
+		"16" "4106"
+		"17" "597"
+		"18" "1720"
+		"19" "1687"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"developer" "Fancy Games"
+	"publisher" "Fancy Games"
+}
+"config"
+{
+	"installdir" "EscapeTheBackrooms"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Backrooms.exe"
+			"arguments" "-nohmd"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,koreana,spanish,schinese,russian,japanese,turkish"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1943951"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4105378663961580580"
+				"size" "23828453984"
+				"download" "22954569536"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "10CF8A114527E5DDEA3C000BFBDF475D"
+				"size" "A2AC281BD20691533F900EB7E4C6A598"
+				"download" "7FB112BD72F7678640BB413D4D784BEB"
+			}
+			"staging"
+			{
+				"gid" "9D66FF404A5B02AD1A2FC8E2D8B8C348"
+				"size" "78DDF378A27D016BE9B49988E7A3C1C0"
+				"download" "5757F95C9718910124955E95D52AD11D"
+			}
+			"fullrelease"
+			{
+				"gid" "4518287605F526F7D15E2CC0AE31AB0E"
+				"size" "52C770A7D6FD493E5FE3F4E9C612C8C9"
+				"download" "72CEC8F5D0F057C789A6FAF08D6554C9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13294419"
+			"timeupdated" "1706442658"
+		}
+		"development"
+		{
+			"buildid" "13294419"
+			"pwdrequired" "1"
+			"timeupdated" "1706442622"
+		}
+		"staging"
+		{
+			"buildid" "13294419"
+			"pwdrequired" "1"
+			"timeupdated" "1706442638"
+		}
+		"fullrelease"
+		{
+			"buildid" "14740874"
+			"pwdrequired" "1"
+			"timeupdated" "1718620447"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "EscapeTheBackrooms/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24027297"
+"_sha" "e2458106db35aa17f3c4ae7b000290e5a114f689"
+"_size" "6043"
