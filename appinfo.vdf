@@ -1,0 +1,429 @@
+"appid" "1811990"
+"common"
+{
+	"name" "Wildfrost"
+	"type" "Game"
+	"clienttga" "289506d7a416b05c1a4c56d2d0a281862e5f38bc"
+	"clienticon" "9e295fa4f097caa93b842f4634dec634695a910a"
+	"icon" "d8b9c6856421f6d68b97fe5b8ba68da0d3cbe480"
+	"name_localized"
+	{
+		"schinese" "雪居之地 (Wildfrost)"
+		"tchinese" "斯諾德維爾之戰 (Wildfrost)"
+		"japanese" "ワイルドフロスト (Wildfrost)"
+		"koreana" "와일드프로스트 (Wildfrost)"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1681171200"
+		"tested_build_id" "10874911"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Wildfrost"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.81395348837211"
+			"height_pct" "97.720256471147"
+		}
+	}
+	"store_asset_mtime" "1717768673"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Deadpan Games"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Gaziter"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Chucklefish"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1681290024"
+	"metacritic_score" "80"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wildfrost\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1811990"
+	"store_tags"
+	{
+		"0" "791774"
+		"1" "4026"
+		"2" "1091588"
+		"3" "1666"
+		"4" "14139"
+		"5" "3959"
+		"6" "1716"
+		"7" "32322"
+		"8" "4182"
+		"9" "1677"
+		"10" "1733"
+		"11" "1759"
+		"12" "1741"
+		"13" "4711"
+		"14" "5125"
+		"15" "9"
+		"16" "4305"
+		"17" "7481"
+		"18" "1684"
+		"19" "7332"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Deadpan Games"
+	"publisher" "Chucklefish"
+	"homepage" "http://wildfrostgame.com"
+}
+"config"
+{
+	"installdir" "Wildfrost"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wildfrost.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Play Wildfrost"
+			}
+			"description" "Play Wildfrost"
+		}
+		"1"
+		{
+			"executable" "Modded/Wildfrost.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "modding"
+			}
+			"description_loc"
+			{
+				"english" "Wildfrost With Mods"
+			}
+			"description" "Wildfrost With Mods"
+		}
+		"2"
+		{
+			"executable" "Modded/Wildfrost.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "modding-1.1.1"
+			}
+			"description_loc"
+			{
+				"english" "Wildfrost With Mods"
+			}
+			"description" "Wildfrost With Mods"
+		}
+	}
+	"steamcontrollertemplateindex" "3"
+	"steamdecktouchscreen" "4"
+}
+"depots"
+{
+	"workshopdepot" "1811990"
+	"baselanguages" "english"
+	"1811991"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "433124209060885654"
+				"size" "519668872"
+				"download" "232043504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "BD3F577BBFD8EBFE481BA1F20BC58B70"
+				"size" "2E25FCB0EAC510CFA5E41D195735DF7E"
+				"download" "BD2CAB5D06C322A65ABD1953E67BD158"
+			}
+			"demo-dev"
+			{
+				"gid" "751F5F418CD28BA4D00C7527EC2121A1"
+				"size" "0BFFEE6C9CA3FB8E0FB89A638F0D7EAD"
+				"download" "08F45C195C7A6C6710123AF2C5DEB8BE"
+			}
+			"partner"
+			{
+				"gid" "B6C94BEDFF5BF3672725E436A91058C1"
+				"size" "A651EB4908AD1CA6458CA86B4E584BA6"
+				"download" "5C2E7AD0D17264A613CB439A52BC777C"
+			}
+			"internal"
+			{
+				"gid" "A8EB92CD0AF3FBDECEC6F77DB7812117"
+				"size" "63A838EC42125CCC71C184AAB03A1853"
+				"download" "777B00A4F92B6A534B232991CF7D15A0"
+			}
+			"modding"
+			{
+				"gid" "2C88C9ECE09117A866975863B8559105"
+				"size" "AA89429879D90F35864F2AA7E5460D61"
+				"download" "4A32C5D47251ED3384ADC7C15BB09818"
+			}
+			"modding-1.1.1"
+			{
+				"gid" "7E1E6DABC94321BE5214598A4AD09FDE"
+				"size" "DE85B55A46663F31D84DC355F7F60CE0"
+				"download" "2FB85E648FD468D6EC10473DBECD9BB3"
+			}
+			"test"
+			{
+				"gid" "B115209F085D87FE0BD719A8424FE84C"
+				"size" "653A0D928F14306D2E12E1F48EFE8EE6"
+				"download" "5A1C04422B3CDB29A1B992867922F6CC"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14587368"
+			"timeupdated" "1717432580"
+		}
+		"demo"
+		{
+			"buildid" "10105168"
+			"pwdrequired" "1"
+			"timeupdated" "1670498343"
+		}
+		"demo-dev"
+		{
+			"buildid" "10754974"
+			"pwdrequired" "1"
+			"timeupdated" "1678703282"
+		}
+		"partner"
+		{
+			"buildid" "11040357"
+			"pwdrequired" "1"
+			"timeupdated" "1692869332"
+		}
+		"internal"
+		{
+			"buildid" "14533871"
+			"pwdrequired" "1"
+			"timeupdated" "1716989802"
+		}
+		"modding"
+		{
+			"buildid" "14744491"
+			"pwdrequired" "1"
+			"timeupdated" "1718641216"
+		}
+		"modding-1.1.1"
+		{
+			"buildid" "14545252"
+			"pwdrequired" "1"
+			"timeupdated" "1718285140"
+		}
+		"test"
+		{
+			"buildid" "14532131"
+			"pwdrequired" "1"
+			"timeupdated" "1716989818"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Deadpan Games/Wildfrost/Profiles"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Deadpan Games/Wildfrost/Profiles"
+			"pattern" "*.sav.bac"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "Deadpan Games/Wildfrost/Profiles"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "Deadpan Games/Wildfrost/Profiles"
+			"pattern" "*.sav.bac"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24073327"
+"_sha" "90f635cbca5e8e5e002e66f537ba88c0ce9056b8"
+"_size" "8338"
