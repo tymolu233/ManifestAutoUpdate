@@ -1,0 +1,387 @@
+"appid" "2336220"
+"common"
+{
+	"name" "Feed The Cups"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"icon" "acee60c7033bd9ba98f46944e915618df3d6f9ba"
+	"clienttga" "f22c22eabd390cf6a12567feafe116575b69619a"
+	"clienticon" "c11299419e6c7aa8fff3900d8e344cf09ab6cc87"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "杯杯倒满 Feed The Cups"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1714176000"
+		"tested_build_id" "13590067"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "60.85180863477248"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715999670"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Vambear Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "IndieArk"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_59" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708502240"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2336220"
+	"store_tags"
+	{
+		"0" "4726"
+		"1" "599"
+		"2" "3920"
+		"3" "1702"
+		"4" "3843"
+		"5" "3871"
+		"6" "12472"
+		"7" "3859"
+		"8" "1685"
+		"9" "4182"
+		"10" "3841"
+		"11" "9204"
+		"12" "3959"
+		"13" "7368"
+		"14" "42804"
+		"15" "19"
+		"16" "4136"
+		"17" "35079"
+		"18" "4195"
+		"19" "4562"
+	}
+	"review_score" "4"
+	"review_percentage" "25"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "89"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "Vambear Games"
+	"publisher" "IndieArk"
+}
+"config"
+{
+	"installdir" "Feed The Cups"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Feed the Cups.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "14"
+}
+"depots"
+{
+	"baselanguages" "english,schinese"
+	"hasdepotsindlc" "0"
+	"2336221"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4619197056505768964"
+				"size" "288131256"
+				"download" "172007152"
+			}
+			"0.4.3.8"
+			{
+				"gid" "2569524325216992712"
+				"size" "287799992"
+				"download" "171912880"
+			}
+			"0.4.3.9"
+			{
+				"gid" "4619197056505768964"
+				"size" "288131256"
+				"download" "172007152"
+			}
+			"0.5.0.0"
+			{
+				"gid" "8933599935432543130"
+				"size" "293508776"
+				"download" "174713296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"finaltest"
+			{
+				"gid" "86358CAAA0DCF217985E318DB19986EE"
+				"size" "40743616EFF8F59423F402852200A9C4"
+				"download" "EE18F1EE6CD732B3A2AA853B8A712646"
+			}
+			"0.5test"
+			{
+				"gid" "E447C3D807929E3428B864B94A03ADD0"
+				"size" "C6C9DCC9DC0E0C257C8545BC522E40BC"
+				"download" "D9C1BA00738A826E9EC662D51C00384D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13932175"
+			"timeupdated" "1712126787"
+		}
+		"0.4.3.8"
+		{
+			"buildid" "13853779"
+			"description" "0.4.3.8 Debug"
+			"timeupdated" "1711437758"
+		}
+		"0.4.3.9"
+		{
+			"buildid" "13932175"
+			"description" "尝试修复联机问题"
+			"timeupdated" "1712126469"
+		}
+		"finaltest"
+		{
+			"buildid" "13932175"
+			"pwdrequired" "1"
+			"timeupdated" "1712126495"
+		}
+		"0.5.0.0"
+		{
+			"buildid" "14727221"
+			"description" "Chapter 5 Beta Test"
+			"timeupdated" "1718436512"
+		}
+		"0.5test"
+		{
+			"buildid" "14727221"
+			"pwdrequired" "1"
+			"timeupdated" "1718436536"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Feed The Cups"
+			"pattern" "global.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Feed The Cups"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"schinese"
+		{
+			"tokens"
+			{
+				"#statuswithoutscore" "{#Status_%gamestatus%}"
+				"#statuswithscore" "分数: %score%"
+				"#status_atmainmenu" "在主菜单"
+				"#status_masterwaiting" "在自己家中 - 可乱入"
+				"#status_waiting" "在他人家中 - 可乱入"
+				"#status_masterfull" "在自己家中 - 满员"
+				"#status_full" "在他人家中 - 满员"
+				"#status_solo" "在自己家中 - 不可乱入"
+				"#status_day1" "当前天数 : 1"
+				"#status_day2" "当前天数 : 2"
+				"#status_day3" "当前天数 : 3"
+				"#status_day4" "当前天数 : 4"
+				"#status_day5" "当前天数 : 5"
+				"#status_day6" "当前天数 : 6"
+				"#status_day7" "当前天数 : 7"
+				"#status_day8" "当前天数 : 8"
+				"#status_day9" "当前天数 : 9"
+				"#status_day10" "当前天数 : 10"
+			}
+		}
+		"english"
+		{
+			"tokens"
+			{
+				"#status_atmainmenu" "Main Menu"
+				"#status_masterwaiting" "At Home - Can Join"
+				"#status_waiting" "At other\'s Home - Can Join"
+				"#status_masterfull" "At Home - Full"
+				"#status_full" "At other\'s Home - Full"
+				"#status_solo" "At Home"
+				"#status_day1" "Day : 1"
+				"#status_day2" "Day : 2"
+				"#status_day3" "Day : 3"
+				"#status_day4" "Day : 4"
+				"#status_day5" "Day : 5"
+				"#status_day6" "Day : 6"
+				"#status_day7" "Day : 7"
+				"#status_day8" "Day : 8"
+				"#status_day9" "Day : 9"
+				"#status_day10" "Day : 10"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24068116"
+"_sha" "2a4b7d329908f5272b8d7f761ec7454dbf004a32"
+"_size" "7771"
