@@ -1,0 +1,433 @@
+"appid" "941460"
+"common"
+{
+	"name" "Death Trash"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "525adedcd62d50da970f429e94c405aa48b37368"
+	"logo_small" "525adedcd62d50da970f429e94c405aa48b37368_thumb"
+	"icon" "a2fa6cc3031ab07e91d88898a634072f01ef6ee8"
+	"clienticon" "3dfddd64ba466d2c0d18bc1bc6708bb4a7d36961"
+	"clienttga" "9bdbec125e592efd158ef91016827d0966ccf25f"
+	"osextended" "macos64"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1646179200"
+		"tested_build_id" "7989891"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Death Trash"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "88.44807467911318"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718800043"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Crafting Legends"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Crafting Legends"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_30" "1"
+		"category_44" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1628175531"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "941460"
+	"store_tags"
+	{
+		"0" "3835"
+		"1" "3964"
+		"2" "3834"
+		"3" "5851"
+		"4" "3841"
+		"5" "1742"
+		"6" "4231"
+		"7" "4166"
+		"8" "122"
+		"9" "4115"
+		"10" "1695"
+		"11" "6426"
+		"12" "3916"
+		"13" "4747"
+		"14" "4474"
+		"15" "29482"
+		"16" "4182"
+		"17" "6730"
+		"18" "7432"
+		"19" "7481"
+	}
+	"review_score" "8"
+	"review_percentage" "94"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,beta,bugfixes,development,development_tech"
+	"developer" "Crafting Legends"
+	"publisher" "Crafting Legends"
+	"homepage" "http://www.deathtrash.com"
+}
+"config"
+{
+	"installdir" "Death Trash"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DeathTrash.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "DeathTrash.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "DeathTrash"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"941461"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7584378603711541078"
+				"size" "841358444"
+				"download" "205978912"
+			}
+			"beta"
+			{
+				"gid" "7272032530924985218"
+				"size" "838180864"
+				"download" "205581456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bugfixes"
+			{
+				"gid" "24F4F3653D1D82D766FCECA56F3A7E91"
+				"size" "2B886DE5BDE64CB6B52F449349596961"
+				"download" "E92AA0A0DA0F366BDFF28540B9180987"
+			}
+			"development"
+			{
+				"gid" "6D511BFC77682C99590F2551BF9743FA"
+				"size" "A801C7EDFD32945A04A4E4D97F144B29"
+				"download" "CA6340BB9C780C0CE5944758BE994746"
+			}
+			"development_tech"
+			{
+				"gid" "283F5158DE17CEA86B36A5E7D93EA439"
+				"size" "D4AE17F908642288DF14DF97575A42E3"
+				"download" "B2AB8DA4905A13BF1BBE2630E1175B11"
+			}
+		}
+	}
+	"941462"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1518246716655425710"
+				"size" "837352691"
+				"download" "206504928"
+			}
+			"beta"
+			{
+				"gid" "6212974180176003308"
+				"size" "833935871"
+				"download" "206018416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bugfixes"
+			{
+				"gid" "1DF47EA819B8B4E64389E12C96A24AEA"
+				"size" "54AE051C89FA5C6FE6CCD212C17F5D0D"
+				"download" "E43912FC07778C34301E5738854EC8E5"
+			}
+			"development"
+			{
+				"gid" "9CED71840E8FA724BFDF50FC66DFFBEC"
+				"size" "208FA68E8377184BEFDB67BBF5CDF603"
+				"download" "CD420D24070C94601FB51F4A82D6E27A"
+			}
+			"development_tech"
+			{
+				"gid" "5E3537FEC0A3EE7C0637469E652F06BC"
+				"size" "A6C24BDB60812D4465AD993D7956A345"
+				"download" "8AA2181D372FD897F9752ED4FCFDBCDD"
+			}
+		}
+	}
+	"941463"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1311672014523514957"
+				"size" "843281046"
+				"download" "207174000"
+			}
+			"beta"
+			{
+				"gid" "357378840634030824"
+				"size" "1826"
+				"download" "848"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bugfixes"
+			{
+				"gid" "9EE427F8F3191AC9261BE5450EB5898B"
+				"size" "AB92A2B2A806EE0C411E73C403C84926"
+				"download" "A5E6E55DE341C754E11D8EAE1CAE44E5"
+			}
+			"development"
+			{
+				"gid" "44D9230B52B8A677ADB9BF7A4706696E"
+				"size" "2EEDFA5532B979DD854D91E21935ED89"
+				"download" "815247CEFE3BE4054A6B24078B0E94DC"
+			}
+			"development_tech"
+			{
+				"gid" "230947A9B4BF3A23817069D72A20CCC2"
+				"size" "E23878BE031FE392F888EDA0846E523C"
+				"download" "6C698087551DA4506C97758356DC97E6"
+			}
+		}
+	}
+	"baselanguages" ""
+	"workshopdepot" "941460"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13027950"
+			"timeupdated" "1703236613"
+		}
+		"bugfixes"
+		{
+			"buildid" "8696786"
+			"pwdrequired" "1"
+			"timeupdated" "1651927788"
+		}
+		"beta"
+		{
+			"buildid" "14768580"
+			"description" "test builds"
+			"timeupdated" "1718803141"
+		}
+		"development"
+		{
+			"buildid" "14783150"
+			"pwdrequired" "1"
+			"timeupdated" "1718896331"
+		}
+		"development_tech"
+		{
+			"buildid" "14766633"
+			"pwdrequired" "1"
+			"timeupdated" "1718792182"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Crafting Legends/Death Trash/UserData_Steam_{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Crafting Legends/Death Trash/UserData_Steam_{64BitSteamID}"
+					"replace" "Crafting Legends/Death Trash/UserData_Steam_{64BitSteamID}"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgConfigHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Crafting Legends/Death Trash/UserData_Steam_{64BitSteamID}"
+					"replace" "Crafting Legends/Death Trash/UserData_Steam_{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24051705"
+"_sha" "a80ce9ef3ae31e133079cd5c2d9d89b60699ab1f"
+"_size" "8308"
