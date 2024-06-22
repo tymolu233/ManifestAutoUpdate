@@ -1,0 +1,645 @@
+"appid" "466560"
+"common"
+{
+	"name" "Northgard"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"logo" "e77a9dad1dbc9b93f69b03446b5305a04eadd6ef"
+	"logo_small" "e77a9dad1dbc9b93f69b03446b5305a04eadd6ef_thumb"
+	"icon" "f290db6bc98c8b40d01a13b9c99baaf705c6ac17"
+	"clienticon" "49a95da8ba748421ee179d55085509a913b154e6"
+	"clienttga" "b4cded872883e79182ae47936845a02aa608bacf"
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1676937600"
+		"tested_build_id" "9667238"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Northgard"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "74.32905484247374"
+			"height_pct" "48.7456523178401"
+		}
+	}
+	"store_asset_mtime" "1716898117"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shiro Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Shiro Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Northgard"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_29" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1520434680"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/northgard\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "466560"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4328"
+		"2" "599"
+		"3" "1676"
+		"4" "7332"
+		"5" "220585"
+		"6" "1643"
+		"7" "1670"
+		"8" "4695"
+		"9" "1708"
+		"10" "1678"
+		"11" "12472"
+		"12" "1775"
+		"13" "3859"
+		"14" "1669"
+		"15" "4182"
+		"16" "1685"
+		"17" "6730"
+		"18" "11634"
+		"19" "8945"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"gamedir" "Northgard"
+	"serverbrowsername" "Northgard"
+	"developer" "Shiro Games"
+	"publisher" "Shiro Games"
+	"homepage" "https://northgard.net/"
+	"listofdlc" "820560,888650,971630,1036760,1088640,1223060,1401490,1644210,1876990,2138500,2228200,2515460,2658730,2946220"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Northgard"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Northgard.exe"
+			"description" "Northgard DirectX"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Northgard.exe"
+			"arguments" "sdlboot.dat"
+			"description" "Northgard OpenGL"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "osx/hl"
+			"arguments" "sdlboot.dat"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "linux/run.sh"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"4"
+		{
+			"executable" "ng32/Northgard.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+			"description_loc"
+			{
+				"english" "Northgard DirectX 32bits"
+			}
+			"description" "Northgard DirectX 32bits"
+		}
+		"5"
+		{
+			"executable" "ng32/Northgard.exe"
+			"arguments" "sdlboot.dat"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+			"description_loc"
+			{
+				"english" "Northgard SDL 32bits"
+			}
+			"description" "Northgard SDL 32bits"
+		}
+		"6"
+		{
+			"executable" "osx/run.sh"
+			"description" "Northgard Fail safe (no steam overlay)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"workshopdepot" "466560"
+	"466561"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1701657228609105596"
+				"size" "3097270597"
+				"download" "1277923488"
+			}
+			"public-beta"
+			{
+				"gid" "2390343318333568884"
+				"size" "3049616101"
+				"download" "1251336352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"shiro-qa"
+			{
+				"gid" "D02BC9BA6A8AC36FBD958F91C51BBA71"
+				"size" "D8E246F646193CB1DF5741CC550629D9"
+				"download" "568AABADDF4078C2647E13B4721D3054"
+			}
+			"closed-beta"
+			{
+				"gid" "2BD18973C7D7100616FC89B6DBB12E8E"
+				"size" "82DA60DBBE3E35D0E5C3A4D09CE7E2D9"
+				"download" "9C389E41CCDF9575C7156DA2D0B6C30B"
+			}
+			"shiro-test"
+			{
+				"gid" "76FCFF1AC3491544B86F002292E5E71B"
+				"size" "7842D632FFA0385D1117C5D65C4A1BEB"
+				"download" "87A92D970FA95CF28FDE12D047251C06"
+			}
+		}
+	}
+	"820561"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3726179134826158078"
+				"size" "42165611"
+				"download" "41489664"
+			}
+			"public-beta"
+			{
+				"gid" "3726179134826158078"
+				"size" "42165611"
+				"download" "41489664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"shiro-qa"
+			{
+				"gid" "C4568B7EAAFF182F3572A81FE1D6C4C6"
+				"size" "55830BAC79322DD0A0C783694DF4C137"
+				"download" "9C31A932052B2D7746B069809966FFBD"
+			}
+			"closed-beta"
+			{
+				"gid" "953A79BF9C738FD4DE736080A8C10879"
+				"size" "02929EF977D4E6033AAA35231E365F57"
+				"download" "20305203EC6BF341C534BBA424EFDAD8"
+			}
+			"shiro-test"
+			{
+				"gid" "53912FEA8783F76278DBC18FFF1B4381"
+				"size" "B53F5A5C078EF6F106F8425AD3BDB78F"
+				"download" "5AA52D99FD73014769B5FF02A0C45E66"
+			}
+		}
+		"dlcappid" "820561"
+	}
+	"466562"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7244273992270873098"
+				"size" "19509140"
+				"download" "5181600"
+			}
+			"public-beta"
+			{
+				"gid" "8143836721473925561"
+				"size" "19424140"
+				"download" "5148032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"shiro-qa"
+			{
+				"gid" "018963B081A6B65BF35DEFF75E52B2D2"
+				"size" "417C6FFA7CB6FA35A6BACA61AD7FA2E6"
+				"download" "E42DBAA1D5629D9A01F7906DAACCE329"
+			}
+			"closed-beta"
+			{
+				"gid" "C9CDDC3ACAE11DA2431E3B0EDD66D948"
+				"size" "CB358A63C690A08F7F3611947F2493CD"
+				"download" "236D377E5DACF216331149179EB62F44"
+			}
+			"shiro-test"
+			{
+				"gid" "9123468537FB06A3E6430A2EF9F21045"
+				"size" "1592FEBE451DE0346EA5DAB0C6800208"
+				"download" "509CD1F702DCA4FF0819756E1CAE3190"
+			}
+		}
+	}
+	"466563"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5963073945994191211"
+				"size" "17421065"
+				"download" "4329904"
+			}
+			"public-beta"
+			{
+				"gid" "5963073945994191211"
+				"size" "17421065"
+				"download" "4329904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"shiro-qa"
+			{
+				"gid" "57B3211B5675997363A842E2F9439DB5"
+				"size" "CD9B8C20324B9EF6DDCA9C1B98E321BB"
+				"download" "8664ABEF7D170BD46D9E59B2BC4A7C10"
+			}
+			"closed-beta"
+			{
+				"gid" "E385FD7FC41BB71ABE3423CE0B8957D6"
+				"size" "DA2BEC7B6F322370F25F00F2D5BAD915"
+				"download" "D0CBCFBD42E72BF6D0944ECE67C0A979"
+			}
+			"shiro-test"
+			{
+				"gid" "5DED5F5C8DA037AF017FDF1290F3A304"
+				"size" "EC3072FD010908C4AA77396E03CAFB22"
+				"download" "17F28B0FEC610C63F0D534508D86C044"
+			}
+		}
+	}
+	"466564"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2376866793294585779"
+				"size" "9437117"
+				"download" "3382192"
+			}
+			"public-beta"
+			{
+				"gid" "2376866793294585779"
+				"size" "9437117"
+				"download" "3382192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"shiro-qa"
+			{
+				"gid" "A1A0432BC088EA9EF05C3E79C2D003C0"
+				"size" "E5A94B2A0D879B93C48FEF5345DBFA3E"
+				"download" "B1335260E45B087454E49E0CC862C77C"
+			}
+			"closed-beta"
+			{
+				"gid" "58B7116C7E93A1711D916014B6713B54"
+				"size" "F34542775F5F4F9836E48501AB95942F"
+				"download" "0979A08833466B99FE4939913A89BC56"
+			}
+			"shiro-test"
+			{
+				"gid" "8A43CF94B8BF7C32709F8E7CFC5AA6A9"
+				"size" "FEDAC471F2C9FC57E2BEC4FFCCE09B19"
+				"download" "D2A5C91FCDAC93F7598B9D1A2BFF7853"
+			}
+		}
+	}
+	"466565"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2444457629100233845"
+				"size" "284919082"
+				"download" "100805904"
+			}
+			"public-beta"
+			{
+				"gid" "2444457629100233845"
+				"size" "284919082"
+				"download" "100805904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"shiro-qa"
+			{
+				"gid" "828438209422B9DB29626824652D8900"
+				"size" "6B7BCC6154355B9761910DA94037CE75"
+				"download" "1BC93163B6CB7F57AC35FC558CEAB6CF"
+			}
+			"closed-beta"
+			{
+				"gid" "4C20132B0EA91413FB158DE0D5F0EA57"
+				"size" "DE133CFACA409D32C7D1FF59211F772D"
+				"download" "532D534EA24774285AAA6D0996B96EE0"
+			}
+			"shiro-test"
+			{
+				"gid" "9A1499140C029542637002BB1DCC7558"
+				"size" "8BD5A58A413DEF224F66D04D00B315BA"
+				"download" "DB31BDBE31DFA2E34C5561B444975FE9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14781356"
+			"timeupdated" "1718891866"
+		}
+		"public-beta"
+		{
+			"buildid" "14020366"
+			"description" "Test the latest addition to the game!"
+			"timeupdated" "1712842780"
+		}
+		"shiro-qa"
+		{
+			"buildid" "14022522"
+			"pwdrequired" "1"
+			"timeupdated" "1712839836"
+		}
+		"closed-beta"
+		{
+			"buildid" "14457143"
+			"pwdrequired" "1"
+			"timeupdated" "1716393470"
+		}
+		"shiro-test"
+		{
+			"buildid" "14781356"
+			"pwdrequired" "1"
+			"timeupdated" "1718886982"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.dat"
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*.sav"
+		}
+		"2"
+		{
+			"root" "gameinstall"
+			"path" "save/conquest"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24050580"
+"_sha" "dc7cab9e82202ed82a7504ec9379801549e301ca"
+"_size" "12327"
