@@ -1,0 +1,271 @@
+"appid" "774801"
+"common"
+{
+	"name" "Crab Champions"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "ddafb52c0b49ae0ca7fa6596d121a07522a9de6c"
+	"logo_small" "ddafb52c0b49ae0ca7fa6596d121a07522a9de6c_thumb"
+	"icon" "59dc1921eba2709b214a8d18ff9c6422cfc54370"
+	"clienticon" "f88cf860d96b65ea8052374f13fc3c72bf92e4be"
+	"clienttga" "9446a11c2b97ae97ec06e84e5e0bfe0601ce9657"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1681430400"
+		"tested_build_id" "10970198"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Crab Champions"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "95.93147751605997"
+			"height_pct" "46.44976978975982"
+		}
+	}
+	"store_asset_mtime" "1703639116"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Noisestorm"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Noisestorm"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"full_audio" "true"
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1680364796"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "774801"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "7948"
+		"2" "1773"
+		"3" "353880"
+		"4" "1716"
+		"5" "3814"
+		"6" "4191"
+		"7" "3859"
+		"8" "597"
+		"9" "1685"
+		"10" "1774"
+		"11" "4885"
+		"12" "19"
+		"13" "1625"
+		"14" "1759"
+		"15" "6730"
+		"16" "6426"
+		"17" "10397"
+		"18" "1654"
+		"19" "21"
+	}
+	"review_score" "9"
+	"review_percentage" "98"
+}
+"extended"
+{
+	"developer" "Noisestorm"
+	"publisher" "Noisestorm"
+	"homepage" "https://crabchampions.com/"
+}
+"config"
+{
+	"installdir" "Crab Champions"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CrabChampions.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"774803"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1176376182132674447"
+				"size" "1749459627"
+				"download" "1641117232"
+			}
+			"beta"
+			{
+				"gid" "1176376182132674447"
+				"size" "1749459627"
+				"download" "1641117232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"secret"
+			{
+				"gid" "93ACD717EA0676D41B04E1C53EF5E155"
+				"size" "2ABEAB98007D317405AFF06A0F0F0D5E"
+				"download" "BE4EEA7A2606B6FACFA7773511F514E0"
+			}
+			"developer"
+			{
+				"gid" "46CAD271FDAF3C4CAAD2C9FABBA72A54"
+				"size" "637010E3ED81A4864A46EEE19A71BAF9"
+				"download" "366A64E6F70428610E9E4927BD80D766"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13743410"
+			"timeupdated" "1710444157"
+		}
+		"beta"
+		{
+			"buildid" "13743410"
+			"description" "The latest version of Crab Champions- back up your save before downloading!"
+			"timeupdated" "1710444138"
+		}
+		"secret"
+		{
+			"buildid" "13691247"
+			"pwdrequired" "1"
+			"timeupdated" "1710006840"
+		}
+		"developer"
+		{
+			"buildid" "14786590"
+			"pwdrequired" "1"
+			"timeupdated" "1718917981"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "CrabChampions/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24056570"
+"_sha" "a5c210df27eef3c22030a8f48f434bc6d8f0c63e"
+"_size" "5160"
