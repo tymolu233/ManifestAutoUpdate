@@ -1,0 +1,4001 @@
+"appid" "107410"
+"common"
+{
+	"name" "Arma 3"
+	"clienticon" "06ec25998633d10a2b503de42648b47c94baa215"
+	"clienttga" "883674261bb1419f911c3ce56e3164355fa0d869"
+	"icon" "3212af52faf994c558bd622cb0f360c1ef295a6b"
+	"logo" "b49962441a01f1f80b180af1293608dddf7df6b0"
+	"logo_small" "b49962441a01f1f80b180af1293608dddf7df6b0_thumb"
+	"oslist" "windows,macos"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "107410_eula_0"
+			"name" "Arma 3 EULA"
+			"url" "http://store.steampowered.com/eula/107410_eula_0"
+			"version" "2"
+		}
+	}
+	"exfgls" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"type" "game"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1652227200"
+		"tested_build_id" "8588216"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "simultaneous_gamepad_mouse"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Arma III"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "37"
+			"height_pct" "56"
+		}
+	}
+	"store_asset_mtime" "1677681710"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bohemia Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bohemia Interactive"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Arma Franchise"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_13" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_29" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_36" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "1"
+			"full_audio" "1"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1378969320"
+	"metacritic_score" "74"
+	"metacritic_fullurl" "http://www.metacritic.com/game/pc/arma-iii\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "107410"
+	"store_tags"
+	{
+		"0" "4168"
+		"1" "19"
+		"2" "3859"
+		"3" "599"
+		"4" "1774"
+		"5" "4175"
+		"6" "3839"
+		"7" "1695"
+		"8" "1708"
+		"9" "1663"
+		"10" "1678"
+		"11" "1685"
+		"12" "9"
+		"13" "3810"
+		"14" "4182"
+		"15" "1669"
+		"16" "3993"
+		"17" "3843"
+		"18" "5711"
+		"19" "3814"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+	"review_score_bombs" "8"
+	"review_percentage_bombs" "90"
+}
+"extended"
+{
+	"developer" "Bohemia Interactive"
+	"developer_url" "http://www.bistudio.com/"
+	"gamedir" "arma3"
+	"gamemanualurl" "http://store.steampowered.com/manual/107410/"
+	"homepage" "http://www.arma3.com"
+	"icon" ""
+	"noservers" "1"
+	"order" "1"
+	"state" "eStateAvailable"
+	"visibleonlywhensubscribed" "1"
+	"serverbrowsername" "Arma 3"
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1161040"
+			"comment" "BE runtime"
+		}
+	}
+	"publisher" "Bohemia Interactive"
+	"listofdlc" "249861,249862,275700,288520,304380,304400,332350,395180,571710,601670,612480,639600,744950,798390,1021790,1042220,1175380,1227700,1294440,1325500,1681170,2647760"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Arma 3"
+	"launch"
+	{
+		"2"
+		{
+			"executable" "arma3launcher.exe"
+			"description" "Launch Arma 3"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"3"
+		{
+			"executable" "ArmA3.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch Arma 3"
+			}
+			"description" "Launch Arma 3"
+		}
+		"4"
+		{
+			"executable" "./arma3"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Launch Arma 3"
+			}
+			"description" "Launch Arma 3"
+		}
+		"5"
+		{
+			"executable" "ArmA3 AS Native.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch experimental Apple silicon native Arma 3"
+			}
+			"description" "Launch experimental Apple silicon native Arma 3"
+		}
+	}
+}
+"depots"
+{
+	"preloadonly" "1"
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"workshopdepot" "107410"
+	"hasdepotsindlc" "0"
+	"appmanagesdlc" "1"
+	"baselanguages" "english"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"249504"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1015968845214793196"
+				"size" "15506687470"
+				"download" "11838952160"
+			}
+			"development"
+			{
+				"gid" "1015968845214793196"
+				"size" "15506687470"
+				"download" "11838952160"
+			}
+			"profiling"
+			{
+				"gid" "1015968845214793196"
+				"size" "15506687470"
+				"download" "11838952160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "0AACA13005923AAF91F7CF334470CD6C"
+				"size" "6B22BECC574D7F17F463E77EBA446EC8"
+				"download" "6D70E2EDC9D8CCA902D7B558A8E1583C"
+			}
+			"legacy"
+			{
+				"gid" "DF8D7DA5ED6F4B5AC492A1F1BB093F63"
+				"size" "15940C366B4AD093B1A0C82FD25C8FFB"
+				"download" "905E0BE1C3A2513B7916AE943452FDC6"
+			}
+			"legacyports"
+			{
+				"gid" "CCAE1E9DC6582BBA6F856BD88EF93F35"
+				"size" "3D1CF725882F1D96169979259F95507E"
+				"download" "9B38A4508B29EC14C13C4F25708CCD27"
+			}
+			"m_test"
+			{
+				"gid" "57362B50B8791DF5A25FEFBE246B286C"
+				"size" "BFA8F1FB21C9D9CAD5B042FF5A9CFB19"
+				"download" "9C8A3E91A6A1F981D58A6113F230AD54"
+			}
+			"temp"
+			{
+				"gid" "592580727AB8BE659FFEAC8650256805"
+				"size" "548B69F975CAF976480868CF2FCD5443"
+				"download" "6883930B952E46F63F9C3CC148C8FC7D"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "C8EFFEAEDC06B36C3CC0BA34D97BAE27"
+				"size" "D3B5AF16E4F866DBFAA39736374F3A27"
+				"download" "08B7359E4BB7766C1EB9F37DCCAF18B7"
+			}
+			"content_licensing"
+			{
+				"gid" "1E25A0A2B73503F13D6B652BD0188FE3"
+				"size" "45B06337C86A967E71A966BAAC95C0A3"
+				"download" "545EEED68AD4E689C83F1EC50B59EF1A"
+			}
+			"development_staging"
+			{
+				"gid" "565CB3B2829C66959709E558276A0810"
+				"size" "775D98EEBE2255BBADF9CA08F19F8319"
+				"download" "AAB210F30849140EB8B91DF0A02EC606"
+			}
+		}
+	}
+	"107411"
+	{
+		"systemdefined" "1"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6858000254775252804"
+				"size" "43355777669"
+				"download" "34639802896"
+			}
+			"development"
+			{
+				"gid" "8415990963530011684"
+				"size" "43523348392"
+				"download" "34684496336"
+			}
+			"profiling"
+			{
+				"gid" "6858000254775252804"
+				"size" "43355777669"
+				"download" "34639802896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "D2AE8D4A9D7846B0D1FF6DAC7CF6F7F3"
+				"size" "AA73ACDA152AE14C207AD252799E51A0"
+				"download" "CA1C69B68133C98EA473D5D2A748A44E"
+			}
+			"legacy"
+			{
+				"gid" "2BC7DA38A32EDBFBD86AB7B13CB590B3"
+				"size" "6D70504BA33DDBBD2B6BD19556973864"
+				"download" "FEE3F9FD0C7852A2C243C18D87131BF0"
+			}
+			"legacyports"
+			{
+				"gid" "9D641294821C6F915B7290838DC200B8"
+				"size" "A931D6097D20F23957B8C637B9BC8D59"
+				"download" "2F1CC03C6388B18E06F58E6FFCCE0EA7"
+			}
+			"m_test"
+			{
+				"gid" "0F60C017B0BE080D85E02DEFF6FC8114"
+				"size" "51D030169EE9D765991A7F56D2DAEDCC"
+				"download" "3106B9A1FF7AA27155BE95C51771AB4A"
+			}
+			"temp"
+			{
+				"gid" "F3D37D4DF2D3EB0BE768AB00E6684D64"
+				"size" "51420FF0B354CFEBFE990906D0B13964"
+				"download" "F47426047B103B64B29D5914ABB8A0D5"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "408D461DE0F3C0ABD82F4EC91EDCD1DF"
+				"size" "185951774D985DB49D966C83E7C56C83"
+				"download" "4BDCAF999D34144F964879AF79EA2DD7"
+			}
+			"content_licensing"
+			{
+				"gid" "C8D59887E16F566D06F3B6470C8EC9D7"
+				"size" "65A74490B9F310731A9B38A30F243657"
+				"download" "404E040746EDAEDC3872DAD0329FBD39"
+			}
+			"development_staging"
+			{
+				"gid" "53C97A5E0C2973CEEE89A03ACC08F231"
+				"size" "BF6325EBA0BE66847CDC5B87F8625618"
+				"download" "20489CBF50A8E32AC541B17011572624"
+			}
+		}
+	}
+	"249505"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5714423328654212906"
+				"size" "43030926995"
+				"download" "34346382720"
+			}
+			"development"
+			{
+				"gid" "5291315018643894680"
+				"size" "29378675330"
+				"download" "23753014032"
+			}
+			"profiling"
+			{
+				"gid" "4861574737636001516"
+				"size" "42832682798"
+				"download" "34221577600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "7CFB42305FE90159FBC42533BF3DF8CA"
+				"size" "2C9C046639ABF08962AF5567BE633BA6"
+				"download" "EAFFC5FA989C38876971D0F537849F2E"
+			}
+			"legacy"
+			{
+				"gid" "F74DAE9EFE7FD82465DE0CEB112B5EAC"
+				"size" "92771FC8D77C2AEF7BC7A5885805CE28"
+				"download" "A2086F4A6C623032EB95AF3ACC148280"
+			}
+			"legacyports"
+			{
+				"gid" "FAB9702B688D450E5F2A0E5E3BB2444A"
+				"size" "16183ED193A728E6C18A5BBE10F5B122"
+				"download" "839B1846BE2C3D456DEA26B6511F669C"
+			}
+			"m_test"
+			{
+				"gid" "CE86EF19445173B122FC6B22339357DD"
+				"size" "55A111811D9206489A841F46CEE1CC02"
+				"download" "84200BED57AA1C13A0ACBBCA02D57145"
+			}
+			"temp"
+			{
+				"gid" "BFD6B1C595D0B0BBD9FDEC294F3896A1"
+				"size" "63424F37F855E8E99B1493BFD0C9E5C5"
+				"download" "B1E898977DB4C751DA4B6DC3C1BC935B"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "05264677ECAE228134BB8390649AD03C"
+				"size" "1E68C25385E8B7A6823C5CEEB0F9BA1D"
+				"download" "47A90FD472B889B5ADBE1F0BCBF39376"
+			}
+			"content_licensing"
+			{
+				"gid" "286153011650E26D16D6C4EC311C3D96"
+				"size" "2817199B6F54F42341ED3628E8044C8D"
+				"download" "7F70A90DDBC1A992F3EB09ECBC8E3A36"
+			}
+			"development_staging"
+			{
+				"gid" "12137AF1345B71D250CA04D844CC0208"
+				"size" "ED3EB684A8A053EAE73801467527B489"
+				"download" "5C485774039DF725349298612CB7C380"
+			}
+		}
+	}
+	"107414"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9195824549031173804"
+				"size" "43147469"
+				"download" "16275904"
+			}
+			"development"
+			{
+				"gid" "6799893760432892020"
+				"size" "43545805"
+				"download" "16411136"
+			}
+			"profiling"
+			{
+				"gid" "9195824549031173804"
+				"size" "43147469"
+				"download" "16275904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "C4D1A4FA5271FD81D8F7FD1247D2B921"
+				"size" "739BBDD23CECE2999BA6115FB3EDF381"
+				"download" "8E885DBD14D97A44E67B15437A934809"
+			}
+			"legacy"
+			{
+				"gid" "D3AE22BE8BBA9EB7E6A2B4D2CAD30F84"
+				"size" "0CD2FEC7EF4131159010C6E39CEDFD6F"
+				"download" "D6D1EE1F853C0708EE5AA6A13B1AD486"
+			}
+			"legacyports"
+			{
+				"gid" "C9E2BEC1CDED4FA395FE540FB2E68133"
+				"size" "D45F56AAA86382001A6F6239792DDCDA"
+				"download" "95A3E83D1388A86C38F43FE6CCDDFC8C"
+			}
+			"m_test"
+			{
+				"gid" "6CB97357CB559FA2CB7E571F9C9B3FE4"
+				"size" "88989EE682649DD838E79D49095377C8"
+				"download" "6D88EB3821E69D5D6FF71F264D946D7F"
+			}
+			"temp"
+			{
+				"gid" "60E2C2F084E604FF4BFDA6A938C14D96"
+				"size" "7B7F6F4BF614F1ABB715483D1AD605DD"
+				"download" "C715F0343CCA067F08EF49AB2473F8D6"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "4751B5A2D3B2867D12F6683D3060F7F5"
+				"size" "3012AD4645EE39A75E3FF19DA65CAFBC"
+				"download" "1F0C4C19840451891DFA1E66273541EC"
+			}
+			"content_licensing"
+			{
+				"gid" "72E59FA1BB59DBE9907024DF3707D731"
+				"size" "EB52340BF999392952E5A7E6A33BAF83"
+				"download" "E4903542986EF59279AA774B8CCD76D9"
+			}
+			"development_staging"
+			{
+				"gid" "088C3BA142506D44BC546ABC6ACBCF72"
+				"size" "0D8FB1F075B254AE3702FAE1AE1B7F8B"
+				"download" "EF4C6D789CD786E8BB4463BC30A66774"
+			}
+		}
+	}
+	"107416"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8757487671534004216"
+				"size" "69162395"
+				"download" "18154256"
+			}
+			"development"
+			{
+				"gid" "1643823158992351995"
+				"size" "69560731"
+				"download" "18289792"
+			}
+			"profiling"
+			{
+				"gid" "8757487671534004216"
+				"size" "69162395"
+				"download" "18154256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "4ADF83F1D0293A3BBF9D1C2F1035DF5F"
+				"size" "710FAE39B8F60893DA85E0B9C7C39638"
+				"download" "4D79CE992F924016C07408F906BAF365"
+			}
+			"legacy"
+			{
+				"gid" "6F01D7D3A3EF9E33DA0F027EB3B1C569"
+				"size" "8C61DF9AFACA70FC6A597C2F25D93FA8"
+				"download" "7378D66BDCBDDDAF3945E99542C6996C"
+			}
+			"legacyports"
+			{
+				"gid" "136B391A61B1F730693192818C068523"
+				"size" "8E7310B0DB795A4B0555145CFEC544C2"
+				"download" "9FB868AA5D5C5C3E9C8A4AD2CF2DF1DF"
+			}
+			"m_test"
+			{
+				"gid" "12A1B799F2B77E3225ED983B9FAE323D"
+				"size" "E801BC866ADD867FEF2463F6C6B80DD0"
+				"download" "93C35FA12A96EAAEA52DA1DE06CC1DB8"
+			}
+			"temp"
+			{
+				"gid" "427E63D16567AC631C470899EAC87EE0"
+				"size" "6EF915D9D45AD5869E6796D25ADE8A96"
+				"download" "D750AD2F745F3705C1F5D0558222ABD3"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "2B2AF14AA6EF4E73A4550AF5FAAD798F"
+				"size" "F070A85D107F19A8005E096194733255"
+				"download" "8192578D2919A1B17AC938B9726F3EF7"
+			}
+			"content_licensing"
+			{
+				"gid" "6BB393233E3BC524B372C3D78CAD5BC7"
+				"size" "EBE707748902CE084F0DE940217DAE95"
+				"download" "0E3B53ABF30D08F0EEB42B18A5A8D81A"
+			}
+			"development_staging"
+			{
+				"gid" "A13F89FF6E379D601D53F1CDB3B61960"
+				"size" "1290E908AB023306367B426A7244FE22"
+				"download" "A93D640DBF9244255AE8A391C74A3E2E"
+			}
+		}
+	}
+	"107418"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3526173781139181148"
+				"size" "70860472"
+				"download" "18276288"
+			}
+			"development"
+			{
+				"gid" "5644490451549626504"
+				"size" "71259320"
+				"download" "18412416"
+			}
+			"profiling"
+			{
+				"gid" "3526173781139181148"
+				"size" "70860472"
+				"download" "18276288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "D7517B97C467F7B7AB56FE94F4B8D8A5"
+				"size" "E5C910879B6E6A658E00173D0CFB2815"
+				"download" "5027340F7A1421A82AD9B630B1A1401C"
+			}
+			"legacy"
+			{
+				"gid" "2998B08AFFD90C8B6913808AF474E4F2"
+				"size" "46911B5B94805A97CAD3428A4DBC0A79"
+				"download" "2D1D91948173673D64E923CDBEC5ECF8"
+			}
+			"legacyports"
+			{
+				"gid" "291B940F21EF766D2B3AA78665E67654"
+				"size" "4576A2854A21534C74CC654BC2F32092"
+				"download" "A5714525CCC84FE751FADADA9C9A17E1"
+			}
+			"m_test"
+			{
+				"gid" "4AEA5CC09B4F27D94F7997357BEB014E"
+				"size" "9E743DAF8CD6EF738C93CD2E0DC27EF1"
+				"download" "E0C3240432A7D940A0DA8043DE4C92D4"
+			}
+			"temp"
+			{
+				"gid" "BE92389858E3A3B4A0264E0FAA08F70A"
+				"size" "6C2B01FF718A6C1188E176E2A03A0D2A"
+				"download" "47BCDC8AE07EF3E4B71A75C7B2AD592E"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "3CAFEAD117A2DE47AE309F767B1FD514"
+				"size" "DD1A2FB1414417C99D29C3FE36A838B4"
+				"download" "590187A33E35A793DABD3165F5355344"
+			}
+			"content_licensing"
+			{
+				"gid" "D318BEC6ED9BC3BB78370D498E6C5CE1"
+				"size" "7D4CB1FF15A39386923935A3C30A32E9"
+				"download" "087E09556BC27FE5AA00322871CEAC8D"
+			}
+			"development_staging"
+			{
+				"gid" "A87272E2A5C7C0E81EE561A34227C9AE"
+				"size" "3AA3BE6969B8CBE03626198E8D2842A8"
+				"download" "37CFD1DF814F6DB4A5DB385BA684C1EB"
+			}
+		}
+	}
+	"107419"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2640975274412161285"
+				"size" "147709672"
+				"download" "23580288"
+			}
+			"development"
+			{
+				"gid" "2173696868549554977"
+				"size" "148110056"
+				"download" "23716416"
+			}
+			"profiling"
+			{
+				"gid" "2640975274412161285"
+				"size" "147709672"
+				"download" "23580288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "AEA72A1D11EB1334A705A31CF8E3B756"
+				"size" "3A1F92F7FEC37B403FCAA0BD91125591"
+				"download" "C473410DE275812A7BC2118DD2CDD0ED"
+			}
+			"legacy"
+			{
+				"gid" "95BC03D6ED211BB35296BEA9CC8E5E01"
+				"size" "579C45FDA1F0C8E27A2E0396DEBBDDC9"
+				"download" "F47777788D7489C5DDA8B0371F06E873"
+			}
+			"legacyports"
+			{
+				"gid" "67F8B837D77889B7633B78F2E98EFD57"
+				"size" "FEB850FE9D2000AFA71F1312D8E10AD2"
+				"download" "7AB60DF3965A40FEA921D497225BE05B"
+			}
+			"m_test"
+			{
+				"gid" "BFF09AE8B66EAD3F442962CED157CD4D"
+				"size" "A377F6B170BC2FEEF2F4EF184C34B820"
+				"download" "561B52A3B99FC359A3B9AF0EE457B482"
+			}
+			"temp"
+			{
+				"gid" "8F5A2A1F519D970B80B3C9321846274E"
+				"size" "142E807E0791CCD3B7F38FDBE6131887"
+				"download" "330EFD747EE0DBC18401E7C28E376A17"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "5A7F89A3391EC86BF598AEEB4E2F9662"
+				"size" "9B071945A93BF092F3CAFFE3A0401F8C"
+				"download" "BC04A4E48AB9A7DACC32167B6819ACD7"
+			}
+			"content_licensing"
+			{
+				"gid" "5B3CF304B29728703DB56E67F607F5ED"
+				"size" "774831713DB8F26BBD421348955AA2FA"
+				"download" "1C623B3016841C27016BF3A952A055CD"
+			}
+			"development_staging"
+			{
+				"gid" "541F5EFA0CAF80FAA6FD3274DB8BB55C"
+				"size" "6C775ACD41E832FACFAB1DAA14E4F068"
+				"download" "484A1C81CA95426111C4516F32F414FE"
+			}
+		}
+	}
+	"107413"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1889972456792033772"
+				"size" "384679650"
+				"download" "40904448"
+			}
+			"development"
+			{
+				"gid" "7732760501023719541"
+				"size" "385083618"
+				"download" "40799952"
+			}
+			"profiling"
+			{
+				"gid" "1889972456792033772"
+				"size" "384679650"
+				"download" "40904448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "3C47BE2EDC5E2389A2FC4AF5EE77C2BB"
+				"size" "19105F8B9B90904D55D3EC63795DB1B4"
+				"download" "3D42CBBADD500C7E177D686000EA28EA"
+			}
+			"legacy"
+			{
+				"gid" "12496CCE1F4CD1A90E5E1D084BD7903E"
+				"size" "F31FB8A4063DB24D8CE1A812FA3933A9"
+				"download" "9B4ABBF78B4C63D5DF00B0C53D75753C"
+			}
+			"legacyports"
+			{
+				"gid" "94894DB426FF10D7791E37AA029F0FF4"
+				"size" "EB0948502E7440F6EF24F93A25258B10"
+				"download" "E4D2F4C9C40D3899DAEE589844659DCF"
+			}
+			"m_test"
+			{
+				"gid" "A520165843895A34C3DC2C9669AA26A9"
+				"size" "D487A5BB9D3E94F3B2E779CCB131A453"
+				"download" "44A1A862DBCD18818F09DD61B10C7730"
+			}
+			"temp"
+			{
+				"gid" "F8EFB1356353A1440912A06D48918622"
+				"size" "FA72798AFF6029BEC2BFD98DC4671556"
+				"download" "1B9C235EAD8FDD975543730623AD341A"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "9C70918E405E8D5CAC648223E93F46DF"
+				"size" "D1B70EB4C47529B12268FC559AB40E9C"
+				"download" "4FCDA2B01E92C5C3BFB3222B8B8BDCD0"
+			}
+			"content_licensing"
+			{
+				"gid" "146EE3CCEB4472EDA4AA889AF90A616A"
+				"size" "15362B6360035F4F217A3D963C355E92"
+				"download" "2958E49FA9EDC5118D3D1294C4281822"
+			}
+			"development_staging"
+			{
+				"gid" "8C5EEB3E4627963D3CFAB44F8AA20D19"
+				"size" "31E975DA4ACA09AEF66535E636E7D48F"
+				"download" "D2970955EB5236C4793BFAF3C7144F4C"
+			}
+		}
+	}
+	"107415"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1764291253901660340"
+				"size" "69381225"
+				"download" "18149040"
+			}
+			"development"
+			{
+				"gid" "1069524708339848738"
+				"size" "69780073"
+				"download" "18284448"
+			}
+			"profiling"
+			{
+				"gid" "1764291253901660340"
+				"size" "69381225"
+				"download" "18149040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "E68E65AD38E0E7B0942DB7B276137DFA"
+				"size" "C802A8DD42887DB5D55CCF892E475BD4"
+				"download" "F2874562456EB1B3EA32FE707C111D28"
+			}
+			"legacy"
+			{
+				"gid" "BC04DF09F70E9B2C774AAEFE2B6427E1"
+				"size" "D61C9CDD4707114DD97AA6ACAF0B9395"
+				"download" "32F65EC2D2E78399242868BF8E5446CC"
+			}
+			"legacyports"
+			{
+				"gid" "7AC597BFD9CBD8FDC702CFAD673CB5DA"
+				"size" "80EA292D67496958C652DF27C29A0666"
+				"download" "81EC87C825DD2BC4148C599FD76D7820"
+			}
+			"m_test"
+			{
+				"gid" "F788A02B9349B90B1465E090EEF2BC2D"
+				"size" "08772845C9ED26E13BD223B3AD03439D"
+				"download" "AF9262CF9A7D82A4FFEB0D7EEEE448B9"
+			}
+			"temp"
+			{
+				"gid" "68693AA98BC61DC24A58A95DCC6D67CD"
+				"size" "C4611C965526C4B98DDE5468B825AB82"
+				"download" "97C902B38EE62ADA5FF431E2E2D78689"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "F9533A373DF19A9247CF59A9D93C644A"
+				"size" "C3C030F02091A534BF9EFFFED22EA60B"
+				"download" "B679BFD15031F4763C8A8E0ED80E6141"
+			}
+			"content_licensing"
+			{
+				"gid" "7459EBB34439BE8471BEE40E9CA6F619"
+				"size" "95531949EB0D864AA74F4149D5D399C0"
+				"download" "306FB639BBE7DB92C1B19C5E188F0451"
+			}
+			"development_staging"
+			{
+				"gid" "BF85F10528D75CD753D756E91BBD3185"
+				"size" "11776361468BAA32B1388918B8C123A2"
+				"download" "943B0A0FEB7D1F03C23D18A030B09CB1"
+			}
+		}
+	}
+	"107417"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2353215839742586941"
+				"size" "69782496"
+				"download" "18162032"
+			}
+			"development"
+			{
+				"gid" "2404070289066034719"
+				"size" "70181344"
+				"download" "18297232"
+			}
+			"profiling"
+			{
+				"gid" "2353215839742586941"
+				"size" "69782496"
+				"download" "18162032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "50E590FCB5D40C215D64C2C27F8512D5"
+				"size" "BE774C328D1E40802E64C4EDD603CA37"
+				"download" "F4B164103056EC67A79F125F9AB81615"
+			}
+			"legacy"
+			{
+				"gid" "181E5BA917EAC4504B03E019A61C5F76"
+				"size" "1DE419BDB547B3AD70E1F6E09C62C548"
+				"download" "C84A06C789980E007E9AC61010CBD799"
+			}
+			"legacyports"
+			{
+				"gid" "22A4DF7A9052A7E7FE02475954FB6205"
+				"size" "05F4C170B5EDACFBDF636FAEB834D5AE"
+				"download" "C76FA5CF603EA5FF1E631926B86C04C0"
+			}
+			"m_test"
+			{
+				"gid" "B1212925AFC5E8FF0A1D6EA8907DD3ED"
+				"size" "E5F9436EDE62C6DEAA57465E2848EFDB"
+				"download" "AB94730883CABD0EB571B5F8D967DD98"
+			}
+			"temp"
+			{
+				"gid" "6DCB96F904655F3D08C615AFA742C2E5"
+				"size" "D52A8F4FCC339D3888D47F69B10E49E5"
+				"download" "2B0FEF34242443CD2B038023A2CDA47F"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "35393A729D0C5CF0871C2FDCACF484FA"
+				"size" "62717D7C6A7AE3B12084772913B1EE3F"
+				"download" "BB40553FC40863D66EB0742340EC1B73"
+			}
+			"content_licensing"
+			{
+				"gid" "97F3A668DE3FAC6AE69389809066332B"
+				"size" "FA3346C0D8CF62F0E9DCE799921385E7"
+				"download" "901592EDFC56EA7B7B1A29C024D19D1C"
+			}
+			"development_staging"
+			{
+				"gid" "3D1BB6A448E7A64254F508205B8EF871"
+				"size" "BEEB23895F254C92060CAC63934CDE58"
+				"download" "D7C5A856D0053459B91B666C92110665"
+			}
+		}
+	}
+	"249506"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2104226162394599274"
+				"size" "61735608"
+				"download" "12361040"
+			}
+			"development"
+			{
+				"gid" "8819540184659496640"
+				"size" "43975302"
+				"download" "15299664"
+			}
+			"profiling"
+			{
+				"gid" "8864066725780603641"
+				"size" "61632748"
+				"download" "19641168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "6ADA6EE5F23903D0C1EA1626ED1B1B23"
+				"size" "4AD0AD6A03C794DDD57708BC24D6D658"
+				"download" "6F432A4D6ACCE86FA2D521DF80DC2B63"
+			}
+			"legacy"
+			{
+				"gid" "CC28C3D41A16EFC13A57ADAF0B00EFA1"
+				"size" "4FB366AD6AFBB038D964EF76C854B75F"
+				"download" "AE49532BFAF8F70CDEEC7A6A50A075BE"
+			}
+			"legacyports"
+			{
+				"gid" "73CDCEC6417DAB6E7BA2A8400E077EF8"
+				"size" "C950D06DDAC868B6DAFA9D87480179D9"
+				"download" "8CAA2325BBC9CDA18655A988F4EFFA7B"
+			}
+			"m_test"
+			{
+				"gid" "532BBA49BD7C131AAAAB0F09D90BC13E"
+				"size" "90A76BA7E62AC6095C1A006A8365A894"
+				"download" "3F306E025A798BFDBDC2DCEF0195D90F"
+			}
+			"temp"
+			{
+				"gid" "694C4D77ED444FF5D565AFC5D4BB4A41"
+				"size" "AC4D7DB7D28046776C3AF5059EBF89E6"
+				"download" "C022923C9905AC6B3E6EA37B7A211B4B"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "D18248E8D68624A2BF47F026F0F8B527"
+				"size" "62B0B877A127C70BCDFC7A979FF0E674"
+				"download" "39C703316226D078542B93F0684EDE04"
+			}
+			"content_licensing"
+			{
+				"gid" "6B1C797CEB0E89AFC1E84119F194D6C0"
+				"size" "C103AA852A12E824A44E74455A170059"
+				"download" "973752FD441A82D26A87855744BB7135"
+			}
+			"development_staging"
+			{
+				"gid" "601F1BF2B7FA76229E3399BAB3D83948"
+				"size" "8C0AF41C7AF0C31AC815AAFDA5B2F55D"
+				"download" "495926D92CD7D4AE647B2DF8C991DFE7"
+			}
+		}
+	}
+	"107420"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7053381975926971498"
+				"size" "8323105"
+				"download" "8356416"
+			}
+			"development"
+			{
+				"gid" "7053381975926971498"
+				"size" "8323105"
+				"download" "8356416"
+			}
+			"profiling"
+			{
+				"gid" "7053381975926971498"
+				"size" "8323105"
+				"download" "8356416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "B8B6A5310B35615D4FC46F921ED9D6FA"
+				"size" "83FDC810E25B79360E8477F65D3C177A"
+				"download" "4E4C15EC7E188E3F1710CA672239DE87"
+			}
+			"legacy"
+			{
+				"gid" "D7435B34F78401663D66BB0122B1FBF5"
+				"size" "3C732C3251F03AA074AD7CF35228A7B1"
+				"download" "1258A8717B2FA680B842312A79D74740"
+			}
+			"legacyports"
+			{
+				"gid" "909EDEC0CD9D13016D78879EC02DA52A"
+				"size" "FD69704E448A346100712912E7EE20F7"
+				"download" "0CB3C1B81E585F0FBDA76BCE627ECC2C"
+			}
+			"m_test"
+			{
+				"gid" "B6803EF1292FD6E2771F2C00670A0F7E"
+				"size" "B2E0CCC3030104D5E7C479705C17393D"
+				"download" "CAC949C2F64A1E0A911EE3627B400DBF"
+			}
+			"temp"
+			{
+				"gid" "9CE5D671F53F1D4893F395367DDA4423"
+				"size" "46ACCE3AB270770F43E342A3FB3B0672"
+				"download" "31900F339A468752AEBE41B568AA9B81"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "27990E09DFACAD0501F0BB0D1D4D627A"
+				"size" "3033EBB7A93B5F80E629F7FE98755362"
+				"download" "20E652CB8A5796ABAF93FE103479BE19"
+			}
+			"content_licensing"
+			{
+				"gid" "D412F411A00041F50C66C7FBD1D7DB76"
+				"size" "0EEF0CECAC27868BD5DD5AB54041075E"
+				"download" "A7B8031CD386201F447F516EB5B6D45C"
+			}
+			"development_staging"
+			{
+				"gid" "3D2FC96A6B45C80508573793CEBAB767"
+				"size" "DCA45F2DF10D0409B0C0480099279EAD"
+				"download" "0CD299F8340B65508F68E367CD5FD34D"
+			}
+		}
+	}
+	"107421"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2479538286611674481"
+				"size" "7926395"
+				"download" "7952256"
+			}
+			"development"
+			{
+				"gid" "2479538286611674481"
+				"size" "7926395"
+				"download" "7952256"
+			}
+			"profiling"
+			{
+				"gid" "2479538286611674481"
+				"size" "7926395"
+				"download" "7952256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "9AC890473D1E4ABD0114240DD08DFD35"
+				"size" "9A21CC7272855BF6F3DDCD0D296C78F2"
+				"download" "700FBC095C0E01999C047807695B17A7"
+			}
+			"legacy"
+			{
+				"gid" "ADAE0C4F4E684B5B9F53B88030E3BC14"
+				"size" "E9A35C7730BE4FB551E1D4CFF6643012"
+				"download" "D64F3772A1E5EB3FC0D275E32788348F"
+			}
+			"legacyports"
+			{
+				"gid" "7C7CFCAF61F4685B5F98AFDE3F5B0D22"
+				"size" "D08971332028687BB4E1432F7D964E28"
+				"download" "5DF0B1C2867166E74BCD0DDFBB1623A1"
+			}
+			"m_test"
+			{
+				"gid" "64DD4F3AE41B42DCC9534883BD414066"
+				"size" "3EB21F19ABA0E67E71C566398E6E2B17"
+				"download" "C354A14B569ACDE6FBAC036A7F34EB57"
+			}
+			"temp"
+			{
+				"gid" "E15674083CC86637F0C3F9BA87DE67E0"
+				"size" "4BC4E431099EBD65F880C1AC412BB97F"
+				"download" "B027AF049446F50B3BB92191428E20ED"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "F8712E778AD608901D64FA368ADF2EF1"
+				"size" "E2528F31AC933B35479ACDC608890C1F"
+				"download" "B27F324FE6EF68435D36AA882ACC380F"
+			}
+			"content_licensing"
+			{
+				"gid" "9AD1D6C723191153E3EDAED6EC55755D"
+				"size" "656F798DC71ECB8A1BE3D069C9CC8E96"
+				"download" "78F2C838FBD8803B0FFD4C02D67E5EB5"
+			}
+			"development_staging"
+			{
+				"gid" "16BC639151D678D5CD5EE3BC33AD7404"
+				"size" "C530D69BBEABD92449CFCB11E8641B41"
+				"download" "247D2FC7973D4E060F8F75AD7EA54008"
+			}
+		}
+	}
+	"107422"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "694831486858131928"
+				"size" "7927043"
+				"download" "7953520"
+			}
+			"development"
+			{
+				"gid" "694831486858131928"
+				"size" "7927043"
+				"download" "7953520"
+			}
+			"profiling"
+			{
+				"gid" "694831486858131928"
+				"size" "7927043"
+				"download" "7953520"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "8AF84C10AF26AD93D3E2198BF0B6D98B"
+				"size" "8DC5333582BC8513B8E69EE80AA26A4B"
+				"download" "AC1ED0EF7A4A5EF0F784C057E9782F74"
+			}
+			"legacy"
+			{
+				"gid" "1AF5837A92084152D1B6E80FAC553174"
+				"size" "456D5D2517500DFE53704E2A0E54949F"
+				"download" "7B650C1820A1402FE3AD124B90BF4C29"
+			}
+			"legacyports"
+			{
+				"gid" "F3002B5C7937023DD8ED47EEB0B23819"
+				"size" "046D6D445D4A510A6644DA8ABA4D2E3E"
+				"download" "7F23CF1C6A7263F20B1A1DA041FF75CD"
+			}
+			"m_test"
+			{
+				"gid" "DA9F711C708D2369321FCE881E84E204"
+				"size" "D37A2FA900BA46CB4C26DC1DDFB968C4"
+				"download" "E78A2A1B6623846669939760C588D546"
+			}
+			"temp"
+			{
+				"gid" "D026DC27DE452129B0F01C62E16DF5FE"
+				"size" "656DA6726F74E9AC07FBC81934A6CA27"
+				"download" "B7E3183A5696CA19D65845D6CD57445A"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "AB4E118E1E9A6C473FCC6FEE475EB9B0"
+				"size" "3D1A63E0112809BE93D392CF062E6EE4"
+				"download" "4F121EE9CA8E22FDF0B39C89184ECC83"
+			}
+			"content_licensing"
+			{
+				"gid" "037021A90544067940CCA9555483B26B"
+				"size" "563921972FD73750B7085B1EA8B096D4"
+				"download" "2794004DC9F2984BAC55D790C5147EAE"
+			}
+			"development_staging"
+			{
+				"gid" "AF37F0873B5B8E314B514324F18ED863"
+				"size" "8661C18D42D84ECE54D012DCE80215A7"
+				"download" "5D7C6B1621048BB15B136355FC59E9C7"
+			}
+		}
+	}
+	"107423"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5294990231226172562"
+				"size" "7923976"
+				"download" "7950320"
+			}
+			"development"
+			{
+				"gid" "5294990231226172562"
+				"size" "7923976"
+				"download" "7950320"
+			}
+			"profiling"
+			{
+				"gid" "5294990231226172562"
+				"size" "7923976"
+				"download" "7950320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "E1270453D4241F5196FBE6EF15C6327B"
+				"size" "7F360C62752177A5D85924A30108E672"
+				"download" "B1D2260E1F905F90E1D99CAD080EA5EA"
+			}
+			"legacy"
+			{
+				"gid" "524E8CD655C198431B59AA133976F59F"
+				"size" "71206FD02188AE06B48D3922138AB368"
+				"download" "9323D2B389AD97E5523ED3B4C0A530AC"
+			}
+			"legacyports"
+			{
+				"gid" "2D6A9EADB65F4642D9D0680CDD191EFB"
+				"size" "3C8382EE05348712CFCFD01DF258C6F3"
+				"download" "3ED2142C8D3D7ECC52B7D1417DD45E27"
+			}
+			"m_test"
+			{
+				"gid" "99B816F195F16BE8D641B3848E4C6E63"
+				"size" "7C78413EB80E5D688C6C940FDAAC41E1"
+				"download" "B7A8C57D0FE644DD4402B26B0A3C6CB7"
+			}
+			"temp"
+			{
+				"gid" "893EC63853E629526D0B466F81262B63"
+				"size" "EA0D3890385AD8AE8C3525AB995B5E3B"
+				"download" "668DBAC23EF4773CE1845CD95385A566"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "0203FE50D8BC3C32B3A51B6C96249510"
+				"size" "ED693B6D355213B37279422124E07FD3"
+				"download" "B5CBFDC2315AD0B809AB783629B90622"
+			}
+			"content_licensing"
+			{
+				"gid" "4C51CA6C838D65E9E7D143CC94828825"
+				"size" "CC5C54529DD450D1794425690A9A61EB"
+				"download" "F48E17343E94BEBCC4FBEDE236FBD327"
+			}
+			"development_staging"
+			{
+				"gid" "D92CA49C95FE02FAE76C6173309CD1F8"
+				"size" "898F94F6AB43A592F406FD8642832349"
+				"download" "12C93E4139196F759A01AF1A2910E322"
+			}
+		}
+	}
+	"107424"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3395489159717928684"
+				"size" "7929667"
+				"download" "7955904"
+			}
+			"development"
+			{
+				"gid" "3395489159717928684"
+				"size" "7929667"
+				"download" "7955904"
+			}
+			"profiling"
+			{
+				"gid" "3395489159717928684"
+				"size" "7929667"
+				"download" "7955904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "976093B4E561F0A5F418BEDE17AD99E0"
+				"size" "CEF96F1642A2640BB1A72FCDB8F3EE64"
+				"download" "BF5782C1A2CD51699349EC778F4F4190"
+			}
+			"legacy"
+			{
+				"gid" "34FB8942738E4FBFB404604F6BEC935A"
+				"size" "A30C75CAD62F987EEEC1436F36579C07"
+				"download" "1012056585B4CD2A6E1DA4CCEFBAD036"
+			}
+			"legacyports"
+			{
+				"gid" "B8565D8E05E998AEC444FF099CCDC6B0"
+				"size" "ABAC11A7EFA67DF71DBF4B3426512181"
+				"download" "3F2DAE42F60BD25BEC19E4178FDDD608"
+			}
+			"m_test"
+			{
+				"gid" "042B9203BEBB1B81FD17D16014666741"
+				"size" "1D8CFEB811EB3498145CDE00B66D1CFB"
+				"download" "D2D8B43DCF737DCFB04550445FF5C5C4"
+			}
+			"temp"
+			{
+				"gid" "213092F368955859D54E55A3978821A3"
+				"size" "788BFB9B0F29BF8CE768D0AA73FA5CFF"
+				"download" "E51B9B61E3B3970ACFE6EC82C8DC0FED"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "2E57704FF00618DED9382E0D82F71549"
+				"size" "B73D3C4A189503F5953E589E73A6637C"
+				"download" "19031E95011A56AF2D14B76F525F73E1"
+			}
+			"content_licensing"
+			{
+				"gid" "CF2C7FB675547824AD52D986672FB1BE"
+				"size" "5BB6E2050C29B3119E77BFD0B76E8751"
+				"download" "505C54E8ACFA28A8D42B59EB807B9787"
+			}
+			"development_staging"
+			{
+				"gid" "93E1621878F78BCC12B4656B1F250B12"
+				"size" "DDBA460E710770E649A8CC957BB5AF32"
+				"download" "F215E5ED6AD9B66DE93D608A4AD4DA26"
+			}
+		}
+	}
+	"107425"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4906889931917921096"
+				"size" "8027541"
+				"download" "8054576"
+			}
+			"development"
+			{
+				"gid" "4906889931917921096"
+				"size" "8027541"
+				"download" "8054576"
+			}
+			"profiling"
+			{
+				"gid" "4906889931917921096"
+				"size" "8027541"
+				"download" "8054576"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "06FDB33D68EE68370A7EB55007026110"
+				"size" "1E5044EE6D89131616191FB6EC3A24FF"
+				"download" "40826A3E4B58A5D6D4F332BDA0441DA9"
+			}
+			"legacy"
+			{
+				"gid" "29D1D390013F167AC60862BFA739A9A4"
+				"size" "A46B4240A7A8E9B4066781BB1DCAF3A8"
+				"download" "9E30DD211C594F0FF2179404BD8EB33A"
+			}
+			"legacyports"
+			{
+				"gid" "A3966A4E37A73B9D2C112627C2F56704"
+				"size" "1194A5491FE0B2A9E1E9E6926A880E7D"
+				"download" "FA5D4F1A61798018B6AC946265ED5A1E"
+			}
+			"m_test"
+			{
+				"gid" "7F6E52F9562D39A577C53C883AB80AA7"
+				"size" "0EB712847B4A3F225DFCB879929B24EC"
+				"download" "F1ECC38E3CAF3DE1B8974AC97316ED63"
+			}
+			"temp"
+			{
+				"gid" "254818EE2393CD5D6DDE2DAF6E00C367"
+				"size" "A3B70EC5FA5796F2BB5586D4D474CB56"
+				"download" "A95182BBB11CE0CA0D22DF8B3EAA154C"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "1943DDDE7E88C08947AAB6ABD4DBD585"
+				"size" "ADCA3D0D4BC5B91A03DD52DAC0B8996C"
+				"download" "36D5AFF057857E93521B901DE9459DF1"
+			}
+			"content_licensing"
+			{
+				"gid" "69FBE4EE24E64431854097113BADB8A5"
+				"size" "6C3E1635C65BA1AA909EC58BA69869A7"
+				"download" "C469A81DB48092633C5E8FBC26F3C6E8"
+			}
+			"development_staging"
+			{
+				"gid" "D70B9E500D1C1B6E3766EFC466FD7146"
+				"size" "6435549766FA4FAF5BAA64ECA9DEA9A7"
+				"download" "30C9CB27625C44F2AF63C9D49B9112BF"
+			}
+		}
+	}
+	"107426"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4684404531445583131"
+				"size" "7958426"
+				"download" "7983904"
+			}
+			"development"
+			{
+				"gid" "4684404531445583131"
+				"size" "7958426"
+				"download" "7983904"
+			}
+			"profiling"
+			{
+				"gid" "4684404531445583131"
+				"size" "7958426"
+				"download" "7983904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "4C267A072E3CF99B59BC89600055C8A8"
+				"size" "A025761B207C75743999CCA7EEA5E177"
+				"download" "CDDD5DAA289C7CB1556392D8561452B6"
+			}
+			"legacy"
+			{
+				"gid" "730C5BB341DA6ED270257027E34A35BD"
+				"size" "BB86230BD4FD3C10537070B47CD0CCD0"
+				"download" "82717FF0BD4D9CF9CF5F28EC7AAD0518"
+			}
+			"legacyports"
+			{
+				"gid" "EC79E66B6D60AAB8D0631E5349BCB8E0"
+				"size" "7F422EBD414B3F493EBB93FBCFD4F4A3"
+				"download" "722D5895E8676603287E3B3C196A2A79"
+			}
+			"m_test"
+			{
+				"gid" "7B607A8A11DD6F61F8DBC06DD5A4E232"
+				"size" "90CB893B843380BB61BB5B9B7696B9DB"
+				"download" "28E1B8FC6B2E85BC92E78C8BC4D20F27"
+			}
+			"temp"
+			{
+				"gid" "764105A3390886F34174BBFAAA9D9AB9"
+				"size" "278CDF3C9AE8E9122604A5530258F0BE"
+				"download" "FDF583E5DE62A65C7DC85E0F784230FC"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "A9DC4B0B69F09E64B83442EADFC0DB41"
+				"size" "F0A2E3D6AC8C65ADEF51107F8BF253EB"
+				"download" "BBB55597C6F2F5FE645DD6A07A032932"
+			}
+			"content_licensing"
+			{
+				"gid" "8226F9F937A5322159F2167C562F4BB5"
+				"size" "75C17D4B71596F88DB8E89673A2C720E"
+				"download" "5AFCD43200A1B2F8231683464E3D29B7"
+			}
+			"development_staging"
+			{
+				"gid" "35BCE4EE301ED6F818C4212D718038F0"
+				"size" "85D60B1304236702EE10ECB6F4CDAADB"
+				"download" "8BDC83A103DB7EBCD5B34E491BF72C7B"
+			}
+		}
+	}
+	"107427"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8406091474147147301"
+				"size" "7931130"
+				"download" "7957744"
+			}
+			"development"
+			{
+				"gid" "8406091474147147301"
+				"size" "7931130"
+				"download" "7957744"
+			}
+			"profiling"
+			{
+				"gid" "8406091474147147301"
+				"size" "7931130"
+				"download" "7957744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "9A52FFE22E687178BA401B321E251C5E"
+				"size" "3626DFE5C2042F55825B59012C16FA8A"
+				"download" "06570AC0ACB29238C7C522029BFF9718"
+			}
+			"legacy"
+			{
+				"gid" "9C69578AE6DF695E7D8CB09D1A5B6465"
+				"size" "6540772D61F6E53A614240378454E322"
+				"download" "D635EFF610482EB5781CF96B7734478A"
+			}
+			"legacyports"
+			{
+				"gid" "628CD7884453ADF2A73C828717A2560A"
+				"size" "8242CF3348A41973311327F28B3465F5"
+				"download" "58FBB8AEECB4E757C7A931D699F9B4C3"
+			}
+			"m_test"
+			{
+				"gid" "8400568E7A54E5EC6863006E00D80540"
+				"size" "6B567A4648C1B6B7C3516E929E15EC7E"
+				"download" "B2E01158856E5CDA4520E0207C9A9358"
+			}
+			"temp"
+			{
+				"gid" "293EFA216886226139597A6304DF00DD"
+				"size" "B49DF9E9306C21FDFF26F9E8A43975AC"
+				"download" "E5AAF868913E12EDD71EC6D8B294C015"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "5AB8A96A6F7E47E8891EC73847E620FA"
+				"size" "DBA55ECC3EF32FF456E43DCE7AF0EB67"
+				"download" "236D6D7E2B0BA973822E9414FB478BDA"
+			}
+			"content_licensing"
+			{
+				"gid" "E9DBD7955DD0A47CB4ECFA62AD56C7F8"
+				"size" "CF97AB13B9479A989AFD62395A50911D"
+				"download" "8AF307723EFFF416C1BF5CC76E5D2C79"
+			}
+			"development_staging"
+			{
+				"gid" "F64473D3B526655423F3966841061B14"
+				"size" "F5555D4D3BDB0176E71DADC286FB457A"
+				"download" "5C41962902C8CD61EDB77899E0B455BE"
+			}
+		}
+	}
+	"107428"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5514411074045516159"
+				"size" "7928022"
+				"download" "7953984"
+			}
+			"development"
+			{
+				"gid" "5514411074045516159"
+				"size" "7928022"
+				"download" "7953984"
+			}
+			"profiling"
+			{
+				"gid" "5514411074045516159"
+				"size" "7928022"
+				"download" "7953984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "A4D8E91159849A6F0EDF6EC314D504EB"
+				"size" "8A50EDBBB438B9322BE5D66648A76845"
+				"download" "B4138BF2856A850260284B7483D355E3"
+			}
+			"legacy"
+			{
+				"gid" "1732B97ED8058C7B4E57B1A5C44E7FD0"
+				"size" "365316CD61C867B6C36D8123DCBC92A4"
+				"download" "CB2FA478E112B4C8EC8BFB4B0BBD9E05"
+			}
+			"legacyports"
+			{
+				"gid" "90A22CFFA35E82C169D1010ACE32FDE1"
+				"size" "21E308BFD8E5763E354B01BD5FECDF38"
+				"download" "44BA48B90BDB95AA55582304197453FF"
+			}
+			"m_test"
+			{
+				"gid" "C7F348D3D0ABFFA1A57BF4BD1CCAA40E"
+				"size" "4B57CC5EA7BAADB0083F5D991E11B114"
+				"download" "B8D88556FADE357A601CDE2A211286B3"
+			}
+			"temp"
+			{
+				"gid" "A227FA35EE058E562C825F29D0ED3734"
+				"size" "6D7B09EB182E911D70DAB51E621DD06C"
+				"download" "32F9D4B7BAA1F0C19BC27F1FE281C8E9"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "15C88B52D2A336A1D0ADFB542FFF12C5"
+				"size" "3ADB2620D74AA0EA860485A513F69FBA"
+				"download" "97D74D3CECAE23C3C5FD03F815A2E8B3"
+			}
+			"content_licensing"
+			{
+				"gid" "45672751D25B5418D89B2A5BA6A4FE24"
+				"size" "38D844AD88173D4F0B644F42C6CF2C3D"
+				"download" "88B995DD6FA8D3FBA4B74F3C1E72A453"
+			}
+			"development_staging"
+			{
+				"gid" "63F3342B49D1019E534F4C148579EB7D"
+				"size" "5656B4D28AE29905FED1ADA2A1B9FC29"
+				"download" "AE5566308A827DE690026F8A916D92D7"
+			}
+		}
+	}
+	"107429"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9165345853969700754"
+				"size" "8654136"
+				"download" "8689200"
+			}
+			"development"
+			{
+				"gid" "9165345853969700754"
+				"size" "8654136"
+				"download" "8689200"
+			}
+			"profiling"
+			{
+				"gid" "9165345853969700754"
+				"size" "8654136"
+				"download" "8689200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "A61DBE15857975EE778323445B909593"
+				"size" "60A54F4626673A50A163B2F3A2CD9907"
+				"download" "F0E838E32AF38CF9D110778BA2794282"
+			}
+			"legacy"
+			{
+				"gid" "2E9DCC82430D885DEDA7B2E5F85E78F8"
+				"size" "FAFD50FDB357FBDD61979AA45DA72DC0"
+				"download" "F8BF2E76B211596FFC72B0194B6FF823"
+			}
+			"legacyports"
+			{
+				"gid" "63E3A076AC76D871660969ADE942E0B2"
+				"size" "FD3EFC899A9A0EA8B02B742007EDD280"
+				"download" "EAF90C8C8CD4B3AB4714DE4CFDC9A07C"
+			}
+			"m_test"
+			{
+				"gid" "5A6C4A6DF034065B73FEC4A55B8B54FE"
+				"size" "946A7FDB14247DCC63E0C8152B6D6A18"
+				"download" "D033BE6CB6BDECBBA9ECB4AA59B991C9"
+			}
+			"temp"
+			{
+				"gid" "2B2526C6FCF81FB41A9B1888D9B73A4C"
+				"size" "DF024E4D8CC0787112A85E7C6B806B8E"
+				"download" "B25B012698FB2707887836AE48DAB531"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "AF6B2554E95325A6FC4AFB822765EA86"
+				"size" "4D4D608D70A215ECA7D906678F96DC02"
+				"download" "A347D899D905EF204CA2D3E5FDBC500D"
+			}
+			"content_licensing"
+			{
+				"gid" "4FC95AD8DD066CDC14D911765F9C7B87"
+				"size" "5386E382145167E6BE29310CEF6FF8ED"
+				"download" "28D4C44CA6D1A045F5C7F5800EBCA6FC"
+			}
+			"development_staging"
+			{
+				"gid" "C2AA3C83AEF5D23638530A130434EC20"
+				"size" "D5487E8B7595B3EB1705F6616A89D4B6"
+				"download" "CEE2F5DFBA681CB2421ED1A12CA644DC"
+			}
+		}
+	}
+	"249501"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8720942636409428537"
+				"size" "8774402"
+				"download" "8808896"
+			}
+			"development"
+			{
+				"gid" "8720942636409428537"
+				"size" "8774402"
+				"download" "8808896"
+			}
+			"profiling"
+			{
+				"gid" "8720942636409428537"
+				"size" "8774402"
+				"download" "8808896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "8B2CF9D0DB9A018A73EF7DEB4AF3032A"
+				"size" "4BDC63C8297122F94A709274B2BF5B56"
+				"download" "C1A3B4B312387B759F7255311F0AD597"
+			}
+			"legacy"
+			{
+				"gid" "E87E60CEDA9A5B7A1E8D866EDB9D54A4"
+				"size" "A0B9D4327C5DB34B750E3AAB4F06B603"
+				"download" "5DA830F643233E8A28C38A4840897873"
+			}
+			"legacyports"
+			{
+				"gid" "65A04F47BF219F62767625C97C8A6458"
+				"size" "545C62E8120B55596E8FA1035E3AD550"
+				"download" "763F66376EEBE386182120B34DC560D9"
+			}
+			"m_test"
+			{
+				"gid" "6C7D1582D8DA5FD285A54511F3D46410"
+				"size" "983115EBD1601225724B5DDC9CDBAE2E"
+				"download" "D0B89535B26B9D7464D8C2654F7F9B82"
+			}
+			"temp"
+			{
+				"gid" "EAC1C6EE952B3EDE0DF1A6364B156787"
+				"size" "05F34B8E900860B7CEE4861CB9BE67B2"
+				"download" "65CF4703819C08655F87E532203F718D"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "9731C24DA4AFF1FCB70858BBEFC554D5"
+				"size" "A125690BD3EF050161A6E48D20658026"
+				"download" "DD69476843B3042BC0FB9EE6E2F15EF4"
+			}
+			"content_licensing"
+			{
+				"gid" "7AFDC7F949E5D99310B0909C460A1370"
+				"size" "156BBD68BC2701E3DF68F0C042854D89"
+				"download" "A2950614E9E5A5455A103B72B026F48B"
+			}
+			"development_staging"
+			{
+				"gid" "5BF065AE8DDA6D61B17E20FF1BAAD0FA"
+				"size" "9464DCF29AB61483D5C9F8A70A7DE138"
+				"download" "21BE459AFB6BF2151225F74509E80170"
+			}
+		}
+	}
+	"249510"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6620680010375519103"
+				"size" "5763293"
+				"download" "5821376"
+			}
+			"development"
+			{
+				"gid" "6620680010375519103"
+				"size" "5763293"
+				"download" "5821376"
+			}
+			"profiling"
+			{
+				"gid" "6620680010375519103"
+				"size" "5763293"
+				"download" "5821376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "145BAA94CF1222A59B85591E85C6E859"
+				"size" "B794637BC5EE4E50071185B092E05CA0"
+				"download" "B90E189438FA929A2AD3099F4181E828"
+			}
+			"legacy"
+			{
+				"gid" "74DB9CC62BE639B8E41A6BB1D3357805"
+				"size" "436B10CCC996327630E7C040B740387E"
+				"download" "EA675AAC4FDFA8E1A8732C8D2A83A9F8"
+			}
+			"legacyports"
+			{
+				"gid" "6FFFCCB82F1E673AD62AA7019CBEA2D1"
+				"size" "9953F0EAC97B99EEA173151AB7CE2736"
+				"download" "3165A7A85B222648D872E0F4F3103EBF"
+			}
+			"m_test"
+			{
+				"gid" "C62DF47518C8A7068DFA7882EACB44F3"
+				"size" "93CC0897EDEC11A6FAE88B68C8566711"
+				"download" "1F89C10023214E5576FA7624B9538F6E"
+			}
+			"temp"
+			{
+				"gid" "645C87918047D63F008AE043D46BB2B8"
+				"size" "400EF85F8AC041CA80AFF6750ED0DE91"
+				"download" "81A21779F30826A4A6E8A484AE1D3D3E"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "9147AB1A582C321E7F059DB27708F253"
+				"size" "C5DC8955FB928B24353ACBE14B010338"
+				"download" "7F502A6308CDA39412D09FD997BC12AA"
+			}
+			"content_licensing"
+			{
+				"gid" "8DBD246B293755D928531160C04205F6"
+				"size" "47450E442C311273BBF57CA91D8F7E55"
+				"download" "3D0DC1987F6E78EEA8392C75D4505E75"
+			}
+			"development_staging"
+			{
+				"gid" "CE032CEA034A2CFB492510C0134FF759"
+				"size" "EAF8CE459F869B995A8EF6B7F4ACDA0B"
+				"download" "6F9A08236CB1601C0F671D77B484E7BC"
+			}
+		}
+	}
+	"249511"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2843568687622074286"
+				"size" "5897616"
+				"download" "5957888"
+			}
+			"development"
+			{
+				"gid" "2843568687622074286"
+				"size" "5897616"
+				"download" "5957888"
+			}
+			"profiling"
+			{
+				"gid" "2843568687622074286"
+				"size" "5897616"
+				"download" "5957888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "383F481EA7DED211F07516C438A97D8C"
+				"size" "12A99C5EC5E3CE38327126D6C9D676FD"
+				"download" "BBC58F9BE5C15ED7EA378D86CF98DA7C"
+			}
+			"legacy"
+			{
+				"gid" "F18D841A7ECBCE9214505766FC865418"
+				"size" "D11B7E0B72ECD2D8B616BB293F6220CA"
+				"download" "217EC87731ED1665F32936A687C3867C"
+			}
+			"legacyports"
+			{
+				"gid" "7F9CDE51AD81C0D2295C18D2BA42A2BA"
+				"size" "8E6729D7690FF663479F5BD4E59372FE"
+				"download" "AECD1430E2DE725FE6F3015FA05A8D0A"
+			}
+			"m_test"
+			{
+				"gid" "1F8CD91D6717BFA7A629BF0F0766F086"
+				"size" "0B79FD20D74E7BD975BA3321878D8ED0"
+				"download" "B7A8407E7DAEF7DBE179C60D4F2F086A"
+			}
+			"temp"
+			{
+				"gid" "386CABBF00A48C663B5D5D07FCFF31C2"
+				"size" "4D7B67E4F51C007DF52F6BB83E0FE09F"
+				"download" "FEDC4B43F3A899E7AA785A53BCBADCE5"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "40881FB54C507C506E85FE9945AFE048"
+				"size" "11ECE905E987E36E55EF9441D9329CA1"
+				"download" "10B2CF35F7445729AAAC9C760209E7E3"
+			}
+			"content_licensing"
+			{
+				"gid" "9C8DE94569E5A2EBAEB0BC2C6AE125B2"
+				"size" "4A40D4DBBB604EAF8B4097E05D3F0A5D"
+				"download" "7A1047455150553E920B1C73454EEEB6"
+			}
+			"development_staging"
+			{
+				"gid" "58E2445F2696C8AE9E074B2F6100A563"
+				"size" "16C60820BD263379C2E8BB41A12C185C"
+				"download" "2EDF8D40AECA457DDF859C6E1DDBACA5"
+			}
+		}
+	}
+	"249512"
+	{
+		"config"
+		{
+			"language" "turkish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4734283135240260657"
+				"size" "4115665"
+				"download" "4155120"
+			}
+			"development"
+			{
+				"gid" "4734283135240260657"
+				"size" "4115665"
+				"download" "4155120"
+			}
+			"profiling"
+			{
+				"gid" "4734283135240260657"
+				"size" "4115665"
+				"download" "4155120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "DBBDA063A9DAE73B823877C1061A439A"
+				"size" "0578E2EBC1A49F507B4143111D12263C"
+				"download" "32DDD682CC2BBB0FE8AB3F0A1A543BCA"
+			}
+			"legacy"
+			{
+				"gid" "86FC4D97E973F71E87EFF999D42120A5"
+				"size" "F0AEB618C69CBE69AC5B2BCFDA0C7ECA"
+				"download" "6EAFDB8204ED8F84DE87EF2B83996D6F"
+			}
+			"legacyports"
+			{
+				"gid" "F95BFD24B74BD38B48189BEBC1714400"
+				"size" "48CC8E074676FD62F2F18D3563A1FCA5"
+				"download" "896CC27A2C12A9418B2FB6594C7CFE17"
+			}
+			"m_test"
+			{
+				"gid" "5F264C88649039ABEB5B3D573B666B34"
+				"size" "9C2BFF10BA9C5209B8C6CBB5648D6903"
+				"download" "3BCD33122222E2437FD3AFF3EA30A18F"
+			}
+			"temp"
+			{
+				"gid" "77CA34EA7A6DE7139FCC5B60731EE47C"
+				"size" "2AAA24FEC672DA7B60C948A51F845612"
+				"download" "6C317F1D6003EAC5F7502912F27D14A3"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "DD199E56533CEA5C24FE1DBE8F82117C"
+				"size" "6FF5CBFC22D9AADBFE42E40D4C58F32E"
+				"download" "8210BF589AEEF5E2871E73B8F1F34F4A"
+			}
+			"content_licensing"
+			{
+				"gid" "BDC1E6BE52427D126F537623ECEBB385"
+				"size" "D7AD7C46E5BD59EDE99152583E6E45DF"
+				"download" "BC54726F42E86843DFBFCE48A732EECC"
+			}
+			"development_staging"
+			{
+				"gid" "47B82DD0258C5167A9FFDEFCEBE10A18"
+				"size" "F6B9D3E7D1ACAC191367AECE2C5AAFDF"
+				"download" "E360DC8CE97C377E11E74D811AE57E2D"
+			}
+		}
+	}
+	"249861"
+	{
+		"dlcappid" "249861"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4518665814873472898"
+				"size" "416957861"
+				"download" "420719152"
+			}
+			"development"
+			{
+				"gid" "4518665814873472898"
+				"size" "416957861"
+				"download" "420719152"
+			}
+			"profiling"
+			{
+				"gid" "4518665814873472898"
+				"size" "416957861"
+				"download" "420719152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "D7A6C579A99BBB947230DE58A7B7F0C4"
+				"size" "0D0D3E20BA316853F74CB24585E01023"
+				"download" "BDB5D5702888EDDE76BB98CCABFE3271"
+			}
+			"legacy"
+			{
+				"gid" "B5B3A1F72F3BE17D9D0B6E4627EDFC83"
+				"size" "B7C18B4BBD0E188CEB9F169364F792A1"
+				"download" "874B68A5210FF722E13B02D74A56C2FF"
+			}
+			"legacyports"
+			{
+				"gid" "289EB3C8A8B6AEA3CF655CD7AA92EF5F"
+				"size" "4359589719006E9271CCF58829DF6CE5"
+				"download" "2D18894457CFBDC43B79CA201A7301CA"
+			}
+			"m_test"
+			{
+				"gid" "BFEB3A9A2A4DCADDA4DDDB0E99C94C7C"
+				"size" "77C3CE8C75AC1AB8F59F51D5F02BCE9D"
+				"download" "090FE72DE50B826E3F150A842C0A67EF"
+			}
+			"temp"
+			{
+				"gid" "2389298883396055F813217653A09009"
+				"size" "773D9AEF192DBF8F8D76CD0D19B1F117"
+				"download" "0FDA47362095E589885A54662ADFB50A"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "73C77A89B076745C88548C535278EDED"
+				"size" "5B4A9B1C26839AB093652BB1486AD7DD"
+				"download" "CD0B497B35636C10EEE950DF5BF79681"
+			}
+			"content_licensing"
+			{
+				"gid" "218766ABB99319D2232AADDDCDB537DE"
+				"size" "7EAA4357C9C2A4C528CDD407D5325AC7"
+				"download" "578B3D14A280329228921DCC262F8E95"
+			}
+			"development_staging"
+			{
+				"gid" "E58004CCB1886849605C0C60DBBFD54F"
+				"size" "D46E1F98BD7C47974F1A43BFCD6A2FE0"
+				"download" "03E968511D3A96DFE3B08753CE59EFCF"
+			}
+		}
+	}
+	"249860"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7431003676632113359"
+				"size" "2236978896"
+				"download" "2187390224"
+			}
+			"development"
+			{
+				"gid" "7431003676632113359"
+				"size" "2236978896"
+				"download" "2187390224"
+			}
+			"profiling"
+			{
+				"gid" "7431003676632113359"
+				"size" "2236978896"
+				"download" "2187390224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "A5F9C922498B9CD30EF9BE0B031ACDA1"
+				"size" "4FE4FBF5511281F3C2475921627E6780"
+				"download" "6701B0B28D20D7F550F5191224640894"
+			}
+			"legacy"
+			{
+				"gid" "22EF69BC71BA0A740BE1AB00FCC84544"
+				"size" "2A248BD11B9971D596A1DA3837BF74EA"
+				"download" "A12668EC516FA1CDF9E52FA9BDDC1D57"
+			}
+			"legacyports"
+			{
+				"gid" "73A12FA8A19406750760F7A120DDFA74"
+				"size" "5D771E353D2D1CF2E367CD9ED7600943"
+				"download" "F40569D622F29F123E08422D0363D2C9"
+			}
+			"m_test"
+			{
+				"gid" "5C161480C7988D292CA190CC94029FCE"
+				"size" "E73D447F257E14FF1E649410A5C25903"
+				"download" "108985EF24EE0532754534E1E8B5EC0B"
+			}
+			"temp"
+			{
+				"gid" "8203A03885561B89DBDFDA9A15632F06"
+				"size" "16DE4FFAE34D0B98636B69E352A4A782"
+				"download" "006EEDD3D0D71EE67071F1DD0D12D331"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "7D8BFE498AB09AB3FC48F0CD2863EB3C"
+				"size" "87140F8578BEA73E43851684ACB6727A"
+				"download" "73C8EDC44467DE85F209D285BC772362"
+			}
+			"content_licensing"
+			{
+				"gid" "FBAAC5F3725BD6E7A94AE728325C351B"
+				"size" "BDBCA80FDE2F51D6AF9F9E39B1316D56"
+				"download" "EF6F5A02DC9C6A70C303E581165FCE88"
+			}
+			"development_staging"
+			{
+				"gid" "F8F1A250DB94C785F08DF9E552C0ADB8"
+				"size" "7D0EAF1548EA8FA63C4E2D93F83D3957"
+				"download" "EB8D1A7B5DD1315E2B0095FB2AF4AA0F"
+			}
+		}
+	}
+	"249862"
+	{
+		"dlcappid" "249862"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2738283997064954949"
+				"size" "75902607"
+				"download" "75877344"
+			}
+			"development"
+			{
+				"gid" "2738283997064954949"
+				"size" "75902607"
+				"download" "75877344"
+			}
+			"profiling"
+			{
+				"gid" "2738283997064954949"
+				"size" "75902607"
+				"download" "75877344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "A27CF19C0D41B56CDA80DCCF29221478"
+				"size" "2ECB416D96E0DDE6612ACC3049A36041"
+				"download" "114276C7FC832CB6DCF38545101E3C06"
+			}
+			"legacy"
+			{
+				"gid" "B34EDFAB3017BFE59538749BE2D553A9"
+				"size" "656FABEB5E02D269275BF208548BE54C"
+				"download" "0F2FAA9DB36E78B69C9C28D7DF68BA79"
+			}
+			"legacyports"
+			{
+				"gid" "620A31C926623C318A656CB88F3C0C0E"
+				"size" "B1C793ACB06621000506645C46101081"
+				"download" "D74FD47BAF2E33F2A68F0F427852A16F"
+			}
+			"m_test"
+			{
+				"gid" "47FBD62F0118DC70BEFA219016ED4189"
+				"size" "3A529C606F4F9CF15A002D4FF94EEDF1"
+				"download" "49C7A534AF50D269C0D9B1ED43D1D2BA"
+			}
+			"temp"
+			{
+				"gid" "F51364FEAA231E5AF7A48D581596D494"
+				"size" "1699DE2D0926D646B1DE61E1191F2FDF"
+				"download" "BE4F31F2902932F0BE005309A6F0ABBD"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "E9F9B7A992A2E7C21B015FF0293EDDE9"
+				"size" "167A404F719C77081ACEA0ED0D06A38C"
+				"download" "5CB6A83996058F029200773426495B24"
+			}
+			"content_licensing"
+			{
+				"gid" "2C23A34642DBAF935604B5CF41C1FC3B"
+				"size" "995831951572F061BA39A8851D7CADA6"
+				"download" "60E414947C2ADEE091EB2D986DE816BF"
+			}
+			"development_staging"
+			{
+				"gid" "EFF3C0B9BCD325FE7F0366F75B873A11"
+				"size" "016B1C32212620B95673416EA88BFD2E"
+				"download" "80641F16DFA622420F6B25C82CD8F21C"
+			}
+		}
+	}
+	"249503"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"profiling"
+			{
+				"gid" "7993476062000379135"
+				"size" "158922488"
+				"download" "48876688"
+			}
+		}
+	}
+	"249508"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3674795733102055421"
+				"size" "351166781"
+				"download" "82317792"
+			}
+			"development"
+			{
+				"gid" "1513013712340631823"
+				"size" "84068435"
+				"download" "30885520"
+			}
+			"profiling"
+			{
+				"gid" "3921353701532987746"
+				"size" "277238514"
+				"download" "63307408"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "85217456854A8DBF0ED72D59388C1E23"
+				"size" "E429AEB00022DB4DB7648421205AE3EA"
+				"download" "3E5F5CE4165A671E12CE10472D803D04"
+			}
+			"legacy"
+			{
+				"gid" "8A1FA426AF2D56BEF60698CDA3FF4036"
+				"size" "8A11BDC1933F7E9380E868B6E2D954E0"
+				"download" "98C155183E3326B177C57A8B14B65336"
+			}
+			"legacyports"
+			{
+				"gid" "CB9566AA80A7794D02BE51D52E431DC6"
+				"size" "647C7C9742D5719BF2F215650F7DCF50"
+				"download" "24E0DFF614C4EF99B99A8F77A01AAED0"
+			}
+			"m_test"
+			{
+				"gid" "5AA5FE16A241A8A595497D0A63255C19"
+				"size" "CD4AE3F2400D3D0FB3B4DAED86B2B428"
+				"download" "B7DCE4E01E2BA191408199C77C03AC31"
+			}
+			"temp"
+			{
+				"gid" "C9C4D3422C54A0C1D9A57BD3334FE800"
+				"size" "BE40D3EB294DFCF48972508078693378"
+				"download" "F1EFFC4FF29BBB3EE96D1D24A5269A01"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "D897929BBB30FB27577AD3048105C408"
+				"size" "42CA6230107A46FB50B2E1A305FFD32C"
+				"download" "33EECF2933B50E212A5F8B50ED639A7B"
+			}
+			"content_licensing"
+			{
+				"gid" "995D94D6D500AA0BFE1AF1B7688BEDFA"
+				"size" "74C57CAD97A81783B10D5F6D06BC4B9A"
+				"download" "20B4AAC38E7EBD29D7947F999EB35510"
+			}
+			"development_staging"
+			{
+				"gid" "0217871C2F447949B3A29B29C1AEF53E"
+				"size" "3F287EB107C13C3883532FB790186368"
+				"download" "07FF00EA5B74D49E2C084188A08CD3B2"
+			}
+		}
+	}
+	"395180"
+	{
+		"dlcappid" "395180"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8426651345227339980"
+				"size" "6126"
+				"download" "2016"
+			}
+			"development"
+			{
+				"gid" "8426651345227339980"
+				"size" "6126"
+				"download" "2016"
+			}
+			"profiling"
+			{
+				"gid" "8426651345227339980"
+				"size" "6126"
+				"download" "2016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "3C78DB463A62A19B6BB004DD0721A577"
+				"size" "5772856767B3A6A62B93558625890E8D"
+				"download" "065102E436045396D39CDC5AA4D5C086"
+			}
+			"legacy"
+			{
+				"gid" "AD18CD9A955BB9C2B74D5AFC833C56D0"
+				"size" "6EC2AAA4E67CE53E24EFE43D20E5CCB9"
+				"download" "95D053F0A76DE746300D99E545E4C5C3"
+			}
+			"legacyports"
+			{
+				"gid" "4540EDE3AFF01360C03F84DAF6C5E22A"
+				"size" "1A4C95A1DCE1946EF948ECA8717D2208"
+				"download" "B3C2FFDE704115FA9127D5D28D22C3B6"
+			}
+			"m_test"
+			{
+				"gid" "8595038006EA51F7D73E2DA37C38D416"
+				"size" "8C50DCDFF723D0A50BC916921394AF7F"
+				"download" "3AEEE524C5373E08014A06B0999B34F8"
+			}
+			"temp"
+			{
+				"gid" "775FC0275747268D1535D5B35F25FE0F"
+				"size" "E4F31EB23586EB53A1DF0F650B210712"
+				"download" "C32E18CA72428BA7AF76044085FEB816"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "FC3AF140DA68571419362780E5C30C8E"
+				"size" "4316E9D5FE7854646F3B7D80F2AD2178"
+				"download" "27F4B5A28A8E29F344488D2A87E0681E"
+			}
+			"content_licensing"
+			{
+				"gid" "562450663B4617EB15F72A439BE0D68C"
+				"size" "15BDE417E6716BCBE93CD6605CAE67D2"
+				"download" "799C9732CBD8CA2C5B76B3C4BF5F761B"
+			}
+			"development_staging"
+			{
+				"gid" "AFE5A4A31410E834D29793C12C940A55"
+				"size" "C5131E8E29C9CA910C281812564313AC"
+				"download" "CE5AEC91B714FBEC669235220DCE852D"
+			}
+		}
+	}
+	"249509"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"dlcappid" "395180"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1330138641753051071"
+				"size" "6126"
+				"download" "2016"
+			}
+			"development"
+			{
+				"gid" "571893521393879638"
+				"size" "0"
+				"download" "0"
+			}
+			"profiling"
+			{
+				"gid" "1330138641753051071"
+				"size" "6126"
+				"download" "2016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "BD23AF2271C16C6D80D871D5AF82189C"
+				"size" "93EB4AB6B06335EC3FEE673D46889C06"
+				"download" "93EB4AB6B06335EC3FEE673D46889C06"
+			}
+			"legacy"
+			{
+				"gid" "F1090B6B9017E0B971DE96E4965D9E45"
+				"size" "6EC2AAA4E67CE53E24EFE43D20E5CCB9"
+				"download" "95D053F0A76DE746300D99E545E4C5C3"
+			}
+			"legacyports"
+			{
+				"gid" "A9E2CB20F690811FB09B3142FCD7ED7F"
+				"size" "1A4C95A1DCE1946EF948ECA8717D2208"
+				"download" "B3C2FFDE704115FA9127D5D28D22C3B6"
+			}
+			"m_test"
+			{
+				"gid" "676675463A1855352094469E8BBCC74D"
+				"size" "8C50DCDFF723D0A50BC916921394AF7F"
+				"download" "3AEEE524C5373E08014A06B0999B34F8"
+			}
+			"temp"
+			{
+				"gid" "7B7412A425C5A82A07787A5993D47DB9"
+				"size" "E4F31EB23586EB53A1DF0F650B210712"
+				"download" "C32E18CA72428BA7AF76044085FEB816"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "30825C8815056924A387B3B103DD8573"
+				"size" "4316E9D5FE7854646F3B7D80F2AD2178"
+				"download" "27F4B5A28A8E29F344488D2A87E0681E"
+			}
+			"content_licensing"
+			{
+				"gid" "0D2571673555DCEF970318C0869102C7"
+				"size" "15BDE417E6716BCBE93CD6605CAE67D2"
+				"download" "799C9732CBD8CA2C5B76B3C4BF5F761B"
+			}
+			"development_staging"
+			{
+				"gid" "0239FF4EF09AA07E8949EA9360C484BA"
+				"size" "A7648AB14EF3ADC9D529EF38373DF204"
+				"download" "A7648AB14EF3ADC9D529EF38373DF204"
+			}
+		}
+	}
+	"1042220"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1042220"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8997827457640465099"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+			"development"
+			{
+				"gid" "8997827457640465099"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+			"profiling"
+			{
+				"gid" "8997827457640465099"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "66B6D044E5572C06E1C250FBD9685AA1"
+				"size" "40128B4C71D2F8EAA6CC915551861BDA"
+				"download" "49D3DB200A99ED57E447680C926F106B"
+			}
+			"legacy"
+			{
+				"gid" "1EE645FDC01569A272054EF6D72DE2F3"
+				"size" "5C3A68A7BF96319BB088F9C774C1120C"
+				"download" "9AD9A4BE67C82E78F1984440E7FBA9A5"
+			}
+			"legacyports"
+			{
+				"gid" "D1290C71C1C572889DA2AA117700AD10"
+				"size" "DFA6540AEAE45647DCD413C9E530E14C"
+				"download" "8D9F04867764D60940BDFF49F6311C56"
+			}
+			"m_test"
+			{
+				"gid" "004CBBC1D01329EAED3DFA3853025749"
+				"size" "FDBE507A8462298D6E3400B5EC00A81B"
+				"download" "1D297EED5BEE0BE9DE703AA6F4474939"
+			}
+			"temp"
+			{
+				"gid" "2643F04BC17AD83F45F22F616E3353F2"
+				"size" "D06B7A2147BDB22A9EDB5D17056A4DCA"
+				"download" "49235C9820F0F4B81CAE2C077BD691D6"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "7F7FB47C981C149968BA8D906D2FF64A"
+				"size" "B6DB489A88AF4266495EF009EA20C57F"
+				"download" "641280BC83039FC63EF999CC10A95C89"
+			}
+			"content_licensing"
+			{
+				"gid" "E2287107C69E96D816626651C180B5F6"
+				"size" "3FF9AA649C0BC05DF3C86C7B8E9AE5F6"
+				"download" "091DC3A244D74ABADF49DEDE050C0AB6"
+			}
+			"development_staging"
+			{
+				"gid" "8794B15C07536AC579E4B45E06B0162B"
+				"size" "F6759BA60CF8D714389D47CCAB7C2532"
+				"download" "7724E6C49499995301CA133CB3D157DE"
+			}
+		}
+	}
+	"1042221"
+	{
+		"dlcappid" "1042220"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4392593454018590840"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+			"profiling"
+			{
+				"gid" "4392593454018590840"
+				"size" "37481393911"
+				"download" "37994250624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"legacy"
+			{
+				"gid" "7E87FD957BA127EBE86D8948826D8477"
+				"size" "5C3A68A7BF96319BB088F9C774C1120C"
+				"download" "9AD9A4BE67C82E78F1984440E7FBA9A5"
+			}
+			"legacyports"
+			{
+				"gid" "4E12A0F819E56645FCFA0586DBF2A2FE"
+				"size" "DFA6540AEAE45647DCD413C9E530E14C"
+				"download" "8D9F04867764D60940BDFF49F6311C56"
+			}
+			"m_test"
+			{
+				"gid" "9DC1626EA41FE0D2DF9C4C5E6C432C72"
+				"size" "FDBE507A8462298D6E3400B5EC00A81B"
+				"download" "1D297EED5BEE0BE9DE703AA6F4474939"
+			}
+			"temp"
+			{
+				"gid" "56739D78CE85C75EB2E3EB091F76A662"
+				"size" "D06B7A2147BDB22A9EDB5D17056A4DCA"
+				"download" "49235C9820F0F4B81CAE2C077BD691D6"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "DD893ABF89BFEDA0E856EE58D574D88F"
+				"size" "B6DB489A88AF4266495EF009EA20C57F"
+				"download" "641280BC83039FC63EF999CC10A95C89"
+			}
+			"content_licensing"
+			{
+				"gid" "338DB98E55F3D8B685046EC3EA69B8A7"
+				"size" "3FF9AA649C0BC05DF3C86C7B8E9AE5F6"
+				"download" "091DC3A244D74ABADF49DEDE050C0AB6"
+			}
+		}
+	}
+	"1021790"
+	{
+		"dlcappid" "1021790"
+		"config"
+		{
+			"oslist" "windows,macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7742647692697091191"
+				"size" "1270950938"
+				"download" "986692192"
+			}
+			"development"
+			{
+				"gid" "8348433237806341170"
+				"size" "1270902025"
+				"download" "985328960"
+			}
+			"profiling"
+			{
+				"gid" "7742647692697091191"
+				"size" "1270950938"
+				"download" "986692192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "0E28B217EFE92DD220BD8DC1730FE4E5"
+				"size" "E0D3F91767955F50489B73EF86BB2997"
+				"download" "3CAFCDDFE6A5D8D4A435407FC45F2927"
+			}
+			"legacy"
+			{
+				"gid" "0AFAE7178C832CCCD1901F27C8B5F465"
+				"size" "1CAEEAAFC100EE55DE504CF4FD4B522D"
+				"download" "9414851773DF5A6BA8F471DA065E4B5A"
+			}
+			"legacyports"
+			{
+				"gid" "994DEB54D504DB2B2F3F3FD441D07579"
+				"size" "6BBF64744AC1FFE7D52A7D7FB90A5894"
+				"download" "2D57CF1AF1EB28157596A22131097A4A"
+			}
+			"m_test"
+			{
+				"gid" "ECBC0095DC0409AE17EDAF25398B0007"
+				"size" "8A6E6450D473FE503B98221F46CF81A1"
+				"download" "B9DA6B46070732B2403F36FB12D166B4"
+			}
+			"temp"
+			{
+				"gid" "23BE59B8947FF86FC6469E3452D2ECB3"
+				"size" "675691C0F8357234F99E6CBABC69D5D0"
+				"download" "787C2DE291C678ED5114E2C707D604EC"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "1DB44427D25CFDF84E6580F403250050"
+				"size" "4A6FBE99E8E28CB5C9ACD20E82438E93"
+				"download" "A1E9B4C2A2403B7A0F45F2D666FF34E9"
+			}
+			"content_licensing"
+			{
+				"gid" "1D8C9D54CD0633E04FAD7BDE90C390EA"
+				"size" "72E0E8854DE2B064A477C5011251A356"
+				"download" "25C0495E167919808AFA0653F0A2BF6D"
+			}
+			"development_staging"
+			{
+				"gid" "14B410F8A26BC3995FB31260C4F515AD"
+				"size" "BFD193D5FC17EE731A5E9E67BBFFA118"
+				"download" "9E4AFC1AB64DFBC06196259438D56246"
+			}
+		}
+	}
+	"1175380"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1175380"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4726564798537884316"
+				"size" "23339704593"
+				"download" "23656746400"
+			}
+			"development"
+			{
+				"gid" "4726564798537884316"
+				"size" "23339704593"
+				"download" "23656746400"
+			}
+			"profiling"
+			{
+				"gid" "4726564798537884316"
+				"size" "23339704593"
+				"download" "23656746400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "00277676D517EDE112F1404D31A2645E"
+				"size" "95A313B4675CF82E660BAB17DB7CD4B9"
+				"download" "0BA89CE28B9334E4E14038EFDA4BD902"
+			}
+			"legacy"
+			{
+				"gid" "A922E189A527BEEA06201C3F30F17356"
+				"size" "A665E415B93B56287B399A1D1BA49CD4"
+				"download" "E67F1FEEFF51FEBCDEF036517C8ED554"
+			}
+			"legacyports"
+			{
+				"gid" "22ADA7EDA288C6FB38742DD95BE0C62D"
+				"size" "885AC6959BC42682A84AA05F489A9A16"
+				"download" "7C8B52FD3671852CC6BB4FEED7E26583"
+			}
+			"m_test"
+			{
+				"gid" "067D4D16B51F2BB2D5BF266B20B5DD4F"
+				"size" "1729DDAB37582499833BDD19C72736A0"
+				"download" "C3F9CF283FC4AE20AF6DED025CB277F3"
+			}
+			"temp"
+			{
+				"gid" "DBDB1B142CEC34453270C8C753A50752"
+				"size" "79FC5741E9819E48657DCC188A669BFD"
+				"download" "15022521A24A2F66110E0ED4CF314A54"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "5774A257A9812172070A1759E5FE7B59"
+				"size" "F1E42FC565C4A967C561F4524934B784"
+				"download" "503F055073EAA3D6DF13D7A988A8657E"
+			}
+			"content_licensing"
+			{
+				"gid" "4563218D7737CCEC19040851F43D1657"
+				"size" "98A71AA5CE11C7B6BD0AA4C463EE0CFE"
+				"download" "957410B39221C79007F9C8855534EA2D"
+			}
+			"development_staging"
+			{
+				"gid" "4829B315E73E419139D03673751D99D7"
+				"size" "6E666914D263AE2BFF2AC7B2CF385B99"
+				"download" "464D893E2CC8AFCB2D3E79FF7CB94B49"
+			}
+		}
+	}
+	"1175381"
+	{
+		"dlcappid" "1175380"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4168153912735570175"
+				"size" "23336030145"
+				"download" "23655360832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"legacy"
+			{
+				"gid" "25B5A49D63F1396026AE5BFFBB38BB5B"
+				"size" "A665E415B93B56287B399A1D1BA49CD4"
+				"download" "E67F1FEEFF51FEBCDEF036517C8ED554"
+			}
+			"legacyports"
+			{
+				"gid" "941CFEC93976D733A32BC19D13465898"
+				"size" "885AC6959BC42682A84AA05F489A9A16"
+				"download" "7C8B52FD3671852CC6BB4FEED7E26583"
+			}
+			"m_test"
+			{
+				"gid" "899348C13F3E90414B486AB34DC25911"
+				"size" "F912CEB66164E7D44C8924E22B5A0E7C"
+				"download" "B9C3316ADA0607BB5E464624FDA775EF"
+			}
+			"content_licensing"
+			{
+				"gid" "2975BE4D69B3EB6C05157D3A91F4BF15"
+				"size" "160174E067FA47F90A61A25C7DCD67EF"
+				"download" "BB431FC2AC3805E8776CB304A3113FBA"
+			}
+		}
+	}
+	"1227700"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"dlcappid" "1227700"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8260336768775110185"
+				"size" "38394359454"
+				"download" "38917380064"
+			}
+			"development"
+			{
+				"gid" "8260336768775110185"
+				"size" "38394359454"
+				"download" "38917380064"
+			}
+			"profiling"
+			{
+				"gid" "8260336768775110185"
+				"size" "38394359454"
+				"download" "38917380064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "DD7D19F4CDD9395782A13BC3D6B03E44"
+				"size" "801C8A286E7A5EE76042877B83BEF7D8"
+				"download" "DDA6F2CFE81111E852223CEF81BE93A0"
+			}
+			"legacy"
+			{
+				"gid" "D1FAFC463D21AB1FF256215A346F4CFB"
+				"size" "20B49D62FD895ABA279E666FD15687B9"
+				"download" "4EBB09BE3656C78482A2BB6D251A08F4"
+			}
+			"legacyports"
+			{
+				"gid" "8689A97F9AEFF06DFD2A4C67B072C824"
+				"size" "9E3D7B8EFA989F71B43A74793DFB953D"
+				"download" "DC25415CFF7E0A4246DAFCA10BFF10D3"
+			}
+			"m_test"
+			{
+				"gid" "36B273D7347362A9F57DFD2536E9E081"
+				"size" "2E9477590F6F22323440A539F7D149D3"
+				"download" "06B71B835463A70D8202D354C1A6BA9A"
+			}
+			"temp"
+			{
+				"gid" "7FB31E8161A16A79B3B67E0F1F3599E2"
+				"size" "6A2FBE1CFD1B63C55C0688BB52ABBDE0"
+				"download" "1CB44C46D6CDBF683E12AF119E8B7498"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "23C3884E9EBF2868EB634DC7A79822AD"
+				"size" "600F687652DD21E12AB64772E5D665AE"
+				"download" "93AB9EB019A893DA718E169AA0B80AB6"
+			}
+			"content_licensing"
+			{
+				"gid" "57F595EB35B2B89AECE03D92C5E35D3A"
+				"size" "B3BDFF63816C95B8DB95870B9B71C114"
+				"download" "BFE282F96A07FDCB6AE83BCF3E5F249C"
+			}
+			"development_staging"
+			{
+				"gid" "2541BD4827BA5D381E4E48A5D6721CB8"
+				"size" "66EE97B4298AA116F709B7B736F17682"
+				"download" "12D55DB58533EFC0A8D786C1CB57D189"
+			}
+		}
+	}
+	"1227701"
+	{
+		"dlcappid" "1227700"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2166361493551957520"
+				"size" "38390685006"
+				"download" "38915994496"
+			}
+			"profiling"
+			{
+				"gid" "8853204352456643793"
+				"size" "38394359454"
+				"download" "38917380064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"legacy"
+			{
+				"gid" "5954FA234BEDADED7187D245A82CB035"
+				"size" "20B49D62FD895ABA279E666FD15687B9"
+				"download" "4EBB09BE3656C78482A2BB6D251A08F4"
+			}
+			"legacyports"
+			{
+				"gid" "0F97E34A9CB6B5FCD53724A3BC97264D"
+				"size" "9E3D7B8EFA989F71B43A74793DFB953D"
+				"download" "DC25415CFF7E0A4246DAFCA10BFF10D3"
+			}
+			"m_test"
+			{
+				"gid" "74EB2A1E51303674178FCCEADEA7F0C1"
+				"size" "D90FB616A122A8AA1976711369532F57"
+				"download" "C2DB9D58D7831EAC041E7242BDEE3019"
+			}
+			"temp"
+			{
+				"gid" "5DFE341268C89A58BDF895D2CE7BEDE4"
+				"size" "6A2FBE1CFD1B63C55C0688BB52ABBDE0"
+				"download" "1CB44C46D6CDBF683E12AF119E8B7498"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "D77442D8FC20F0514B135CA1FBAAE7CF"
+				"size" "600F687652DD21E12AB64772E5D665AE"
+				"download" "93AB9EB019A893DA718E169AA0B80AB6"
+			}
+			"content_licensing"
+			{
+				"gid" "4309F927E4D2513D01804A2C19227B7C"
+				"size" "5B8D8304FCFE4E9FCAC36D0011973FD9"
+				"download" "7265C843C9E6EE70FD67B92836A0A81F"
+			}
+		}
+	}
+	"1294440"
+	{
+		"dlcappid" "1294440"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "537445726647340513"
+				"size" "9020803486"
+				"download" "9144234800"
+			}
+			"development"
+			{
+				"gid" "537445726647340513"
+				"size" "9020803486"
+				"download" "9144234800"
+			}
+			"profiling"
+			{
+				"gid" "537445726647340513"
+				"size" "9020803486"
+				"download" "9144234800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "EF2958899C6F15485B53504F2380C6AD"
+				"size" "6C76D1A1AA7E9BC03BC0AEECB1937035"
+				"download" "BC1A527F0E3F6A9F991A4BED0B7E78F7"
+			}
+			"legacy"
+			{
+				"gid" "0507BFF96DF8908800E56317925496A3"
+				"size" "7EA74F4239455F70DE3057A1942DDD17"
+				"download" "81DD978E8FF7E4A9D934F95407E597A5"
+			}
+			"legacyports"
+			{
+				"gid" "757EEE27F9FC3A7AB8D863F1E5E4865C"
+				"size" "6A61777C8815A1E7E3078A8C09D2F7E5"
+				"download" "A56DF68D6EE75FC89EC19BF41F291EF3"
+			}
+			"m_test"
+			{
+				"gid" "6374BF2412590CE0E334010EEF39A706"
+				"size" "351D8CD49C5C68B409B9E5970E8DFB61"
+				"download" "0672CF0847449E0AF9CED2212939CEDC"
+			}
+			"temp"
+			{
+				"gid" "99870213C6D9BE0107B58BB11D860E07"
+				"size" "B13DC2FC3C939C638C9D768E4A74164B"
+				"download" "250B2445C4A538A294628E04FAAFFE58"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "1C7BB0BFC43A03855D54591DDCD1EAAD"
+				"size" "B2FF2E85B56EFB6C1B6DD0ADF1AFE3D4"
+				"download" "ABE4A6FCE4C79CA91B10DEAA98BC61F0"
+			}
+			"content_licensing"
+			{
+				"gid" "074B370ED95DFA9F14CE5019F4D5540C"
+				"size" "154B46F0AD460713CC5D0D13662EDD64"
+				"download" "16CC54765890CEF681AC59D18601339C"
+			}
+			"development_staging"
+			{
+				"gid" "D1E1E0050C9794723494BF03D4E0279B"
+				"size" "A7DC99FE3DD9F6117200EF63BE09946C"
+				"download" "505EC8F654B03F67191A550FACA3786B"
+			}
+		}
+	}
+	"1294441"
+	{
+		"dlcappid" "1294440"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2908570043414983257"
+				"size" "9020803486"
+				"download" "9144234800"
+			}
+			"profiling"
+			{
+				"gid" "5991832337258249052"
+				"size" "9020803486"
+				"download" "9144234800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"legacy"
+			{
+				"gid" "03828998ED3A532AB60D6ABA045DEB36"
+				"size" "7EA74F4239455F70DE3057A1942DDD17"
+				"download" "81DD978E8FF7E4A9D934F95407E597A5"
+			}
+			"legacyports"
+			{
+				"gid" "B57BDE836118A1EE2FD00C2CF3362065"
+				"size" "6A61777C8815A1E7E3078A8C09D2F7E5"
+				"download" "A56DF68D6EE75FC89EC19BF41F291EF3"
+			}
+			"m_test"
+			{
+				"gid" "0F49C9301051F89842132D37C2E9F642"
+				"size" "351D8CD49C5C68B409B9E5970E8DFB61"
+				"download" "0672CF0847449E0AF9CED2212939CEDC"
+			}
+			"temp"
+			{
+				"gid" "3395A10987250E438DFFD9DAFC4A66DE"
+				"size" "B13DC2FC3C939C638C9D768E4A74164B"
+				"download" "250B2445C4A538A294628E04FAAFFE58"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "E6AAE9450909476A9E2DFB81DDA0DA25"
+				"size" "B2FF2E85B56EFB6C1B6DD0ADF1AFE3D4"
+				"download" "ABE4A6FCE4C79CA91B10DEAA98BC61F0"
+			}
+			"content_licensing"
+			{
+				"gid" "B37926A5DD9385ED4AEE07099FA0283A"
+				"size" "154B46F0AD460713CC5D0D13662EDD64"
+				"download" "16CC54765890CEF681AC59D18601339C"
+			}
+		}
+	}
+	"1681170"
+	{
+		"dlcappid" "1681170"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8696468150882008048"
+				"size" "5208706305"
+				"download" "5279972304"
+			}
+			"development"
+			{
+				"gid" "8696468150882008048"
+				"size" "5208706305"
+				"download" "5279972304"
+			}
+			"profiling"
+			{
+				"gid" "8696468150882008048"
+				"size" "5208706305"
+				"download" "5279972304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cdlc_internal"
+			{
+				"gid" "11B0151DC0BD9FDB9C5C9A8CCC1F8F86"
+				"size" "8ADFDBAE965CC30B81BF3A4966228A21"
+				"download" "1C8BC642BDB777BC93FD951BA6C8C392"
+			}
+			"legacy"
+			{
+				"gid" "2F082225B3D670FCCA0756916D13EAB5"
+				"size" "18D068B4FCD5D08462BED19F9DDA76A4"
+				"download" "9052CD302AC04CE4958CB69963AA350D"
+			}
+			"legacyports"
+			{
+				"gid" "93EC26C49971686E9FF4599A0C51583D"
+				"size" "FDB1BE2244DAD1D3B61727A2C38B2460"
+				"download" "E115D5C185BC803017D01E34FD238C18"
+			}
+			"m_test"
+			{
+				"gid" "55343E8E9E123939B8D3A24763270228"
+				"size" "6CC48A0524B4374965741C1DE409A7CC"
+				"download" "535613A781C15F5783B287F0D8A403E6"
+			}
+			"temp"
+			{
+				"gid" "31AD806BB262A4739303C2448CD5D8C1"
+				"size" "F5B442056D8ACF8186CA312730C8C7A8"
+				"download" "05ACE3F2EDD0B2FCCBD81C5E810F6E20"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "A5D72ED7B0FE104A4BB2439C2D98BB30"
+				"size" "35BCE3CD81AC1A20D5B6773097F5FF13"
+				"download" "3751F458CA6C1A8412FF864F13A11411"
+			}
+			"content_licensing"
+			{
+				"gid" "C071BB2942502FD0C94A0A47AFFB359F"
+				"size" "5D205239D98BCEBACAF015618466CEA1"
+				"download" "9A4864F5B450DC7107CF82AA936C9099"
+			}
+			"development_staging"
+			{
+				"gid" "540EED17C9A56991EB0EB3FFAED97B8A"
+				"size" "ECC0A63CD636200BA5179A42D4B2D3D2"
+				"download" "09EEA4442DE723567E011F5F4AB0AA25"
+			}
+		}
+	}
+	"1681171"
+	{
+		"dlcappid" "1681170"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6448008984408183450"
+				"size" "5208706305"
+				"download" "5279972304"
+			}
+			"profiling"
+			{
+				"gid" "7472664427721754318"
+				"size" "5171226855"
+				"download" "5241987024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"legacy"
+			{
+				"gid" "3ADD7C74B819FEF055FB99B25103E309"
+				"size" "18D068B4FCD5D08462BED19F9DDA76A4"
+				"download" "9052CD302AC04CE4958CB69963AA350D"
+			}
+			"legacyports"
+			{
+				"gid" "04D1A5E921C73AB0C3C8DB7A4354C3C9"
+				"size" "FDB1BE2244DAD1D3B61727A2C38B2460"
+				"download" "E115D5C185BC803017D01E34FD238C18"
+			}
+			"m_test"
+			{
+				"gid" "80C4A992DB320F812C3304C8389B1E19"
+				"size" "6CC48A0524B4374965741C1DE409A7CC"
+				"download" "535613A781C15F5783B287F0D8A403E6"
+			}
+			"temp"
+			{
+				"gid" "0A03DBB5074E9AA420B157261CC26B09"
+				"size" "F5B442056D8ACF8186CA312730C8C7A8"
+				"download" "05ACE3F2EDD0B2FCCBD81C5E810F6E20"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "03EAE6B5171C8FD455F7280FDA6AB518"
+				"size" "C5C77A9672D2ACFD1B14174EDCDE738C"
+				"download" "09BF4295BBC30DEC3AD731D0E171CD11"
+			}
+			"content_licensing"
+			{
+				"gid" "D0BA5B0ECE683DE3DE05D9D39ECA214A"
+				"size" "F3F9FD29F435DCD7D3ABAFEF0417D598"
+				"download" "4F573FBC5824E26A6B6BAAEA60CC4EE8"
+			}
+		}
+	}
+	"2647760"
+	{
+		"dlcappid" "2647760"
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1671287819337154523"
+				"size" "3941585774"
+				"download" "3915793744"
+			}
+			"development"
+			{
+				"gid" "1671287819337154523"
+				"size" "3941585774"
+				"download" "3915793744"
+			}
+			"profiling"
+			{
+				"gid" "1671287819337154523"
+				"size" "3941585774"
+				"download" "3915793744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"legacyports"
+			{
+				"gid" "206042945FF1B6B6BC7A5B934C88BEFA"
+				"size" "D444C1913D39D2F5CC4A2C02F55F244B"
+				"download" "5DACCF14650B36E5175F83E1CEF7E7AE"
+			}
+			"m_test"
+			{
+				"gid" "4D293958767FF439D17111E55769CA96"
+				"size" "1B85B56BE0BE17158059F1029D8EE4A3"
+				"download" "AF6F94380A2E0ACDC5D2EE55AD444218"
+			}
+			"cdlc_private_beta"
+			{
+				"gid" "28976CBAD832E15F98AE6C6635E28989"
+				"size" "E409D492479B808486974CF3A00CE24F"
+				"download" "0943738D445DB515605F1B0FAD90FD37"
+			}
+			"content_licensing"
+			{
+				"gid" "66D81516148A45BF1879FBC5965E63A6"
+				"size" "501EA44E24C4F30372ACA7451AA90162"
+				"download" "A2B43026D0007014CF6169C53742D054"
+			}
+			"development_staging"
+			{
+				"gid" "067337D6FEC2C657E8C20867545B7398"
+				"size" "90F3A0BBC041519B74EAD5401932E576"
+				"download" "3759DF9B5E006BD320B0CF2E56E6D205"
+			}
+		}
+	}
+	"2647761"
+	{
+		"dlcappid" "2647760"
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1607501713757217639"
+				"size" "3941585774"
+				"download" "3915793744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"m_test"
+			{
+				"gid" "839732AED27AE29DE9724DC54756E244"
+				"size" "1B85B56BE0BE17158059F1029D8EE4A3"
+				"download" "AF6F94380A2E0ACDC5D2EE55AD444218"
+			}
+			"content_licensing"
+			{
+				"gid" "35753B8CA70DA9F597C369FF1E347C14"
+				"size" "501EA44E24C4F30372ACA7451AA90162"
+				"download" "A2B43026D0007014CF6169C53742D054"
+			}
+		}
+	}
+	"107412"
+	{
+	}
+	"2647830"
+	{
+		"dlcappid" "2647830"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"2647850"
+	{
+		"dlcappid" "2647850"
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14533176"
+			"timeupdated" "1716986173"
+		}
+		"cdlc_internal"
+		{
+			"buildid" "6950836"
+			"pwdrequired" "1"
+			"timeupdated" "1624970500"
+		}
+		"legacy"
+		{
+			"buildid" "12434792"
+			"pwdrequired" "1"
+			"timeupdated" "1711455436"
+		}
+		"legacyports"
+		{
+			"buildid" "13997706"
+			"pwdrequired" "1"
+			"timeupdated" "1713877319"
+		}
+		"m_test"
+		{
+			"buildid" "14144956"
+			"pwdrequired" "1"
+			"timeupdated" "1713872126"
+		}
+		"temp"
+		{
+			"buildid" "11782783"
+			"pwdrequired" "1"
+			"timeupdated" "1691067358"
+		}
+		"cdlc_private_beta"
+		{
+			"buildid" "14743339"
+			"pwdrequired" "1"
+			"timeupdated" "1718634674"
+		}
+		"content_licensing"
+		{
+			"buildid" "14517630"
+			"pwdrequired" "1"
+			"timeupdated" "1716890864"
+		}
+		"development"
+		{
+			"buildid" "14610625"
+			"description" "Development Build"
+			"timeupdated" "1717599593"
+		}
+		"development_staging"
+		{
+			"buildid" "14610625"
+			"pwdrequired" "1"
+			"timeupdated" "1717582010"
+		}
+		"profiling"
+		{
+			"buildid" "14689367"
+			"description" "Performance Profiling Build"
+			"timeupdated" "1718183388"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Menu"
+				"#status_launcher" "Launcher"
+				"#status_launching" "Launching"
+				"#status_playing" "Playing"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Im Menü"
+				"#status_launcher" "Im Launcher"
+				"#status_launching" "Startet das Spiel"
+				"#status_playing" "Im Spiel"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Menu"
+				"#status_launcher" "Lanceur"
+				"#status_launching" "Démarrage"
+				"#status_playing" "Joue"
+			}
+		}
+		"italian"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Menu"
+				"#status_launcher" "Launcher"
+				"#status_launching" "Avvio del gioco"
+				"#status_playing" "In gioco"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "메뉴"
+				"#status_launcher" "런처"
+				"#status_launching" "실행 중"
+				"#status_playing" "플레이 중"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Menú"
+				"#status_launcher" "Iniciador"
+				"#status_launching" "Iniciando"
+				"#status_playing" "Jugando"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "主菜单"
+				"#status_launcher" "启动器"
+				"#status_launching" "启动中"
+				"#status_playing" "游戏中"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "選單"
+				"#status_launcher" "啟動器"
+				"#status_launching" "啟動中"
+				"#status_playing" "遊戲中"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Меню"
+				"#status_launcher" "Средство запуска"
+				"#status_launching" "Запускает"
+				"#status_playing" "Играет"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "メニュー"
+				"#status_launcher" "Launcher"
+				"#status_launching" "起動中"
+				"#status_playing" "プレイ中"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "W menu"
+				"#status_launcher" "Uruchamia aplikację"
+				"#status_launching" "Rozpoczyna grę"
+				"#status_playing" "W grze"
+			}
+		}
+		"czech"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Nabídka"
+				"#status_launcher" "Spouštěcí aplikace"
+				"#status_launching" "Spouštění"
+				"#status_playing" "Hraje"
+			}
+		}
+		"turkish"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Menü"
+				"#status_launcher" "Başlatma uygulaması"
+				"#status_launching" "Başlatıyor"
+				"#status_playing" "Oynuyor"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#status_mission" "%missionName%"
+				"#status_editor" "Eden Editor: %missionName%"
+				"#status_menu" "Menu"
+				"#status_launcher" "Inicializador do jogo"
+				"#status_launching" "Iniciando"
+				"#status_playing" "Jogando"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24002597"
+"_sha" "6e8d02865568f7895f636be0cffa1ed95bd34f39"
+"_size" "91867"
