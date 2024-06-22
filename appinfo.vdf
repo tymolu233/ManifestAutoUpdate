@@ -1,0 +1,209 @@
+"appid" "1711840"
+"common"
+{
+	"name" "Ninja Stealth 4"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "77d6c40850c9911c58b46e894215d4d2e87758a7"
+	"logo_small" "77d6c40850c9911c58b46e894215d4d2e87758a7_thumb"
+	"icon" "dbfe76931c2dabac7db3d0015917662f6c7d51f1"
+	"clienticon" "51b54a1703079da1c3c2dd09a0ff92ad22e81571"
+	"clienttga" "6275aa9fcada417e6cfc6ebc20225f9d287414ff"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1628033694"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SC Jogos"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SC Jogos"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "SC Jogos"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1629105291"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1711840"
+	"store_tags"
+	{
+		"0" "1687"
+		"1" "9"
+		"2" "1688"
+		"3" "492"
+		"4" "597"
+		"5" "4106"
+		"6" "4026"
+		"7" "1664"
+		"8" "3871"
+		"9" "4791"
+		"10" "4182"
+		"11" "19"
+		"12" "5652"
+		"13" "6915"
+		"14" "6129"
+		"15" "21"
+		"16" "1773"
+		"17" "5230"
+		"18" "4234"
+		"19" "12095"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "SC Jogos"
+	"publisher" "SC Jogos"
+	"homepage" "https://store.steampowered.com/publisher/scjogos"
+}
+"config"
+{
+	"installdir" "SC Jogos"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launcher/SC Jogos Launcher.exe"
+			"arguments" "appid=1711840"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Ninja Stealth 4/Ninja Stealth 4.exe"
+			"type" "option1"
+			"description_loc"
+			{
+				"english" "Ninja Stealth 4 [No Launcher]"
+			}
+			"description" "Ninja Stealth 4 [No Launcher]"
+		}
+	}
+}
+"depots"
+{
+	"1711841"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7467387574405985319"
+				"size" "374776371"
+				"download" "84214128"
+			}
+			"pre_release"
+			{
+				"gid" "7467387574405985319"
+				"size" "374776371"
+				"download" "84214128"
+			}
+		}
+	}
+	"1711842"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9057591675203406572"
+				"size" "146845176"
+				"download" "45406432"
+			}
+			"pre_release"
+			{
+				"gid" "9057591675203406572"
+				"size" "146845176"
+				"download" "45406432"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14237116"
+			"timeupdated" "1714601536"
+		}
+		"pre_release"
+		{
+			"buildid" "14237116"
+			"description" "pre_release"
+			"timeupdated" "1714601344"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Ninja Stealth 4/Save"
+			"pattern" "*.*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23912510"
+"_sha" "a64fc742ee64c7830a8819d1e71562a0d95af4b3"
+"_size" "3398"
