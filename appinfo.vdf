@@ -1,0 +1,352 @@
+"appid" "1948980"
+"common"
+{
+	"name" "大侠立志传：碧血丹心"
+	"type" "Game"
+	"name_localized"
+	{
+		"english" "Hero\'s Adventure: Road to Passion"
+		"schinese" "大侠立志传：碧血丹心"
+		"sc_schinese" "大侠立志传：碧血丹心"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "56c450e0748b764fa31aae97cdfce262127cd73a"
+	"clienticon" "fde7b273fcfec799e3a840267b36736d1dab7056"
+	"icon" "890a5d1e3b5ff05ca0b38994d899fa96225aefbe"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1699920000"
+		"tested_build_id" "12661543"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "zh-cn,en,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "20.176450155716395"
+			"height_pct" "47.85820536161905"
+		}
+	}
+	"store_asset_mtime" "1712054890"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "半瓶醋工作室（Half Amateur Studio）"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paleo"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1700103000"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1948980"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6915"
+		"2" "1695"
+		"3" "9"
+		"4" "6971"
+		"5" "492"
+		"6" "21"
+		"7" "3964"
+		"8" "1741"
+		"9" "1687"
+		"10" "4182"
+		"11" "599"
+		"12" "1677"
+		"13" "4486"
+		"14" "3871"
+		"15" "5984"
+		"16" "12095"
+		"17" "4085"
+		"18" "5577"
+		"19" "5611"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "半瓶醋工作室（Half Amateur Studio）"
+	"publisher" "Paleo"
+}
+"config"
+{
+	"installdir" "WulinSH"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Wulin.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "2"
+}
+"depots"
+{
+	"baselanguages" "english,schinese,tchinese"
+	"workshopdepot" "1948980"
+	"hasdepotsindlc" "0"
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1948981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6103186618538426370"
+				"size" "1356346685"
+				"download" "1106842096"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "D4967E83B1846E95A5F0EF6C1DCA3512"
+				"size" "2F542264DD1F3763AD78E9A417703B2F"
+				"download" "B9FE3C5F9F07A3BE14C2047EF36423E1"
+			}
+			"player_test0618"
+			{
+				"gid" "52E8D9D7FC667FA1F21CE79976023969"
+				"size" "121BA21A6C744F14C04F7C0337CFC9D1"
+				"download" "57BB67BBB8B02F78011C78A251CCC93F"
+			}
+			"qa_test0113"
+			{
+				"gid" "3BD4C972CA2D66F98B8C73E9B08F3614"
+				"size" "0E4BD3765E3ABA7457FC5DB848F8925D"
+				"download" "F609C9D6E338CA4BA3CEFA797A968363"
+			}
+		}
+	}
+	"2924120"
+	{
+		"dlcappid" "2924120"
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "D84D1F6C660B23B092C83E0413A22A02"
+				"size" "5B641B6A7E32246F1AC3F130DA6CE200"
+				"download" "1E55D39718C61D175BAAF4870080D2A4"
+			}
+			"player_test0618"
+			{
+				"gid" "3D139D0189D0C37537933DCB8072A6D8"
+				"size" "74B64DFF94DF73700D3DD262276195A7"
+				"download" "6214D1D2747453E6C3219D13C22F7A43"
+			}
+			"qa_test0113"
+			{
+				"gid" "B0399FDC8960C79407DB3BC313F6004A"
+				"size" "F8F7A1C46F81C7254D60296B7465B5D5"
+				"download" "E1B5CB044BC958DEB32F2146F05051B7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14131502"
+			"timeupdated" "1713864269"
+		}
+		"dev_test"
+		{
+			"buildid" "14793647"
+			"pwdrequired" "1"
+			"timeupdated" "1718968998"
+			"sc_schinese" "dev_test"
+		}
+		"player_test0618"
+		{
+			"buildid" "14793647"
+			"pwdrequired" "1"
+			"timeupdated" "1718969060"
+			"sc_schinese" "player_test0618"
+		}
+		"qa_test0113"
+		{
+			"buildid" "14793647"
+			"pwdrequired" "1"
+			"timeupdated" "1718969069"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+		"playertest1222"
+		{
+			"sc_schinese" "playertest1222"
+		}
+		"playertest_0131"
+		{
+			"sc_schinese" "playertest_0131"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "DefaultCompany/Wulin"
+			"pattern" "*.save"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24065297"
+"_sha" "a3256c7966de85111cf44776c9116b5e379382fd"
+"_size" "6806"
