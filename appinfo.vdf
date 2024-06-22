@@ -1,0 +1,453 @@
+"appid" "1206610"
+"common"
+{
+	"name" "Rubber Bandits"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "55b5f030b37c0d207be40dc3c462a61888441d64"
+	"logo_small" "55b5f030b37c0d207be40dc3c462a61888441d64_thumb"
+	"icon" "0c2e59a55eccd11a9f438cd54d191a6504e27e7a"
+	"clienticon" "eb7a0dd7df28e4a29352b5afd4fb4c16c1698072"
+	"clienttga" "c842d762acca417c940398f57fb1c2a744e8ba2d"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1206610_eula_0"
+			"name" "Rubber Bandits EULA"
+			"url" "https://store.steampowered.com//eula/1206610_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "橡胶强盗: Rubber Bandits"
+		"brazilian" "Bandidos de Borracha: Rubber Bandits"
+		"koreana" "러버 밴딧: Rubber Bandits"
+		"japanese" "ラバーバンディッツ: Rubber Bandits"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1692316800"
+		"tested_build_id" "11649031"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,ja,ko,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,ja,ko"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.14009684073881"
+			"height_pct" "72.92307644635264"
+		}
+	}
+	"store_asset_mtime" "1707476447"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Flashbulb"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Flashbulb"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1638449739"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1206610"
+	"store_tags"
+	{
+		"0" "5350"
+		"1" "7178"
+		"2" "4726"
+		"3" "3859"
+		"4" "7108"
+		"5" "4136"
+		"6" "1775"
+		"7" "1685"
+		"8" "19"
+		"9" "597"
+		"10" "5363"
+		"11" "3968"
+		"12" "1680"
+		"13" "7368"
+		"14" "3843"
+		"15" "4158"
+		"16" "1743"
+		"17" "3841"
+		"18" "1719"
+		"19" "4840"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,beta,demo,development,external,fgu_test"
+	"developer" "Flashbulb"
+	"publisher" "Flashbulb"
+	"homepage" "https://www.rubberbandits.game/"
+	"listofdlc" "1669300,1827590,2200730"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "RubberBandits"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RubberBandits.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2415267201"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default,beta,bleedingedge,bleedingedge_test,demo,development,external,fgu_test,releasecandidate,releasecandidate_test,stabilising_test,stabilizing,tores_playground"
+			"use_action_block" "false"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian"
+	"1206611"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5373023622985560085"
+				"size" "1310703167"
+				"download" "853288544"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bleedingedge"
+			{
+				"gid" "3B5CDCF3FF3BDCE74753BF4E3BE91B1B"
+				"size" "8C393F4B88AF59DDC5F01F2AA7815307"
+				"download" "1B1C9F2DBAF0BE99327683139966466B"
+			}
+			"development"
+			{
+				"gid" "75CC3FC1A5A632FC6A1E377421AD72EB"
+				"size" "936DC313296991CBCA29178E1E17BE79"
+				"download" "53247281ACD8ACB9B519F9B5C939E108"
+			}
+			"developmenta_test"
+			{
+				"gid" "D96F48EB785C845833D69449ACE7337B"
+				"size" "8035D1B46F7548EC0DE333A0A52B9927"
+				"download" "07B9A9A65B987DA1BA92F0D2FB684AA1"
+			}
+			"previous"
+			{
+				"gid" "5D2BE5C990140F8FBF251EF9465D03C1"
+				"size" "3EFA16C1FF8D9FD8CA8CAD9373E913BB"
+				"download" "F96624E9AF9E49C49C0EB86662AE3951"
+			}
+			"releasecandidate"
+			{
+				"gid" "0E0C9E1083ADBDF2B60FFD3E778615EC"
+				"size" "E37A41D994BF62813AAD281B1B675EFA"
+				"download" "5CE1C8849FC3B693544769785C752B34"
+			}
+			"releasecandidate_test"
+			{
+				"gid" "28CBA276200227BC54E68A0BBFE76013"
+				"size" "E977FADF579E840DE764B7AFEBDFEBFD"
+				"download" "91F3D8E192FF6B52FE98D7418AF6B4D1"
+			}
+			"stabilizing"
+			{
+				"gid" "624600ACC81BCF56397CC99C7F7C3BAB"
+				"size" "D51C1C80D0B88078DF6FC7AA35EF419E"
+				"download" "38E328DA6EF61BAE401394835440BC70"
+			}
+			"stabilizing_test"
+			{
+				"gid" "189BCA3929273718286CB98356B88B19"
+				"size" "4FB16CF7AD6450221F11922069188395"
+				"download" "57ACA0CA6A7084E42971D2E2156A4EB2"
+			}
+			"bleedingedge_test"
+			{
+				"gid" "1B0A655DBF83DC078EB1CA76A0AEF140"
+				"size" "C853A1FCBB4FA1A5D507E4D4544DB971"
+				"download" "67572C5D9A8071AC4D2B5B77D8A4903F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14022975"
+			"timeupdated" "1714046306"
+		}
+		"bleedingedge"
+		{
+			"buildid" "9696086"
+			"pwdrequired" "1"
+			"timeupdated" "1665478221"
+		}
+		"development"
+		{
+			"buildid" "13647532"
+			"pwdrequired" "1"
+			"timeupdated" "1709729828"
+		}
+		"developmenta_test"
+		{
+			"buildid" "10444414"
+			"pwdrequired" "1"
+			"timeupdated" "1675180111"
+		}
+		"previous"
+		{
+			"buildid" "12870063"
+			"pwdrequired" "1"
+			"timeupdated" "1703166997"
+		}
+		"releasecandidate"
+		{
+			"buildid" "14022975"
+			"pwdrequired" "1"
+			"timeupdated" "1712842447"
+		}
+		"releasecandidate_test"
+		{
+			"buildid" "14022496"
+			"pwdrequired" "1"
+			"timeupdated" "1712839626"
+		}
+		"stabilizing"
+		{
+			"buildid" "7731564"
+			"pwdrequired" "1"
+			"timeupdated" "1637184313"
+		}
+		"stabilizing_test"
+		{
+			"buildid" "12248397"
+			"pwdrequired" "1"
+			"timeupdated" "1695312900"
+		}
+		"bleedingedge_test"
+		{
+			"buildid" "14453882"
+			"pwdrequired" "1"
+			"timeupdated" "1716375730"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Flashbulb/Rubber Bandits/{64BitSteamID}/Synced"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Flashbulb/Rubber Bandits/{64BitSteamID}/Synced_dev"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23642023"
+"_sha" "656f585e54065003a6ee217ae3945943f343fc27"
+"_size" "9200"
