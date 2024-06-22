@@ -1,0 +1,552 @@
+"appid" "312520"
+"common"
+{
+	"name" "Rain World"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "2f5802ec38320f16b4a4e476b907b4e09e4abe27"
+	"logo_small" "2f5802ec38320f16b4a4e476b907b4e09e4abe27_thumb"
+	"icon" "5854494b840a18a660a495d6259d562b51f21240"
+	"clienticon" "a555a514964f9d161b68e6101dd03ec72210ea4b"
+	"clienttga" "e08b1e0e7297f439007d353da82f35d228dfae0a"
+	"oslist" "windows"
+	"osarch" "64"
+	"name_localized"
+	{
+		"schinese" "雨世界"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1675123200"
+		"tested_build_id" "10425236"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-6"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Rain World"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "43.23220536756128"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1712787105"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Videocult"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Akupara Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Rain World"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Akupara Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_37" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1490673096"
+	"metacritic_score" "66"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/rain-world\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "312520"
+	"store_tags"
+	{
+		"0" "4026"
+		"1" "4166"
+		"2" "1662"
+		"3" "492"
+		"4" "3834"
+		"5" "3964"
+		"6" "1625"
+		"7" "3871"
+		"8" "21"
+		"9" "3835"
+		"10" "1695"
+		"11" "4726"
+		"12" "5379"
+		"13" "3978"
+		"14" "1628"
+		"15" "4182"
+		"16" "3968"
+		"17" "599"
+		"18" "19"
+		"19" "29482"
+	}
+	"review_score" "8"
+	"review_percentage" "93"
+}
+"extended"
+{
+	"gamedir" ""
+	"developer" "Videocult"
+	"publisher" "Akupara Games"
+	"homepage" "https://www.akuparagames.com/game/rain-world/"
+	"listofdlc" "1933390,2857120"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Rain World"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RainWorld.exe"
+			"description" "Launch"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "RainWorld.exe"
+			"arguments" "WINEDLLOVERRIDES=\"winhttp=n,b\" %command%"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Launch"
+			}
+			"description" "Launch"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english"
+	"312521"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "918503140736468559"
+				"size" "3409545796"
+				"download" "2168700400"
+			}
+			"classic"
+			{
+				"gid" "6365756072218008879"
+				"size" "3302595935"
+				"download" "2065142512"
+			}
+			"legacy"
+			{
+				"gid" "791678341923736547"
+				"size" "4350696052"
+				"download" "2335583216"
+			}
+			"legacy-remix"
+			{
+				"gid" "2504273685789759708"
+				"size" "3461891753"
+				"download" "2198958768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"64bittest"
+			{
+				"gid" "85B8E01369B51D888DD21BA3FB820824"
+				"size" "C40FD32B04418C833C8A9BBCB752F0B1"
+				"download" "CE4539725A5A2161C0800BFA6AEACF76"
+			}
+			"beta"
+			{
+				"gid" "A10BC5577897F7444766CA442A5B036A"
+				"size" "CDBCB319A2BC19D876096DF39DE9C0AD"
+				"download" "E2282D616992B3C86BB78F0EA4D93CC5"
+			}
+			"five-pebbles"
+			{
+				"gid" "36A037A60895EDB087B0D033C9D180C5"
+				"size" "AD0849A9A6280BB75D65C4B40619BE11"
+				"download" "CDADC4C8FB2362E264C2FB4AD00F38CD"
+			}
+			"internal"
+			{
+				"gid" "EB8EB0447F426A4005481D989D2CA7CA"
+				"size" "4DD4E3786DB1F23650B0401659BBCE16"
+				"download" "0783BC6F34D8DEFE3E6C5130B5C0EB2D"
+			}
+			"internal2"
+			{
+				"gid" "D79D3106D81C5599D718AB7C3902BD76"
+				"size" "489D695811807BBD8B2450D1C427F30B"
+				"download" "DC12214249EE7F1C6A3D9F6D390DCA78"
+			}
+			"media"
+			{
+				"gid" "57B40D83FAA5A7C96B12CAF329527377"
+				"size" "1B07278C2740F327DFC28E818398595C"
+				"download" "34D6BF020DED3916081F27BB7B010361"
+			}
+			"qa-testing"
+			{
+				"gid" "CCDE1D461F649C2C2409B4BF1E6E0681"
+				"size" "9B8AB0A26B6E2134092AEB858CEBF4C1"
+				"download" "4600377F9FAC7B3F131CD7A1B6F1DF09"
+			}
+		}
+	}
+	"workshopdepot" "312520"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13914105"
+			"timeupdated" "1711998281"
+		}
+		"64bittest"
+		{
+			"buildid" "13379548"
+			"pwdrequired" "1"
+			"timeupdated" "1707214772"
+		}
+		"beta"
+		{
+			"buildid" "2290040"
+			"pwdrequired" "1"
+			"timeupdated" "1671126044"
+		}
+		"classic"
+		{
+			"buildid" "1748904"
+			"description" "v1.01 - OG experience"
+			"timeupdated" "1672857204"
+		}
+		"five-pebbles"
+		{
+			"buildid" "13568008"
+			"pwdrequired" "1"
+			"timeupdated" "1709678303"
+		}
+		"internal"
+		{
+			"buildid" "13664832"
+			"pwdrequired" "1"
+			"timeupdated" "1709783204"
+		}
+		"internal2"
+		{
+			"buildid" "13664849"
+			"pwdrequired" "1"
+			"timeupdated" "1709827215"
+		}
+		"legacy"
+		{
+			"buildid" "2290040"
+			"description" "v1.51 - mod compatibility"
+			"timeupdated" "1672855746"
+		}
+		"legacy-remix"
+		{
+			"buildid" "10822285"
+			"description" "v1.9.07b"
+			"timeupdated" "1709678054"
+		}
+		"media"
+		{
+			"buildid" "10607427"
+			"pwdrequired" "1"
+			"timeupdated" "1677098506"
+		}
+		"qa-testing"
+		{
+			"buildid" "11264373"
+			"pwdrequired" "1"
+			"timeupdated" "1684426473"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "sav2"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "sav3"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "options"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "exp"
+		}
+		"5"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "expCore1"
+		}
+		"6"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "expCore2"
+		}
+		"7"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "expCore3"
+		}
+		"8"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World/SJ_0"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"9"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World/SJ_1"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"10"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World/SJ_2"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"11"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World/cloud"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"12"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World/ModConfigs"
+			"pattern" "*"
+			"recursive" "1"
+		}
+		"13"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Videocult/Rain World"
+			"pattern" "exp1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Videocult/Rain World"
+					"replace" "unity.Videocult.Rain World"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Videocult/Rain World"
+					"replace" ".config/unity3d/Videocult/Rain World"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24051624"
+"_sha" "518fdd65dc1646e6ff8edad1615673b1bdfe93a9"
+"_size" "10367"
