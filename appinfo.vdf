@@ -1,0 +1,233 @@
+"appid" "2758000"
+"common"
+{
+	"name" "名利游戏"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "96dc98c666f70636cee7150bd1d5c05de003db3f"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"clienticon" "2f61dff189db6826b3c39f64c451b5dd00f6b472"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"tchinese" "名利遊戲"
+		"english" "Vanity Fair: The Pursuit"
+		"japanese" "名利のゲーム"
+		"koreana" "명예와 부의 게임"
+		"russian" "Игра славы и богатства"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"russian" "header_russian.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,zh-tw,ru,ja,ko,en"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,ru,zh-tw,ja,ko,zh-cn"
+		"library_header" "en,zh-tw,ja,ko,ru,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.55569818654104"
+			"height_pct" "55.52397490698965"
+		}
+	}
+	"store_asset_mtime" "1714044248"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "MuYan Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "WaveGame"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708393915"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2758000"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "18594"
+		"2" "6426"
+		"3" "1742"
+		"4" "4145"
+		"5" "492"
+		"6" "5984"
+		"7" "9204"
+		"8" "599"
+		"9" "11014"
+		"10" "3799"
+		"11" "24003"
+		"12" "4182"
+		"13" "10235"
+		"14" "5537"
+		"15" "9551"
+		"16" "1697"
+		"17" "615955"
+		"18" "4305"
+		"19" "6691"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "MuYan Studio"
+	"publisher" "WaveGame"
+}
+"config"
+{
+	"installdir" "FameAndWealth"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FameAndWealth.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2758001"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3097179868638233780"
+				"size" "23218298878"
+				"download" "22866153600"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "D3C5728FA72C0ECA511E2235D73BDC25"
+				"size" "4C0CA494EB7B3E9961D04A699B419A3B"
+				"download" "F14CA93D71443043298E5ED35FB012B9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14275034"
+			"timeupdated" "1714975351"
+		}
+		"test"
+		{
+			"buildid" "14275034"
+			"pwdrequired" "1"
+			"timeupdated" "1714974435"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "BoLang2/FameAndWealth"
+			"pattern" "*.es3"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24042120"
+"_sha" "03bae257fcff5eaf810e0346703ff47ac6a89cf1"
+"_size" "4031"
