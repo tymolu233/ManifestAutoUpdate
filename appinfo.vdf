@@ -1,0 +1,633 @@
+"appid" "678950"
+"common"
+{
+	"name" "DRAGON BALL FighterZ"
+	"type" "Game"
+	"clienticon" "2f11d37c05cda26852b25138a1f79fa5470ffe96"
+	"clienttga" "a4f2920ffb488bad48b3beda66850f70595dd314"
+	"icon" "ebac40c0f7452dcafd40d0fb0ad52c2ae10639f5"
+	"logo" "fb33033fcc407f7015d154dddfd5865fb062e7ab"
+	"logo_small" "fb33033fcc407f7015d154dddfd5865fb062e7ab_thumb"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "678950_eula_0"
+			"name" "DRAGON BALL FighterZ EULA"
+			"url" "http://store.steampowered.com//eula/678950_eula_0"
+			"version" "1"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"japanese" "ドラゴンボール ファイターズ"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1644969600"
+		"tested_build_id" "7261101"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "DRAGON BALL FighterZ"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38"
+			"height_pct" "66"
+		}
+	}
+	"store_asset_mtime" "1710774832"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Arc System Works"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "FRANCHISE"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_29" "1"
+		"category_49" "1"
+		"category_44" "1"
+		"category_37" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"full_audio" "true"
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1516989420"
+	"metacritic_score" "85"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/dragon-ball-fighterz\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "678950"
+	"store_tags"
+	{
+		"0" "1743"
+		"1" "4085"
+		"2" "19"
+		"3" "4736"
+		"4" "3859"
+		"5" "7368"
+		"6" "3878"
+		"7" "7481"
+		"8" "1775"
+		"9" "4182"
+		"10" "1773"
+		"11" "4026"
+		"12" "5055"
+		"13" "1734"
+		"14" "4777"
+		"15" "3993"
+		"16" "1751"
+		"17" "21"
+		"18" "1697"
+		"19" "4158"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"anti_cheat_support_url" ""
+	"developer" "Arc System Works"
+	"publisher" "Bandai Namco Entertainment"
+	"homepage" "https://www.bandainamcoent.com/"
+	"listofdlc" "729450,758770,758771,758772,758774,758780,779930,779931,779932,779933,779934,779935,779936,779937,779938,779939,779940,952080,992170,992171,992172,992173,992174,992175,992176,1020570,1020571,1020572,1209880,1248430,1248431,1248432,1248433,1248434,1744780"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DRAGON BALL FighterZ"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "DBFighterZ.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"1911784383"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"678951"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4429124631916876092"
+				"size" "6867613201"
+				"download" "6169382736"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compat"
+			{
+				"gid" "DE4AD3B8FAA5BC6BE87C0B9B08EB7EAE"
+				"size" "8A7F4E33CD27BD7BCF1678FCBBFFDF6A"
+				"download" "846179A99C2227FE79ABAD5EBFAC6E57"
+			}
+			"development"
+			{
+				"gid" "0EDF47AF91064359FB15E8E838AADA16"
+				"size" "1432370FC2CF229EA842C1727B99A050"
+				"download" "0E104D9ED3F74DE9B6993BD60DD584DF"
+			}
+			"development-test"
+			{
+				"gid" "AA6ECDED4C5866B7CC051BB4CD3FCF1D"
+				"size" "D2510D86794FBBD79D664E793B25AEA2"
+				"download" "8D6BB4859ABD041B649B106476FEB004"
+			}
+			"development-test2"
+			{
+				"gid" "0CF8CD9E6197F87A7DCCE23C2E4C7A8C"
+				"size" "374A15A4AEF79ACC34B9F61DDE6695EF"
+				"download" "C6B804A03FEDF1ABBC221C7B21BED841"
+			}
+			"development2"
+			{
+				"gid" "6976C1C55DF5FEF1DAF790192F8E0037"
+				"size" "E426BD358ECD1E980BAC080327482EA6"
+				"download" "D3C31897ABB7E3AF2A5D6F8EC78D4907"
+			}
+			"media"
+			{
+				"gid" "7F52A27D354CB816D4CEA7F22F40AF6A"
+				"size" "ADB723C49B6B501537D355EF1A7137D7"
+				"download" "BB9CBE1B5AA1D13567ACDC679B3E8441"
+			}
+			"pbt-debug"
+			{
+				"gid" "E60BEDE8464F43BA5F9099D107313DCA"
+				"size" "08052BAF1FC59E678A064EC1E717470A"
+				"download" "CE1A6E7ECAF8519CE055B63C74A1B8AF"
+			}
+			"pbt-release"
+			{
+				"gid" "146ED1BBF0A993D6CB960772334B1C21"
+				"size" "4187B334FC2AB173D55D4D46EBDAA4E5"
+				"download" "29AFAA4311D55B5644C7273BEB356B46"
+			}
+			"public-beta-test"
+			{
+				"gid" "EF5489CD7468883E09297EC82889B709"
+				"size" "72A8FC9ABB0F25BEA98286A1957640D1"
+				"download" "C4B513C20A7B875CD4BD8AF618410455"
+			}
+			"public-test"
+			{
+				"gid" "6006025BA975C7CCBD6E8ADAB189CB25"
+				"size" "9EDE6006E043EE28B80C6E2D3C534D4C"
+				"download" "82E11999DF198D35E76C03EC9F8CF934"
+			}
+			"dev-qa-debug"
+			{
+				"gid" "1D525A38CDD53695422F467BD145B8AE"
+				"size" "A20145A7052076A37C8ABFB1BC75EB6B"
+				"download" "773F191FBCDEFFEEA111669B96C736F1"
+			}
+			"dev-qa-release"
+			{
+				"gid" "ACAD5146E018EA2E11D92C35C3C9E96B"
+				"size" "724253EABEC09D5069BDA0734E63E8B8"
+				"download" "9EE56727ECF282491CED593DDCB1D2E5"
+			}
+			"dev-test-debug"
+			{
+				"gid" "31F52626B733166E9EC930154A664E87"
+				"size" "F401C2F09B37DAB32F868EEF90A0FA0D"
+				"download" "B6F5DF2FAEA6D3B5BFF0C02BB66B7DC0"
+			}
+			"dev-test-release"
+			{
+				"gid" "9D09C6C32EF6D9532D5DEC36DD14A60C"
+				"size" "5E464205DA4003D386870C2E44124EFE"
+				"download" "31F0D24134BC92D4EE0C73E995F1A67E"
+			}
+		}
+	}
+	"678952"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6001864783292354545"
+				"size" "6874499306"
+				"download" "6120702800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compat"
+			{
+				"gid" "193B16A22B9695006B828FB161D99EEB"
+				"size" "14E929A5A4686DBDD3926CF1253D109E"
+				"download" "CC1FEEC6EB5FFE414C6D706E8BD7B3E5"
+			}
+			"development-test"
+			{
+				"gid" "AF42EE4CCBE7E4267A8D8C8C44A91FF8"
+				"size" "5A47449D466C59C3B8B730CA056E1BF7"
+				"download" "D61851100F77B70FF483F5A85BA49D0A"
+			}
+			"development-test2"
+			{
+				"gid" "72A234A58327A72EBCBD5E16DF9798C0"
+				"size" "271CE87BE04E1C6F7A5CDF34AC35A303"
+				"download" "67AA8DC1DE77A63C660CEAC076E862DE"
+			}
+			"development2"
+			{
+				"gid" "14A92C3438C46D27BA19204B099457FB"
+				"size" "B4C50AA22F28CBD1E958ABC2C0C21023"
+				"download" "0A671964643DE532377D409F56CA124D"
+			}
+			"media"
+			{
+				"gid" "90C985A74D8487732D7B7F9DA1FC673D"
+				"size" "3593CCE38A35B9F03EB9C1D41E2ADEA3"
+				"download" "56B8B063DEA2A4FD888A462074D857CE"
+			}
+			"pbt-debug"
+			{
+				"gid" "7A2C6A89FF7A34C9BC4A14DE4217957C"
+				"size" "05E6CA929AFFDAAD6C4451901854E3FD"
+				"download" "9D2E37752F4DE97541261484211EF81D"
+			}
+			"pbt-release"
+			{
+				"gid" "42023D21A1C8336E9339B47EFFBB7CF7"
+				"size" "683F4F8098D1ACF5A2A9F458914974C4"
+				"download" "E02D881D116B382C1811246296F5A0AF"
+			}
+			"public-beta-test"
+			{
+				"gid" "B40189EE99537DBF01B4C1A61D65A2A5"
+				"size" "4DF46667BAFEEA06637B09BB42FDB287"
+				"download" "31477DA97DE796FC105DBFEF3D393F8E"
+			}
+			"public-test"
+			{
+				"gid" "2FE4E2727C62A06B29BB9DEA1D309DDC"
+				"size" "7A6DC4397219C3442906BBC1FF8DA36D"
+				"download" "831E8590B803A05CEF6EAC0CFE3CBFFA"
+			}
+			"dev-qa-debug"
+			{
+				"gid" "1B04C57DD365471A41C404CF1AD7CBAE"
+				"size" "9758F9E2159B7513091ADC91F716430A"
+				"download" "5B715F34CD23019184ECB37213DC7045"
+			}
+			"dev-qa-release"
+			{
+				"gid" "4EF2C591D3EE46D437D6EF979AC56223"
+				"size" "3D0F5E2A63DC4D69DF9F37E47785F8D3"
+				"download" "DE15A32318468AC1386653BC0A79DA1A"
+			}
+			"dev-test-debug"
+			{
+				"gid" "D887B79677C9F1E53D7AB32E571A4DE8"
+				"size" "91413DEB9F3A59522C527C34BF401AC6"
+				"download" "0079C05812BA8A349249D502C2812806"
+			}
+			"dev-test-release"
+			{
+				"gid" "0E0850433E2B0C2525305A259ADBDDE7"
+				"size" "38CCF1D10D06AF9638C29375B32B7F9A"
+				"download" "861997E6646CCF4F863BF55FA064F389"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13817495"
+			"timeupdated" "1713563930"
+		}
+		"compat"
+		{
+			"buildid" "12548509"
+			"pwdrequired" "1"
+			"timeupdated" "1699420192"
+		}
+		"development"
+		{
+			"buildid" "13712350"
+			"pwdrequired" "1"
+			"timeupdated" "1710237763"
+		}
+		"development-test"
+		{
+			"buildid" "13584013"
+			"pwdrequired" "1"
+			"timeupdated" "1709093351"
+		}
+		"development-test2"
+		{
+			"buildid" "13505883"
+			"pwdrequired" "1"
+			"timeupdated" "1708421536"
+		}
+		"development2"
+		{
+			"buildid" "13711533"
+			"pwdrequired" "1"
+			"timeupdated" "1710232146"
+		}
+		"media"
+		{
+			"buildid" "8938928"
+			"pwdrequired" "1"
+			"timeupdated" "1655986854"
+		}
+		"pbt-debug"
+		{
+			"buildid" "12716376"
+			"pwdrequired" "1"
+			"timeupdated" "1700103729"
+		}
+		"pbt-release"
+		{
+			"buildid" "12715454"
+			"pwdrequired" "1"
+			"timeupdated" "1700103743"
+		}
+		"public-beta-test"
+		{
+			"buildid" "11770506"
+			"pwdrequired" "1"
+			"timeupdated" "1702368022"
+		}
+		"public-test"
+		{
+			"buildid" "9800277"
+			"pwdrequired" "1"
+			"timeupdated" "1666752605"
+		}
+		"dev-qa-debug"
+		{
+			"buildid" "14660911"
+			"pwdrequired" "1"
+			"timeupdated" "1718101604"
+		}
+		"dev-qa-release"
+		{
+			"buildid" "14660913"
+			"pwdrequired" "1"
+			"timeupdated" "1718101616"
+		}
+		"dev-test-debug"
+		{
+			"buildid" "14660911"
+			"pwdrequired" "1"
+			"timeupdated" "1718003230"
+		}
+		"dev-test-release"
+		{
+			"buildid" "14660913"
+			"pwdrequired" "1"
+			"timeupdated" "1718003243"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "78643200"
+	"maxnumfiles" "150"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "DBFighterZ/Saved/SaveGames"
+			"pattern" "SYSTEM.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "DBFighterZ/Saved/SaveGames"
+			"pattern" "REP*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "DBFighterZ/Saved/SaveGames/{Steam3AccountID}"
+			"pattern" "SYSTEM.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocal"
+			"path" "DBFighterZ/Saved/SaveGames/{Steam3AccountID}"
+			"pattern" "REP*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23921127"
+"_sha" "aa9f2ec952f04f032b7761727528ecc2d48ff1d4"
+"_size" "13287"
