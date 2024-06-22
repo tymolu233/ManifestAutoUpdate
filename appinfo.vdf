@@ -1,0 +1,179 @@
+"appid" "844630"
+"common"
+{
+	"name" "Squad 44 - Public Testing"
+	"section_type" "ownersonly"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"releasestate" "released"
+	"clienttga" "4952f27ce5cdbf1c7a1f62ef1afeae3559eac317"
+	"clienticon" "ffb742b636c79346aa498b66a553c91315fc44de"
+	"icon" "0057eba030c446743df41dffdc3e5931044c07e6"
+	"osextended" ""
+	"associations"
+	{
+	}
+	"community_hub_visible" "1"
+	"gameid" "844630"
+	"store_tags"
+	{
+	}
+}
+"extended"
+{
+	"gamedir" "postscriptum"
+	"serverbrowsername" "Post Scriptum Test"
+}
+"config"
+{
+	"installdir" "Post Scriptum - Public Testing"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launch_PostScriptum.exe"
+			"arguments" "-NotInstalled"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"844631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2996927261431366806"
+				"size" "71316180950"
+				"download" "26689666896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"mercuryarts"
+			{
+				"gid" "60DEDF005B1CF78EFDEDB7143E575235"
+				"size" "410A04FA27AE28E5AA93268BD0C0503E"
+				"download" "F2176740B406B3F996D7D4DB0DA12074"
+			}
+			"mercuryarts-newbuild"
+			{
+				"gid" "049A504C030FA13743CB7F5646C71307"
+				"size" "376640444AFA30590AF42F5E179D5158"
+				"download" "32B9E18568762BB8F62AA1BADB89C22D"
+			}
+			"validation-branch"
+			{
+				"gid" "C759F0807842B60B5589B11156BC2A01"
+				"size" "3549C3FD9BBB7CA850EBFB41642776B3"
+				"download" "2A1A336784E81586A1D36840F422176F"
+			}
+			"communitytesting"
+			{
+				"gid" "553F26F106E891821B9770A8C3C07238"
+				"size" "86B744F63DB944E136A0A843F36F78A2"
+				"download" "60F44CBCEF00345089ECA70814AD1D95"
+			}
+			"newbuild-release"
+			{
+				"gid" "3FDB45E16BB5C03F7F6D30CB92CF60F2"
+				"size" "5CACC0C180848731EEC71B29A8491855"
+				"download" "5B0E77A14E0F380E8A37494D879A5E20"
+			}
+			"test"
+			{
+				"gid" "8C33C1831ECE353B98C28E5C9592C799"
+				"size" "14754ACB37A301F2799E14F675044DE3"
+				"download" "FABD490349A2574C97625D4C8D68D2FD"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,spanish,schinese,tchinese,russian,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14037968"
+			"timeupdated" "1712944806"
+		}
+		"mercuryarts"
+		{
+			"buildid" "10175888"
+			"pwdrequired" "1"
+			"timeupdated" "1671444596"
+		}
+		"mercuryarts-newbuild"
+		{
+			"buildid" "9727929"
+			"pwdrequired" "1"
+			"timeupdated" "1665831686"
+		}
+		"validation-branch"
+		{
+			"buildid" "10197813"
+			"pwdrequired" "1"
+			"timeupdated" "1671721280"
+		}
+		"communitytesting"
+		{
+			"buildid" "14804493"
+			"pwdrequired" "1"
+			"timeupdated" "1719064172"
+		}
+		"newbuild-release"
+		{
+			"buildid" "14801838"
+			"pwdrequired" "1"
+			"timeupdated" "1719028293"
+		}
+		"test"
+		{
+			"buildid" "14683851"
+			"pwdrequired" "1"
+			"timeupdated" "1718145579"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24078075"
+"_sha" "dae6a2207d8c317f06f65d406b0212475a286e4d"
+"_size" "3400"
