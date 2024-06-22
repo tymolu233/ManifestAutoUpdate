@@ -1,0 +1,1181 @@
+"appid" "251570"
+"common"
+{
+	"name" "7 Days to Die"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"logo" "d4cf46a7fb9513807554dbc5d67858862979c848"
+	"logo_small" "d4cf46a7fb9513807554dbc5d67858862979c848_thumb"
+	"icon" "f6515dd177b2992aebcb563151fbe836a600f364"
+	"clienttga" "6809e01bed7691b587e72f155e33324c4aa324b2"
+	"linuxclienticon" "285561afb358ef05425471d357dfc2c428a0cff2"
+	"clienticns" "e4b9ca1d116762305f8d1d64ae6fe1377d50d739"
+	"clienticon" "01840052e8bc61931392423adcd4912262b2ce54"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "251570_eula_0"
+			"name" "7 Days to Die EULA"
+			"url" "http://store.steampowered.com//eula/251570_eula_0"
+			"version" "1"
+		}
+	}
+	"osarch" "64"
+	"osextended" "macos64"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1692403200"
+		"tested_build_id" "11888660"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "7 Days to Die"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "35"
+			"height_pct" "46"
+		}
+	}
+	"store_asset_mtime" "1718835582"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Fun Pimps"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "The Fun Pimps Entertainment LLC"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "2"
+		"6" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_27" "1"
+		"category_9" "1"
+		"category_17" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_43" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_42" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_47" "1"
+		"category_38" "1"
+		"category_48" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1386963060"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "251570"
+	"store_tags"
+	{
+		"0" "1662"
+		"1" "1659"
+		"2" "3859"
+		"3" "1695"
+		"4" "1100689"
+		"5" "1732"
+		"6" "7332"
+		"7" "3835"
+		"8" "3843"
+		"9" "1643"
+		"10" "3834"
+		"11" "3810"
+		"12" "599"
+		"13" "1663"
+		"14" "4747"
+		"15" "9"
+		"16" "19"
+		"17" "1645"
+		"18" "5125"
+		"19" "1667"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"gamedir" "7DTD"
+	"serverbrowsername" "7 Days To Die"
+	"developer" "The Fun Pimps"
+	"publisher" "The Fun Pimps Entertainment LLC"
+	"homepage" "http://www.7daystodie.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "7 Days To Die"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "7dLauncher.exe"
+			"arguments" "-from-steam"
+			"description" "Launch game"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"2"
+		{
+			"executable" "7dLauncher.app"
+			"arguments" "-from-steam"
+			"description" "Launch game"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"5"
+		{
+			"executable" "7DaysToDie.sh"
+			"arguments" "-from-steam"
+			"description" "Launch game"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"6"
+		{
+			"executable" "7dLauncher.exe"
+			"arguments" "-show-launcher -from-steam"
+			"description" "Show game launcher"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"7"
+		{
+			"executable" "7dLauncher.app"
+			"arguments" "-show-launcher -from-steam"
+			"description" "Show game launcher"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"8"
+		{
+			"executable" "7DaysToDie.sh"
+			"arguments" "-show-launcher -from-steam"
+			"description" "Show game launcher"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"9"
+		{
+			"executable" "7dLauncher.exe"
+			"arguments" "-from-steam -forceeac off"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Launch game without EAC"
+			}
+			"description" "Launch game without EAC"
+		}
+		"10"
+		{
+			"executable" "7dLauncher.app"
+			"arguments" "-from-steam -forceeac off"
+			"config"
+			{
+				"oslist" "macos"
+			}
+			"description_loc"
+			{
+				"english" "Launch game without EAC"
+			}
+			"description" "Launch game without EAC"
+		}
+		"11"
+		{
+			"executable" "7DaysToDie.sh"
+			"arguments" "-from-steam -forceeac off"
+			"config"
+			{
+				"oslist" "linux"
+			}
+			"description_loc"
+			{
+				"english" "Launch game without EAC"
+			}
+			"description" "Launch game without EAC"
+		}
+	}
+	"steamcontrollertemplateindex" "2"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2109114205"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"overridescddb" "1"
+	"markdlcdepots" "1"
+	"251576"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2807835339043437499"
+				"size" "17049978075"
+				"download" "11734430768"
+			}
+			"alpha21.2"
+			{
+				"gid" "2807835339043437499"
+				"size" "17049978075"
+				"download" "11734430768"
+			}
+			"alpha21.1"
+			{
+				"gid" "5867618911669795715"
+				"size" "17048154297"
+				"download" "11734293312"
+			}
+			"alpha21.0"
+			{
+				"gid" "3784953955724087016"
+				"size" "17044164927"
+				"download" "11733874064"
+			}
+			"alpha20.7"
+			{
+				"gid" "7186207210366457474"
+				"size" "14265071181"
+				"download" "6339147344"
+			}
+			"alpha19.6"
+			{
+				"gid" "7376710676679235726"
+				"size" "11381782168"
+				"download" "5101097920"
+			}
+			"alpha18.4"
+			{
+				"gid" "1829459294485917329"
+				"size" "13561394450"
+				"download" "4853265504"
+			}
+			"alpha17.4"
+			{
+				"gid" "3575830474138886113"
+				"size" "7707732110"
+				"download" "3253534352"
+			}
+			"alpha16.4"
+			{
+				"gid" "7468628160220339213"
+				"size" "3904234752"
+				"download" "1510538288"
+			}
+			"alpha15.2"
+			{
+				"gid" "1889406064716381912"
+				"size" "3281433087"
+				"download" "1259059696"
+			}
+			"alpha14.7"
+			{
+				"gid" "1890869266944069978"
+				"size" "3340546863"
+				"download" "1303613664"
+			}
+			"alpha13.8"
+			{
+				"gid" "4068792839952772166"
+				"size" "3226626650"
+				"download" "1309966672"
+			}
+			"alpha12.5"
+			{
+				"gid" "4330205761186853781"
+				"size" "2776203955"
+				"download" "1091244320"
+			}
+			"alpha11.6"
+			{
+				"gid" "3531752892536585587"
+				"size" "2623976401"
+				"download" "927550960"
+			}
+			"alpha10.4"
+			{
+				"gid" "5720370525519468123"
+				"size" "2073606193"
+				"download" "840292048"
+			}
+			"alpha9.3"
+			{
+				"gid" "2164521405273223044"
+				"size" "1969876073"
+				"download" "729127867941"
+			}
+			"alpha8.8"
+			{
+				"gid" "2055364469586533071"
+				"size" "1782385517"
+				"download" "2136773701888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing_trunk"
+			{
+				"gid" "0188CE6D2A4C9EF29AE260E9FF54E416"
+				"size" "9B6775B933812BA2F32FBD1302FCC90F"
+				"download" "BB6945C7EC5982CBE7267296082FEC5D"
+			}
+			"testing_branch"
+			{
+				"gid" "62E5E9B683541680FDD4BD63708D3ED1"
+				"size" "C69844F627CD8D38B6EC24C2360463CD"
+				"download" "58BB57208F62B275A60A3C438F2C3260"
+			}
+			"internal_test"
+			{
+				"gid" "349FC1D30CC18BC11A9AF7A88905DEA6"
+				"size" "5297DE0BBDC224473939A152C8998EE9"
+				"download" "5B8C1BA900D88E91A96AB69814744CC8"
+			}
+			"latest_experimental"
+			{
+				"gid" "734C785152F6D2A63EFC09C1FCE045A7"
+				"size" "865A4BE33FEA06B5BDD8111F83F0F3DE"
+				"download" "6E4F748D3B0B9B3A514F45B773F9B229"
+			}
+			"testing_branch_alt"
+			{
+				"gid" "77BDEB173039D621B1632622CDF0AAD6"
+				"size" "7077A3657F660DF7D33445C08932E79B"
+				"download" "10DEBEEFF782A568948CEBEDEB4477EC"
+			}
+			"testing_profiling"
+			{
+				"gid" "64C922B26B68BEDEDEA2AE6AD1294908"
+				"size" "BB0005FD88FCAD8CB812E3E8F92ABFBE"
+				"download" "F946250D6551D964DF329D4D31CF9121"
+			}
+		}
+	}
+	"251577"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "460608022932267178"
+				"size" "16948446125"
+				"download" "11685616160"
+			}
+			"alpha21.2"
+			{
+				"gid" "460608022932267178"
+				"size" "16948446125"
+				"download" "11685616160"
+			}
+			"alpha21.1"
+			{
+				"gid" "4204292227009550509"
+				"size" "16947134786"
+				"download" "11683694720"
+			}
+			"alpha21.0"
+			{
+				"gid" "4983860061800554572"
+				"size" "16942598087"
+				"download" "11683976240"
+			}
+			"alpha20.7"
+			{
+				"gid" "8838421308320817591"
+				"size" "14194546457"
+				"download" "6316357776"
+			}
+			"alpha19.6"
+			{
+				"gid" "6193555151733610046"
+				"size" "11294652511"
+				"download" "5070487984"
+			}
+			"alpha18.4"
+			{
+				"gid" "2041249178457109691"
+				"size" "13529210229"
+				"download" "4834945440"
+			}
+			"alpha17.4"
+			{
+				"gid" "2553460580609535487"
+				"size" "7499907446"
+				"download" "3212596320"
+			}
+			"alpha16.4"
+			{
+				"gid" "5275845840547936568"
+				"size" "3507137442"
+				"download" "1453271584"
+			}
+			"alpha15.2"
+			{
+				"gid" "4961161964691780666"
+				"size" "2887312573"
+				"download" "1200947008"
+			}
+			"alpha14.7"
+			{
+				"gid" "4236744424725316539"
+				"size" "3219113677"
+				"download" "1276178816"
+			}
+			"alpha13.8"
+			{
+				"gid" "6799559988264800843"
+				"size" "3232575851"
+				"download" "1297579616"
+			}
+			"alpha12.5"
+			{
+				"gid" "3048942817565823865"
+				"size" "2792361496"
+				"download" "1078219264"
+			}
+			"alpha11.6"
+			{
+				"gid" "7280524462696517196"
+				"size" "2521803698"
+				"download" "910864944"
+			}
+			"alpha10.4"
+			{
+				"gid" "5358158027016440915"
+				"size" "2014735923"
+				"download" "817887376"
+			}
+			"alpha9.3"
+			{
+				"gid" "2868930281091204310"
+				"size" "1904421475"
+				"download" "1492886735718"
+			}
+			"alpha8.8"
+			{
+				"gid" "9037689028862576995"
+				"size" "1772260838"
+				"download" "1552330628214"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing_trunk"
+			{
+				"gid" "880755B193A4A2464534687A1EE82E19"
+				"size" "E15E39CF961B128BB36E72C28F19B2D0"
+				"download" "A807AB3A16FFC361FE3D7F53CFD19726"
+			}
+			"testing_branch"
+			{
+				"gid" "7A0BAEF5A0F6D965A3CA8EE27E4FC5CA"
+				"size" "2FF7B1F33209D849F9BEB0F9785FFBFA"
+				"download" "DB70ABC41A9EC6B49A09B4DBB95DBA3A"
+			}
+			"internal_test"
+			{
+				"gid" "06E860FC3C1AE1553278DEEE1989F7EA"
+				"size" "11A6E40C140D877BB20C86E024BA10C5"
+				"download" "78CCACE023A15F5CD272FCEE3592908C"
+			}
+			"latest_experimental"
+			{
+				"gid" "97D1AEC6EBF79D5E59CC878A421F4844"
+				"size" "81ADED722828B65ABA136D5A238504A9"
+				"download" "E26FD329FAE6FF31BD262740DEFE9931"
+			}
+			"testing_branch_alt"
+			{
+				"gid" "5C62799ED25B124D3471AA2AB1522B17"
+				"size" "8944F09C4A1C4E57F1D2EAA4F6785853"
+				"download" "9F2E8E45382C0D7B72A515278FCA3AE9"
+			}
+			"testing_profiling"
+			{
+				"gid" "CEA020849922B4DE37B5A91D9CD78FB6"
+				"size" "D86A6CAA1D9E7CE5DD88B3E66ED131FC"
+				"download" "9456E37959DCBD20AD438AAE1BD54DD9"
+			}
+		}
+	}
+	"251578"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6750169086033110441"
+				"size" "17068658791"
+				"download" "11727208736"
+			}
+			"alpha21.2"
+			{
+				"gid" "6750169086033110441"
+				"size" "17068658791"
+				"download" "11727208736"
+			}
+			"alpha21.1"
+			{
+				"gid" "4936046532308330712"
+				"size" "17067182402"
+				"download" "11726142704"
+			}
+			"alpha21.0"
+			{
+				"gid" "1703397713221820278"
+				"size" "17063360983"
+				"download" "11725066464"
+			}
+			"alpha20.7"
+			{
+				"gid" "5506076165958292580"
+				"size" "14331682433"
+				"download" "6340437952"
+			}
+			"alpha19.6"
+			{
+				"gid" "1562221519351495492"
+				"size" "11373702223"
+				"download" "5094853104"
+			}
+			"alpha18.4"
+			{
+				"gid" "6493176104375076439"
+				"size" "13609330324"
+				"download" "4861334528"
+			}
+			"alpha17.4"
+			{
+				"gid" "391070449553160554"
+				"size" "7619112609"
+				"download" "3251848944"
+			}
+			"alpha16.4"
+			{
+				"gid" "2127709111629063304"
+				"size" "3587493433"
+				"download" "1473642192"
+			}
+			"alpha15.2"
+			{
+				"gid" "423233432939529905"
+				"size" "2961460149"
+				"download" "1215300112"
+			}
+			"alpha14.7"
+			{
+				"gid" "1608684423263739061"
+				"size" "3276980623"
+				"download" "1287362496"
+			}
+			"alpha13.8"
+			{
+				"gid" "6602346654511458574"
+				"size" "3316321177"
+				"download" "1308264192"
+			}
+			"alpha12.5"
+			{
+				"gid" "619384807577778108"
+				"size" "2819463911"
+				"download" "1087778800"
+			}
+			"alpha11.6"
+			{
+				"gid" "2748305938543302157"
+				"size" "2549134631"
+				"download" "920216064"
+			}
+			"alpha10.4"
+			{
+				"gid" "8274183494581638549"
+				"size" "2076140270"
+				"download" "837794816"
+			}
+			"alpha9.3"
+			{
+				"gid" "2581709566082809736"
+				"size" "1868944088"
+				"download" "255173431712"
+			}
+			"alpha8.8"
+			{
+				"gid" "2791697350388990478"
+				"size" "1739051916"
+				"download" "1743435618894"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing_trunk"
+			{
+				"gid" "BF94F9BF162859E61941863ED9B3908E"
+				"size" "8E049A5C55EC9658743494C7D2883BD9"
+				"download" "C39DABEEE87939128D8CBD46ABDA03D8"
+			}
+			"testing_branch"
+			{
+				"gid" "521A4C24A400CFA25B4C99A939036639"
+				"size" "21BD0FCFF7D9D4A9D376D312F14B2F21"
+				"download" "C2FF69618BA0B89B2F4E22AE8F4DFF78"
+			}
+			"internal_test"
+			{
+				"gid" "02B787476F8B908EF510F2BFC310F393"
+				"size" "72E13F2D8AE8E453FF9A2BF00A3208D8"
+				"download" "99944C0A16A92FB0B6EEF508CAC95827"
+			}
+			"latest_experimental"
+			{
+				"gid" "0C5A73DAFEA927340DA3F07B2B266436"
+				"size" "B563EDC9DFA29A15C4C7C89C5FBFB817"
+				"download" "6D23927B536D1D20E52ACE236717A6F5"
+			}
+			"testing_branch_alt"
+			{
+				"gid" "8AF20ABA13904E5A4FFB926CEBEBADAB"
+				"size" "2BECEB6157658FB80EC0D8C0E45F39DB"
+				"download" "F116CB99D6F01DD5060B28F2ED873336"
+			}
+			"testing_profiling"
+			{
+				"gid" "852D994DE51B1125DD1ECDB8B1429802"
+				"size" "6DA728F529CB478F02B6F47718B8C5B8"
+				"download" "F47AFF111342430DEEE7F837A3721BE0"
+			}
+		}
+	}
+	"251571"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8628486239191323866"
+				"size" "0"
+				"download" "0"
+			}
+			"alpha21.2"
+			{
+				"gid" "8628486239191323866"
+				"size" "0"
+				"download" "0"
+			}
+			"alpha21.1"
+			{
+				"gid" "8628486239191323866"
+				"size" "0"
+				"download" "0"
+			}
+			"alpha21.0"
+			{
+				"gid" "8628486239191323866"
+				"size" "0"
+				"download" "0"
+			}
+			"alpha20.7"
+			{
+				"gid" "8628486239191323866"
+				"size" "0"
+				"download" "0"
+			}
+			"alpha19.6"
+			{
+				"gid" "8628486239191323866"
+				"size" "0"
+				"download" "0"
+			}
+			"alpha18.4"
+			{
+				"gid" "8628486239191323866"
+				"size" "0"
+				"download" "0"
+			}
+			"alpha17.4"
+			{
+				"gid" "6853205597260755570"
+				"size" "7707732110"
+				"download" "3255233168"
+			}
+			"alpha16.4"
+			{
+				"gid" "1651451362444695891"
+				"size" "3904234752"
+				"download" "1511194576"
+			}
+			"alpha15.2"
+			{
+				"gid" "1968900544660248931"
+				"size" "3281433087"
+				"download" "1254089104"
+			}
+			"alpha14.7"
+			{
+				"gid" "1306825706427609892"
+				"size" "3340546863"
+				"download" "1301055200"
+			}
+			"alpha13.8"
+			{
+				"gid" "4492847844164197837"
+				"size" "3221858045"
+				"download" "1296507984"
+			}
+			"alpha12.5"
+			{
+				"gid" "7795339712230645639"
+				"size" "2771461574"
+				"download" "1062222576"
+			}
+			"alpha11.6"
+			{
+				"gid" "5030720473170676424"
+				"size" "2619430611"
+				"download" "924997872"
+			}
+			"alpha10.4"
+			{
+				"gid" "5882730563265952113"
+				"size" "2068981873"
+				"download" "837937520"
+			}
+			"alpha8.8"
+			{
+				"gid" "5316387393437744190"
+				"size" "1165368297"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing_trunk"
+			{
+				"gid" "1BB716B0ECE13726B711B2063BF8ADEF"
+				"size" "B2C72206AD4059859017D04569D1EEF8"
+				"download" "B2C72206AD4059859017D04569D1EEF8"
+			}
+			"testing_branch"
+			{
+				"gid" "27D33F63CC2EA15840CDA19E2867887C"
+				"size" "F2EA89F379C2C08FB496D5043F5EBDC7"
+				"download" "F2EA89F379C2C08FB496D5043F5EBDC7"
+			}
+			"internal_test"
+			{
+				"gid" "7C480D7C019450BED9F695842A688444"
+				"size" "E2A7BDC34C35A06CBC824E28CF49412D"
+				"download" "E2A7BDC34C35A06CBC824E28CF49412D"
+			}
+			"latest_experimental"
+			{
+				"gid" "73A4ADF14AAABA722210B2537400F426"
+				"size" "6A6F52E02EF95840540107F5D6963F6A"
+				"download" "6A6F52E02EF95840540107F5D6963F6A"
+			}
+			"testing_branch_alt"
+			{
+				"gid" "F8EC8B4524094105CEB65E779000B7E6"
+				"size" "B9252DC3BFA0FCE003E61AAC2173E6BF"
+				"download" "B9252DC3BFA0FCE003E61AAC2173E6BF"
+			}
+			"testing_profiling"
+			{
+				"gid" "E8C018955A608BAFCE0BE19B51014F97"
+				"size" "003949D0919AEAB9C8FE43EF747BC4FD"
+				"download" "003949D0919AEAB9C8FE43EF747BC4FD"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12966449"
+			"timeupdated" "1705617845"
+		}
+		"testing_trunk"
+		{
+			"buildid" "14803697"
+			"pwdrequired" "1"
+			"timeupdated" "1719052792"
+		}
+		"testing_branch"
+		{
+			"buildid" "14796436"
+			"pwdrequired" "1"
+			"timeupdated" "1718984374"
+		}
+		"internal_test"
+		{
+			"buildid" "14796436"
+			"pwdrequired" "1"
+			"timeupdated" "1718986531"
+		}
+		"latest_experimental"
+		{
+			"buildid" "14796436"
+			"pwdrequired" "1"
+			"timeupdated" "1718986926"
+		}
+		"alpha21.2"
+		{
+			"buildid" "12966449"
+			"description" "Alpha 21.2 Stable"
+			"timeupdated" "1705617764"
+		}
+		"alpha21.1"
+		{
+			"buildid" "11888660"
+			"description" "Alpha 21.1 Stable"
+			"timeupdated" "1691536500"
+		}
+		"alpha21.0"
+		{
+			"buildid" "11589515"
+			"description" "Alpha 21.0 Stable"
+			"timeupdated" "1688059511"
+		}
+		"alpha20.7"
+		{
+			"buildid" "10740005"
+			"description" "Alpha 20.7 Stable"
+			"timeupdated" "1681834113"
+		}
+		"alpha19.6"
+		{
+			"buildid" "7108523"
+			"description" "Alpha 19.6 Stable"
+			"timeupdated" "1640116155"
+		}
+		"alpha18.4"
+		{
+			"buildid" "4714807"
+			"description" "Alpha 18.4 Stable"
+			"timeupdated" "1591274076"
+		}
+		"alpha17.4"
+		{
+			"buildid" "3851784"
+			"description" "Alpha 17.4 Stable"
+			"timeupdated" "1561393270"
+		}
+		"alpha16.4"
+		{
+			"buildid" "2222519"
+			"description" "Alpha 16.4 Stable"
+			"timeupdated" "1509091357"
+		}
+		"alpha15.2"
+		{
+			"buildid" "1642896"
+			"description" "Alpha 15.2 Stable"
+			"timeupdated" "1487759666"
+		}
+		"alpha14.7"
+		{
+			"buildid" "1192732"
+			"description" "Alpha 14.7 Stable"
+			"timeupdated" "1466595415"
+		}
+		"alpha13.8"
+		{
+			"buildid" "963560"
+			"description" "Alpha 13.8 Stable"
+			"timeupdated" "1458644139"
+		}
+		"alpha12.5"
+		{
+			"buildid" "745244"
+			"description" "Alpha 12.5 Stable"
+		}
+		"alpha11.6"
+		{
+			"buildid" "659274"
+			"description" "Alpha 11.6 Stable"
+		}
+		"alpha10.4"
+		{
+			"buildid" "480999"
+			"description" "Alpha 10.4 Stable"
+		}
+		"alpha9.3"
+		{
+			"buildid" "386759"
+			"description" "Alpha 9.3 Stable"
+		}
+		"alpha8.8"
+		{
+			"buildid" "333572"
+			"description" "Alpha 8.8 Stable"
+		}
+		"testing_branch_alt"
+		{
+			"buildid" "12696513"
+			"pwdrequired" "1"
+			"timeupdated" "1700090569"
+		}
+		"testing_profiling"
+		{
+			"buildid" "14540298"
+			"pwdrequired" "1"
+			"timeupdated" "1717107529"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_atmainmenu" "Main menu"
+				"#status_connectingtoserver" "Connecting to Server"
+				"#status_loadinggame" "Loading Game"
+				"#status_ingame" "Day %day% %timeofday%: %description%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24077107"
+"_sha" "38b9736721097aea9507bbb9c357c69784eba397"
+"_size" "23375"
