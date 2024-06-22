@@ -1,0 +1,313 @@
+"appid" "1876880"
+"common"
+{
+	"name" "Primitive Society Simulator"
+	"type" "Game"
+	"clienticon" "1228452e7c69c2a41675b40d925aa9a90e3721d6"
+	"clienttga" "4bdd9483f3a950b266f4333738f9841fc97c4ead"
+	"icon" "22388e26b41a011135fb65ee4f3de4d4f362cc47"
+	"name_localized"
+	{
+		"english" "Primitive Society Simulator"
+		"schinese" "大荒先民"
+		"tchinese" "大荒先民"
+		"japanese" "大荒先民"
+		"sc_schinese" "大荒先民"
+		"brazilian" "Primitive Society Simulator"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"releasestatesteamchina" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1710547200"
+		"tested_build_id" "13653058"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ja"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,ja"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "71.9600725952813"
+			"height_pct" "99.65277777777779"
+		}
+	}
+	"store_asset_mtime" "1714620176"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "YSH BigDove"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "YSH Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1708994743"
+	"community_hub_visible" "1"
+	"gameid" "1876880"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "599"
+		"2" "220585"
+		"3" "4598"
+		"4" "3810"
+		"5" "1643"
+		"6" "22602"
+		"7" "1662"
+		"8" "12472"
+		"9" "7332"
+		"10" "1678"
+		"11" "4202"
+		"12" "9"
+		"13" "122"
+		"14" "4191"
+		"15" "3987"
+		"16" "8945"
+		"17" "4182"
+		"18" "492"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "YSH BigDove"
+	"publisher" "YSH Games"
+}
+"config"
+{
+	"installdir" "CodeNameAncestors"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "PrimitiveSocietySimulator.exe"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"1876881"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1679051870786531518"
+				"size" "1178086134"
+				"download" "711612832"
+			}
+			"beta"
+			{
+				"gid" "4012480654213145890"
+				"size" "1169818972"
+				"download" "708564464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "2449A7BF99BECED191E10BB18613452D"
+				"size" "870FCCFD36F866F637F13E1CB75B2658"
+				"download" "9FCB661CE59B74599657381505EC5949"
+			}
+			"trunkqa"
+			{
+				"gid" "027386F4C72BBDB588C15A481B4FF3F0"
+				"size" "7699FDD00AF7F8FF5D9E03736A67A253"
+				"download" "53B3166B1191401DADEF403AFD69B449"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14713676"
+			"timeupdated" "1718856829"
+		}
+		"beta"
+		{
+			"buildid" "14776378"
+			"description" "不稳定但是有新内容"
+			"timeupdated" "1718857131"
+		}
+		"steam_china_only"
+		{
+			"buildid" "14168226"
+			"pwdrequired" "1"
+			"timeupdated" "1714443111"
+			"sc_schinese" "仅中国"
+		}
+		"trunkqa"
+		{
+			"buildid" "14346917"
+			"pwdrequired" "1"
+			"timeupdated" "1715931756"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "200"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "YSH\\PrimitiveSocietySimulator\\Archives"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24044287"
+"_sha" "93af784001046d4d6d82d8557a30e5c0e0de37dd"
+"_size" "5678"
