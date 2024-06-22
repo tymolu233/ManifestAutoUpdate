@@ -1,0 +1,559 @@
+"appid" "1144200"
+"common"
+{
+	"name" "Ready or Not"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"icon" "9312af21d070f126acbd2237c461b0d06d9b3e20"
+	"logo" "05a06380b427404d82e8cf38d0b36194d91de08b"
+	"logo_small" "05a06380b427404d82e8cf38d0b36194d91de08b_thumb"
+	"clienttga" "ef7b08c675b537326df8af50516256fdbd0b002a"
+	"clienticon" "1742949c970af8aa945e41d242227f3a935c7247"
+	"releasestate" "released"
+	"osextended" ""
+	"exfgls" "1"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1643846400"
+		"tested_build_id" "7905073"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+		}
+	}
+	"metacritic_name" "Ready Or Not - Alpha"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "39.614935822637165"
+			"height_pct" "45.44072969473844"
+		}
+	}
+	"store_asset_mtime" "1705678412"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "VOID Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "VOID Interactive"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1702490460"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1144200"
+	"store_tags"
+	{
+		"0" "1708"
+		"1" "4175"
+		"2" "1663"
+		"3" "1774"
+		"4" "3859"
+		"5" "1685"
+		"6" "4182"
+		"7" "3839"
+		"8" "1667"
+		"9" "19"
+		"10" "4667"
+		"11" "5765"
+		"12" "3993"
+		"13" "6378"
+		"14" "5673"
+		"15" "4345"
+		"16" "4166"
+		"17" "13190"
+		"18" "4508"
+		"19" "1721"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "VOID Interactive"
+	"publisher" "VOID Interactive"
+	"homepage" "https://voidinteractive.net"
+	"listofdlc" "1844910"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ready Or Not"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "ReadyOrNot.exe"
+			"arguments" "-dx11"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Ready or Not (DirectX 11)"
+			}
+			"description" "Ready or Not (DirectX 11)"
+		}
+		"2"
+		{
+			"executable" "ReadyOrNot.exe"
+			"arguments" "-dx12"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Ready or Not (DirectX 12)"
+			}
+			"description" "Ready or Not (DirectX 12)"
+		}
+		"4"
+		{
+			"executable" "ReadyOrNot.exe"
+			"arguments" "-paksafemode"
+			"type" "option3"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Safe Mode (No Mods)"
+			}
+			"description" "Safe Mode (No Mods)"
+		}
+		"5"
+		{
+			"executable" "ReadyOrNot.exe"
+			"arguments" "-dx11 -LEETIFYUnlocalized"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "staging2"
+			}
+			"description_loc"
+			{
+				"english" "Ready or Not (Localisation Testing)"
+			}
+			"description" "Ready or Not (Localisation Testing)"
+		}
+		"6"
+		{
+			"executable" "Engine\\\\Binaries\\\\Win64\\\\CrashReporter.exe"
+			"arguments" "clean"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "staging2"
+			}
+			"description_loc"
+			{
+				"english" "Clean Mods / Save Data"
+			}
+			"description" "Clean Mods / Save Data"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1144201"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4060638367654835114"
+				"size" "60785198150"
+				"download" "51495304896"
+			}
+			"supporteralpha"
+			{
+				"gid" "4060638367654835114"
+				"size" "60785198150"
+				"download" "51495304896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev01"
+			{
+				"gid" "DF859AC410DE6924496B1CD9B0369237"
+				"size" "0B15CAE5F54034598741B097155394E3"
+				"download" "7973FDB066EB0D3C13D8D6D33EF18B74"
+			}
+			"dev02"
+			{
+				"gid" "FBBDFBE8D3428980E5C7653983FCCFCA"
+				"size" "388E79401172193E36C1627AF33EB217"
+				"download" "42117FBA65D431E3277E02A9C02120DD"
+			}
+			"nightly4"
+			{
+				"gid" "BA7FFFB691BC6B8036618B7A2F0F5DA2"
+				"size" "B5E9C365424CC504455FFE56D5E6EC62"
+				"download" "3DE0A149211FB3515BE5185E718CF965"
+			}
+			"rc1.0"
+			{
+				"gid" "DF92AC8EA2A07420247FD8A1125EB36B"
+				"size" "E4F9BDB3A8C2D3B8145F573C298D34D9"
+				"download" "79D0EA113AF1A943AAF3F7A50D659335"
+			}
+			"staging2.2"
+			{
+				"gid" "B82102EBF851BBA4BCF16B7568E275B3"
+				"size" "0CA992EF6BD4DE58CE4ADAE2A4BFF837"
+				"download" "B425424581AB4F90C32183FBB36061A6"
+			}
+			"staging2.25"
+			{
+				"gid" "2AFA028DBF106BEF23A82486553407A3"
+				"size" "E2F4E9B8B6F713F50650468730A76D08"
+				"download" "23BA68FCB1BD77F655651977C3206DAE"
+			}
+			"staging2.3"
+			{
+				"gid" "DE3B82730C1705B8545C2F6C1058E6BA"
+				"size" "C2CF0ACAA18140654C1E29B410A3DB63"
+				"download" "249B10E53AD9EFD23F1735BE1EDA3BD3"
+			}
+			"staging2.4"
+			{
+				"gid" "6F8F6D24D59676C675B8DE02569051FC"
+				"size" "C2A119BAC750564C73D2CDA059D741DF"
+				"download" "F0E84EBFDEFB3BA5D7B4DD6497E07E7A"
+			}
+			"nightly2"
+			{
+				"gid" "B86E36BAD06D285F4DE8D4AAEB4D4271"
+				"size" "EA82D60D15458805A2ED6A0C7CB35583"
+				"download" "F634201792D83982531CA42FA9C3ABAB"
+			}
+			"nightly3"
+			{
+				"gid" "BCF93F1905B8C5D040C4803B4A3D44DE"
+				"size" "9AB6FCAE8D82E262C3D1FC94BE5A0905"
+				"download" "033C5599A0928E6867C2E72F8FA802D4"
+			}
+			"nightly5"
+			{
+				"gid" "D89590CACBEDDADEDAEAAFAA5DAF2F43"
+				"size" "7BF1C7D6836B1E6AF13908EC0ED382A6"
+				"download" "FE7F63BFEF362380069C0E37616A150B"
+			}
+			"staging2"
+			{
+				"gid" "76EF3A43EA0AAB22A0C2062784572946"
+				"size" "AD8261B3B841BDE0B502CF83471A116D"
+				"download" "D3B0C97870504B65F07E7A8B322DFEC7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13575993"
+			"timeupdated" "1709660549"
+		}
+		"dev01"
+		{
+			"buildid" "12281585"
+			"pwdrequired" "1"
+			"timeupdated" "1695696367"
+		}
+		"dev02"
+		{
+			"buildid" "12147757"
+			"pwdrequired" "1"
+			"timeupdated" "1694233096"
+		}
+		"nightly4"
+		{
+			"buildid" "13487357"
+			"pwdrequired" "1"
+			"timeupdated" "1708207827"
+		}
+		"rc1.0"
+		{
+			"buildid" "12929291"
+			"pwdrequired" "1"
+			"timeupdated" "1702323914"
+		}
+		"staging2.2"
+		{
+			"buildid" "13918429"
+			"pwdrequired" "1"
+			"timeupdated" "1712026805"
+		}
+		"staging2.25"
+		{
+			"buildid" "13160916"
+			"pwdrequired" "1"
+			"timeupdated" "1705094624"
+		}
+		"staging2.3"
+		{
+			"buildid" "13380663"
+			"pwdrequired" "1"
+			"timeupdated" "1707221750"
+		}
+		"staging2.4"
+		{
+			"buildid" "13575993"
+			"pwdrequired" "1"
+			"timeupdated" "1709039490"
+		}
+		"supporteralpha"
+		{
+			"buildid" "13575993"
+			"description" "For early builds of the game to test for supporters"
+			"timeupdated" "1709660590"
+		}
+		"nightly2"
+		{
+			"buildid" "14271926"
+			"pwdrequired" "1"
+			"timeupdated" "1714933298"
+		}
+		"nightly3"
+		{
+			"buildid" "14800784"
+			"pwdrequired" "1"
+			"timeupdated" "1719016545"
+		}
+		"nightly5"
+		{
+			"buildid" "14355776"
+			"pwdrequired" "1"
+			"timeupdated" "1715646169"
+		}
+		"staging2"
+		{
+			"buildid" "14788922"
+			"pwdrequired" "1"
+			"timeupdated" "1718935886"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ReadyOrNot/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Saved/SaveGames/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_atmainmenu" "At the main menu"
+				"#status_pregamelobby" "In Pre-Game Lobby"
+				"#status_inmission" "In A Mission [%mission%]"
+				"#status_custom" "%custom%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24073990"
+"_sha" "b9e9248104cae9cf22cfb90acc827c06b2cd640b"
+"_size" "10663"
