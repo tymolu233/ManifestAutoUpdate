@@ -1,0 +1,294 @@
+"appid" "2205850"
+"common"
+{
+	"name" "Dwarves: Glory, Death and Loot"
+	"type" "Game"
+	"icon" "3029f3aa7ce5fa9f99427611debe64d8943a1396"
+	"linuxclienticon" "187000895ebf578ef819be38596a266c82d00718"
+	"clienticon" "7b8c29fb3a4224d98424416306b229bc1796b7df"
+	"clienttga" "4c0290e7573f78e26bd796a8b9b31a8a88b12bdf"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "矮人军团自走棋"
+		"japanese" "ドワーフオートバトル"
+		"koreana" "드워프 오토체스"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1694044800"
+		"tested_build_id" "12000425"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "zh-cn,zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "61.02683780630106"
+			"height_pct" "51.74542863927808"
+		}
+	}
+	"store_asset_mtime" "1718097896"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ichbinhamma"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ichbinhamma"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamersky Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Gamersky Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692255515"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2205850"
+	"store_tags"
+	{
+		"0" "7918"
+		"1" "1084988"
+		"2" "122"
+		"3" "4747"
+		"4" "9"
+		"5" "1716"
+		"6" "21725"
+		"7" "6276"
+		"8" "3964"
+		"9" "3959"
+		"10" "5125"
+		"11" "597"
+		"12" "1684"
+		"13" "4236"
+		"14" "4182"
+		"15" "17305"
+		"16" "4057"
+		"17" "492"
+		"18" "1759"
+		"19" "3871"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "ichbinhamma"
+	"publisher" "ichbinhamma"
+}
+"config"
+{
+	"installdir" "Dwarves Glory, Death and Loot"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "dwarves.exe"
+		}
+	}
+}
+"depots"
+{
+	"2205851"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5146896344089011626"
+				"size" "456376473"
+				"download" "167013408"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14649020"
+			"timeupdated" "1717839777"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ichbinhamma/dwarves/"
+			"pattern" "*.save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23920315"
+"_sha" "06f60f2c2f6890f1831175c94e0dc01690f62270"
+"_size" "5099"
