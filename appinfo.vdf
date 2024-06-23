@@ -1,0 +1,233 @@
+"appid" "681840"
+"common"
+{
+	"name" "Sword and Fairy 5 Prequel"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "65bae794fc4d02713634f13213a55a2a6d4004be"
+	"logo_small" "65bae794fc4d02713634f13213a55a2a6d4004be_thumb"
+	"clienticon" "9ce22ed3d1b5d87864f37177fe31a46e20adbcef"
+	"clienttga" "00e513c8c99490ef70240194a3af1f0fa7e409f2"
+	"icon" "64b6cd79dfe6cd9641a1e32459d6d0205f0ca5da"
+	"oslist" "windows"
+	"osarch" ""
+	"name_localized"
+	{
+		"english" "Sword and Fairy 5 Prequel"
+		"schinese" "仙剑奇侠传五 前传"
+		"tchinese" "仙劍奇俠傳五 前傳"
+		"sc_schinese" "仙剑奇侠传五 前传"
+	}
+	"releasestatesteamchina" "released"
+	"metacritic_name" "仙剑奇侠传五 前传（Chinese Paladin：Sword and Fairy 5 Prequel）"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"library_header" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "58.920491273432454"
+			"height_pct" "80.20833333333333"
+		}
+	}
+	"store_asset_mtime" "1711704580"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Softstar Technology (Beijing) Co.,Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "方块游戏(CubeGame)"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CubeGame"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1506736740"
+	"community_hub_visible" "1"
+	"gameid" "681840"
+	"store_tags"
+	{
+		"0" "4325"
+		"1" "122"
+		"2" "1742"
+		"3" "5984"
+		"4" "21"
+		"5" "4182"
+		"6" "4434"
+		"7" "1677"
+		"8" "14139"
+		"9" "5608"
+		"10" "21725"
+		"11" "4191"
+		"12" "4231"
+		"13" "4598"
+		"14" "1756"
+		"15" "1659"
+		"16" "1693"
+		"17" "4947"
+		"18" "6915"
+		"19" "31579"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Softstar Technology (Beijing) Co.,Ltd"
+	"publisher" "方块游戏(CubeGame)"
+	"homepage" "http://pal5.baiyou100.com/2509000.asp"
+}
+"config"
+{
+	"installdir" "Chinese Paladin 5 Prequel"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pal5Q.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "config.exe"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "schinese"
+	"681841"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4320062490263980394"
+				"size" "12166689872"
+				"download" "6488476064"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "DFCBB084D0EC9346978770791961D3F0"
+				"size" "D9A5D1AF8C9545C6F7F1622648A19854"
+				"download" "EB67A9874E2A3FA14D30FEB94BFBABD6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2191759"
+			"timeupdated" "1507786205"
+		}
+		"steam_china_only"
+		{
+			"buildid" "2191759"
+			"pwdrequired" "1"
+			"timeupdated" "1710401192"
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*.tga"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23947344"
+"_sha" "b048fc03d7d9d4b07801b1e45d73007cd7a210db"
+"_size" "4073"
