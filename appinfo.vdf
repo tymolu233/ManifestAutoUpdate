@@ -1,0 +1,209 @@
+"appid" "681820"
+"common"
+{
+	"name" "Sword and Fairy 4"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "366a66c7327e7ebdde7735f3d39a369ae4341819"
+	"clienttga" "0b7375d17cd84e34cf5bfb6cf9a07cf5b2b7b02b"
+	"icon" "afef96364d9efac4559f0d092de706032ffaaa72"
+	"logo" "ea8ef45c870e64d559767e433eae2712e5f7f636"
+	"logo_small" "ea8ef45c870e64d559767e433eae2712e5f7f636_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"name_localized"
+	{
+		"schinese" "仙剑奇侠传四"
+		"tchinese" "仙劍奇俠傳四"
+		"english" "Sword and Fairy 4"
+		"sc_schinese" "仙剑奇侠传四"
+	}
+	"releasestatesteamchina" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"library_header" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "46.27992297358761"
+			"height_pct" "72.95641045937889"
+		}
+	}
+	"store_asset_mtime" "1711077121"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Softstar Technology (Shanghai) Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "方块游戏(CubeGame)"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CubeGame"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1504576860"
+	"community_hub_visible" "1"
+	"gameid" "681820"
+	"store_tags"
+	{
+		"0" "1742"
+		"1" "122"
+		"2" "4325"
+		"3" "1677"
+		"4" "4182"
+		"5" "5984"
+		"6" "21"
+		"7" "4434"
+		"8" "4474"
+		"9" "4191"
+		"10" "1697"
+		"11" "5395"
+		"12" "14139"
+		"13" "7948"
+		"14" "19"
+		"15" "1693"
+		"16" "1756"
+		"17" "4085"
+		"18" "4004"
+		"19" "1684"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Softstar Technology (Shanghai) Co., Ltd."
+	"publisher" "方块游戏(CubeGame)"
+	"homepage" "https://store.cubejoy.com/html/en/store/goodsdetail/detail2.html"
+}
+"config"
+{
+	"installdir" "Chinese Paladin 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "launch.exe"
+			"type" "none"
+		}
+		"1"
+		{
+			"executable" "Config.exe"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"681821"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4862411194957062443"
+				"size" "3333295766"
+				"download" "2652500384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "6CC826E77B4FF34EE9311F687BD24120"
+				"size" "AF64DEC886B33C55B3F20E5943D832C2"
+				"download" "26456A4670417762FFCCF4EF2C0722A9"
+			}
+		}
+	}
+	"baselanguages" "schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2092111"
+			"timeupdated" "1504576501"
+		}
+		"steam_china_only"
+		{
+			"buildid" "2092111"
+			"pwdrequired" "1"
+			"timeupdated" "1710396536"
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23947344"
+"_sha" "190c674b8704e0452b1677071a43ffa1eb8def4d"
+"_size" "3648"
