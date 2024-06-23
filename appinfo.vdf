@@ -1,0 +1,234 @@
+"appid" "681830"
+"common"
+{
+	"name" "Sword and Fairy 5"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "8cc59b2ddb6838334191c9a5704180372e8d3e6f"
+	"clienttga" "3a7268be0a0db2c6b8a5700f35dda0adc5349e45"
+	"icon" "2bcf27ac72fbc5adb71c98939c268033ffcfabce"
+	"logo" "be5d90b80c75c6f445a761e1a23027d05444372b"
+	"logo_small" "be5d90b80c75c6f445a761e1a23027d05444372b_thumb"
+	"oslist" "windows"
+	"osarch" ""
+	"name_localized"
+	{
+		"english" "Sword and Fairy 5"
+		"schinese" "仙剑奇侠传五"
+		"tchinese" "仙劍奇俠傳五"
+		"sc_schinese" "仙剑奇侠传五"
+	}
+	"releasestatesteamchina" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"library_header" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.96038480018164"
+			"height_pct" "75.57166745824428"
+		}
+	}
+	"store_asset_mtime" "1711682516"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Softstar Technology (Beijing) Co.,Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "方块游戏(CubeGame)"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CubeGame"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "仙剑奇侠传(Sword and Fairy)"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1505199540"
+	"community_hub_visible" "1"
+	"gameid" "681830"
+	"store_tags"
+	{
+		"0" "4325"
+		"1" "4474"
+		"2" "1742"
+		"3" "6915"
+		"4" "1677"
+		"5" "122"
+		"6" "4191"
+		"7" "5230"
+		"8" "4434"
+		"9" "7250"
+		"10" "5984"
+		"11" "14139"
+		"12" "21"
+		"13" "4182"
+		"14" "4085"
+		"15" "1756"
+		"16" "1646"
+		"17" "1693"
+		"18" "4777"
+		"19" "51306"
+	}
+	"review_score" "5"
+	"review_percentage" "59"
+}
+"extended"
+{
+	"developer" "Softstar Technology (Beijing) Co.,Ltd"
+	"publisher" "方块游戏(CubeGame)"
+}
+"config"
+{
+	"installdir" "Chinese Paladin 5"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pal5.exe"
+			"type" "none"
+		}
+		"1"
+		{
+			"executable" "config.exe"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "schinese"
+	"681831"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6878889653534598304"
+				"size" "8682480980"
+				"download" "5195333440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "445459AF7888680EB95B4E46CD633983"
+				"size" "9A8F613606044F50EF51EED5ABD9809F"
+				"download" "158FA42E3B1C1D0523EA9DE5ABBA486A"
+			}
+			"test"
+			{
+				"gid" "786A0DBFF16B7083FA4ABB32957024A0"
+				"size" "C811D114D50DCD2B149F5F44051E149C"
+				"download" "2E636829E0D2FE10FE1EE2FE7BD06A6C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2201446"
+			"timeupdated" "1508146491"
+		}
+		"steam_china_only"
+		{
+			"buildid" "2201446"
+			"pwdrequired" "1"
+			"timeupdated" "1710398419"
+			"sc_schinese" "仅中国"
+		}
+		"test"
+		{
+			"buildid" "2150996"
+			"pwdrequired" "1"
+			"timeupdated" "1506485079"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23947344"
+"_sha" "1614df19811e922dfc670a21a648cbe6ecb253a7"
+"_size" "4037"
