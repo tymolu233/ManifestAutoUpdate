@@ -1,0 +1,721 @@
+"appid" "1222700"
+"common"
+{
+	"name" "A Way Out"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1222700_eula_1"
+			"name" "A Way Out EULA"
+			"url" "https://store.steampowered.com//eula/1222700_eula_1"
+			"version" "3"
+		}
+	}
+	"clienticon" "fe57a746a93adb703666fbf457be97abf5e187ab"
+	"clienttga" "44aec7b9001002bbd4b4f4c596253f142152f401"
+	"icon" "ac36b7d06c117d34c204166c3120e15910ef2b8b"
+	"logo" "a22d8398abf4eb20f73c1ab8abf194a0261afb4d"
+	"logo_small" "a22d8398abf4eb20f73c1ab8abf194a0261afb4d_thumb"
+	"exfgls" "1"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1674000000"
+		"tested_build_id" "9888437"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "A Way Out"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "74.69722156257421"
+		}
+	}
+	"store_asset_mtime" "1598570429"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Hazelight Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "EA Originals"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_44" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_41" "1"
+		"category_42" "1"
+		"category_43" "1"
+		"category_22" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1521788400"
+	"steam_release_date" "1592506500"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/a-way-out\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1222700"
+	"store_tags"
+	{
+		"0" "3843"
+		"1" "1685"
+		"2" "10816"
+		"3" "1742"
+		"4" "3841"
+		"5" "4106"
+		"6" "3859"
+		"7" "19"
+		"8" "21"
+		"9" "6378"
+		"10" "1697"
+		"11" "5608"
+		"12" "15172"
+		"13" "4166"
+		"14" "6650"
+		"15" "4145"
+		"16" "12095"
+		"17" "4667"
+		"18" "4182"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,eax_patch_test"
+	"developer" "Hazelight Studios"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/a-way-out"
+	"listofdlc" "1225270"
+}
+"config"
+{
+	"installdir" "AWayOut"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/1222700\?platform=steam&theme=awo"
+			"type" "none"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2187500067"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,spanish,russian,polish,brazilian"
+	"1222701"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3337035757784335885"
+				"size" "22213699893"
+				"download" "21919726464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "3C69C1C1B5F4F1A33B452BDB897086AB"
+				"size" "62A0BEAC47DB162C0A4D359CA2F0F2EE"
+				"download" "A6E0E00CEAFC5127220F8EA9F351FE42"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "782DCB2AAFA5B23E519645C409CFE221"
+				"size" "854B8B4C8EB0BED57B791FBAF6E9FA2D"
+				"download" "48A57D4611D4CFFF4ED780B9ADE765CB"
+			}
+			"eax_patch_test"
+			{
+				"gid" "ED0ED3DF6FEE9133809515F85FB37DBF"
+				"size" "BCF6884E5CA67FFC235EC7E8306EF1B7"
+				"download" "3200AA9A899FE44FA46C9FA3EC66173D"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "4C539ECAE6869D82E2A32405E7729271"
+				"size" "EA237EE0954D962E37BD9B376F33A198"
+				"download" "1F36DA44AE2648D2403BB685349BC52C"
+			}
+		}
+	}
+	"1222702"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8387221094917375962"
+				"size" "139274"
+				"download" "34224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "23E7F301F1896EE1AA5F7D11E5ABC754"
+				"size" "5B2A78F348D555BF2499A09FCA58DA2C"
+				"download" "5A625D78C9E382854A1599B0DC79405A"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "0C155B58D0B60F9E2D7BF907221B3A77"
+				"size" "E881BB6FEF4C65E59225AEF883B89293"
+				"download" "E4EE120809CA04F25B00C799C1AE8373"
+			}
+			"eax_patch_test"
+			{
+				"gid" "92D820B7776EC2D7D0943590B8BDD772"
+				"size" "B3B0215EEF64147A50B17233B069F830"
+				"download" "CF132FCB77A3DA964D5C3C309BCF9DCD"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "953A8B59DAB0CC3CE9BE581EE4155B52"
+				"size" "26639388CE63F0663E35579C3F1099F6"
+				"download" "95B6E105975B2A4AB7AAC1F6F018DAA2"
+			}
+		}
+	}
+	"1222703"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5636124281960800039"
+				"size" "166855"
+				"download" "40816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "7AEC8E0E76E39264C6D60226C7E52793"
+				"size" "03B7B7F8910E9C9359D38D27172E6C37"
+				"download" "C9ABC8EEF01DE550AC09C88D8A65F871"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "7747E7BA948717A770BAE1A9FE47B562"
+				"size" "63287CB85D96FB989898D9009347EE3F"
+				"download" "DF37001126664CF2754EC1A625F6ACE5"
+			}
+			"eax_patch_test"
+			{
+				"gid" "15092D6AAE7FC50CC02D1376E25D91A8"
+				"size" "606F3F5638CEB22594D6C05C18DE4C96"
+				"download" "9D8E63262A83D27711D1F40CC2A84AF3"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "CF36E7D343272E215F1AE65A84358201"
+				"size" "B45A55B0D375A7EB52551441ACE2369E"
+				"download" "16D0FDE63C2A668067F10182F58CBB6A"
+			}
+		}
+	}
+	"1222704"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7343339097675540561"
+				"size" "151677"
+				"download" "36800"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "EAA9A8B4E4628E7EFA1A5DFBB06F33BB"
+				"size" "5371A8642603B7AE2B8A688BA02587A1"
+				"download" "770B0881F252940E2F05E9B5D37E0347"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "B84CBDFFA57F8BCF8345E1455239CBEE"
+				"size" "9382D0806E24D51B5C05E2ECE5451A28"
+				"download" "8E088B978F2F9C8C37875F993B511F51"
+			}
+			"eax_patch_test"
+			{
+				"gid" "C50A9F1FC34C5325473C31721F911FCF"
+				"size" "04EC782D8DAB3721651FF34997F602DD"
+				"download" "CA347B27E83244B45CE3DC174E419BEC"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "423BAA3FB8C611444BEEF695AACE0176"
+				"size" "A7698591BABB5345C97FFC807E1096F6"
+				"download" "884541F8E724DF6B9D0A8AF71C43FC68"
+			}
+		}
+	}
+	"1222705"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3075867475302157756"
+				"size" "164499"
+				"download" "38752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "2B742CC055F8E3958310DB789BD39230"
+				"size" "43EE535AA8FE4BB3481B5DE88DC852A4"
+				"download" "BFA01B993EA1C2BA4EF79A0F0150D27F"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "E6A17E0BFCCDFD513D764C260F3C1B59"
+				"size" "E6AF3C18FDF63DBD4AD78BF3F5CCCF1A"
+				"download" "5AD60E0A9AEA4BEF4DB5E8609407E933"
+			}
+			"eax_patch_test"
+			{
+				"gid" "056C6185FFA7F5CE482EE67EED72BF5B"
+				"size" "7E4CB194A7C5A331A5FDCF7F27DED45B"
+				"download" "EE0FA64EBD64150622B8F270E24A2727"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "80020193A2CEAFE4149184AD1F077E4F"
+				"size" "9038F10E7605FFC27D53388DE687D1E8"
+				"download" "478C74008DDD51B3E21313B2FBF3B450"
+			}
+		}
+	}
+	"1222706"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8338245604001591508"
+				"size" "158102"
+				"download" "38448"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "6BEB695DFF111C2870439C27AFCA84A5"
+				"size" "621CD4D981B218A15629C5911DF92385"
+				"download" "FAF046BD562127F0E8591892D2BC0DA4"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "801AE542B7A08A46793BE9D941256B6C"
+				"size" "53EA37348B09D0E5EEE922D84D87E594"
+				"download" "02C4EC9F6F3A598A3B6C83B6C32FD4E9"
+			}
+			"eax_patch_test"
+			{
+				"gid" "47A7A7B1F164299687535C82444D2554"
+				"size" "75966522CCEBF43E236E08BFF840BA30"
+				"download" "0652D76E5B8E2B61CE16CF789FEAFF38"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "9A4E09529026D2341FC0A6C5076E7C7D"
+				"size" "C52F04ED42C957D7A39F95FCC017DBB4"
+				"download" "71BB8EBC693108E22140924FBE415933"
+			}
+		}
+	}
+	"1222707"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8916018675485212397"
+				"size" "158612"
+				"download" "40464"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "0345F8ADFD3D3E8BB2D0D8D0702850CA"
+				"size" "45B3A3594E852395DD155CB2B193C6B6"
+				"download" "EF4D6E1E3D18DDC4BADD8C7ED1E1A07C"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "F94E2237FE219CE63C4759F8D158268F"
+				"size" "DB48B762F00F85C3081B91033D3158FF"
+				"download" "940E4F118B238C8F094CFCE885E3E4CA"
+			}
+			"eax_patch_test"
+			{
+				"gid" "DD02210CBC1C15F9D08AE336DA3ACD0B"
+				"size" "36E42EAF8EDF54C83616219A120471FF"
+				"download" "91D711A3257A061BCDC9DE29E1FC795C"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "475EBAFF0278863A693E426F44AEC66E"
+				"size" "C2936B197F6E8841122897140FDA9AA2"
+				"download" "D45A61F6E8D2C2137C1F3355C091CE48"
+			}
+		}
+	}
+	"1222708"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2402279825248928699"
+				"size" "147962"
+				"download" "36496"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "2EF34F65364538F4EE04C0929F957166"
+				"size" "46810CBAEC81E787561FC7D86DBF912A"
+				"download" "E6B2E24068DCECBC04781E27807795F6"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "773CD7B2002CF7473388AEDC1CE18F08"
+				"size" "BAE367E2CE8229041D2E0EDC88818F6C"
+				"download" "64999DD5E641E763E3B7A25A1CE84428"
+			}
+			"eax_patch_test"
+			{
+				"gid" "8D39E1AD9611B14521A76EAAA1D1A8EA"
+				"size" "BA0937800420F1B7F13F49B0C07E15CA"
+				"download" "0F1A6A1D94AC54F7511AB8FB03D027F3"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "CBA4AD64CD4C9B56A2AD45E0BA99AD4E"
+				"size" "EA571AF4A759A0C902AEDB619C4D49BC"
+				"download" "5C599F9439C7174850F6B5999645924F"
+			}
+		}
+	}
+	"1222709"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2661962776059232529"
+				"size" "238042"
+				"download" "42144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc"
+			{
+				"gid" "7CB042B711767D4B7F4DA6B9D6DB4DBE"
+				"size" "93D8B9E5511CD38FECA1FBF29B4746E2"
+				"download" "D748C017C4638A1DDA1D4F47A4EBEFD2"
+			}
+			"eacc_ead_stage"
+			{
+				"gid" "97177AF4A05FA37849BFFE060F8BE031"
+				"size" "CAFC61A70932958389CD2189FB1F9F6B"
+				"download" "77AE4B2A5CAB4398F4F399E9CA32662B"
+			}
+			"eax_patch_test"
+			{
+				"gid" "EEBA839789B75532C694B73AD6F49AF1"
+				"size" "C9C1681B26B9F5EB7F7F06F31F6E02A4"
+				"download" "4A3BCF5F56FF44CEF81933EBE8388FDC"
+			}
+			"eax_patch_test_2"
+			{
+				"gid" "510A342B293F83B09E7BAC0847705CD2"
+				"size" "7D3548B782258A87E2DD0DEDC026B0EA"
+				"download" "1082E78BBE4330E60CC174ED6E5CFA4B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13095794"
+			"timeupdated" "1704974466"
+		}
+		"eacc"
+		{
+			"buildid" "13095794"
+			"pwdrequired" "1"
+			"timeupdated" "1704407315"
+		}
+		"eacc_ead_stage"
+		{
+			"buildid" "10352124"
+			"pwdrequired" "1"
+			"timeupdated" "1674076141"
+		}
+		"eax_patch_test"
+		{
+			"buildid" "8943123"
+			"pwdrequired" "1"
+			"timeupdated" "1666110386"
+		}
+		"eax_patch_test_2"
+		{
+			"buildid" "8943123"
+			"pwdrequired" "1"
+			"timeupdated" "1655311485"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23955021"
+"_sha" "e5c73b031c4473ef73eee234213f4dda81bcada7"
+"_size" "14741"
