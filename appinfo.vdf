@@ -1,0 +1,232 @@
+"appid" "681810"
+"common"
+{
+	"name" "Sword and Fairy 6"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "db7357ebbaaaef0cf8a7ed845564d94de092b1db"
+	"logo_small" "db7357ebbaaaef0cf8a7ed845564d94de092b1db_thumb"
+	"icon" "7da9b7be360c9c179ab585a4c94f4d8021abfd3a"
+	"clienttga" "21a53263614ce67e50c27353d5a4b98a92ff78cb"
+	"clienticon" "85d0c973b62854b7653c3474af26570735eedca6"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"name_localized"
+	{
+		"english" "Sword and Fairy 6"
+		"schinese" "仙剑奇侠传六"
+		"tchinese" "仙劍奇俠傳六"
+		"sc_schinese" "仙剑奇侠传六"
+	}
+	"releasestatesteamchina" "released"
+	"metacritic_name" "仙剑奇侠传六-Chinese Paladin 6"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"library_header" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.48088557746052"
+			"height_pct" "43.72542811155968"
+		}
+	}
+	"store_asset_mtime" "1711683989"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Softstar Technology (Beijing) Co.,Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "方块游戏(CubeGame)"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CubeGame"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1510714740"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "681810"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "1742"
+		"2" "1677"
+		"3" "4474"
+		"4" "1684"
+		"5" "4325"
+		"6" "4182"
+		"7" "21"
+		"8" "776177"
+		"9" "5752"
+		"10" "6915"
+		"11" "4166"
+		"12" "4947"
+		"13" "16094"
+		"14" "4057"
+		"15" "14139"
+		"16" "7948"
+		"17" "1756"
+		"18" "1693"
+	}
+	"review_score" "5"
+	"review_percentage" "50"
+}
+"extended"
+{
+	"developer" "Softstar Technology (Beijing) Co.,Ltd"
+	"publisher" "方块游戏(CubeGame)"
+	"homepage" "http://pal6.pcjoy.cn/home/"
+}
+"config"
+{
+	"installdir" "Chinese Paladin 6"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pal6.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Config.exe"
+			"type" "config"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "schinese"
+	"681811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1861590445548192812"
+				"size" "20599758010"
+				"download" "12815093344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "3D85CD6A6B2417E91B3149B7A7D4FC9C"
+				"size" "CE60882B88A62F3E14A3AD4A7B8C6BA8"
+				"download" "1EFC7790DFEE41895B4B3DA57D38FFD9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "2754644"
+			"timeupdated" "1525771640"
+		}
+		"steam_china_only"
+		{
+			"buildid" "2754644"
+			"pwdrequired" "1"
+			"timeupdated" "1710405427"
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "5000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "My Games/Pal6"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23947344"
+"_sha" "1b18eb228933f774dce628ec102beb9629e2b7d0"
+"_size" "4037"
