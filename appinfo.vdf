@@ -1,0 +1,357 @@
+"appid" "1782120"
+"common"
+{
+	"name" "ZERO Sievert"
+	"type" "Game"
+	"logo" "c5f7e8da6ed52fae99bfcc71375eca85dc0e95d7"
+	"logo_small" "c5f7e8da6ed52fae99bfcc71375eca85dc0e95d7_thumb"
+	"icon" "601fc060c2566858d3b9677713aae7cbf8c16962"
+	"clienttga" "8b1b3865e6210560071b5eafc322c1e01fe722a1"
+	"clienticns" "db7ba5847d952f16f29781ba77f776d6e5546478"
+	"clienticon" "59f477d9dffd8e89df1edc5b9f0856442b2223e3"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"parent" "1000"
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1717804800"
+		"tested_build_id" "14581221"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "81.0327617027576"
+			"height_pct" "32.88167420415718"
+		}
+	}
+	"store_asset_mtime" "1718901499"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CABO Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Modern Wolf"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Modern Wolf"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "CABO Studio"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "ZERO Sievert"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1668527895"
+	"community_hub_visible" "1"
+	"gameid" "1782120"
+	"store_tags"
+	{
+		"0" "1199779"
+		"1" "1662"
+		"2" "3835"
+		"3" "353880"
+		"4" "1774"
+		"5" "19"
+		"6" "1695"
+		"7" "4791"
+		"8" "493"
+		"9" "21"
+		"10" "4182"
+		"11" "3964"
+		"12" "492"
+		"13" "599"
+		"14" "3834"
+		"15" "4236"
+		"16" "9"
+		"17" "4166"
+		"18" "3978"
+		"19" "7332"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "CABO Studio"
+	"publisher" "Modern Wolf"
+	"homepage" "https://modernwolf.net/game-for-cabo-studio/zero-sievert"
+}
+"config"
+{
+	"installdir" "ZERO Sievert"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ZERO Sievert.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1782121"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2767120402713800554"
+				"size" "280242694"
+				"download" "174965680"
+			}
+			"legacy"
+			{
+				"gid" "793550806978600796"
+				"size" "247327276"
+				"download" "152466144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"demo"
+			{
+				"gid" "9A652EB6F5B697EB9A90A3B24004E450"
+				"size" "E6E1FC95CB046557A09113995E09EBE4"
+				"download" "17FF63E7E1931F796FA24C4FE0FE27D1"
+			}
+			"juju-test"
+			{
+				"gid" "A68F3F4A0674FAFA512F7CEECA90F042"
+				"size" "42C144B869E35261A0A6745C33B349FF"
+				"download" "F7EEF8661EE2B60E6F148CD9DF70915A"
+			}
+			"partners"
+			{
+				"gid" "E23DCE8911E90177154E73027775DA09"
+				"size" "B848127C4B98AFBE1D31E7E46206A59A"
+				"download" "B39B22A0D3CF7B1E9EB95DFD0FBCBBB1"
+			}
+			"closedbeta"
+			{
+				"gid" "7BE0134A0F769A3D5A8B7A539BB4CCD8"
+				"size" "1E989B4F558477BE23BA4E7402D6CBE7"
+				"download" "8C77737932FCFD1EAAC09B8E4FCEAABD"
+			}
+			"designtest"
+			{
+				"gid" "6B0DD21F9AAF8B713D5D016C48C25567"
+				"size" "05C603180EE1FE143EDF6D0FF35C0A4B"
+				"download" "AEB3B704DBE332977375A6AC3D955305"
+			}
+			"experimental"
+			{
+				"gid" "9B11F47AABF348C7A1FC36E374C7FF74"
+				"size" "B73FDC96386E3BE146D463EC6A1E25D0"
+				"download" "074A695BAFF816FB31CB335B8966CB6A"
+			}
+			"experimental2"
+			{
+				"gid" "EA68F8D0A06572C3DDA0F39F5994A5A9"
+				"size" "ECFB730DE344A1E875F764BEE71A4E39"
+				"download" "2DC0EE9F9F5DA309EC27A8F4D053CEE0"
+			}
+			"qa-branch-1"
+			{
+				"gid" "9B394F0AAC6082A683D6A09CEC184904"
+				"size" "D9AC1F2D0BA2BFE894FBA8684766B61B"
+				"download" "1F60FB42604461D41CD1AC5A1842D240"
+			}
+			"qa-branch-2"
+			{
+				"gid" "6D3C76C684B3AC0495DA50B29130AF44"
+				"size" "8B6971F578D1780AC094AD9A57C0BE58"
+				"download" "936A6992F40333D2C8E1EFCA60A5A257"
+			}
+			"testdonotdownload"
+			{
+				"gid" "7E2BA79A608F8F029D685D6FEA13E2B3"
+				"size" "CBF5D5ADF30FF4FD6A4C71FD12E4C2D7"
+				"download" "1AEA3210D20AA39016815D9FC243A19D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14581221"
+			"timeupdated" "1717413755"
+		}
+		"demo"
+		{
+			"buildid" "13794668"
+			"pwdrequired" "1"
+			"timeupdated" "1711017025"
+		}
+		"juju-test"
+		{
+			"buildid" "12814453"
+			"pwdrequired" "1"
+			"timeupdated" "1701265067"
+		}
+		"legacy"
+		{
+			"buildid" "11038836"
+			"description" "Build 0.30"
+			"timeupdated" "1689584933"
+		}
+		"partners"
+		{
+			"buildid" "12847573"
+			"pwdrequired" "1"
+			"timeupdated" "1701421498"
+		}
+		"closedbeta"
+		{
+			"buildid" "14557883"
+			"pwdrequired" "1"
+			"timeupdated" "1717577952"
+		}
+		"designtest"
+		{
+			"buildid" "14303061"
+			"pwdrequired" "1"
+			"timeupdated" "1715171611"
+		}
+		"experimental"
+		{
+			"buildid" "14740035"
+			"pwdrequired" "1"
+			"timeupdated" "1718615090"
+		}
+		"experimental2"
+		{
+			"buildid" "14743132"
+			"pwdrequired" "1"
+			"timeupdated" "1718633559"
+		}
+		"qa-branch-1"
+		{
+			"buildid" "14783341"
+			"pwdrequired" "1"
+			"timeupdated" "1718903121"
+		}
+		"qa-branch-2"
+		{
+			"buildid" "14740035"
+			"pwdrequired" "1"
+			"timeupdated" "1718903167"
+		}
+		"testdonotdownload"
+		{
+			"buildid" "14557883"
+			"pwdrequired" "1"
+			"timeupdated" "1717144048"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "8000000"
+	"maxnumfiles" "4"
+}
+"_missing_token" "False"
+"_change_number" "24053603"
+"_sha" "eee3a9f0e0971827cfa210b62eb66f218bb8dd2f"
+"_size" "7024"
