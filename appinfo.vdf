@@ -1,0 +1,503 @@
+"appid" "1150530"
+"common"
+{
+	"name" "Wizard with a Gun"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "087838b002bccad74861c545f9d75975364aeea4"
+	"logo_small" "087838b002bccad74861c545f9d75975364aeea4_thumb"
+	"clienticon" "8b89539235d0b1c2fec28b7801c8f5a07197a993"
+	"clienttga" "cc8a5f4063486a045a8ac110e802d4ac8266d2f9"
+	"icon" "0acf71d6e95b0a2b5a6f58d80ed4688978936c26"
+	"name_localized"
+	{
+		"schinese" "荒野枪巫"
+		"tchinese" "荒野槍巫"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1716336000"
+		"tested_build_id" "14433488"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Wizard with a Gun"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715610726"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Galvanic Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Devolver Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wizard With a Gun"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Galvanic Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Devolver Digital"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1697471998"
+	"metacritic_score" "72"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/wizard-with-a-gun\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1150530"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "3810"
+		"3" "4106"
+		"4" "1720"
+		"5" "3834"
+		"6" "1716"
+		"7" "1646"
+		"8" "4637"
+		"9" "3959"
+		"10" "4975"
+		"11" "4562"
+		"12" "4305"
+		"13" "4726"
+		"14" "5851"
+		"15" "4252"
+		"16" "1702"
+		"17" "1697"
+		"18" "4604"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Galvanic Games"
+	"publisher" "Devolver Digital"
+	"homepage" "http://wizardwithagun.com"
+	"listofdlc" "2493640,2493641,2506660,2563910,2632270,2632280,2632290,2632300,2632310,2853350,2853360,2853370,2853380,2853390"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Wizard with a Gun"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "wizardwithagun.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"1150531"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1025847294135055574"
+				"size" "1598327837"
+				"download" "1365177136"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"contentcreators"
+			{
+				"gid" "F5A04A4A22A521781D2744C3F2990EF1"
+				"size" "E5650D64C89CFC1A6B5E66288A28860D"
+				"download" "7049F6B6A9312BEC685062F9942920C9"
+			}
+			"daqa"
+			{
+				"gid" "C3DA971F8F8890C78AA7621CCC6E211C"
+				"size" "B31E53ED0D679AA3FC4862F322C9AED5"
+				"download" "34A2BF8348E9BED4EBD054CBC6FCD88C"
+			}
+			"daqa-iteration"
+			{
+				"gid" "95E00FC68C3852483C951AC0D0B82C61"
+				"size" "37D469671B24AB5609604E47DCFA5C44"
+				"download" "D579017BE80F43E6867DBBD79AA4D362"
+			}
+			"demo"
+			{
+				"gid" "23C95E9FF1A15F01C8D9D2EDEC7AB27B"
+				"size" "A5597AB23A24588AFD7DCEC47911EE94"
+				"download" "3CE6636B12F07DE55A48D38720D11AA4"
+			}
+			"feature-test"
+			{
+				"gid" "F0957228FE22AA23A74AD6471AB5E885"
+				"size" "884DDCDD96E6DDA79E61EF559C17314C"
+				"download" "4773775705E6B0815A11A6D60D514D51"
+			}
+			"localization"
+			{
+				"gid" "707E7854DBB6F799428CFEC7E739114A"
+				"size" "66B61797D20E2F3C0CF562770990B9ED"
+				"download" "590D76C3CA49FF08718566CFB84D6E2A"
+			}
+			"marketing"
+			{
+				"gid" "3209F5FD617496B2094D9EABEF2DB3AC"
+				"size" "C92C10BDD53A9B5D48C019BF44431431"
+				"download" "4503582961577EED6AD745A2DB6C99D1"
+			}
+			"microsoft"
+			{
+				"gid" "81080AE1586AEE9BE1FC0D5C3FEA6451"
+				"size" "94D1F046106EC8C1B20928142412D9A7"
+				"download" "67A1393ACEC4F702DF348B4A46BB3B1B"
+			}
+			"rapid-prototype"
+			{
+				"gid" "A81F56F56081D7AE3564B1E385D4184F"
+				"size" "4FFDBAD4CEF7189DCCC411AEFE06F0FF"
+				"download" "4FA1EFD2CF6082FCC2FC7224B7576821"
+			}
+			"review"
+			{
+				"gid" "C1E73F795ADE22EFBF589FC8A1D4DCC0"
+				"size" "99E7314C7CB5FBF8CF130EB159B88380"
+				"download" "181360BA7D002788F51025ED88266E80"
+			}
+			"alpha"
+			{
+				"gid" "8E7895AFA9B3B02D6F23409AB3E8C77F"
+				"size" "76C640AE1C4A682E152FBD43250A89A4"
+				"download" "DA5C9E1783EE5E9252BDCAEF252414EA"
+			}
+			"lionbridge"
+			{
+				"gid" "7CDCFD9E70563BDFAD0BF3E14C43D999"
+				"size" "406A3A6C025EDA093A8973DBB824C19D"
+				"download" "A62BF4A233AE2E48E120D35F4E5D24A6"
+			}
+			"milestone"
+			{
+				"gid" "28CE15AF538FBCBECB78F5036DD4DA86"
+				"size" "4EE42297FA1F260E0337F320EDDEF6AB"
+				"download" "ACE6B25CCF43DA9E11032939F69AAB7E"
+			}
+			"milestone-debug"
+			{
+				"gid" "710D6213615E1A599DED35F926E334E0"
+				"size" "880B29FD8F993110D069E857004BC195"
+				"download" "CD9C8744F53307C3D1575363E5471DEE"
+			}
+		}
+	}
+	"2506660"
+	{
+		"dlcappid" "2506660"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "82860768297152958"
+				"size" "155772935"
+				"download" "135915104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"contentcreators"
+			{
+				"gid" "0035BEA96F67E5B1311E4C143164E127"
+				"size" "E4EC3C31868EAF19E621A33705D958A9"
+				"download" "96B5EAAC4939D146E7CF7B978D3C339E"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14446580"
+			"timeupdated" "1716323943"
+		}
+		"contentcreators"
+		{
+			"buildid" "13650429"
+			"pwdrequired" "1"
+			"timeupdated" "1709677270"
+		}
+		"daqa"
+		{
+			"buildid" "13286452"
+			"pwdrequired" "1"
+			"timeupdated" "1706385362"
+		}
+		"daqa-iteration"
+		{
+			"buildid" "13265389"
+			"pwdrequired" "1"
+			"timeupdated" "1706141495"
+		}
+		"demo"
+		{
+			"buildid" "12025033"
+			"pwdrequired" "1"
+			"timeupdated" "1692900120"
+		}
+		"feature-test"
+		{
+			"buildid" "14101711"
+			"pwdrequired" "1"
+			"timeupdated" "1713476543"
+		}
+		"localization"
+		{
+			"buildid" "12096125"
+			"pwdrequired" "1"
+			"timeupdated" "1693666619"
+		}
+		"marketing"
+		{
+			"buildid" "13951925"
+			"pwdrequired" "1"
+			"timeupdated" "1712249295"
+		}
+		"microsoft"
+		{
+			"buildid" "10501442"
+			"pwdrequired" "1"
+			"timeupdated" "1676485507"
+		}
+		"rapid-prototype"
+		{
+			"buildid" "12052750"
+			"pwdrequired" "1"
+			"timeupdated" "1693254453"
+		}
+		"review"
+		{
+			"buildid" "12319503"
+			"pwdrequired" "1"
+			"timeupdated" "1696009978"
+		}
+		"alpha"
+		{
+			"buildid" "14436716"
+			"pwdrequired" "1"
+			"timeupdated" "1716324422"
+		}
+		"lionbridge"
+		{
+			"buildid" "14294952"
+			"pwdrequired" "1"
+			"timeupdated" "1715114360"
+		}
+		"milestone"
+		{
+			"buildid" "14294934"
+			"pwdrequired" "1"
+			"timeupdated" "1715185383"
+		}
+		"milestone-debug"
+		{
+			"buildid" "14294952"
+			"pwdrequired" "1"
+			"timeupdated" "1715185365"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GalvanicGames/wizardwithagun/{64BitSteamID}"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23646147"
+"_sha" "dc518beafe5d42a1673dab84ceece45e3fe732ac"
+"_size" "9991"
