@@ -1,0 +1,2905 @@
+"appid" "2420110"
+"common"
+{
+	"name" "Horizon Forbidden West™ Complete Edition"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "《地平线 西之绝境™》完整版"
+		"tchinese" "《地平線 西域禁地》完全版"
+		"koreana" "호라이즌 포비든 웨스트 컴플리트 에디션"
+		"polish" "Horizon Forbidden West™ Edycja kompletna"
+		"portuguese" " Horizon Forbidden West™ Edição Completa"
+		"brazilian" "Horizon Forbidden West™ - Edição Completa"
+		"russian" " Полное издание «Horizon Запретный Запад»"
+		"latam" " Edición Completa de Horizon Forbidden West™"
+		"ukrainian" " Повне видання Horizon Forbidden West™"
+		"spanish" "Horizon Forbidden West™ Complete Edition"
+	}
+	"icon" "b06de101e39474f3c763a9b9aac8df876d4e482e"
+	"clienticon" "a4d829c6610b7ff199d4a111457b7096c67f0812"
+	"clienttga" "3d270fad68d95344814fec5280d6c379ffcd4c48"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"finnish" "1"
+		"norwegian" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"latam" "1"
+	}
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2420110_eula_0"
+			"name" "Horizon Forbidden West™ Complete Edition EULA"
+			"url" "https://store.steampowered.com//eula/2420110_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1715904000"
+		"tested_build_id" "14224699"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "90.63944574061858"
+			"height_pct" "63.57903370159228"
+		}
+	}
+	"store_asset_mtime" "1710498222"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Guerrilla"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Nixxes Software"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayStation Publishing LLC"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "PlayStation Studios"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Horizon"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711032960"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2420110"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "1695"
+		"2" "7208"
+		"3" "19"
+		"4" "122"
+		"5" "3835"
+		"6" "3834"
+		"7" "1742"
+		"8" "1697"
+		"9" "3942"
+		"10" "5752"
+		"11" "4231"
+		"12" "21"
+		"13" "4166"
+		"14" "1756"
+		"15" "44868"
+		"16" "7481"
+		"17" "4106"
+		"18" "1687"
+		"19" "3859"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Guerrilla"
+	"publisher" "PlayStation Publishing LLC"
+	"listofdlc" "2749700"
+}
+"config"
+{
+	"installdir" "Horizon Forbidden West Complete Edition"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BootLoader.Win64.ReleaseSymRtDbg.DX12.exe"
+			"arguments" "-dont_override_source_device -dont_override_local_device"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "latest_dev dev_qa psqa_1 psqa_2, nvidia, amd_1, intel_1, beta_build_glitter, glitter_internal_ut, gg_dev, psqa_compat_sweep1, age_rating_build, pso_automation, mock_review, latest_release"
+				"ownsdlc" "2452460"
+			}
+			"description_loc"
+			{
+				"english" "Bootloader"
+			}
+			"description" "Bootloader"
+		}
+		"1"
+		{
+			"executable" "NIP.WinGameSteam.Submission.DX12.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "age_rating_build, beta_build_glitter, alpha_build_glitter, old_dev"
+			}
+			"description_loc"
+			{
+				"english" "Submission for old branches"
+			}
+			"description" "Submission for old branches"
+		}
+		"2"
+		{
+			"executable" "HorizonForbiddenWest.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3183405103"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,age_rating_build,alpha_build_glitter,amd_1,beta_build_glitter,gg_dev,glitter_internal_ut,intel_1,latest_dev,latest_release,mock_review,nvidia,old_dev,pso_automation,psqa_1,psqa_2,psqa_compat_sweep1,psqa_perf,psqa_release_1,psqa_release_2,qa_dev,qa_dev_release,review_build"
+			"use_action_block" "false"
+		}
+		"3183553401"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,age_rating_build,alpha_build_glitter,amd_1,beta_build_glitter,gg_dev,glitter_internal_ut,intel_1,latest_release,mock_review,nvidia,old_dev,pso_automation,psqa_1,psqa_2,psqa_compat_sweep1,psqa_perf,psqa_release_1,psqa_release_2,qa_dev,qa_dev_release,review_build"
+			"use_action_block" "false"
+		}
+		"3183566696"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" "default,age_rating_build,alpha_build_glitter,amd_1,beta_build_glitter,gg_dev,glitter_internal_ut,intel_1,latest_dev,latest_release,mock_review,nvidia,old_dev,pso_automation,psqa_1,psqa_2,psqa_compat_sweep1,psqa_perf,psqa_release_1,psqa_release_2,qa_dev,qa_dev_release,review_build"
+			"use_action_block" "false"
+		}
+		"3183572740"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,age_rating_build,alpha_build_glitter,amd_1,beta_build_glitter,gg_dev,glitter_internal_ut,intel_1,latest_release,mock_review,nvidia,old_dev,pso_automation,psqa_1,psqa_2,psqa_compat_sweep1,psqa_perf,psqa_release_1,psqa_release_2,qa_dev,qa_dev_release,review_build"
+			"use_action_block" "false"
+		}
+		"3183579373"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,age_rating_build,alpha_build_glitter,amd_1,beta_build_glitter,gg_dev,glitter_internal_ut,intel_1,latest_release,mock_review,nvidia,old_dev,pso_automation,psqa_1,psqa_2,psqa_compat_sweep1,psqa_perf,psqa_release_1,psqa_release_2,qa_dev,qa_dev_release,review_build"
+			"use_action_block" "false"
+		}
+		"3183586184"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,age_rating_build,alpha_build_glitter,amd_1,beta_build_glitter,gg_dev,glitter_internal_ut,intel_1,latest_release,mock_review,nvidia,old_dev,pso_automation,psqa_1,psqa_2,psqa_compat_sweep1,psqa_perf,psqa_release_1,psqa_release_2,qa_dev,qa_dev_release,review_build"
+			"use_action_block" "false"
+		}
+		"3183595594"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,age_rating_build,alpha_build_glitter,amd_1,beta_build_glitter,gg_dev,glitter_internal_ut,intel_1,latest_release,mock_review,nvidia,old_dev,pso_automation,psqa_1,psqa_2,psqa_compat_sweep1,psqa_perf,psqa_release_1,psqa_release_2,qa_dev,qa_dev_release,review_build"
+			"use_action_block" "false"
+		}
+		"3193262545"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "latest_dev"
+			"use_action_block" "false"
+		}
+		"3193322477"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "latest_dev"
+			"use_action_block" "false"
+		}
+		"3193330238"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "latest_dev"
+			"use_action_block" "false"
+		}
+		"3193339618"
+		{
+			"controller_type" "controller_xbox360"
+			"enabled_branches" ""
+			"use_action_block" "false"
+		}
+		"3193342757"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "latest_dev"
+			"use_action_block" "false"
+		}
+		"3193346137"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "latest_dev"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "12"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,turkish,arabic,brazilian,greek,latam"
+	"2420111"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3824901716349831666"
+				"size" "128942877071"
+				"download" "101670501824"
+			}
+			"previous_build"
+			{
+				"gid" "3850359800712288096"
+				"size" "128819984912"
+				"download" "101591726864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "998B17D7E276F7B271CEFC0E3ADA8979"
+				"size" "F40C58DFCE65A65DE973BFB621983B3D"
+				"download" "690085ED9AC6C34BC0481991DCCB3E35"
+			}
+			"alpha_build_glitter"
+			{
+				"gid" "7B33B2B49F430F4090B620488FF5E28A"
+				"size" "EDB0843425458A7C522E21C648D3882A"
+				"download" "11C19AC1CD882E89E2B05F05686F862E"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "5B6A57938ED957204DD5B7699763815E"
+				"size" "377DE9C49364AA8AE1A093D7DF301532"
+				"download" "27B382A98F72D86CB910C1FF8A41ABE5"
+			}
+			"gg_dev"
+			{
+				"gid" "1532D071DA9965DF9E06FAA4E1277B2F"
+				"size" "2D2383DE5C21DDACF65446B914E0BEAE"
+				"download" "0524A3B2C787C2E977DD48B1CF38335A"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "4FCCB25A2840695FE5FC746FD8BB77B3"
+				"size" "56B386C4039E0E02614A8D021F67F5C9"
+				"download" "D955F5873C611B9500676BBF6BA620BD"
+			}
+			"mock_review"
+			{
+				"gid" "7F0B772ED9D283C795F9FCEDB54D3306"
+				"size" "CC7AD7F1B8781F4D51DE10863E9960CA"
+				"download" "995E5EF0CD3426FB7E66A8A84F6BFBF7"
+			}
+			"old_dev"
+			{
+				"gid" "B8B8430E25DD16EEF0AF4F3E92F95528"
+				"size" "39274573A7B14F59F4F9AC7DAB44D26F"
+				"download" "965D529485F1B04F21D2979A82EA14C2"
+			}
+			"pso_automation"
+			{
+				"gid" "2E3EE41833358C54E2EB38C069112232"
+				"size" "9DCABBB0D02DBEBD28ADCAFCDBB55624"
+				"download" "2C308B6DC93D93695924448B7070B9C8"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "A364F11F168534E993979B064FD99AF7"
+				"size" "E1DC21B896947F3A422E391015829F9E"
+				"download" "7F9AD78A7D1CCAF7AB8D3772800B1BBE"
+			}
+			"psqa_perf"
+			{
+				"gid" "BA2C2772FDB1FE417119A743FFC924BA"
+				"size" "B585A0CA0225C4E2DFC9F6B6166D098A"
+				"download" "AFE89697152AF2E7AD8FCD4B02A707FF"
+			}
+			"qa_dev_release"
+			{
+				"gid" "E4E7370B59D20818D838A29F28DA10E7"
+				"size" "AB73436845957BEDB795A233C7C2D02F"
+				"download" "96487285874FF6D6D3FE9DA9099B8E97"
+			}
+			"review_build"
+			{
+				"gid" "336A815FBAFE6CDCF3F2F38DF4188DF4"
+				"size" "B110BD38BB7E9D77C5DA69BC64A9E44A"
+				"download" "3D98AFCC71C60E5B1E983AA64D8801F2"
+			}
+			"amd_1"
+			{
+				"gid" "B434F4D07C5ECD7BCB9FA2A0898C7605"
+				"size" "901429FC1C06E73696C3B8F3683EE153"
+				"download" "39349F247981B7D4350CAB941301102B"
+			}
+			"intel_1"
+			{
+				"gid" "88367D20E1EB61D6B3D6AA3C6FFB2B91"
+				"size" "38C43517F6C87C0012CE300CF51799F1"
+				"download" "2525CB51CA172644B29ADD7A9195EE2D"
+			}
+			"latest_dev"
+			{
+				"gid" "BBE4D77FCFD31D0D83C2FB931679D443"
+				"size" "576135B726639D1722048D96393C1EC8"
+				"download" "B444DBDE25C88DD8C0C422D94D70F520"
+			}
+			"latest_release"
+			{
+				"gid" "B819E00FB0962048FD63984FAB61F7F0"
+				"size" "41A11EC46523A66C8CEB9737D5CFF472"
+				"download" "D83891ABB5C723E26D9408C3584E086A"
+			}
+			"nvidia"
+			{
+				"gid" "0A4CA07B670ED08337F0BBF71FE5B6CA"
+				"size" "57F2DD46C3E995122FFF162157FB1009"
+				"download" "2A7879FBE69BEE01BEBC1BF07A04D0F3"
+			}
+			"psqa_1"
+			{
+				"gid" "7F843567867991B21A7CD9D060F3BBC6"
+				"size" "444B5295D65A597D180F8BF58CDCDBAA"
+				"download" "7C1129C168C581B2E9E3D597CEF613E1"
+			}
+			"psqa_2"
+			{
+				"gid" "5CCDE42723041E0BBFF7DDE6161ACDED"
+				"size" "FADC480E48CD30C4033B04E58F15EFC0"
+				"download" "0C8BABF65C8BC1723CE67C3CCF9FE156"
+			}
+			"psqa_release_1"
+			{
+				"gid" "3791A0E96B5E28F430D47851FED60AC1"
+				"size" "B54DDB22A5F85AC8146241E1ADED2208"
+				"download" "2032DFF6DF5C124E14FDAD0B8F16F75F"
+			}
+			"psqa_release_2"
+			{
+				"gid" "BC619C9742047DF40FAE6D15AE4FA6A5"
+				"size" "0F79FE5F459DE526DFEEB89C72FF364E"
+				"download" "C09D85D92397AD093A4818A931623BC5"
+			}
+			"qa_dev"
+			{
+				"gid" "FD88711854BF9C9ADC4DD345DA370344"
+				"size" "ACEDFC2BB2D1EDF307C29BB1CAC2AD59"
+				"download" "D1D40FD38BBFB8AFD0ECD403E9234F60"
+			}
+		}
+	}
+	"2420112"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4978341075012212976"
+				"size" "235723300"
+				"download" "108666784"
+			}
+			"previous_build"
+			{
+				"gid" "5622338351262178533"
+				"size" "229337724"
+				"download" "103648832"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "43BAFA905D6319D71DADAD41F99F8112"
+				"size" "9E5F38A9BCBCFA14ABC81AC94573E5A3"
+				"download" "28CDEB326D59DB5900AE1EADB48751CA"
+			}
+			"alpha_build_glitter"
+			{
+				"gid" "A9071077C688DE6AC9EC7E238CF600BD"
+				"size" "08AAA13208CCC522BA992E93480B0CA3"
+				"download" "91F8DB4C9120BAD1C57B9A4CD5E90ABB"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "FC2BF28A92E147F6F63A3D442D10A5DC"
+				"size" "7D64734549D9869480066BE8385F3B55"
+				"download" "DB361A07BBA838A9D8067A3956E2FF8F"
+			}
+			"gg_dev"
+			{
+				"gid" "6D86B246823FE74F5802223DCF5CC2B7"
+				"size" "AB3A7CD69867D6CC166A1F75CC98EDDF"
+				"download" "EA00DC1CDC24511C3BA607BD8E9E65E6"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "B0AF249CB6550EBF5972E6969D398BD0"
+				"size" "8460C14452496A421B60290BEBCBB681"
+				"download" "F7AACFC9C95508231588A99B5CA1BF23"
+			}
+			"mock_review"
+			{
+				"gid" "A1E29117BD74D4342996AF995992CDB3"
+				"size" "B891B3145AC09EA9411AD1995BDF705B"
+				"download" "C9518B841FA85BE4E0FD21110543AC65"
+			}
+			"old_dev"
+			{
+				"gid" "C0D12321A745D498A3AE7350D2E2EBF0"
+				"size" "DCC996806F9B1B1917EC9079E7FB8B23"
+				"download" "D6E435892F63A971A1EE46F911C774FA"
+			}
+			"pso_automation"
+			{
+				"gid" "7C247A9C2F9082C24248D11E140C02B8"
+				"size" "BF5D0B3BF284B4631B86E7A1C1854769"
+				"download" "EC485633E4D6F3FDFE52DF285D339818"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "57C9AE3CA38B4B71A52A37B94A55AB78"
+				"size" "947F75267DFA28BFA947F5BC6EBD5A62"
+				"download" "624E0991148B6FB1DE4C5AA371B0CC12"
+			}
+			"psqa_perf"
+			{
+				"gid" "174E1416E319631EE6868C2BF56BFC35"
+				"size" "14F2CF22DD4FDAE0AC675176E5E94AD5"
+				"download" "F57378CB0AA80B98FCC5882F581374B5"
+			}
+			"qa_dev_release"
+			{
+				"gid" "AF5D9776ADA9ADD23B432887C2C85363"
+				"size" "CDEB63261773DA5C423CCCB12A10DDD2"
+				"download" "6ADC1891C08BA4C195DF34F522CBFD8B"
+			}
+			"review_build"
+			{
+				"gid" "96F69D91184B47F3D21DED81891784AD"
+				"size" "4E7CF3D96A3574324F5F31FC97F3BDB8"
+				"download" "81776AB085A247AA1303F8E9C34BD806"
+			}
+			"amd_1"
+			{
+				"gid" "536636D0F0C298FA24F46A52EA531AE1"
+				"size" "490A633BA81B5A80518BF876BDAA288F"
+				"download" "E8027FC7A67D9A7A61333BA233CD32E5"
+			}
+			"intel_1"
+			{
+				"gid" "C84582DB986D7012348556BF8B9BBC12"
+				"size" "1E1F86F71E87ED541E3EE451AB2FDFD2"
+				"download" "2D7D7FC74E27BB69E870A4B1D9B38695"
+			}
+			"latest_dev"
+			{
+				"gid" "6B7F639799DA490214F78A3C9F14DF9D"
+				"size" "17973932B6860954231923D0C07C9D26"
+				"download" "CB1F06000175C834D687A51DD15F0C33"
+			}
+			"latest_release"
+			{
+				"gid" "C780521572365490F1CA791B4FEE4113"
+				"size" "D55CA213E14550162B543781716AE87D"
+				"download" "A8E8C993A53D72ED5B29AA193DDB6C95"
+			}
+			"nvidia"
+			{
+				"gid" "BC1E8086B1D662584412907348C27182"
+				"size" "2B2A2E0B91C23BB944D5C4DB43623B4C"
+				"download" "51608EE60BE62960C35FDCF99A1A6583"
+			}
+			"psqa_1"
+			{
+				"gid" "B2FB248695D4E46CBE4036FAB3DFC3DF"
+				"size" "F0C2261C826E079C55F7686FD8B7DF23"
+				"download" "688F4830F0BAB033D8B8365000198C4C"
+			}
+			"psqa_2"
+			{
+				"gid" "5EE98619A46A7B6829DFF9F836F34C92"
+				"size" "C63B69EF21B3064C0D0E3251938BAAA1"
+				"download" "1778E1A5423936CAD8B70B9918E5FC45"
+			}
+			"psqa_release_1"
+			{
+				"gid" "27D4BC72DD60B032421731541EE89580"
+				"size" "FACC132F69FBC0E9988D64C6761F17A2"
+				"download" "42A99D1D013FCE870B9B5312C782D10B"
+			}
+			"psqa_release_2"
+			{
+				"gid" "B0CD69405E65705634ED11A9AB736A15"
+				"size" "58DDC035CE17C24369E1FAF86DA1692F"
+				"download" "F69EA86FDF036C1274551A933665A135"
+			}
+			"qa_dev"
+			{
+				"gid" "0F5746E076102AE5A520A6C765FD6316"
+				"size" "1C277506C20AEFA5192FF61E99354EDB"
+				"download" "E6E32FF9F960410DAD22391D6E54A5B5"
+			}
+		}
+	}
+	"2420113"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"dlcappid" "2452460"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1479849959714008812"
+				"size" "28212975196"
+				"download" "16702140544"
+			}
+			"previous_build"
+			{
+				"gid" "5150488056388939576"
+				"size" "27787438180"
+				"download" "16495725040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "4EA06E97C287B32756CCF4545C9491F0"
+				"size" "903A20D8B31026773421EF3F6041D6A6"
+				"download" "EFDA05B84D1F05F5AD6DF70165386669"
+			}
+			"alpha_build_glitter"
+			{
+				"gid" "E1D3EBB53BC5B4F95C239FD217576589"
+				"size" "F10EED01C4ED664B29F2F4F3B499B12F"
+				"download" "B68063BD0F1E223A3C49B4132DDF088F"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "6975AE827DB07A910F3CA5AD46420ABD"
+				"size" "E0B8F9AFD8A802DC22F594B221B676B8"
+				"download" "E8682F3AE35961F9DEA5C21015B04E34"
+			}
+			"gg_dev"
+			{
+				"gid" "EF225A7895184F7FA25576F0A5279639"
+				"size" "DD6E2AA2F8950CF71082C84450031CFD"
+				"download" "E36C5EFA117A8E9DCC6573EF2C969C7C"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "AAD10EF7BE9DAC4DCC83CE39FF361553"
+				"size" "79A66DA299191E2B9080EF2510311F3F"
+				"download" "2B8E5B416318E8E5A52BA7DDD55DEFF3"
+			}
+			"mock_review"
+			{
+				"gid" "773DBA5C7BFAB197FA2E80D5B249E8D8"
+				"size" "60702F6C55218D32E2A8766CB21CEEAC"
+				"download" "577EB7CDF0CBADF838DC2A9C769D4B10"
+			}
+			"old_dev"
+			{
+				"gid" "0698AA2CA26910A813ED758AA5943721"
+				"size" "EF74DCA4387D5FE32AB1C9676FFB8284"
+				"download" "01FC13E295AE08C608EBE30C8E49E7C9"
+			}
+			"pso_automation"
+			{
+				"gid" "71E4FFABDD67FFFE251F3ED273E7FFFC"
+				"size" "719488F84B7048E8BC1AD63C4ACB3A4C"
+				"download" "B2AA23A268D6B1B4C6784B5AEB4FEB6E"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "ED54A32ACC1E51019564956E61427D07"
+				"size" "B450E223F15388447C1C2DF25EE4E0C6"
+				"download" "6250E3767E76676484CB169737184236"
+			}
+			"psqa_perf"
+			{
+				"gid" "75BD15B63E859FEB9FE7679FBAFF28D0"
+				"size" "45E07FFEB8454300EA660F57E7AA6864"
+				"download" "B78C0C0E6FA8D5697AD4212D6B0C698B"
+			}
+			"qa_dev_release"
+			{
+				"gid" "102FF4CE926741DFCAC504803FE6D607"
+				"size" "6F0449B712D7D2B1EFCA9E0826FC9BE1"
+				"download" "9E03C5F3593077F9330BA5D087401829"
+			}
+			"review_build"
+			{
+				"gid" "A668D15CA66AF238BD6CE04A2C10A7E9"
+				"size" "03967CA5C9149406B1A8D9B1179C044B"
+				"download" "1520310B59C76E7D0289A9561A6847FE"
+			}
+			"amd_1"
+			{
+				"gid" "AAC54558A3BDBCDFA068A013D0DE0870"
+				"size" "C29EFCFD89653EEB2C5B4CE4C44A63A6"
+				"download" "6ABC756B3C24F203809685E8170F4894"
+			}
+			"intel_1"
+			{
+				"gid" "A3B45BCF30ECEBFCDDF9A937EA0A222B"
+				"size" "F3AADB1D375DF8EBBBC9BDA5ED6C3A68"
+				"download" "448E8140A5B95ABD0CF06B81E6788C7B"
+			}
+			"latest_dev"
+			{
+				"gid" "D56BC6C887B143F25351A9D2C4E7FD92"
+				"size" "5E8ACE40D1C4F5DC0119B05EACFE750A"
+				"download" "E7D8308126562DCBD4F2A1AC00D7D187"
+			}
+			"latest_release"
+			{
+				"gid" "98C3F36E91762D046E056D1B5C0BDA99"
+				"size" "2EBF95EDAE68FB2D8B22293623874314"
+				"download" "93450C28CD3C0DC0B9B31E1FF09EDB84"
+			}
+			"nvidia"
+			{
+				"gid" "A058C8DD4A6B482C9F877FD9E85EE960"
+				"size" "4C4767CC8E409817D8043E2B445B9DAB"
+				"download" "C84315367040418A2CC49ADD3846B603"
+			}
+			"psqa_1"
+			{
+				"gid" "9A48EDEF4DD1F576C90460763E765A56"
+				"size" "021F8971D82E050C3636EB07F6FF267E"
+				"download" "2876E5BE8A305CC28168F6DE8E7F1B5E"
+			}
+			"psqa_2"
+			{
+				"gid" "2B1588BFFE87D695267C2BCC9344E279"
+				"size" "44275415142A0A14D1411096521C1B62"
+				"download" "C1B421561BFB79F42F8500652C8220D4"
+			}
+			"psqa_release_1"
+			{
+				"gid" "E424F47EF0EC13125ACB747752AF4E41"
+				"size" "4F1096BF6B964E290A46CF23EFCF4763"
+				"download" "1B58A83005CD9C78CFB70BD9A40AF66C"
+			}
+			"psqa_release_2"
+			{
+				"gid" "C7F1F6CBE2586BA853655A04E803D9B8"
+				"size" "68612E8B4A2DD7478C15E336283EDFFD"
+				"download" "B16D4B433A24AC978036904616AED518"
+			}
+			"qa_dev"
+			{
+				"gid" "9EF3FCC2D8635494B3D280419C542D70"
+				"size" "7928F2DA5A072F073EF04C51FED80C05"
+				"download" "744E24399C1718E09E02D5DE3C49E1E4"
+			}
+		}
+	}
+	"2420114"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6680338608508653005"
+				"size" "2462285480"
+				"download" "2311937776"
+			}
+			"previous_build"
+			{
+				"gid" "6680338608508653005"
+				"size" "2462285480"
+				"download" "2311937776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "503A1DC0ED812867D35AE5E2F58F9DCF"
+				"size" "D2EA9C99E776C2F4E094EB3ED4B2F09D"
+				"download" "BFB85F9E8C29FE865B0C534CDF5E9DEE"
+			}
+			"alpha_build_glitter"
+			{
+				"gid" "EB7F20968EA101F444D2231081873E6E"
+				"size" "2246EEFEED29D831C778353A0FA895FF"
+				"download" "2246EEFEED29D831C778353A0FA895FF"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "75B805FC883A299CB6ADBFA4E6618198"
+				"size" "B8BAA54A27BE90ED8B898581F3C22BC7"
+				"download" "0449E4DB544663C721C2911B9AB0B6C9"
+			}
+			"gg_dev"
+			{
+				"gid" "F167C771C9ECDE412AF22236771F3C56"
+				"size" "CA98DD1F2571EB4255A3EBDE57A7630D"
+				"download" "74A6C3B33DDCA69BE10C561CB95C6BB9"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "BA6155AB4AB4207D76101CEADF3F4A90"
+				"size" "9EFF8A9E9083EDEC3B915CE99CF03224"
+				"download" "E21A79A63A90396A5524B631007D0B56"
+			}
+			"mock_review"
+			{
+				"gid" "95DD23DA72948C360A3C0E958FD8B80F"
+				"size" "2DD3E5CF64BCF4C1BC4C32ED45252915"
+				"download" "2B8C807BEFB43845EA107DA1F72BBE89"
+			}
+			"old_dev"
+			{
+				"gid" "6BCE336E41F67BEA856D761DA36A64D4"
+				"size" "1315243A0CBAA15BBB10E34D96EA2341"
+				"download" "1315243A0CBAA15BBB10E34D96EA2341"
+			}
+			"pso_automation"
+			{
+				"gid" "35C988B78677AFFEE304A2A9EF3B6A77"
+				"size" "C9D8770C085111D40397E3135C4DD288"
+				"download" "4DD98F69BA0D291A379FFC139EE5B2E7"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "9235EDF62B3EEDE0ADA1166A38DA92D3"
+				"size" "5DA4ADAA16E9C7117241251136279EF0"
+				"download" "3D8FC5A2BD507AFEDDAC133DC11439DA"
+			}
+			"psqa_perf"
+			{
+				"gid" "824047A5AE195750208E660418C78398"
+				"size" "4791E3684FA44BDA35E46855E0D6D410"
+				"download" "7E9ED30BED23CDF577FEDE9AE862DBE8"
+			}
+			"qa_dev_release"
+			{
+				"gid" "4ED6BA8F3FE65CB04664991B4E8903BF"
+				"size" "15F34BF221F21C19CBBF789EFF389915"
+				"download" "735C895B0A7C1B86016E187687618A25"
+			}
+			"review_build"
+			{
+				"gid" "E75FF6A61C0156F7809F7AFCE1BDBA34"
+				"size" "D9DC718A5C18E2EF54E844A00EFC47BD"
+				"download" "66B295AF6C4DBA9A35CCA751EF13E948"
+			}
+			"amd_1"
+			{
+				"gid" "A87B4DB71B9A3F8D4D61882371F716EC"
+				"size" "00F946DF1A6C694B1B15CC8A004CF13C"
+				"download" "FC8A5753E80730794EE90BF578C0E9D2"
+			}
+			"intel_1"
+			{
+				"gid" "536DAAA986D2982E136371C12368D5EA"
+				"size" "AE240215E8BC2D49F1A2D7AE1667890F"
+				"download" "CCEF55BDE80C262B1444B8ABD4B6C40E"
+			}
+			"latest_dev"
+			{
+				"gid" "DBE7FA1CD7D40B6F45BD0DD7FE8ABD93"
+				"size" "6FAAFE54A6BD29859F8EF3F90A61809B"
+				"download" "4CC2E29996EFC912CA4AE7D4750FAD84"
+			}
+			"latest_release"
+			{
+				"gid" "45997789EDDCB15FCB778331B3AB558E"
+				"size" "10EFF675B4D580EADCBA2773DE30DD71"
+				"download" "4280BE7D0C30E0EBDD6A8C8F3485BFD4"
+			}
+			"nvidia"
+			{
+				"gid" "90D76EB44400AFEF22F1BB45EE54BC64"
+				"size" "89A7F3F13A130F95775346E02D449781"
+				"download" "4E55EDC952787E7C87C3B3B98D441FA3"
+			}
+			"psqa_1"
+			{
+				"gid" "4B58236889CA4649BD1C8B01051EB505"
+				"size" "49A3844ACDAFA780B4DFEB8E0ED64F5A"
+				"download" "26BDCAD20748A3D1AED5DB58F66FB98A"
+			}
+			"psqa_2"
+			{
+				"gid" "9147A57311B307000BE4A0109A9DA2E3"
+				"size" "F6BC163E5A9697FB16D15587313ED4B9"
+				"download" "E2A8CB6553FD773979F8F5C13587563E"
+			}
+			"psqa_release_1"
+			{
+				"gid" "B866BEA5D4C57DD9474A9F55240F1A66"
+				"size" "55BA40700EDA9F989E7AD427BA84C131"
+				"download" "0228B8897B7D0C8D5F03829CB30F2206"
+			}
+			"psqa_release_2"
+			{
+				"gid" "FF8068B10C6765114C1D83641C38F455"
+				"size" "CB40B2B0E5C2BE160AB67A234B0BFCDF"
+				"download" "FCE637E2234B6E677241A4F345EA3812"
+			}
+			"qa_dev"
+			{
+				"gid" "E2EFD60B8893D60308F9253108675018"
+				"size" "B8E9B35A5DA02796F1553AA89626B0C4"
+				"download" "94B94E2EE91920C4958B13CDE5B2BBF0"
+			}
+		}
+	}
+	"2420115"
+	{
+		"config"
+		{
+			"language" "french"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3856210151677793842"
+				"size" "2371446864"
+				"download" "2146027808"
+			}
+			"previous_build"
+			{
+				"gid" "3856210151677793842"
+				"size" "2371446864"
+				"download" "2146027808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "D8A038F3A0D2064EE362842A1C9DEA86"
+				"size" "ECB25B25CFA6DB0CC86C5337275ED066"
+				"download" "C71FF336F47090AE8B8E823CDE659002"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "146C0CB2F0AE4AF5F2DA54FDD49445C8"
+				"size" "3706EB8A72BF6D0205B360422A2D66BF"
+				"download" "F3F4A4D6EC3AACA704E377FCA61A5853"
+			}
+			"gg_dev"
+			{
+				"gid" "30BFD4227F96DF675369615247F20138"
+				"size" "F2BA361DFD668F89292130DA19D151F1"
+				"download" "C7D2271EA812235DC3F396C78DE8E24D"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "BFE80E587FECDC5CCED2C7D48C42C39D"
+				"size" "1232F482FB7215A7FCDF21E93209C625"
+				"download" "64AFA4AD38EF432D0691C829D18793E8"
+			}
+			"mock_review"
+			{
+				"gid" "D3BE9D2784C38D7ACBDDA9115D4B7357"
+				"size" "045D615EBBD6162C7415E046B4C3A351"
+				"download" "3571DC11387F09375745AC53B6D34F9B"
+			}
+			"pso_automation"
+			{
+				"gid" "3573EDF202054F917A968138BB635F69"
+				"size" "FE59B0B1C29CBA5762D4B54AD999A6DF"
+				"download" "FFEEFFF1FE3FB90A6B18DCB82B6EE0E3"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "66E3DF87F72EDCB7D57742C66AEFDD46"
+				"size" "D157BA746B2690CC329131610C037D07"
+				"download" "0D708BCC4D96A315361F3D711FF7DB89"
+			}
+			"psqa_perf"
+			{
+				"gid" "ADB6CAB28664C6081CB22F948A91DAD0"
+				"size" "C3927A7D251CC7359EE561C9C577DCDC"
+				"download" "D5E0A6DB9A94A44CAF8046FA247CA34C"
+			}
+			"qa_dev_release"
+			{
+				"gid" "0E531E7616E121803AD95D9532B3A882"
+				"size" "22ACEE75D56BE7349D1A12CAAA8AF7AD"
+				"download" "0B30137204383F3AD37D61968F35C4DF"
+			}
+			"review_build"
+			{
+				"gid" "EAEFDF85DFBCCFC228611945BC194D1B"
+				"size" "7647F6A135ABE54373F330DFBAC7611C"
+				"download" "3B4DB8FFD3671ABC8519C7451FA22409"
+			}
+			"amd_1"
+			{
+				"gid" "8D834F541E4A819C4113C2CAA033425B"
+				"size" "EB3ABEFEA19E998ACAED3DD0FFF2C27E"
+				"download" "6BC5F03E0EF51B5C1C0BE11DF211B6FF"
+			}
+			"intel_1"
+			{
+				"gid" "A5608298B3BD4303BFAF58C63B6FCC41"
+				"size" "DC187007980715406E3CD447944582C5"
+				"download" "F6398623EF7A772F7E15A22E39563B52"
+			}
+			"latest_dev"
+			{
+				"gid" "B674DF4AB1941938407C2A16C54D6391"
+				"size" "929ADA5BAAD8143222D2999ED4409E61"
+				"download" "68E312DE150FB30B414103AB3C025C00"
+			}
+			"latest_release"
+			{
+				"gid" "34CD7E640059C91BA9EEB8AEF3FBBA95"
+				"size" "3B5A662F2F009074AD6270E67638A40D"
+				"download" "A6C0F11AAE7A42494424A3197520B49C"
+			}
+			"nvidia"
+			{
+				"gid" "63A1EEB78EC8AAD07DEE1ED36C77A3BA"
+				"size" "F6DCF10B0BCBC95DBA34C820DFC63405"
+				"download" "DDDC64C8B562C15A87713EFA1470B572"
+			}
+			"psqa_1"
+			{
+				"gid" "73554720DBA79C32EF13E181D8AAEC11"
+				"size" "632B6B95643021B50D085A92FCEE32A2"
+				"download" "BAFD2715E58600DD652AEF24458210C8"
+			}
+			"psqa_2"
+			{
+				"gid" "BC1090159D94A4ADE64F9CFA92FDD879"
+				"size" "8FE665599C2CD450DEC8D16E8C631715"
+				"download" "D594A6E98644CDAB17424E911902BA38"
+			}
+			"psqa_release_1"
+			{
+				"gid" "182528651797935D355C874692C620B9"
+				"size" "EFB3705043C2BE391931DBC2E7EB2FF4"
+				"download" "39AC9A6990604E29AB8FA8EBF033C941"
+			}
+			"psqa_release_2"
+			{
+				"gid" "6EE7C946994C723E3A127860DA831654"
+				"size" "C00B8C46EED8A294AA5327456C739903"
+				"download" "85C9B5F8BA8A6F61B59F6CE2617AAB6F"
+			}
+			"qa_dev"
+			{
+				"gid" "E7D856663B6E1C180B05D6DF11044E20"
+				"size" "53067A4B9ADFD98575A9195203F7BB15"
+				"download" "ABA261FA5E3FC5207011CEA4C92F94FC"
+			}
+		}
+	}
+	"2420116"
+	{
+		"config"
+		{
+			"language" "italian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4697055530980282507"
+				"size" "2396671656"
+				"download" "2265353248"
+			}
+			"previous_build"
+			{
+				"gid" "4697055530980282507"
+				"size" "2396671656"
+				"download" "2265353248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "06F42072B95198BADE83F3FB5C06DF08"
+				"size" "B21AD7AD6BC7E85AF6C6498684C42B32"
+				"download" "7DC470A86E5B2EACFC603CA5D8897561"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "4A0B5239F639C84BB5442C8FE0EA2BC9"
+				"size" "E59C1690DA4B3483D0689A7BB263BC06"
+				"download" "E9DAB506F826DDDF7B50D434B0F55042"
+			}
+			"gg_dev"
+			{
+				"gid" "C54D1B591D7ADBB147D2D4FE33D9B5F7"
+				"size" "5ECB98D0A9F292A8A83FAC3FD6A07EE5"
+				"download" "5955B5169220DEDA0ECBA59F30B8240C"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "6997F50F15D60930AA7C187002BF97B8"
+				"size" "FF32257D04D7C3F174E8F0BE8A8C3286"
+				"download" "8825507FF528940680AEF5196D336D8B"
+			}
+			"mock_review"
+			{
+				"gid" "9F8F57338BBE5A3A27C40FFA12F6B3B4"
+				"size" "3F0E03A4B8F3FFCEAFABDD92BBDAD476"
+				"download" "6C27D1394CA81ED8056EC740799252B5"
+			}
+			"pso_automation"
+			{
+				"gid" "B54647FB3D3F0CB947E3082D41578C1D"
+				"size" "AADB342011ECCF9210B9F70087AA20D6"
+				"download" "56897B82CE76C5FF6502EF8CC31C5B04"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "59A003923019C71CDBA54D7AAAA68F52"
+				"size" "0102E3BB6FCE3F0AABD45C3E01EA71A6"
+				"download" "9840475BAB379832B07E0FF2F282D58E"
+			}
+			"psqa_perf"
+			{
+				"gid" "F4711C3F44270EBF44C298F870A440B5"
+				"size" "7C23E929C7C9C00E341DFC19FD7BBF6E"
+				"download" "D10670C95BC578D4753C1144F0A3E930"
+			}
+			"qa_dev_release"
+			{
+				"gid" "B1CFDFF78B9D89407689FB079FF691DB"
+				"size" "DD345112FFD3EDE3349C4B866F23EEB3"
+				"download" "37870983FD92303ABF1AC08534244107"
+			}
+			"review_build"
+			{
+				"gid" "A651A5F34FC7381B0D6B07C9B6D46977"
+				"size" "117546ACE782357C4A1697779339AD08"
+				"download" "D56C5BB7C2F1C5A5230912F673031FBB"
+			}
+			"amd_1"
+			{
+				"gid" "3DD41042AA93FA06EAA200FE5B380BAA"
+				"size" "90B7DEE4511EDDF0206B535444AB08E6"
+				"download" "20A0CB7E1BF089EF4836FBFE0DF587D0"
+			}
+			"intel_1"
+			{
+				"gid" "9AC008995BCB6EFA272987077021C372"
+				"size" "F1839B67160F14BCAB37951D8AD0C88F"
+				"download" "81DB5C0BEEA1942F69221EEEDE2679F2"
+			}
+			"latest_dev"
+			{
+				"gid" "5A208FA6776B6CE2D757E6A1449EB88F"
+				"size" "BD3427580C62A89AEE1D4E920A4EC44C"
+				"download" "0ADD12B61B31583F6D20CFC4B04D04C0"
+			}
+			"latest_release"
+			{
+				"gid" "844816DAD86BE85D0190E356476DFCEC"
+				"size" "CBA999A3FFA928E3C2FA7521AD55F1E9"
+				"download" "FE0264441516E3BB87ECC9F250DFD5BD"
+			}
+			"nvidia"
+			{
+				"gid" "8E0B4C670239FF1E3167071DB52BD8A5"
+				"size" "44E15F481D066015C2DB76F7ABDEF4DF"
+				"download" "BD5AB2FA3B7B9881688642CB273C1C6B"
+			}
+			"psqa_1"
+			{
+				"gid" "A19EF5DDAF0B673F1B340932A21C76EE"
+				"size" "81AFA410A88DCC092735C303A3D3A50D"
+				"download" "0786C14A7339B328B3442FACBAFB195B"
+			}
+			"psqa_2"
+			{
+				"gid" "43E3A821DDE24C0A9F15BDDF01DDD18E"
+				"size" "CEFD4BAB112911318C30C8BD52B26CEF"
+				"download" "EB66D53D3176A591A0E0EB779C72344A"
+			}
+			"psqa_release_1"
+			{
+				"gid" "A4AB47028502BC5EC3588A961831B5BD"
+				"size" "EC00185B94C1F888DC77015D66CF63EB"
+				"download" "7BAD71CF2270BCC665CAA68B66F1DF95"
+			}
+			"psqa_release_2"
+			{
+				"gid" "94A9E6E49DC697F53A2A9EF4C6A1AAE7"
+				"size" "26701A6C712E2F744F903FAA8FCDD3B2"
+				"download" "77C8C1517BFFC9BAF21386FF00E925BB"
+			}
+			"qa_dev"
+			{
+				"gid" "C86E46C2B2A7F0A60CBA29FB0BDDC728"
+				"size" "0163B341A41117CBC32156CCCD769499"
+				"download" "4CB2F3F4CF5AB772722B35835485A2B0"
+			}
+		}
+	}
+	"2420117"
+	{
+		"config"
+		{
+			"language" "german"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5295276332778237670"
+				"size" "2422196808"
+				"download" "2362482816"
+			}
+			"previous_build"
+			{
+				"gid" "5295276332778237670"
+				"size" "2422196808"
+				"download" "2362482816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "A1A06A41E8C756D272CAD6DCC7F2DBEC"
+				"size" "53C9BB526BD94C54C5A460834FEB7CEE"
+				"download" "3C354CF091B0BB500FB7DAA4F2F75DF0"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "B7DB083525D1EAC814A2C5411CCD0C9E"
+				"size" "EAF2341C64D8979906E25919206A0D20"
+				"download" "7A296B7594206E237C1F5EE466E7D2F4"
+			}
+			"gg_dev"
+			{
+				"gid" "3491E884940B3FA2B55078D6B27E67D6"
+				"size" "646A1FBB28038211EE20C84AFB23E024"
+				"download" "4A78B15601D01641EA4055DE75851046"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "595E6FF70D0E8A5EEF8D4954031AAF5C"
+				"size" "C60EAE3619D18F26BE8DF848B8CAAF7F"
+				"download" "98FCDC8BFFA7AC995AB9AD2A47669D92"
+			}
+			"mock_review"
+			{
+				"gid" "66F85403CE90BDE9C4835807CFF3D124"
+				"size" "8CA850AF99E2D49B1179CF98826D9965"
+				"download" "130BFC56ABA1653E7DEC5A2A7C1D8B23"
+			}
+			"pso_automation"
+			{
+				"gid" "19510B096303EC54F31EAB25EAC0505D"
+				"size" "649B6D58FA30ECF1C5369881A9393C5C"
+				"download" "97F2E61F41C998D4F97184933F8C145E"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "11756619D178355C01A17E41CD47170C"
+				"size" "68788E24F09D5CAAF7CA85D7F91D3468"
+				"download" "6C86BDE2EFD4B2EED10C49F8B2ED06D5"
+			}
+			"psqa_perf"
+			{
+				"gid" "EB919ECFC7181956E9506395479D0577"
+				"size" "CFA2566A16C9600896115B3B3DDA08F0"
+				"download" "F812AF302BB98BA2BC3077418250A932"
+			}
+			"qa_dev_release"
+			{
+				"gid" "B91F8181B1FF9DD7E34B462E9C4636F3"
+				"size" "1AD7B3DD854DB1A697C8CD97D715D5D3"
+				"download" "0EE63131F9990AC74CAA9CE77AEB65C0"
+			}
+			"review_build"
+			{
+				"gid" "D3C0E15D626A17A9BADA92C666572DE7"
+				"size" "9ECBA312FFA1371BAA77B5C70C56ABF7"
+				"download" "33AAA0CFDC8E5EC343E907C507358567"
+			}
+			"amd_1"
+			{
+				"gid" "29E2911FF6BBCB6B3BD9958AC3A46639"
+				"size" "166ECE23EEA969BFBA594C765CA466F0"
+				"download" "34D1AD84D6E60C4F00AE4D7500C047B5"
+			}
+			"intel_1"
+			{
+				"gid" "6C1349B856D16D11F8A922F46F278CB5"
+				"size" "8257514557D920095AB120D1109F2D0F"
+				"download" "383BC77BB95FCDEC0710BE4597CDA134"
+			}
+			"latest_dev"
+			{
+				"gid" "C478CD35ADFD8E9455C992397757BCB2"
+				"size" "CBA1EF975D94FC11F4F1F63DA0280733"
+				"download" "CC33F34A362A0EB80A2549A1D203E343"
+			}
+			"latest_release"
+			{
+				"gid" "A7FC766C58A5CA10EBF8B89E3A802B56"
+				"size" "3834D05B5213538734BA36CE213E5F7A"
+				"download" "E37A5F0E097C7E27AAC1A346F75FA74A"
+			}
+			"nvidia"
+			{
+				"gid" "DFDF74FD194FDD58D60F54A9CE68CC95"
+				"size" "9C6F8582E8024FF2765E25609F8A34F1"
+				"download" "7770BD227336531875A9EE0CEDE38BA7"
+			}
+			"psqa_1"
+			{
+				"gid" "FCFBAC2D460F3A0DCE5837A37BE1D766"
+				"size" "634DF83083A89974F27EC413FFA0ED87"
+				"download" "FB3667267BBCDF27AA9A7DD73C6B2DB4"
+			}
+			"psqa_2"
+			{
+				"gid" "68BB136BFC6163375647ABBE0090D37F"
+				"size" "8FBF0E2CEAECBBE7DE01F457901F37D6"
+				"download" "93A1DB2322ACE479B4BF347424B5ABAC"
+			}
+			"psqa_release_1"
+			{
+				"gid" "46CF4E74CACBE6ABCCB9C7B915DA7096"
+				"size" "006FAB7E344DDD804DE09710618C7E59"
+				"download" "673CF1A1D6B87BF88E7C4B4840C5852C"
+			}
+			"psqa_release_2"
+			{
+				"gid" "E27817EAC788F914584B936EBDF05650"
+				"size" "55BF7729A21A28075DA64F213609350A"
+				"download" "533D594C1CEF97838B893E888E235BD0"
+			}
+			"qa_dev"
+			{
+				"gid" "1BB460D499B9C7927D5C067F7757A472"
+				"size" "F0E90CA275D43F8F58CACC19107E8ECC"
+				"download" "6E13C63EE8F2FD4A4D2837C330CF9AB9"
+			}
+		}
+	}
+	"2420118"
+	{
+		"config"
+		{
+			"language" "spanish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8673415990553381851"
+				"size" "2458754204"
+				"download" "2160907216"
+			}
+			"previous_build"
+			{
+				"gid" "8673415990553381851"
+				"size" "2458754204"
+				"download" "2160907216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "541970EA9E788E29CC58EE0B37B8BD75"
+				"size" "E21915AFC044B5C67CE54AF3ED9F5695"
+				"download" "DD6E74C125B902BB33BF6C6B95DD363B"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "0B2688404A5585184B5600F0D94EE6C6"
+				"size" "16A62CD93E3323CF9D2FDF3DB208A12E"
+				"download" "1288CCB73E1CB19179107D8057701383"
+			}
+			"gg_dev"
+			{
+				"gid" "6132FC54F8EA2995AE532B1570FCB8DE"
+				"size" "36CC040C0AB4F07EE4CF573F2ADCADF1"
+				"download" "DA14A911FF116E3FBA0D568FF2C95B22"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "E2C0D224392B8138BA0DC4E97F5EFABB"
+				"size" "CAD075E2785FEA2AC59A3D37CA326636"
+				"download" "EE89E2AFF387E5D1402CA0F271F09F3F"
+			}
+			"mock_review"
+			{
+				"gid" "FBC8AA0DEACB076ADC0310C260C89A7C"
+				"size" "63C7973242FAEB768ED6F3EFDFF62F6E"
+				"download" "109C12EBD544153D28B226D92504458F"
+			}
+			"pso_automation"
+			{
+				"gid" "B5A858FAF4AC4499694452BB6BBE7CFD"
+				"size" "CF2D4AB3843DA138C973C3FF37B232BE"
+				"download" "B032C98F03EC03275CCB35DA0183C3AC"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "34A96D5853D80649DC40F283ACE3934C"
+				"size" "3444AF0ECB282579A718D5E5C5E16856"
+				"download" "3C610FEB1DC213C08CCC97B775EEC55F"
+			}
+			"psqa_perf"
+			{
+				"gid" "2753591B1CFB5896142DDEF50EFAB001"
+				"size" "D6132AEC07AFF79970F6A82A0731B784"
+				"download" "D1FDA695DD0D52A3C408BD7C0AB50478"
+			}
+			"qa_dev_release"
+			{
+				"gid" "78C60895071CF95B68D66872BDC200B1"
+				"size" "6DDAC6C8953AFD8EABEB0AAFA03AC4FD"
+				"download" "57FABC1CA20DD5CC8207B05E4AD2A18F"
+			}
+			"review_build"
+			{
+				"gid" "531EC99EA829E914CB0C2E914CF79F53"
+				"size" "45487A754E9F5E601EC0C82CD45BCA44"
+				"download" "0463C62D6A58C9F56DB28042C0BF67E0"
+			}
+			"amd_1"
+			{
+				"gid" "81AA263F62CBF9AAB491504E48EF4CBC"
+				"size" "568267D67E3AD8A6DBE8D095E202889F"
+				"download" "7F92D63DD97A77F4C7A9473E1DB84722"
+			}
+			"intel_1"
+			{
+				"gid" "55B0BFC364BC17BF710C389E8FAE22B1"
+				"size" "7412DED92A3EA08D06C338287E766FCA"
+				"download" "E1FAD50A61266FC829AAC7CD7C6AA29E"
+			}
+			"latest_dev"
+			{
+				"gid" "B66E67F0D4BFFA12FF76CC45CB64A083"
+				"size" "FD10B00C2BD4E24467B4CFA76CA5BC91"
+				"download" "F96D0FDB6CFCB104754BB492A7DC0A0B"
+			}
+			"latest_release"
+			{
+				"gid" "2D73002A32CF4431280DD47AB0EA45CF"
+				"size" "166634910DBD58317A43A13CD1246747"
+				"download" "96989634C6A5E76490D377624306B48E"
+			}
+			"nvidia"
+			{
+				"gid" "D5E9D0BE876C17836522F849CCF36574"
+				"size" "475A0A2CA1F4F8E076BC93F26B6DB319"
+				"download" "8AE77EADDA9919CC8F172DC9B2127C35"
+			}
+			"psqa_1"
+			{
+				"gid" "3EDEEFC401E768CBD6652847841DA76D"
+				"size" "B0AA298D6DD0C479097F0D0BA97DDCDE"
+				"download" "D90C6D90AD4EC804CE1FBA324610FCF3"
+			}
+			"psqa_2"
+			{
+				"gid" "2C7D68099CB542A3B3C8E26D408512F6"
+				"size" "E6983EFD88A6FB8F19CE4D2D5C9EFEFD"
+				"download" "5DC085185EF86CE2102E4275359882EF"
+			}
+			"psqa_release_1"
+			{
+				"gid" "0DC43070EDAE7E18AC3414D9A93885FB"
+				"size" "D6E354FE4D5020CD328ED818F4673017"
+				"download" "93E36FEA86AF693F96E22FA4EB3AE016"
+			}
+			"psqa_release_2"
+			{
+				"gid" "A021F4A18D8A41F73782D4A7C3B22D0A"
+				"size" "68D585895A849B06EF41D81B7DE6C3C5"
+				"download" "4A3A118A459CBC00F7CD5E6B05D9A15C"
+			}
+			"qa_dev"
+			{
+				"gid" "425D23E794022E0EA903F7F9835495C4"
+				"size" "4D28903973CD6FACA71E8399EB8006A4"
+				"download" "2259F02DEF203D2F70DE51B2BFBCEB7F"
+			}
+		}
+	}
+	"2420119"
+	{
+		"config"
+		{
+			"language" "polish"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5380212226787194873"
+				"size" "2418992960"
+				"download" "2379090224"
+			}
+			"previous_build"
+			{
+				"gid" "5380212226787194873"
+				"size" "2418992960"
+				"download" "2379090224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "698FBA03C7902CD996378B52BDA26698"
+				"size" "DEC8C242CCA505FC48691973B0C5D82C"
+				"download" "BD42EC63EBBF946D2EB15C8244A892CA"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "975B58999C67D2222B8A251F284BBA8B"
+				"size" "CBC8A7325B399EEB60BCB3CB5583EB01"
+				"download" "EAE05493FF0D93FD07A4DE280718CD3F"
+			}
+			"gg_dev"
+			{
+				"gid" "84CF9434C8316A9101C5A6AAA3590EA2"
+				"size" "917EF4857F3A15DB9DDBDA6EAD9B9911"
+				"download" "2157795C95F30E76A4141B3C6229D705"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "C8B2D8828114781D8AE2FFA1035F0363"
+				"size" "1DE961A2537AC4B62E6BAD70C1C9FD6F"
+				"download" "E26ED323272AEBBA8085273B1FF7297E"
+			}
+			"mock_review"
+			{
+				"gid" "68FEB251707675E3C53122CAEA291E90"
+				"size" "117D326F9F509303F046F3FF29C6B3D9"
+				"download" "524C240BA1F572E1366E114FC8D84C2D"
+			}
+			"pso_automation"
+			{
+				"gid" "BBB0A30B5009CB59128A758F9EFDE7E0"
+				"size" "257CB67F8569EC149100F90E9A9643A7"
+				"download" "8E4FC184C065C4CF148BFA58D15FE307"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "14AB7D8818EF8CF7ACD1EA30155584E6"
+				"size" "7D1E0E4CB8766DCE97B4FA04FC076C78"
+				"download" "DA767D7A304DF08782549854FAEFCFB6"
+			}
+			"psqa_perf"
+			{
+				"gid" "4E1CD89CBC1983995E2C9A36A1F9D0F8"
+				"size" "D09D31B44E042B1E191530BDA7782C11"
+				"download" "4A84970B0E54454B29A0CD3C4C2A9905"
+			}
+			"qa_dev_release"
+			{
+				"gid" "8669C229122C63AECBF8D20AD2F3A87B"
+				"size" "3ABE489215390F147DC6303607D60EA3"
+				"download" "CECD4E905309737A15750B50D346A72D"
+			}
+			"review_build"
+			{
+				"gid" "82FDBCD4F0028C1ACE7BA246E831AF2B"
+				"size" "07273F0FF3FF89D42A7BA2987E4780B0"
+				"download" "69E95ACEA5B7A79A6AAB00D0BC617169"
+			}
+			"amd_1"
+			{
+				"gid" "12910E5AF38943EBAD98497BC6FCEF31"
+				"size" "94840439AFD06A8F544B090D99CD6EC7"
+				"download" "9C8ED99A610A0E39C931A4E3AF1D3F7B"
+			}
+			"intel_1"
+			{
+				"gid" "AB43EA82B3A75EC7211501689A5FC6F5"
+				"size" "FF3C4C0021737827C4753C782B2CC315"
+				"download" "FF20C4C010BA8C033EBDA564FAF717F2"
+			}
+			"latest_dev"
+			{
+				"gid" "4E6F8EB921C2E0673E97B98EBDC3AD62"
+				"size" "131B1C7B97927A1AF2436C2C6C222424"
+				"download" "1664C1D588D6366CC4BFC1B9E7D90458"
+			}
+			"latest_release"
+			{
+				"gid" "C38F6D59B62D63BEA574FE144FFB7787"
+				"size" "D0BB0E274AC4CFF6C093309FA39AD10B"
+				"download" "6CDBE18200E7FC89686EC42FE93F969E"
+			}
+			"nvidia"
+			{
+				"gid" "616290432D3E4756C8CBDA13DF4E05FB"
+				"size" "D75D7887C367D4F1F9E233BD3475D3B8"
+				"download" "969F225CE37D163D1EA7CB7646E5C98E"
+			}
+			"psqa_1"
+			{
+				"gid" "52111BD393DBFD0BD1076330C8C003CE"
+				"size" "DF04A131B0A4ABC2C116BDD902FB3999"
+				"download" "FAC92F67071B15A5DA550249C7C46C4F"
+			}
+			"psqa_2"
+			{
+				"gid" "4B242891CAFCC3483CFBE67AC5F5D873"
+				"size" "1AFB52AF212ADC03F0D43A705F5F2038"
+				"download" "2A72D61A6EB0108B3B63187F8E6C7315"
+			}
+			"psqa_release_1"
+			{
+				"gid" "1AC4A535CA3E14F8186B2A73DADD6065"
+				"size" "3E66759AF7BC5D17FB68C930386A542A"
+				"download" "0AE942D9620ADA28BA31FACED8C28F0B"
+			}
+			"psqa_release_2"
+			{
+				"gid" "0384609E57D124869FD95F9E9EE06EE8"
+				"size" "4D8C9D41F600BCCCC13D3836D5A00E78"
+				"download" "B6A7174DC2372D281914D7CBBE2BFD6D"
+			}
+			"qa_dev"
+			{
+				"gid" "FC67E57F6E8522590FD1E68F3FBDB182"
+				"size" "E343495D5C5B8DA5CD0486FFC260CFC3"
+				"download" "0D81AB24903B1DEB58EE75B50B2D4C52"
+			}
+		}
+	}
+	"2452461"
+	{
+		"config"
+		{
+			"language" "portuguese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5708538598987781196"
+				"size" "2395927576"
+				"download" "2195018992"
+			}
+			"previous_build"
+			{
+				"gid" "5708538598987781196"
+				"size" "2395927576"
+				"download" "2195018992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "BED899C6F7AEB7E26C32D2B7D871535C"
+				"size" "82C39974CD6ABC2798B4139FDFDB02A9"
+				"download" "882C52F73C49AC51081BD1344CAD5EC9"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "BFAC2D1A5E832B3E35DB2EDF6E30D648"
+				"size" "974FD39D34B1A3D74DFADD299544A8E0"
+				"download" "9A09369E1FD6219057762EDB3E84FD57"
+			}
+			"gg_dev"
+			{
+				"gid" "357497E26695356F145C48EB5B77F9B2"
+				"size" "9B1F635F76060B0DB8C90633E5465DD5"
+				"download" "3FD8369BB3C156EFF5E23E70661D57FE"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "C5179A20C708668FD966D7DCE788C968"
+				"size" "F2C63F9C8495FF7FD9004762B0F46675"
+				"download" "8AA076F3142BABD06D51C2528821D1C3"
+			}
+			"mock_review"
+			{
+				"gid" "811977DF1EA21DA113BB98554DF3FACE"
+				"size" "E0451BCABEA623E452AD81EE2096B84E"
+				"download" "FCA2115E79CFF0C325BACAFA3E3F6B9D"
+			}
+			"pso_automation"
+			{
+				"gid" "F4B4D940F67EEFE591D25287399EDBC9"
+				"size" "76E2DB964C67A287F0868E161EC9E161"
+				"download" "2A098DA523EA09E25DD314B135F0B62D"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "0E8CE7A1A1FCCB9F9D225AF83A080F83"
+				"size" "128126146AFABC8D2F216B5431641900"
+				"download" "CB8C49B76F99952A28E7EB6B1CC55CF0"
+			}
+			"psqa_perf"
+			{
+				"gid" "233C698632779DFDE5F55FEB1B33DCE8"
+				"size" "97772B0E943AE3EA2C451070282C4116"
+				"download" "FAEC73AA1E5BE22A965512185A704B19"
+			}
+			"qa_dev_release"
+			{
+				"gid" "1E124251047CC586B825E71A84177078"
+				"size" "691A57B38534C1B5B6B4ECF6360B6B6F"
+				"download" "460A816D240C8954E73A6BCFE3C43D22"
+			}
+			"review_build"
+			{
+				"gid" "821FFCD8B47AD5E093DAF3FDF5CBF5DC"
+				"size" "082A13F7A5AAC1D08F66BE3BE604CE57"
+				"download" "C147ECDD9029DAD9BEFD6CAC79010A68"
+			}
+			"amd_1"
+			{
+				"gid" "2D98623ED01FB8478176F19677622068"
+				"size" "D673CF6A21E85DA212F7430C3FDAE8B8"
+				"download" "9EA8143AC99B975BA1E7DE864695C968"
+			}
+			"intel_1"
+			{
+				"gid" "18D672D9C54CA6E98FA676A7AE499CCE"
+				"size" "6BD15DCF1D62935EFA29CFFE2F72ACE3"
+				"download" "69BB4BC6717D75033518ED0CAE67D382"
+			}
+			"latest_dev"
+			{
+				"gid" "44F3CDB60BEEE773ECAB07335EA4CBAA"
+				"size" "D92B0B70BC0A989A8AF023CB36ECD500"
+				"download" "80208D653BBFE7BA08923005BEA4A5D4"
+			}
+			"latest_release"
+			{
+				"gid" "17BFC3F4B17893921070B44E183D0466"
+				"size" "1D6C9552B927535FCA074A309869D0C5"
+				"download" "F64011DC61B8DE6AEAB324760C4F44F0"
+			}
+			"nvidia"
+			{
+				"gid" "7061BE10387E8CD14E1EC1DC344B7A4B"
+				"size" "167926FBF198465715ACC17496726E38"
+				"download" "B31DCF938B4106A3DCB9F30DA4ABCB03"
+			}
+			"psqa_1"
+			{
+				"gid" "4211F3637D2C440CDD98FB4052F96E4A"
+				"size" "67D5831F550949EFB64C062F6549FE74"
+				"download" "8D01675F0B1E66DD4EFD70CDDACCF3D0"
+			}
+			"psqa_2"
+			{
+				"gid" "2E98B83A3931288DEFFA95375C456CA5"
+				"size" "18A7A05D9F35C9D1E032BB19B3AE5A89"
+				"download" "DF8013793B429F7B0D83C2E8340D8CCE"
+			}
+			"psqa_release_1"
+			{
+				"gid" "C463BEC8D3D695897358BC406057559B"
+				"size" "CF5E20E5D3E06098B536BB5143CA5D1F"
+				"download" "69DB03ECFC497862E7B902090D4934FB"
+			}
+			"psqa_release_2"
+			{
+				"gid" "C3473CA81B70FC56CEF02D172D718F7F"
+				"size" "A83D52195DEAF9147BDC6096EA91861A"
+				"download" "B58EC1D7B32184B8750615A9D6D257AF"
+			}
+			"qa_dev"
+			{
+				"gid" "E8D0F3C6099407D8483E6C0BFF071662"
+				"size" "4C87D12EDCA71FE6450BB19BCA94E27E"
+				"download" "32102D112480A58D04599EC1E9F6A2A1"
+			}
+		}
+	}
+	"2452462"
+	{
+		"config"
+		{
+			"language" "russian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8564962424144066599"
+				"size" "2446932784"
+				"download" "2409555280"
+			}
+			"previous_build"
+			{
+				"gid" "8564962424144066599"
+				"size" "2446932784"
+				"download" "2409555280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "16D47CDECFD0BD7E20766B2D3CCAF127"
+				"size" "63A869FC882941CDF4A4467C06AF2A28"
+				"download" "CBEF52BF11B100F57834701B9E9B3355"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "17EF435628D96AFF5535A72367933DC0"
+				"size" "077120D7886FC5A0EA14FBD79C18FDB1"
+				"download" "09CAEF3EBBE46086EE3A6871F0566FBB"
+			}
+			"gg_dev"
+			{
+				"gid" "C1591F7907F04879A62FF27CE03DE784"
+				"size" "79A38751B98B09983D51DCAF20E7347E"
+				"download" "4CCA6AC1B4EC8C1D8EDCEE5DE57AA837"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "60039BE0115E104D29715EC79860EFE6"
+				"size" "8F6A9E9B847CEE1E14006E2113114300"
+				"download" "17700D776A6B7412D54C10AA135A65DE"
+			}
+			"mock_review"
+			{
+				"gid" "75A1D24C5A7A46AA6C86692EA6EF0619"
+				"size" "896F45FE627329A3D8474C15082C14F2"
+				"download" "90E195860BF82B20CFB2750CC76ED751"
+			}
+			"pso_automation"
+			{
+				"gid" "4BFA9EE5889765CF26947F1AAE07187D"
+				"size" "800977AE2A9B04EA29F43F14E7BFAE21"
+				"download" "250036BDA4D45F338D55EB195D0BED81"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "1B296D13B97E37CCFD5AD33F7207AC13"
+				"size" "AC43E30EE7F0849918643F523D11420A"
+				"download" "13AC1633E866F7675B6BD887BD97AC9C"
+			}
+			"psqa_perf"
+			{
+				"gid" "5A16EFB970B8D932647B79EF02DA76FB"
+				"size" "8D9877E24DEE1AB6E5E6D42D384FD48C"
+				"download" "833FDDA1E21D67241B049BFE849491C0"
+			}
+			"qa_dev_release"
+			{
+				"gid" "4A2667688C60BFF20EBDFE0512B033C7"
+				"size" "9EC706657189E59986DE4C0F1C4A4887"
+				"download" "8C317CC85533FF03A0B0133B5D3FFA6D"
+			}
+			"review_build"
+			{
+				"gid" "CE4CB9CFC4757E0F11D36C117529AA31"
+				"size" "58FFD052132864367398AB44157B8C5F"
+				"download" "061D6051987C24F106428734490EABDB"
+			}
+			"amd_1"
+			{
+				"gid" "B0FDB4275A92B564B8C0B5A26DD2AB29"
+				"size" "7C7928518B3B8DA5A5E4A36BE4631519"
+				"download" "E7299AB4B1F07C8863AAD676D1FCF5AD"
+			}
+			"intel_1"
+			{
+				"gid" "8FB706D6FEEB7DA847152C3C99AB15B8"
+				"size" "288AB81D2315D9576EB7891EE7D9535D"
+				"download" "CCC2AFF7B0CD0CA76799D5F65D5C93A3"
+			}
+			"latest_dev"
+			{
+				"gid" "CA0BADFF7721316D762934021B70A5CA"
+				"size" "B23DA0633F4E1E2F50E1E3AC43847544"
+				"download" "4CF39716BA023A8D859DC728899DA43D"
+			}
+			"latest_release"
+			{
+				"gid" "D01AF50A86C06B71361CD1AD50CB327E"
+				"size" "7158D1ABF7FE8349A5A002F01780C40C"
+				"download" "6B15420C1066812E5D54F7D48757DDE5"
+			}
+			"nvidia"
+			{
+				"gid" "F94A2E458F242FEE27BF6DB8A5E742BF"
+				"size" "EB3E0DA005DE9868687D5F5F3CA56382"
+				"download" "6EE74B721B626628765258CC3AE52B48"
+			}
+			"psqa_1"
+			{
+				"gid" "7F03AE7FA6AACA81AC61F68DAECE6DC4"
+				"size" "C05EBE83E1484FF8C78B3EB5D20E4953"
+				"download" "5D168B9724DB5BC18F9A4767CDCC1876"
+			}
+			"psqa_2"
+			{
+				"gid" "F38B16B657DFD85749C6F89E55A4939B"
+				"size" "620B4C68FED5AD3710A577BCCF0A6BD0"
+				"download" "259D3AA6AE69E59F852EDEFA2D6CCE8F"
+			}
+			"psqa_release_1"
+			{
+				"gid" "78951AABCE1B03656B6FBEA04120B2FF"
+				"size" "18E62D48D71F9F4A8D52F01705AC895E"
+				"download" "3A8E5BE7F82BA98CFD9807DC922B1664"
+			}
+			"psqa_release_2"
+			{
+				"gid" "79BF8EB790B966411DF164AB24F8AE94"
+				"size" "1D2714E646919C94EDC17AB16C3182BD"
+				"download" "822FA10B3F2CBCB6E7189956CE4E2B86"
+			}
+			"qa_dev"
+			{
+				"gid" "31FC33F08BFF99439BF8F020E235C6C7"
+				"size" "FC56AD8873BC1BFF6CCD26C399BD7A96"
+				"download" "DE5BB3987D181E7C1C440402C9751D4F"
+			}
+		}
+	}
+	"2452463"
+	{
+		"config"
+		{
+			"language" "arabic"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8307697578226900422"
+				"size" "2537093396"
+				"download" "2429239872"
+			}
+			"previous_build"
+			{
+				"gid" "8307697578226900422"
+				"size" "2537093396"
+				"download" "2429239872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "3C08D436D316E5D3054F01181D0908F7"
+				"size" "ECB8D1C4F5F10C10F345A722496BA7DE"
+				"download" "FF8E91B0E97AC266D6FD47C8D40584D1"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "1D6F36619288157C7CFD2DBC7B401276"
+				"size" "1A22A4735550B1458839F777116D648D"
+				"download" "EED10CF30FF3FD332E4CADAE9C17CE0D"
+			}
+			"gg_dev"
+			{
+				"gid" "1825653129463379A65669ECACF84003"
+				"size" "47013A93580DB9FD882B637EA70D9009"
+				"download" "4CA29BCCBEE9506409A15438E2B9DA7D"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "76AAE28145CD57B12D5273940C9757C4"
+				"size" "25448A9E42B726947FC52D7659A8BFC3"
+				"download" "B0F182D9F635FAADAE6BF4DB3EE14757"
+			}
+			"mock_review"
+			{
+				"gid" "6027BC4249A3CE42645BD0B8EF16AA9C"
+				"size" "BF51259C3CC71C659A7400FE2B83817B"
+				"download" "60B860FA5A7F0D0A88ABAF3EDD84A5B2"
+			}
+			"pso_automation"
+			{
+				"gid" "5F468626E8D2BCCA13B7486DBCDCB3AC"
+				"size" "8470E3666F2674D113D61F8DBA86D918"
+				"download" "AC5F11BF136EEB87A742E495B64F7A67"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "79B0E0E5E3AA5D8C94DDF9ACEB64B43C"
+				"size" "6BB65362C9AAF3B80CFA4A12D0898C1F"
+				"download" "3DBC5E7F3785B4A262E6D27F206A1BD3"
+			}
+			"psqa_perf"
+			{
+				"gid" "E88A8DAB273095CB7620470B60F9E0FD"
+				"size" "ACCC55278023E0EFF839A075767E2857"
+				"download" "505B9BA46ECBFAB6400989F75907862D"
+			}
+			"qa_dev_release"
+			{
+				"gid" "C61EB46B4DCDC4C5FDDB871428E150EF"
+				"size" "52DCB2BB9F720076574E8033876DD410"
+				"download" "39BE14C30228DD27A9A8A0EC57E48B4C"
+			}
+			"review_build"
+			{
+				"gid" "78D0339E5A778D3FF4364B63D0434D4F"
+				"size" "C007D0D10164E2F0FFEDB7128FC236BB"
+				"download" "AB08DA5AA6274FD3D47A9C5CE61FF4ED"
+			}
+			"amd_1"
+			{
+				"gid" "74D254541E731EEFBC717A228F618621"
+				"size" "4A8736DB28E491CB3C1D1EA78D3ECE96"
+				"download" "99117FA7EDFF79538405D042A435194F"
+			}
+			"intel_1"
+			{
+				"gid" "A022D73A094293045FBA861F227C51E4"
+				"size" "CE3BC42DE7966BFA0EA0E86A1FBEE54A"
+				"download" "848AB991289C247038DA9EF58495CE3B"
+			}
+			"latest_dev"
+			{
+				"gid" "84585C4885A2DCC9FD75EFAE3FB556F0"
+				"size" "27A037887F374D2A5D0BC2B6461E8389"
+				"download" "CEEC36C248E929067752BA7867530B76"
+			}
+			"latest_release"
+			{
+				"gid" "3D879D7DC43817F3932BA64448CD3B8C"
+				"size" "F480C6208BE1323288A1B366EFC066DA"
+				"download" "59514761249BFF733600116420E42E67"
+			}
+			"nvidia"
+			{
+				"gid" "3F17FC40B995DE4AF9144ACB71EC3974"
+				"size" "CB449BF3654F4D4F0D2CF35B6A40D4C3"
+				"download" "0CC1D496C721C78905E47150240D9D5E"
+			}
+			"psqa_1"
+			{
+				"gid" "646F5D76916BE1E71265677360118288"
+				"size" "5BA4531F9F2E3192E22BAECB141AFAAE"
+				"download" "455C84ED0A6BEA82A287534511C698D6"
+			}
+			"psqa_2"
+			{
+				"gid" "CD2D5A4021C5C83A06C59D12E32720AD"
+				"size" "938539E19A7F42182BDFAE2F9C451FDB"
+				"download" "2EF036914189F22D0BACAF7017EDF726"
+			}
+			"psqa_release_1"
+			{
+				"gid" "8718AA68348ACB6F256F5D800AC2BC99"
+				"size" "03C0E9F07D3602D0050DA5E6973B5657"
+				"download" "6FB659DDD5DB5E19357F26CA12F7016B"
+			}
+			"psqa_release_2"
+			{
+				"gid" "9EF277B3CD68BD35A9204C9E6503B645"
+				"size" "1B4D1F0E52D870D4A24FE860AE5940E9"
+				"download" "952BC1C160C39B9D8AA4A6199FECF2A9"
+			}
+			"qa_dev"
+			{
+				"gid" "ED81E83514BC276684E8E04472C268F3"
+				"size" "0EE32D2C0F9312BC5C1E53BFA00A3CD5"
+				"download" "C54E6B8325EB9FAF003521598DFA89B4"
+			}
+		}
+	}
+	"2452464"
+	{
+		"config"
+		{
+			"language" "japanese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2151180198015552420"
+				"size" "2479742140"
+				"download" "2376830368"
+			}
+			"previous_build"
+			{
+				"gid" "2151180198015552420"
+				"size" "2479742140"
+				"download" "2376830368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "14C785351C203A058A1DFEF35244F1E1"
+				"size" "6560F785078C0203E85B2B97D8C4C2A2"
+				"download" "AA7AC8EE9445BCEEB0B64D03C50A3BD1"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "99888ED5A168D6C69E35B2BDD8F3742D"
+				"size" "FEFCF9EC647B749F01823F9D213AC5DE"
+				"download" "B561910E6547B5EEF71E8B404A800B57"
+			}
+			"gg_dev"
+			{
+				"gid" "A29ABCBC1D30E94AC672D27A2452E92B"
+				"size" "50653A914337CB14C7B3498B0D396F04"
+				"download" "3CA8682FECAA5593BE05AF5B598991B8"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "AF05BFF297AC140D96A297BF22344959"
+				"size" "346F81211388AAB27946C585E2412081"
+				"download" "EED35AB6BA731FB85C4300C3BD44EB85"
+			}
+			"mock_review"
+			{
+				"gid" "4F5B693E0AB20BE7633CE03F86782158"
+				"size" "9E28B383B9F18B853F6B00BA4E3ED035"
+				"download" "8959435688BA54D2A7E0CAA387BB08DF"
+			}
+			"pso_automation"
+			{
+				"gid" "8D5C2A3308DF51E694837FF95E950023"
+				"size" "EE3E976A4997240745FB6DA4FDB83A26"
+				"download" "F1950856BB87C684D070B46865E8FC6D"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "5FE15DAC11DF0650ADD198A263007AD5"
+				"size" "9EA015F0AC81E8F543BAD4CC31469152"
+				"download" "0FBD73367DD6A0512B5DF9DC5CAD2FA4"
+			}
+			"psqa_perf"
+			{
+				"gid" "78DBBAFE6BE322F36712980CFE78E66C"
+				"size" "A61D71DEEF169B30416E59E6CB471136"
+				"download" "B2E7905E20821F0B51C059346E0CE7CE"
+			}
+			"qa_dev_release"
+			{
+				"gid" "F80A12E122C17FA1B46D025727B618FC"
+				"size" "952AF30462EE26A937B3727D922C65CB"
+				"download" "9792B1AF4571F0F5B6F5A7DFDC557DFF"
+			}
+			"review_build"
+			{
+				"gid" "7FB2637515DDCE07447D5CAD3710901E"
+				"size" "14BACE696576FC3C530C7E09B0BD21BD"
+				"download" "9B41C0A492FD7FC7700589F33FD3824F"
+			}
+			"amd_1"
+			{
+				"gid" "9EA1F68213B0895AF162F09513AD1FB5"
+				"size" "1AF6E6BC08BBCB14E26EFED350895F36"
+				"download" "7B8D37C8BBF60ECA531607B226EF4F8B"
+			}
+			"intel_1"
+			{
+				"gid" "09F94E68DDDB8F4C7C75CE5DE16B190F"
+				"size" "5AB793016B1724EF68A8BFF7CE8AC23A"
+				"download" "B023F6F4BFB0DFC96F5BBFFA115BE74D"
+			}
+			"latest_dev"
+			{
+				"gid" "E815AAEF35DEA26075AD8CFADF600A5F"
+				"size" "A6B81C6991AD7AED35C838E5E273898D"
+				"download" "22415376A779D7BD27DFDB5F77AF28AC"
+			}
+			"latest_release"
+			{
+				"gid" "F3F74442A8DE4D6D49633AF758C48590"
+				"size" "55C56AB5E91D8DF44F055E8D063FEDBE"
+				"download" "B5D00CFE7CC6447194D857F25A5E77A9"
+			}
+			"nvidia"
+			{
+				"gid" "09720E7B9D502385A651FA03E30FF477"
+				"size" "A304ADE06170F90A9177A3338CD57B8A"
+				"download" "192E8BEB5B6B9C92574B44DBD77422F3"
+			}
+			"psqa_1"
+			{
+				"gid" "35D7EAF4A06603BC57D03A7905DC2327"
+				"size" "AE2C9EA20F365E0826CC96F5457C9C4D"
+				"download" "CA009D645651F955E998F487CCC92C86"
+			}
+			"psqa_2"
+			{
+				"gid" "16453A1EB5FFBDFFAFF828D6DA5F50C6"
+				"size" "B15A3C9AD8DED251E019952D3F38E477"
+				"download" "7D35D4C44CAEFC79E53D7AD49759ACA4"
+			}
+			"psqa_release_1"
+			{
+				"gid" "651F95FA9B005C7F0453DFC793AC2DB0"
+				"size" "4C12BE36931307E0DA26288530E9AEA6"
+				"download" "A986D7C448F44CCB731E2195CA5FE6D7"
+			}
+			"psqa_release_2"
+			{
+				"gid" "255E4DC1C45A4D279105BA7D9D19903A"
+				"size" "BBBD3600A1C71C10B14C759131ABF68A"
+				"download" "83BDEEC6ED33FBB2F65CEE06361995B8"
+			}
+			"qa_dev"
+			{
+				"gid" "1942C9032E040DC1533BB51614FEFA36"
+				"size" "0FDA9F2C88D82244DAA67B593E299AAC"
+				"download" "BB9D33D1D5003121144A037C910E3FF3"
+			}
+		}
+	}
+	"2452465"
+	{
+		"config"
+		{
+			"language" "latam"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "343860007184336722"
+				"size" "2474189956"
+				"download" "2260587280"
+			}
+			"previous_build"
+			{
+				"gid" "343860007184336722"
+				"size" "2474189956"
+				"download" "2260587280"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "D7AA20761DAD0457A48535621206953E"
+				"size" "DF2F094EDA804A0EA6DE30EFA2E983EB"
+				"download" "3E8A58D8590E3A77F877C1D472A8F48C"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "4084045C34F526E8AD19096F0AAA3FC9"
+				"size" "359E99D1A7C89EBEBC2AF529A04F47C3"
+				"download" "F3C85B42DA790E0AD10B76C65DC62360"
+			}
+			"gg_dev"
+			{
+				"gid" "1A8D6C08BD792CD7CA7D327946A2BDA3"
+				"size" "FF5BD2CA3A53534999C299110EF1155C"
+				"download" "94DCDEF905C1DF293252ADC98607A86F"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "E439E6FC89B65EC7261DA4E2E9A7C7E7"
+				"size" "3A7C1218C41BBD16D3AB7EB7B83CDDCF"
+				"download" "57784045C12FFF1EE70ACEEE63D3520C"
+			}
+			"mock_review"
+			{
+				"gid" "629D3AE9DA2B12DDBD026718DF896EBA"
+				"size" "D9E4790387BCA7AEAC1ED980F7C33007"
+				"download" "DABB235F7381C689A974EE2AF99DBC40"
+			}
+			"pso_automation"
+			{
+				"gid" "8B57671465CEBAF2B1646522CFB98B39"
+				"size" "5193C39FD18F0687B850F0971AF9EACD"
+				"download" "829829FF1E06534E204B0ACDFE5520C9"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "209BBEE4F5227350C8F7A703AEBEB2E5"
+				"size" "25D2F24A6B3BA24E7585E6023D0F0FB9"
+				"download" "6518C279D14212EBC93C4CF31648AEC0"
+			}
+			"psqa_perf"
+			{
+				"gid" "0B5B89B8008B108D7E98488632D8BD93"
+				"size" "801086F792A3AD6FA8E5F11F86410ACA"
+				"download" "2DF2917EEA1E929FC9171C959AF436CA"
+			}
+			"qa_dev_release"
+			{
+				"gid" "906DBCC95DE0B1980622BA4ADD59D525"
+				"size" "2F265E3D8848365AE4A90CC584E77F31"
+				"download" "993CDF422F091D5C8057B815408978EF"
+			}
+			"review_build"
+			{
+				"gid" "4D9C96DBAD9D3FC13539D355C563C4C3"
+				"size" "D0BF4B3BC142F3E45750CA55B148829F"
+				"download" "24544ED0003135E12AAA2A3C98E9B679"
+			}
+			"amd_1"
+			{
+				"gid" "1B511C5F8D90BAAB3FB758F6A28E8669"
+				"size" "5B3E3EDD2DF35D5BC88E19BC8E4130BF"
+				"download" "1ACAECB7F891777132A03D85F79898F6"
+			}
+			"intel_1"
+			{
+				"gid" "73775207A3341261414204C2E19B29DD"
+				"size" "2F8B754CFD05A8E49F358D13CF8B9A8D"
+				"download" "0F07EFEF8AC1A1A538F4C9C4FC36CD3C"
+			}
+			"latest_dev"
+			{
+				"gid" "B07FE9F59AAFE795A2E61281B980C516"
+				"size" "5312F7F793BF4032E6FCEFF291EDC99D"
+				"download" "E283742D35AAE1A5A70DD01024253A4B"
+			}
+			"latest_release"
+			{
+				"gid" "A08C462B02FD01CD2CA8D439DE5384CC"
+				"size" "2FFE2F8872C85C86080A1A12F5EFD08F"
+				"download" "A6E9DA8C56E2D058D6DAD33039717645"
+			}
+			"nvidia"
+			{
+				"gid" "C2ABF3905AE3E7CC54CDC87010E5ECE9"
+				"size" "576C3B1FCA8F89BFB3E9358900957ED0"
+				"download" "95ADD84F4FC8DE784F8AD1606FE291E9"
+			}
+			"psqa_1"
+			{
+				"gid" "2F98D5A14F4E91FBFB5B3437D6967D24"
+				"size" "2C22A102F4EDB400D617A4AA167670DD"
+				"download" "8860D0347D3CE31225E06FB5907A8F1C"
+			}
+			"psqa_2"
+			{
+				"gid" "CA1DA8B9AF9A428316C68338AD072E47"
+				"size" "5E6A96F986AF4A39B5D4639246408EBA"
+				"download" "3BBEC58E277B569D97C18D42420CB979"
+			}
+			"psqa_release_1"
+			{
+				"gid" "5653189F220928F3EAA9A61DBAA815D9"
+				"size" "FD40C87845F9848E5424FFA96F793695"
+				"download" "16C3EBFC8D11E2780558F92F6A0423A8"
+			}
+			"psqa_release_2"
+			{
+				"gid" "6D13D31654BC70BD81C3A5C38C2729BF"
+				"size" "99D7EC012776DA22E493B966109DD50D"
+				"download" "038B1540B8BE59E18AD9F688F4C8F6C9"
+			}
+			"qa_dev"
+			{
+				"gid" "7EEEFD3EC1B09EE24600F090E12122B5"
+				"size" "8D845117839B41D6D5613FE35843952D"
+				"download" "B9C15DDDC369B01156DE4775CFB195E1"
+			}
+		}
+	}
+	"2452466"
+	{
+		"config"
+		{
+			"language" "brazilian"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3510327789903158350"
+				"size" "2484151916"
+				"download" "2279543472"
+			}
+			"previous_build"
+			{
+				"gid" "3510327789903158350"
+				"size" "2484151916"
+				"download" "2279543472"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"age_rating_build"
+			{
+				"gid" "BFC40C77D41FD2B4D2585B1A93DC5E90"
+				"size" "2973D9B973080AE9599219A0222FF5D3"
+				"download" "6E76364323C9570270C026887041E0E5"
+			}
+			"beta_build_glitter"
+			{
+				"gid" "01F6813C8C63431BF086616EA8A575CE"
+				"size" "511027C213CAF780C8538EA6C204A782"
+				"download" "7F5AB9053C4F65A366EEFC6C3EC3E3C2"
+			}
+			"gg_dev"
+			{
+				"gid" "78706D44BF1EBEC3B6A065B4DA24E47B"
+				"size" "00C8DBF35EBCCA6388FFD250DADA0D4D"
+				"download" "6D58DBC925D1979F456C7A78742172D0"
+			}
+			"glitter_internal_ut"
+			{
+				"gid" "6654782A9D97E05DD3570056C6B6BE8E"
+				"size" "D09D5EA04FF49788A2427A32DD4CF865"
+				"download" "B90F629BA6373C21B9AD113384E48CB3"
+			}
+			"mock_review"
+			{
+				"gid" "2E85593302A28E2E25F878FAC0D42745"
+				"size" "585E649833D470B7C054672DC182A200"
+				"download" "99DFD7DB0611694715E9B4F1BC061FAB"
+			}
+			"pso_automation"
+			{
+				"gid" "D57751554743D049C5C8E64F7A1B1C78"
+				"size" "F6A62CFE5015E0E31972D341891B3C7B"
+				"download" "F0B06F35F317F62C90B47C01D1D2E1AC"
+			}
+			"psqa_compat_sweep1"
+			{
+				"gid" "D9EC98DF464F8D72C11DCDE66E906D86"
+				"size" "012DD2EEB1316EA4BC2CD3C99289EE48"
+				"download" "6774732A98C87B68C2F2378E93E3B352"
+			}
+			"psqa_perf"
+			{
+				"gid" "0E751775E188124DA45E967B6A3B7B12"
+				"size" "6BE5B5FB3AACB5D031868A76D307D736"
+				"download" "BF23DC2D4DF18732F9304875A4912E01"
+			}
+			"qa_dev_release"
+			{
+				"gid" "42BA9D16F649981AE27A49D6813B3E36"
+				"size" "F9F12C7BFD1D49F66521CA3606A05050"
+				"download" "1C5378EBB19B10B56B161963F1FD68D5"
+			}
+			"review_build"
+			{
+				"gid" "BB6FF20F52151933E238F808244A314A"
+				"size" "4ECFACF41D41F593E2CC15722908BA9C"
+				"download" "AD34053E1E38F265A1498F0CAD47EEEF"
+			}
+			"amd_1"
+			{
+				"gid" "265F3CA1F08A7F950BB691BB5F1986EF"
+				"size" "5E050F45FBCA0209D549758007F14C81"
+				"download" "7D3F963A5852C5AC56192D0FEAFE05BB"
+			}
+			"intel_1"
+			{
+				"gid" "BCD0DE842DB7B0DA92DC1C5D905C974D"
+				"size" "F3B3F17AFB72AEEE27F5E18D927EE676"
+				"download" "D29C18845B60DD382923F1FE7A636A91"
+			}
+			"latest_dev"
+			{
+				"gid" "379607C161DDD8DCA6EFEFDFB0451D9E"
+				"size" "F6AE5628547E5003F313379736F6A116"
+				"download" "C5C7B757BC852F6C87B175918B0B11EE"
+			}
+			"latest_release"
+			{
+				"gid" "7A8EA4B524A43A5018258805D2F95D9E"
+				"size" "7B7E4731D2F51DBD52851BF016AF4488"
+				"download" "BA092AE90FFED4E374699C7F41AF1AC2"
+			}
+			"nvidia"
+			{
+				"gid" "C55C53BAAEA21381EB3068CD6D638F5E"
+				"size" "5A8E10515A7DE7CE5AD0628A0F653C51"
+				"download" "CEFF620374BC7FB65E6A61555B26DB99"
+			}
+			"psqa_1"
+			{
+				"gid" "44401900A0E728E8A939B9B4A94DD066"
+				"size" "A307350CE203ADE6766B9A74DF609E8F"
+				"download" "9953CF7872719455D044CE312AAE285B"
+			}
+			"psqa_2"
+			{
+				"gid" "C55951BBBD25537CD988C97D6AD86570"
+				"size" "E45CD57CEB68C0ADB59F5EAD453E1449"
+				"download" "09649366EADDDBC779ED1EC0BF1F7F34"
+			}
+			"psqa_release_1"
+			{
+				"gid" "1BFA7F731148D53450293CB42AE96B1A"
+				"size" "6480BBE85AC64560BC20A11FA0B2923C"
+				"download" "B03E8783AAF2F8B0ABDC425292E5C009"
+			}
+			"psqa_release_2"
+			{
+				"gid" "431A31EE7531EFD9B905BBFFE9DEB560"
+				"size" "79D527EF91E7754C35990BC431691148"
+				"download" "EC1197C03BCB5D851AA2C7B8EE6B13B1"
+			}
+			"qa_dev"
+			{
+				"gid" "085D6C09BDCB7AA40CA957173BD2B5C3"
+				"size" "88AE8EF51D473FCD7E2CC85FE04C1A8D"
+				"download" "EC6E2AF3795CFC4C260A73245855B912"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14224699"
+			"timeupdated" "1714652632"
+		}
+		"age_rating_build"
+		{
+			"buildid" "13114377"
+			"pwdrequired" "1"
+			"timeupdated" "1705316965"
+		}
+		"alpha_build_glitter"
+		{
+			"buildid" "12242193"
+			"pwdrequired" "1"
+			"timeupdated" "1695282777"
+		}
+		"beta_build_glitter"
+		{
+			"buildid" "12871392"
+			"pwdrequired" "1"
+			"timeupdated" "1701770554"
+		}
+		"gg_dev"
+		{
+			"buildid" "14104349"
+			"pwdrequired" "1"
+			"timeupdated" "1713512498"
+		}
+		"glitter_internal_ut"
+		{
+			"buildid" "13709886"
+			"pwdrequired" "1"
+			"timeupdated" "1710326497"
+		}
+		"mock_review"
+		{
+			"buildid" "13356896"
+			"pwdrequired" "1"
+			"timeupdated" "1707124850"
+		}
+		"old_dev"
+		{
+			"buildid" "12087845"
+			"pwdrequired" "1"
+			"timeupdated" "1693831710"
+		}
+		"previous_build"
+		{
+			"buildid" "14002490"
+			"description" "..."
+			"timeupdated" "1713873758"
+		}
+		"pso_automation"
+		{
+			"buildid" "13317446"
+			"pwdrequired" "1"
+			"timeupdated" "1706692954"
+		}
+		"psqa_compat_sweep1"
+		{
+			"buildid" "13890378"
+			"pwdrequired" "1"
+			"timeupdated" "1711707224"
+		}
+		"psqa_perf"
+		{
+			"buildid" "13709886"
+			"pwdrequired" "1"
+			"timeupdated" "1710326448"
+		}
+		"qa_dev_release"
+		{
+			"buildid" "13848714"
+			"pwdrequired" "1"
+			"timeupdated" "1711707169"
+		}
+		"review_build"
+		{
+			"buildid" "13692146"
+			"pwdrequired" "1"
+			"timeupdated" "1710020601"
+		}
+		"amd_1"
+		{
+			"buildid" "14770422"
+			"pwdrequired" "1"
+			"timeupdated" "1718888235"
+		}
+		"intel_1"
+		{
+			"buildid" "14370144"
+			"pwdrequired" "1"
+			"timeupdated" "1715765299"
+		}
+		"latest_dev"
+		{
+			"buildid" "14775836"
+			"pwdrequired" "1"
+			"timeupdated" "1718852163"
+		}
+		"latest_release"
+		{
+			"buildid" "14770422"
+			"pwdrequired" "1"
+			"timeupdated" "1718812715"
+		}
+		"nvidia"
+		{
+			"buildid" "14370144"
+			"pwdrequired" "1"
+			"timeupdated" "1715765275"
+		}
+		"psqa_1"
+		{
+			"buildid" "14370144"
+			"pwdrequired" "1"
+			"timeupdated" "1715944687"
+		}
+		"psqa_2"
+		{
+			"buildid" "14239383"
+			"pwdrequired" "1"
+			"timeupdated" "1714636916"
+		}
+		"psqa_release_1"
+		{
+			"buildid" "14770422"
+			"pwdrequired" "1"
+			"timeupdated" "1718870765"
+		}
+		"psqa_release_2"
+		{
+			"buildid" "14754329"
+			"pwdrequired" "1"
+			"timeupdated" "1718784312"
+		}
+		"qa_dev"
+		{
+			"buildid" "14370144"
+			"pwdrequired" "1"
+			"timeupdated" "1715939691"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Horizon Forbidden West Complete Edition/{64BitSteamID}/"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24049698"
+"_sha" "c9c7c4908fe69e81845f250f9faca131559c3e50"
+"_size" "75236"
