@@ -1,0 +1,304 @@
+"appid" "1954540"
+"common"
+{
+	"name" "Heavy Storm Shadow"
+	"type" "Game"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "重装岚影"
+		"english" "Heavy Storm Shadow"
+		"german" "Schwerer Sturmschatten"
+		"french" "Ombre de tempête lourde"
+		"spanish" "Sombra de tormenta pesada"
+		"latam" "Sombra de tormenta pesada"
+		"portuguese" "Sombra de tempestade pesada"
+		"brazilian" "Sombra de tempestade pesada"
+		"tchinese" "重裝嵐影"
+		"japanese" "ヘビーストームシャドウ"
+	}
+	"clienticon" "8351cd39d063919e22e68ae20377ec31afdb9965"
+	"clienttga" "8d1160fe47429069cabd6b31bf7c4726b6ddb99a"
+	"icon" "8616ff022bd860b0f8e24fe8007e3d5fb311b6f2"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1715299200"
+		"tested_build_id" "14276216"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "91.3164542369584"
+		}
+	}
+	"store_asset_mtime" "1713500300"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SmokingBear Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BD Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "BD Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_59" "1"
+		"category_22" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1714114855"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1954540"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "492"
+		"2" "4821"
+		"3" "4182"
+		"4" "1755"
+		"5" "3959"
+		"6" "42804"
+		"7" "353880"
+		"8" "3814"
+		"9" "4085"
+		"10" "12095"
+	}
+	"review_score" "6"
+	"review_percentage" "75"
+}
+"extended"
+{
+	"developer" "SmokingBear Studio"
+	"publisher" "BD Games"
+}
+"config"
+{
+	"installdir" "Heavy Storm Shadow"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Heavy Storm Shadow.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "2"
+}
+"depots"
+{
+	"1954541"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5603568458951765714"
+				"size" "5374346147"
+				"download" "2824063648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "046DBAA6EE41B38EBD3DDFCD7E73BB44"
+				"size" "00FFF245D6AE9A62E41832EDFF2E6999"
+				"download" "70EEEA0CB3C5345C6522B0C5C2129A94"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14702488"
+			"timeupdated" "1718267604"
+		}
+		"test"
+		{
+			"buildid" "14702488"
+			"pwdrequired" "1"
+			"timeupdated" "1718266352"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Heavy Storm Shadow/saved_data"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23961226"
+"_sha" "47b72d6cd83b8e42066d7c26bc29167d1c8d55cd"
+"_size" "5601"
