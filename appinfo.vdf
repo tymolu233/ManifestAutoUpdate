@@ -1,0 +1,386 @@
+"appid" "2510720"
+"common"
+{
+	"name" "Artifact Seeker"
+	"type" "Game"
+	"clienttga" "2021336117d8069864faf9202eafd78210d0abb2"
+	"clienticon" "801841c93ea787c5730f1f4019cb263b9d85a0b4"
+	"icon" "0f6ddf9fb303a0074da95442b695728db0b5870b"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"german" "Artefaktsucher"
+		"japanese" "アーティファクトシーカー"
+		"schinese" "神器行者"
+		"tchinese" "神器行者"
+		"english" "Artifact Seeker"
+		"french" "Chercheur d\'Artéfacts"
+		"koreana" "유적 탐색자"
+		"spanish" "Buscador de Artefactos"
+		"latam" "Buscador de Artefactos"
+		"portuguese" "Procurador de Artefatos"
+		"brazilian" "Procurador de Artefatos"
+		"turkish" "Efsane Eşya Arayıcısı"
+		"polish" "Poszukiwacz Artefaktów"
+		"russian" "Искатель артефактов"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1713312000"
+		"tested_build_id" "13992493"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1716534419"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Lynkpin Game"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "BD Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "BD Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_15" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711339220"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2510720"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "4885"
+		"2" "42804"
+		"3" "3834"
+		"4" "19"
+		"5" "1742"
+		"6" "5125"
+		"7" "4791"
+		"8" "4231"
+		"9" "4747"
+		"10" "1646"
+		"11" "122"
+		"12" "7481"
+		"13" "4191"
+		"14" "4758"
+		"15" "4182"
+		"16" "4604"
+		"17" "4711"
+		"18" "4158"
+		"19" "1716"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Lynkpin Game"
+	"publisher" "BD Games"
+	"homepage" "https://space.bilibili.com/477798708"
+	"listofdlc" "2936280"
+}
+"config"
+{
+	"installdir" "Artifact SeekerLegend of Aurorium"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ArtifactSeeker.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "15"
+}
+"depots"
+{
+	"2510721"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5690615293894449284"
+				"size" "952868751"
+				"download" "823142768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc_test"
+			{
+				"gid" "B7A7FFB5C3718BDED794B3966703349C"
+				"size" "647F3A37E78839D5413EE99F73E647A5"
+				"download" "D6F0A249A1E60A502C3175AB92A9239C"
+			}
+			"test1"
+			{
+				"gid" "CC25A2452B87429C26A8A76906D6AFBA"
+				"size" "A190146BC8C95A1C2603D860C1A268F6"
+				"download" "DBE65F5430FCC43D8F5C181C9B66D7D4"
+			}
+		}
+	}
+	"2936280"
+	{
+		"dlcappid" "2936280"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3063923775269362047"
+				"size" "7"
+				"download" "64"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dlc_test"
+			{
+				"gid" "0937CBAD78E679679D54201E740796DB"
+				"size" "29021E3C07B8FA1C50F5CEAF8A5C9A5A"
+				"download" "14DA8F9579B0721DBD70945BD360BD1D"
+			}
+			"test1"
+			{
+				"gid" "14058C85F35AAE8026DE5603F2C74BB7"
+				"size" "9A20A841E2E450817D340D04F7C6BAB9"
+				"download" "4DE41DC1333FCED64AA1DE74E804D4CA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14648028"
+			"timeupdated" "1717827426"
+		}
+		"dlc_test"
+		{
+			"buildid" "14297964"
+			"pwdrequired" "1"
+			"timeupdated" "1715136611"
+		}
+		"test1"
+		{
+			"buildid" "14647977"
+			"pwdrequired" "1"
+			"timeupdated" "1717826906"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "lynkpin/ArtifactSeeker/SaveDir/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23962889"
+"_sha" "e94e6a22eaca25e81946fc5a3a3c1080c93f6169"
+"_size" "7089"
