@@ -1,0 +1,300 @@
+"appid" "2593370"
+"common"
+{
+	"name" "The Hungry Lamb: Traveling in the Late Ming Dynasty"
+	"type" "Game"
+	"icon" "54a7574438ba0458909b1879bfca1c1992b839a4"
+	"clienticon" "3d5a85be42bb0a40f9f5141e746cf1fb8a666f69"
+	"clienttga" "dba9f4189e099f92ff608258acf8762680d96869"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"japanese" "飢えた子羊"
+		"tchinese" "餓殍：明末千里行"
+		"english" "The Hungry Lamb: Traveling in the Late Ming Dynasty"
+		"schinese" "饿殍：明末千里行"
+	}
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1716595200"
+		"tested_build_id" "14463460"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ja,zh-tw"
+		"library_hero" "en"
+		"library_logo" "en,ja,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,ja,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "70.60535506402792"
+			"height_pct" "88.37568273569224"
+		}
+	}
+	"store_asset_mtime" "1714124678"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "零创游戏(ZerocreationGame)"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "零创游戏(ZerocreationGame)"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "2P Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713844704"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2593370"
+	"store_tags"
+	{
+		"0" "3799"
+		"1" "3987"
+		"2" "6971"
+		"3" "21"
+		"4" "11014"
+		"5" "9551"
+		"6" "1742"
+		"7" "4085"
+		"8" "4342"
+		"9" "4726"
+		"10" "3920"
+		"11" "24003"
+		"12" "4947"
+		"13" "122"
+		"14" "1721"
+		"15" "5984"
+		"16" "4182"
+		"17" "597"
+		"18" "5716"
+		"19" "4172"
+	}
+	"review_score" "9"
+	"review_percentage" "97"
+}
+"extended"
+{
+	"developer" "零创游戏(ZerocreationGame)"
+	"publisher" "零创游戏(ZerocreationGame)"
+}
+"config"
+{
+	"installdir" "The Hungry Lamb"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "The Hungry Lamb.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2593371"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3191616786538504092"
+				"size" "2028526215"
+				"download" "695115968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test1"
+			{
+				"gid" "5F485B39D07281F95E05088FECF254BC"
+				"size" "7B19260BDE84B54CB6C1DE4DB8AA99AA"
+				"download" "9699842FCFFC8EC10CFD3F2895BC6C5D"
+			}
+		}
+	}
+	"2593372"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+		}
+		"encryptedmanifests"
+		{
+			"test1"
+			{
+				"gid" "18AF646E5AA80F5C64EF135154A7EED6"
+				"size" "16985483A24571160614B90493E15514"
+				"download" "CFAC19EC12E943FEEA99794440CCD3FF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14700175"
+			"timeupdated" "1718249253"
+		}
+		"test1"
+		{
+			"buildid" "14609453"
+			"pwdrequired" "1"
+			"timeupdated" "1717655619"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "9999999999"
+	"maxnumfiles" "9999"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ZeroCreation/The Hungry Lamb"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24074874"
+"_sha" "dba6eea0baee09989ecfa2f5a2c85fb6de14d9c2"
+"_size" "5590"
