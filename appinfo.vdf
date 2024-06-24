@@ -1,0 +1,421 @@
+"appid" "2666510"
+"common"
+{
+	"name" "Rusty\'s Retirement"
+	"type" "Game"
+	"clienticon" "8cb7ff0d4522c026ae98d453a207293af42bd540"
+	"clienttga" "1779f676dd8235e642b0963824c09b3af3812db3"
+	"icon" "72be5b22943d8874a18c9de214f1d5fa82d98310"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1714608000"
+		"tested_build_id" "14212781"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "45.44924154025671"
+			"height_pct" "65.80384706720494"
+		}
+	}
+	"store_asset_mtime" "1714135571"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mister Morris Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Mister Morris Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"estonian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1714133092"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2666510"
+	"store_tags"
+	{
+		"0" "87918"
+		"1" "615955"
+		"2" "255534"
+		"3" "599"
+		"4" "12472"
+		"5" "3964"
+		"6" "1654"
+		"7" "4520"
+		"8" "1643"
+		"9" "30358"
+		"10" "3871"
+		"11" "9"
+		"12" "4695"
+		"13" "8945"
+		"14" "4726"
+		"15" "3835"
+		"16" "7332"
+		"17" "597"
+		"18" "4845"
+		"19" "492"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Mister Morris Games"
+	"publisher" "Mister Morris Games"
+	"listofdlc" "2943560"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Rusty\'s Retirement"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RustyLauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Rusty\'s Retirement.app/Contents/MacOS/Rusty\'s Retirement"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "RustyLauncher.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "developer"
+			}
+		}
+	}
+}
+"depots"
+{
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2666511"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8026768872864859"
+				"size" "277843205"
+				"download" "75790880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "113B011FDA1CD6B0BCDB600C57CAC5CC"
+				"size" "0F0549BE5ECC735A3E96183FC19F0003"
+				"download" "740A4D402929887B32722038C4B06FF5"
+			}
+			"developer"
+			{
+				"gid" "83EF75E6F15628966ED74FB2EAFD2DE8"
+				"size" "E9D78DB2C6B4FC7CE026E8EC2223517F"
+				"download" "9CFC5D890CD990BBD5B7DCA9C0919639"
+			}
+			"performancetest"
+			{
+				"gid" "F6E1F0EEDFD8F68D389CF10D91D99D90"
+				"size" "7B2D746D9100A1B67734356BF6B3DB63"
+				"download" "C45378ADE40B0F6AFB73BE83BD5827F6"
+			}
+		}
+	}
+	"2666512"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8003480276713291261"
+				"size" "270869036"
+				"download" "73412672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"experimental"
+			{
+				"gid" "4351EB4ECDF1087A70F3A72B22CC20CC"
+				"size" "FBF8FF683720EAFA58E98E0CF27B71E5"
+				"download" "1CFCA55EEC0634AC71E7453681865ABA"
+			}
+			"developer"
+			{
+				"gid" "D657D1129AEC2AB6865740F982D3C0BA"
+				"size" "B1B9711274440CC4963C66E02AE813EE"
+				"download" "626E86BE60DD8495CD01959FF1E98C6E"
+			}
+			"performancetest"
+			{
+				"gid" "F3A3562CB2D46294568A6C5F96DA6C8D"
+				"size" "2BB916C3293A30473AEDEF74642F145B"
+				"download" "E52AF6E3AE20D541976F84A4BF41FE9C"
+			}
+		}
+	}
+	"2943560"
+	{
+		"dlcappid" "2943560"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14744346"
+			"timeupdated" "1718641351"
+		}
+		"experimental"
+		{
+			"buildid" "13785980"
+			"pwdrequired" "1"
+			"timeupdated" "1710854334"
+		}
+		"developer"
+		{
+			"buildid" "14744346"
+			"pwdrequired" "1"
+			"timeupdated" "1718640479"
+		}
+		"performancetest"
+		{
+			"buildid" "14375637"
+			"pwdrequired" "1"
+			"timeupdated" "1715777032"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "MisterMorrisGames/Rusty\'s Retirement/"
+			"pattern" "*.txt"
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"path" "com.MisterMorrisGames.RustysRetirement"
+			"pattern" "*.txt"
+		}
+	}
+	"rootoverrides"
+	{
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "MisterMorrisGames/Rusty\'s Retirement/"
+					"replace" "com.MisterMorrisGames.RustysRetirement"
+				}
+			}
+		}
+		"3"
+		{
+			"root" "MacAppSupport"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "WinAppDataLocalLow"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "MisterMorrisGames/Rusty\'s Retirement/"
+					"replace" "MisterMorrisGames/Rusty\'s Retirement/"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24075996"
+"_sha" "63eb6c900f6ff1df748af04148e8e884f31fa9b7"
+"_size" "7644"
