@@ -1,0 +1,350 @@
+"appid" "2835570"
+"common"
+{
+	"name" "Buckshot Roulette"
+	"type" "Game"
+	"icon" "81779afdc4209795d9ccf7948514b9a227acf601"
+	"clienticon" "cef1f116c12ed8336f72428a25b9b48d7ba5c483"
+	"clienttga" "c532e1e8e718cd77d2dfa8b6d7892ace02005825"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "恶魔轮盘"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1714176000"
+		"tested_build_id" "14001436"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "29.609608326552987"
+			"height_pct" "42.57478632478632"
+		}
+	}
+	"store_asset_mtime" "1718882749"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Mike Klubnika"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CRITICAL REFLEX"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CRITICAL REFLEX"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"estonian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1712250010"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2835570"
+	"store_tags"
+	{
+		"0" "4342"
+		"1" "3839"
+		"2" "1667"
+		"3" "16250"
+		"4" "4191"
+		"5" "9"
+		"6" "4182"
+		"7" "492"
+		"8" "5186"
+		"9" "1664"
+		"10" "3859"
+		"11" "13782"
+		"12" "19"
+		"13" "1716"
+		"14" "599"
+		"15" "5228"
+		"16" "1710"
+		"17" "1721"
+		"18" "3959"
+		"19" "1663"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Mike Klubnika"
+	"publisher" "CRITICAL REFLEX"
+}
+"config"
+{
+	"installdir" "Buckshot Roulette"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Buckshot Roulette_windows/Buckshot Roulette.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Buckshot Roulette_linux\\Buckshot Roulette.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"2835572"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6795542038623573279"
+				"size" "634832400"
+				"download" "386456608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "A1838A54E2AE3B26C9D16B5ED3C9233F"
+				"size" "249EF04D490FD4EEED214017B9A48BCA"
+				"download" "6E5E9ECD3FD02CA1FA4C4C8C8D7DDEC6"
+			}
+		}
+	}
+	"2835573"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "400010440421124558"
+				"size" "649870280"
+				"download" "391141152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "0E65B38113460A3F4DEA73D42474997F"
+				"size" "1CE8C330A1F6731B544683CE91C9BD75"
+				"download" "99F955403B6205AE30F7FAA9F533F4DF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14115412"
+			"timeupdated" "1717171274"
+		}
+		"beta"
+		{
+			"buildid" "14271583"
+			"pwdrequired" "1"
+			"timeupdated" "1714927677"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24078516"
+"_sha" "4bc6de54b7556a1c56dafee2fb9fdb2da9877cd4"
+"_size" "6081"
