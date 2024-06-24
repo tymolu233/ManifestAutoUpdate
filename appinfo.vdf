@@ -1,0 +1,479 @@
+"appid" "1269020"
+"common"
+{
+	"name" "No Plan B"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "24b9d4bfbeb7ba983a0789dd38f15d928e6f291a"
+	"logo_small" "24b9d4bfbeb7ba983a0789dd38f15d928e6f291a_thumb"
+	"icon" "1b7058cbe8f9abe9a7a9fc644f6af059fc525693"
+	"clienticon" "4efee372dd1ca66100b60814ddcfa90ed25b3913"
+	"clienttga" "fda92238530f0a96be3d4897edcc1ba891cac7af"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"romanian" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1666224000"
+		"tested_build_id" "9660996"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "117.20738483599212"
+		}
+	}
+	"store_asset_mtime" "1712130593"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "GFX47"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GFX47"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "GFX47"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_15" "1"
+		"category_17" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"estonian"
+		{
+			"supported" "true"
+		}
+		"slovenian"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1712163636"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1269020"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "492"
+		"2" "4791"
+		"3" "599"
+		"4" "19"
+		"5" "4168"
+		"6" "1708"
+		"7" "4182"
+		"8" "1741"
+		"9" "3813"
+		"10" "5765"
+		"11" "14139"
+		"12" "4637"
+		"13" "6625"
+		"14" "8122"
+		"15" "1669"
+		"16" "4325"
+		"17" "4747"
+		"18" "5125"
+		"19" "4026"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "playtest"
+	"developer" "GFX47"
+	"publisher" "GFX47"
+	"homepage" "https://noplanbgame.com"
+	"listofdlc" "2324620"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "No Plan B"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "NoPlanB.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "NoPlanB.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "NoPlanB.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2964121366"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,developer,test"
+			"use_action_block" "false"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "9"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"1269021"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4580446609208510808"
+				"size" "997876599"
+				"download" "296104896"
+			}
+			"test"
+			{
+				"gid" "4580446609208510808"
+				"size" "997876599"
+				"download" "296104896"
+			}
+			"beta11"
+			{
+				"gid" "4847739581729502901"
+				"size" "930171046"
+				"download" "321543952"
+			}
+			"beta14"
+			{
+				"gid" "4313484724701926515"
+				"size" "935130019"
+				"download" "314079504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"developper"
+			{
+				"gid" "0ACD68DE4A43871E65882E3AB5D0D80F"
+				"size" "DB6ED946C654B11FC69DAAFBAFE07A61"
+				"download" "CF2367297F84399F38DA761F8E53A5B2"
+			}
+		}
+	}
+	"1269022"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3752736182892370465"
+				"size" "1031502635"
+				"download" "305416304"
+			}
+			"test"
+			{
+				"gid" "3752736182892370465"
+				"size" "1031502635"
+				"download" "305416304"
+			}
+		}
+	}
+	"1269023"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5381851404642081423"
+				"size" "1235922078"
+				"download" "457418112"
+			}
+			"test"
+			{
+				"gid" "5381851404642081423"
+				"size" "1235922078"
+				"download" "457418112"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14795674"
+			"timeupdated" "1718985022"
+		}
+		"test"
+		{
+			"buildid" "14795674"
+			"description" "Test branch"
+			"timeupdated" "1718979977"
+		}
+		"beta11"
+		{
+			"buildid" "11640213"
+			"description" "Beta 11 legacy branch\t"
+			"timeupdated" "1703162649"
+		}
+		"beta14"
+		{
+			"buildid" "12849749"
+			"description" "Beta 14 legacy branch\t"
+			"timeupdated" "1703162671"
+		}
+		"developper"
+		{
+			"buildid" "13831412"
+			"pwdrequired" "1"
+			"timeupdated" "1711187729"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GFX47/NoPlanB"
+			"pattern" "options.ini"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GFX47/NoPlanB/Save"
+			"pattern" "*.json"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GFX47/NoPlanB/Save2"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GFX47/NoPlanB/Save3"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24073327"
+"_sha" "24be75a750f6d23a9ec9a8983ce0a333f7bece44"
+"_size" "7987"
