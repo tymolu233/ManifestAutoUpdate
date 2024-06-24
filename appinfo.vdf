@@ -1,0 +1,818 @@
+"appid" "1658280"
+"common"
+{
+	"name" "Eiyuden Chronicle: Hundred Heroes"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "9c659549d8bd7eb9f54f71e283670d36956e368c"
+	"logo_small" "9c659549d8bd7eb9f54f71e283670d36956e368c_thumb"
+	"icon" "fd1df0ba0558f1c93141e43b65707845ada12bd7"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"clienttga" "f9e849b8fa45f733073ee0f7f09aea6335020e92"
+	"clienticon" "2f4438b7b72131800883205485e9b3a51d2e5b4e"
+	"name_localized"
+	{
+		"schinese" "\"百英雄传   Eiyuden Chronicle: Hundred Heroes\""
+		"tchinese" "《百英雄傳》Eiyuden Chronicle: Hundred Heroes"
+		"japanese" "百英雄伝"
+		"koreana" "백영웅전 Eiyuden Chronicle: Hundred Heroes"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1658280_eula_0"
+			"name" "Eiyuden Chronicle: Hundred Heroes EULA"
+			"url" "https://store.steampowered.com//eula/1658280_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1713916800"
+		"tested_build_id" "14133848"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Eiyuden Chronicle: Hundred Heroes"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,ja,zh-tw,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715131509"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Rabbit &amp; Bear Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "505 Games "
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "505 Games Official"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_60" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713879562"
+	"metacritic_score" "78"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/eiyuden-chronicle-hundred-heroes\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1658280"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "4434"
+		"2" "4975"
+		"3" "4325"
+		"4" "1742"
+		"5" "4182"
+		"6" "21"
+		"7" "3993"
+		"8" "492"
+		"9" "9"
+		"10" "4106"
+		"11" "4231"
+		"12" "1702"
+		"13" "4085"
+		"14" "19"
+		"15" "4853"
+		"16" "7208"
+		"17" "10695"
+		"18" "1677"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Rabbit &amp; Bear Studios"
+	"publisher" "505 Games "
+	"homepage" "https://eiyudenchronicle.com/"
+	"listofdlc" "2694030,2694050,2694090,2694110,2786940,2786950"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Eiyuden Chronicle"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "EiyudenChronicle.exe"
+		}
+	}
+}
+"depots"
+{
+	"1658281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5380851199576992268"
+				"size" "26727137484"
+				"download" "19184233760"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"backer-beta"
+			{
+				"gid" "4EEF922712462537A2EA4E260E6C6B48"
+				"size" "B84ECE12BF69AA194DFA41EDFB4EFD9C"
+				"download" "3B2C852F0959B2488C0B38585CF6A05E"
+			}
+			"beta-review"
+			{
+				"gid" "419EE01EF61FF1C751851E25C3AA0B25"
+				"size" "59761BA5B261E0856E87676AF325FD54"
+				"download" "DCD78B35820AF3D7B2B34CBBC9963933"
+			}
+			"beta-work"
+			{
+				"gid" "D3E27EB21E1FD23D85E9C7EEDC9BC88D"
+				"size" "997D60A2FEE761846A0FB0E017F3BF9C"
+				"download" "623F50A4C674A9C39C5570C8D583C9CE"
+			}
+			"milestone"
+			{
+				"gid" "A5B55F5C8681EFAE2234922FD6642AC0"
+				"size" "0D0BCD60ACAE9093DB9C7906273D10A9"
+				"download" "329A8F474A996F9E4F520DF7858686D8"
+			}
+			"promotion"
+			{
+				"gid" "CDA408EEA7B33FF0A47EBCDBBEED1030"
+				"size" "E9F58E44E3E1F547825D932EA92AFC5E"
+				"download" "89C78F45AE433C66E82F4346393342C7"
+			}
+			"staging-2nd"
+			{
+				"gid" "61104A0395CA90FCD146CC8E6EDFCE5E"
+				"size" "AE20F0289912B351F228AE958E9E5BB7"
+				"download" "33267481B006678CA5902CAE09A07B67"
+			}
+			"develop"
+			{
+				"gid" "6B55C605F13F0C6574BEDE2F6EA79117"
+				"size" "4585C48D2FBDC45B5F33ED4E62377869"
+				"download" "46724B57F70D505F848F732F63B26425"
+			}
+			"forreview"
+			{
+				"gid" "26EC6E1008753D7B662C592C568590B3"
+				"size" "4D195E2C7A1D8429A83ADFCF9423CB4E"
+				"download" "B5A05F2AC345A626ED699EF42504BEF3"
+			}
+			"localize"
+			{
+				"gid" "2C12A1D97DC97B27B551128E99B2BA07"
+				"size" "73A846D90AEFB2167FEA5A2FB67594D2"
+				"download" "A290E37B0BC11C0CDF05B3DC0D41DB0A"
+			}
+			"pre-delivery"
+			{
+				"gid" "F4DFB57DD7E66800DF1F09BBC7609A68"
+				"size" "BD1DAE33D0B05F04A5EC99965EF428BD"
+				"download" "F50EFBF95CF3A8060542D20A508734E6"
+			}
+			"qacheck"
+			{
+				"gid" "8EF6BD9BA1F633006C72C68898544E01"
+				"size" "1D75DE3939AE09A5A4DE2B981779A88D"
+				"download" "9B313831866A0181B7146BB833F9BACB"
+			}
+			"qacheck-test"
+			{
+				"gid" "2D7D60E53500BA7BFD4AD704E5A0A2A5"
+				"size" "B28F44256EE5A897E4066C56228F7549"
+				"download" "7D461775D8F19EBAAC12B5134D1AF58E"
+			}
+			"release"
+			{
+				"gid" "CC191751937D7C8B1433FCE41CF74652"
+				"size" "A7C6EF65DCA7620E0094ACA79E6877B1"
+				"download" "727274BD7CA58A0A333A4660E6AD2AA8"
+			}
+			"release-2nd"
+			{
+				"gid" "163963144B8C5755B3E7BC2F35A9BD62"
+				"size" "7D3E58505273971B1FA989FCCC2DE6D2"
+				"download" "DB2F08F5C6E95C006ECF3CC131838AE8"
+			}
+			"staging"
+			{
+				"gid" "98782E91A8AC58AE899A0D00F4AB9665"
+				"size" "C941471BD4F0413CE58B9743F66752E1"
+				"download" "784C6DDCCCC250123DEAB83F276C5FAB"
+			}
+			"test"
+			{
+				"gid" "279ED9F3B178D121F25A7A5BAF8EBE6F"
+				"size" "52AAA3A4C4E604E64B7AF40A7C6A2915"
+				"download" "B57ADF98BD579BE216E1CC2C3432771C"
+			}
+		}
+	}
+	"2694060"
+	{
+		"dlcappid" "2694060"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6188120246828059680"
+				"size" "437607035"
+				"download" "115290224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"backer-beta"
+			{
+				"gid" "0E71EE3E50D258CFD150A586FE212973"
+				"size" "077320D5EBF55F2FCD48A54774307AC8"
+				"download" "69AEE33E41C78D4F24625EC9EAEFDAE0"
+			}
+			"beta-review"
+			{
+				"gid" "55ACE3EBCA1DACC76BA5DA29B74AA73B"
+				"size" "C050F15D019F822977C312FDAF0FE9EE"
+				"download" "E5828D27183D44DA0B4EBA836F32F393"
+			}
+			"staging-2nd"
+			{
+				"gid" "E198311C15A0344C93F2F969C95ECE1D"
+				"size" "9C91954CE676C46EB25D24B4DC45AC3D"
+				"download" "7F6D0787E20EF20E154E0AD6BF47E941"
+			}
+			"develop"
+			{
+				"gid" "2C59D0BC287E03E8E5FBF544B89C582B"
+				"size" "34B8415E2869B2C52AB52F6CE409D419"
+				"download" "48A7B9A52365F3C0518893124EF2BE7B"
+			}
+			"forreview"
+			{
+				"gid" "C1E36B57007BCB2A144BE2AB360D0410"
+				"size" "EA3B7C11D9B2EDE9A9AB9E3A14BF41FF"
+				"download" "B646CCD950ABE4DE6D1FEE3C8C251302"
+			}
+			"localize"
+			{
+				"gid" "572833F09C142DFBCED2A472980CA64A"
+				"size" "ECAD8392FF31313BEE2A74E3B6907BF2"
+				"download" "817A42638C278F02BC01689CB948D26E"
+			}
+			"pre-delivery"
+			{
+				"gid" "5B843E4D14FCE3E1CDA9A48D4A0A1E89"
+				"size" "9BBB7EBA6043A6E769452329E5069192"
+				"download" "E528F2D91A9C1D2587ABEF9A99980E95"
+			}
+			"qacheck"
+			{
+				"gid" "BAFC469BD9A7C184D279F940B6031A0B"
+				"size" "7B416E65B01B06A155AE52D6928C90C4"
+				"download" "6BC3BDB08135A4B63AB49490E54E6907"
+			}
+			"qacheck-test"
+			{
+				"gid" "3FC7B688B7CAFB10DA909FF041C907B6"
+				"size" "0BD5B3FE6238D3AAFFC308B3C6D9AF4E"
+				"download" "BEBDDE9716147000937357FE07D1652B"
+			}
+			"release"
+			{
+				"gid" "12680BA2F8CEDE9FD2BE53DA9AB99700"
+				"size" "CA441F9BDD41413F6F2F500C9BB1D669"
+				"download" "A5A9A815134C56F29942F3E60EB95EEC"
+			}
+			"release-2nd"
+			{
+				"gid" "1896BABDD25FB190B43550BE2D4E27F8"
+				"size" "9DFA86B6F76E23E9FEF0E0E048219DE8"
+				"download" "4995A30CF340D6AB6C164D6E6B9ECA24"
+			}
+			"staging"
+			{
+				"gid" "E7BB8C5A34D8CF5B923554B98D2DC585"
+				"size" "135AC691B660A9E5B013DF22076AC103"
+				"download" "3D0AA0C6F049CEFC28ECC5E1253BCC12"
+			}
+			"test"
+			{
+				"gid" "6F47276DDA250CFE63A417895B34E74F"
+				"size" "5CCAF1C3BE70F4B398C91D2EEE8410C2"
+				"download" "052344914E2218E32FAF355CFBFBAA20"
+			}
+		}
+	}
+	"2694070"
+	{
+		"dlcappid" "2694070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7656937692638940198"
+				"size" "60838490"
+				"download" "23881072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"backer-beta"
+			{
+				"gid" "1FF607B42EADB256331815BDA3443234"
+				"size" "8ABC49DEB868A072FE4D67ADA265895D"
+				"download" "FFE273E5527E9C8DFD9DEFF0EC054049"
+			}
+			"beta-review"
+			{
+				"gid" "C4DCE560656D1C56ACC39A1B1F312160"
+				"size" "E9370CCEC16F5F312D22EBDA70B689D4"
+				"download" "53AB6994778979D46ECDB52B19D1CDC2"
+			}
+			"staging-2nd"
+			{
+				"gid" "DC90AB33CCC5A0B50FA7D7074A8E0CD8"
+				"size" "AB2B196794FCF94F3CDE58F10D2D4852"
+				"download" "6DBCF9D95FCB143441EA47EF1DC5D112"
+			}
+			"develop"
+			{
+				"gid" "DC9DBC255BFE5B6B8ED71D4E78A34FB2"
+				"size" "F13272507B2663119F3FFDE07927001F"
+				"download" "A96C16395FBC38B6D96508A916D286B9"
+			}
+			"forreview"
+			{
+				"gid" "44466B7F8836E23614C185B83FFE4FB6"
+				"size" "9F0C2B68B909F5B6B92EE17FB5F5A3EF"
+				"download" "C57680BF1B14546F0704AC3027EC5C0F"
+			}
+			"localize"
+			{
+				"gid" "04A617A28E8DC9379A8B0EBC3B248DD2"
+				"size" "3043D88761D6C33612D5825524E7A47E"
+				"download" "79CAA69C63F026F76CE92AF5F0192D5B"
+			}
+			"pre-delivery"
+			{
+				"gid" "7FDB8285FC0D8F97C4E1B8B6B6F30EFF"
+				"size" "E9DE209E97DF056F6A502457E7F699AB"
+				"download" "E5C05289C44E2AC1DB8F1B8925217C10"
+			}
+			"qacheck"
+			{
+				"gid" "D0DA2F01E12B34A2D95F09DEB05F8B9D"
+				"size" "2C68E1A1F56764D01E45D1512F30A816"
+				"download" "E222594CD6492B4DE5C5261912C549C9"
+			}
+			"qacheck-test"
+			{
+				"gid" "F6B3CAD28B1C30242791397592BE2D5F"
+				"size" "806F9DDE641EBF9E0F9EEC33ACEA3968"
+				"download" "D3A7A771832821F3D8B73890A5EECB02"
+			}
+			"release"
+			{
+				"gid" "47BB8110A0A7AB57BF71BD3C68251B4A"
+				"size" "F37E08FAEE66BB9B027C0667DD9788BD"
+				"download" "9D474E1CC0095E7AB7FD4D0C8C6C7596"
+			}
+			"release-2nd"
+			{
+				"gid" "76B5D65221659CDD924F900E0E481FA3"
+				"size" "EB2727DEB1A5C195D8F4150C21629116"
+				"download" "2C28766B0AD6F04EA5983F66E280DB37"
+			}
+			"staging"
+			{
+				"gid" "A96C95CC70FC5BD4D77C94227BC62F1F"
+				"size" "6B6431DD9D6860590AFADEFCE277B14D"
+				"download" "38537BA147B4B3B87011B2F68A81DA0E"
+			}
+			"test"
+			{
+				"gid" "F7BE76BC3414951E5166E85C22BF627D"
+				"size" "F954188DC0D8D307DFD5F793D33DC42A"
+				"download" "1C24EA518A8058A84165B27A61FFBAB3"
+			}
+		}
+	}
+	"2694080"
+	{
+		"dlcappid" "2694080"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5625623605058148455"
+				"size" "451158538"
+				"download" "114700592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"backer-beta"
+			{
+				"gid" "CEFE4EC456FB4FCB55CDDBD424CFAD33"
+				"size" "6C892F3344E7E7118BA75DBACAB7609B"
+				"download" "505A55E17D9C5E0CADF81B37D0F67E47"
+			}
+			"beta-review"
+			{
+				"gid" "F25B111BF8AC9A9A4FC04227820D2785"
+				"size" "EED707E23477F10E5479B1AED22BE2BF"
+				"download" "ADF742C589163A34DF7FF342E1F98751"
+			}
+			"staging-2nd"
+			{
+				"gid" "6700004FC3A0028D3113372C49118F2B"
+				"size" "D17524BFE7D8162C0C6AF925DF6FC21F"
+				"download" "D639E66AE7C4775827E9B529FF1798D4"
+			}
+			"develop"
+			{
+				"gid" "5D2EAF994DF2511A523B57B3B45B2BD3"
+				"size" "C13FAAB0ED0BBC394BFE9AA8E73564A3"
+				"download" "4C0ED1777583A30095E865B239CC010F"
+			}
+			"forreview"
+			{
+				"gid" "5AC59E319A73DA8CE328129778E3A2FE"
+				"size" "A36021350EEDC98A7B5D9B5AC590DD41"
+				"download" "DEC548A7DB9230B86AB8B033261EDA8E"
+			}
+			"localize"
+			{
+				"gid" "C4FD1CEBC427D3A901C0D2DBC6D99155"
+				"size" "F1F70E1DDEF4676704ABE5211132C625"
+				"download" "175A0FFE6D0A682D959960776A2C4628"
+			}
+			"pre-delivery"
+			{
+				"gid" "B26F6E9810D7558AE2F12F260A0500BB"
+				"size" "6DBDFD98210F25D209DBB916392C52CA"
+				"download" "012D1F9D0A9B8C49E3D3D59B8D29F03C"
+			}
+			"qacheck"
+			{
+				"gid" "BF7982E2C4D29238498D4BC7190EA6CF"
+				"size" "648AF77CBD6A3E946050025815820C55"
+				"download" "13EFD000546F1A78291CCFA490D58BFF"
+			}
+			"qacheck-test"
+			{
+				"gid" "4964CAE01FF557B0243BD9C772772825"
+				"size" "2A4C6141335E4A9FBDC88DF2D3C400CB"
+				"download" "BFE842F0698B7928779E9209CEE76C50"
+			}
+			"release"
+			{
+				"gid" "72F1112499B8CEFF9466B746A53C697A"
+				"size" "96AC4A10A79D369426E1F5738CB5CE66"
+				"download" "C3E6592C20C46192E2D78B33F824E9F9"
+			}
+			"release-2nd"
+			{
+				"gid" "B50E9D5B339F6DE10FC5CAA5891D68DF"
+				"size" "7833113B929007046DE73CE492352F8D"
+				"download" "4549D0328CEC359C7F97E544D9906AB7"
+			}
+			"staging"
+			{
+				"gid" "B786D16EDDDD4BD3F94DA057F05A4F9C"
+				"size" "C57F735E370EEC6C067A1C2B7E106E42"
+				"download" "9F962DD2BE5B3D84F8D64A78947D83C6"
+			}
+			"test"
+			{
+				"gid" "281AAF78D1B6C66D0C90222A57DB7F4B"
+				"size" "B5286248B1156CAEF386C0BD4C2F95E4"
+				"download" "45FA064B5A845EF192FF745FE05F714F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14453851"
+			"timeupdated" "1717532497"
+		}
+		"backer-beta"
+		{
+			"buildid" "13698877"
+			"pwdrequired" "1"
+			"timeupdated" "1710133636"
+		}
+		"beta-review"
+		{
+			"buildid" "13974510"
+			"pwdrequired" "1"
+			"timeupdated" "1712551169"
+		}
+		"beta-work"
+		{
+			"buildid" "13698968"
+			"pwdrequired" "1"
+			"timeupdated" "1710137363"
+		}
+		"milestone"
+		{
+			"buildid" "13005258"
+			"pwdrequired" "1"
+			"timeupdated" "1703029184"
+		}
+		"promotion"
+		{
+			"buildid" "12700231"
+			"pwdrequired" "1"
+			"timeupdated" "1699972737"
+		}
+		"staging-2nd"
+		{
+			"buildid" "14052884"
+			"pwdrequired" "1"
+			"timeupdated" "1713339907"
+		}
+		"develop"
+		{
+			"buildid" "14771834"
+			"pwdrequired" "1"
+			"timeupdated" "1718846674"
+		}
+		"forreview"
+		{
+			"buildid" "14345679"
+			"pwdrequired" "1"
+			"timeupdated" "1715677959"
+		}
+		"localize"
+		{
+			"buildid" "14771834"
+			"pwdrequired" "1"
+			"timeupdated" "1718846722"
+		}
+		"pre-delivery"
+		{
+			"buildid" "14818035"
+			"pwdrequired" "1"
+			"timeupdated" "1719234206"
+		}
+		"qacheck"
+		{
+			"buildid" "14771834"
+			"pwdrequired" "1"
+			"timeupdated" "1718846697"
+		}
+		"qacheck-test"
+		{
+			"buildid" "14453741"
+			"pwdrequired" "1"
+			"timeupdated" "1717554052"
+		}
+		"release"
+		{
+			"buildid" "14772049"
+			"pwdrequired" "1"
+			"timeupdated" "1718846150"
+		}
+		"release-2nd"
+		{
+			"buildid" "14299351"
+			"pwdrequired" "1"
+			"timeupdated" "1715169485"
+		}
+		"staging"
+		{
+			"buildid" "14772049"
+			"pwdrequired" "1"
+			"timeupdated" "1718846647"
+		}
+		"test"
+		{
+			"buildid" "14663960"
+			"pwdrequired" "1"
+			"timeupdated" "1718022558"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "505 Games S_p_A\\EiyudenChronicle\\{64BitSteamID}\\SaveData"
+			"pattern" "*.dat"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "505 Games S_p_A\\EiyudenChronicle\\{64BitSteamID}\\SaveData"
+					"replace" ".config/unity3d/505 Games S_p_A/EiyudenChronicle/{64BitSteamID}/SaveData"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "505 Games S_p_A\\EiyudenChronicle\\{64BitSteamID}\\SaveData"
+					"replace" "unity.505 Games S_p_A.EiyudenChronicle.{64BitSteamID}.SaveData"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24094499"
+"_sha" "38b2517e4710ff033b7d4a617fc60960ec7608c0"
+"_size" "18626"
