@@ -1,0 +1,293 @@
+"appid" "2423620"
+"common"
+{
+	"name" "星际工业国"
+	"type" "Game"
+	"clienticon" "302a7cf4febfc192096da00b01255f3047fe28ca"
+	"clienttga" "2b3e83b4511853de070544be3ec0bcbbf58a26a8"
+	"icon" "9adf58f554884496f286a387ca718d6bb1e8cddb"
+	"name_localized"
+	{
+		"english" "Space industrial empire"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1692144000"
+		"tested_build_id" "11865302"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "48.25468648998059"
+			"height_pct" "62.15277777777777"
+		}
+	}
+	"store_asset_mtime" "1716516487"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "游戏养家工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "游戏养家工作室"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "小茫的挂机放置游戏集"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1716538755"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2423620"
+	"store_tags"
+	{
+		"0" "255534"
+		"1" "1755"
+		"2" "492"
+		"3" "12472"
+		"4" "615955"
+		"5" "9"
+		"6" "4236"
+		"7" "597"
+		"8" "24003"
+		"9" "4182"
+		"10" "3871"
+		"11" "16598"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "游戏养家工作室"
+	"publisher" "游戏养家工作室"
+	"listofdlc" "2520270"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "星际工业国"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "game.exe"
+			"type" "none"
+		}
+	}
+}
+"depots"
+{
+	"2423622"
+	{
+		"config"
+		{
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8007300788976045512"
+				"size" "350930059"
+				"download" "173904512"
+			}
+			"win7edition"
+			{
+				"gid" "1179107803933403109"
+				"size" "315810084"
+				"download" "162429056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newtest"
+			{
+				"gid" "C796F4A04CA5920A3E0A87E187625AFE"
+				"size" "9E0E2F743787A95C35428975E5608C24"
+				"download" "061BBDE473C37A86CF797CB785874749"
+			}
+			"test"
+			{
+				"gid" "EF16327EAB84F13B8E4A1BEC70781941"
+				"size" "7C3CB5F2DEAE693E5793B076426CF3BA"
+				"download" "2419F21DD9649B40ED2BEF85C741927B"
+			}
+		}
+	}
+	"2423621"
+	{
+		"config"
+		{
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "20601717712162485"
+				"size" "281204426"
+				"download" "152471440"
+			}
+			"win7edition"
+			{
+				"gid" "20601717712162485"
+				"size" "281204426"
+				"download" "152471440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"newtest"
+			{
+				"gid" "990332EAA278A220F217258689630F1C"
+				"size" "D197C12C125AE0D4FEAD68D8BDCAE3A1"
+				"download" "C865BCF99D154DE3A75296DED90FDA76"
+			}
+			"test"
+			{
+				"gid" "B47CC98E926569A17A04B815206AE638"
+				"size" "A7458D19E600CBCD0FC761779AF016C9"
+				"download" "3AC56B44E177FE52E63BFEEE41D54D6D"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14701662"
+			"timeupdated" "1718261245"
+		}
+		"newtest"
+		{
+			"buildid" "14701659"
+			"pwdrequired" "1"
+			"timeupdated" "1718261214"
+		}
+		"test"
+		{
+			"buildid" "14230185"
+			"pwdrequired" "1"
+			"timeupdated" "1714546376"
+		}
+		"win7edition"
+		{
+			"buildid" "14499003"
+			"description" "win7专用版"
+			"timeupdated" "1716727320"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "SaveDir"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24036391"
+"_sha" "d222b14ddbaba4c94777c1a1e8d37577ecf3538f"
+"_size" "5399"
