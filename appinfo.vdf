@@ -1,0 +1,361 @@
+"appid" "290100"
+"common"
+{
+	"name" "Bulwark: Falconeer Chronicles"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "27a7652f9dfc6eb2bc1b35da10a84b86435aecbc"
+	"logo_small" "27a7652f9dfc6eb2bc1b35da10a84b86435aecbc_thumb"
+	"clienttga" "d47079fd1f333a5c407fac5c159cc7cd230eba7a"
+	"clienticon" "cd22e3947c82821e923b5e2df170c3a9d3898631"
+	"icon" "92eff32ac164c0e55dd5299855a9808db6b8eeac"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "堡垒：猎鹰战纪"
+		"tchinese" "堡垒：猎鹰战纪"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1717113600"
+		"tested_build_id" "14466329"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "UntitledApp"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "90.18377272716288"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715173440"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tomas Sala"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Wired Productions"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wired Productions"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Falconeer Chronicles"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_61" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711475598"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "290100"
+	"store_tags"
+	{
+		"0" "4328"
+		"1" "9"
+		"2" "3834"
+		"3" "4094"
+		"4" "7481"
+		"5" "3810"
+		"6" "1643"
+		"7" "7332"
+		"8" "597"
+		"9" "4046"
+		"10" "1777"
+		"11" "1695"
+		"12" "4191"
+		"13" "3854"
+		"14" "4166"
+		"15" "4994"
+		"16" "4364"
+		"17" "5125"
+		"18" "4604"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "80"
+}
+"extended"
+{
+	"developer" "Tomas Sala"
+	"publisher" "Wired Productions"
+	"homepage" "http://www.theFalconeer.com"
+	"listofdlc" "2727620"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Bulwark"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bulwark.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"overridescddb" "1"
+	"290102"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8202797277626580033"
+				"size" "1371170921"
+				"download" "881194208"
+			}
+			"beta"
+			{
+				"gid" "8202797277626580033"
+				"size" "1371170921"
+				"download" "881194208"
+			}
+			"debug"
+			{
+				"gid" "5084812482174266950"
+				"size" "1369563625"
+				"download" "880094912"
+			}
+			"hold"
+			{
+				"gid" "8202797277626580033"
+				"size" "1371170921"
+				"download" "881194208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "D323A9C5C67E1B3BDBBF7B8C20BBAE2F"
+				"size" "A7B9BC8CE0AE1FC750EB37FEB56C0FFA"
+				"download" "0BD0A33DB833EE94544A5B587B525930"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14648040"
+			"timeupdated" "1719225175"
+		}
+		"beta"
+		{
+			"buildid" "14648040"
+			"description" "Beta patch"
+			"timeupdated" "1717827584"
+		}
+		"debug"
+		{
+			"buildid" "14535381"
+			"description" "for troubleshooting hardware issues"
+			"timeupdated" "1717010563"
+		}
+		"development"
+		{
+			"buildid" "14811612"
+			"pwdrequired" "1"
+			"timeupdated" "1719174091"
+		}
+		"hold"
+		{
+			"buildid" "14648040"
+			"description" "To hold upcoming updates"
+			"timeupdated" "1718979072"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "50"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Wired Productions/Bulwark"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24092668"
+"_sha" "3b7cdd6a890ef664ed4164100ce7b1164eca5dec"
+"_size" "6596"
