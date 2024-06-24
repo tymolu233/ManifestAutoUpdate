@@ -1,0 +1,451 @@
+"appid" "1260590"
+"common"
+{
+	"name" "Hadean Tactics"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" ""
+	"osextended" "macos64,macosnotarized"
+	"logo" "d27404c88b24be17f87a66706b5f5ccf1b8265fa"
+	"logo_small" "d27404c88b24be17f87a66706b5f5ccf1b8265fa_thumb"
+	"icon" "62961f5193b87780793864cd5e20293f4d3bc592"
+	"clienttga" "1991f34845fffcc2ad78001bce4f0d05abb887b9"
+	"clienticon" "35d093114503216123d19e2a2a4843bcb3c36b11"
+	"clienticns" "7e7feb260e16e24be978bc21c61203b40e2009f2"
+	"linuxclienticon" "7e17c7b4ac17abba033780021c86880758af4c4f"
+	"name_localized"
+	{
+		"schinese" "冥狱战术 (Hadean Tactics)"
+	}
+	"languages"
+	{
+		"english" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1691798400"
+		"tested_build_id" "11878494"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.26284225665519"
+			"height_pct" "61.398717644265005"
+		}
+	}
+	"store_asset_mtime" "1706645685"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Emberfish Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Emberfish Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_29" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1692899031"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1260590"
+	"store_tags"
+	{
+		"0" "1091588"
+		"1" "791774"
+		"2" "1084988"
+		"3" "1716"
+		"4" "1666"
+		"5" "32322"
+		"6" "1720"
+		"7" "3959"
+		"8" "17305"
+		"9" "1741"
+		"10" "9"
+		"11" "6426"
+		"12" "5125"
+		"13" "4325"
+		"14" "4252"
+		"15" "4604"
+		"16" "1684"
+		"17" "4182"
+		"18" "492"
+		"19" "3813"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Emberfish Games"
+	"publisher" "Emberfish Games"
+	"homepage" "https://www.emberfishgames.com/"
+}
+"config"
+{
+	"installdir" "Hadean Tactics"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HadeanTactics.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "HadeanTactics.app\\Contents\\MacOS\\Hadean Tactics"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "HadeanTactics.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3014424326"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,private_beta,private_beta_2,public_beta"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"baselanguages" "english,german,spanish,schinese,tchinese,japanese,turkish,brazilian"
+	"1260591"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5735075254539902261"
+				"size" "2780258134"
+				"download" "1007757904"
+			}
+			"public_beta"
+			{
+				"gid" "5735075254539902261"
+				"size" "2780258134"
+				"download" "1007757904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta_2"
+			{
+				"gid" "309FE9CD5E27AA6562A042996A6CA70E"
+				"size" "CF5D3C837AE12E0A2965A4E6F80F9381"
+				"download" "BDC8F4189630C4EC0A8EE5C5C4FFC9E1"
+			}
+			"private_beta"
+			{
+				"gid" "CF5B7839303B490B08FC3E7B606ECB52"
+				"size" "DFED323042F9EBDEEE27FA13645E6E1E"
+				"download" "96C31CB09595490714D1F5FCDE1CA5C6"
+			}
+		}
+	}
+	"1260592"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3123046282760443815"
+				"size" "2949807228"
+				"download" "1076957776"
+			}
+			"public_beta"
+			{
+				"gid" "3123046282760443815"
+				"size" "2949807228"
+				"download" "1076957776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta_2"
+			{
+				"gid" "9696491417C73E3BCB4D98490F34FD9F"
+				"size" "0159EDE386F0C64634500845C47B1ACB"
+				"download" "CF08A0A4707322B5F17B8236010B9EF5"
+			}
+			"private_beta"
+			{
+				"gid" "708EDF9B44649DFD48AC1111955C1B36"
+				"size" "DDE577D4B12FDF7C176E399D95552C88"
+				"download" "B1258BBF666EF57C32FA7A095149C41C"
+			}
+		}
+	}
+	"1260593"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9127029728203472039"
+				"size" "2812286162"
+				"download" "1017642752"
+			}
+			"public_beta"
+			{
+				"gid" "9127029728203472039"
+				"size" "2812286162"
+				"download" "1017642752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_beta_2"
+			{
+				"gid" "E929787B03E37CDB8010391DBF883A44"
+				"size" "49E24C0ADAFBD1DEAA660FD8E01EE95E"
+				"download" "B6607DF0499CB04760CE0E967CC2ABC7"
+			}
+			"private_beta"
+			{
+				"gid" "22DF4648CC3C43B2D3F394482DB7987D"
+				"size" "6FAB6EE4B1DA13B66DF3DE739EF239CD"
+				"download" "0670AF95758E2532BAB4B9ED726F32EF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14565636"
+			"timeupdated" "1717188438"
+		}
+		"private_beta_2"
+		{
+			"buildid" "6301907"
+			"pwdrequired" "1"
+			"timeupdated" "1653697844"
+		}
+		"private_beta"
+		{
+			"buildid" "14435313"
+			"pwdrequired" "1"
+			"timeupdated" "1717188212"
+		}
+		"public_beta"
+		{
+			"buildid" "14565636"
+			"description" "community feature testing"
+			"timeupdated" "1717187752"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "60000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "EmberFishGames/Hadean Tactics"
+			"pattern" "*.save"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "EmberFishGames/Hadean Tactics"
+					"replace" "EmberFishGames/Hadean Tactics"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "EmberFishGames/Hadean Tactics"
+					"replace" ".config/unity3d/EmberFishGames/Hadean Tactics"
+				}
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#corruption" "%hero% - %circle% - %corruption%"
+				"#nocorruption" "%hero% - %circle%"
+				"#status_mainmenu" "Main Menu"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23919549"
+"_sha" "46bb14abf7e42dd8e73225b3e1f1b965b8b743c9"
+"_size" "8441"
