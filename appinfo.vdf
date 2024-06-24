@@ -1,0 +1,1894 @@
+"appid" "1222670"
+"common"
+{
+	"name" "The Sims™ 4"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "f972f7624b8e98135c71fe4b04cd87cf22329ec9"
+	"clienttga" "084acb4a80e53ab0cd67e8dc02ae19101f693a85"
+	"icon" "ca6bc8b2411bce4a2cd325ab75f0204bc3a4ad98"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1222670_eula_0"
+			"name" "The Sims™ 4 EULA"
+			"url" "https://store.steampowered.com//eula/1222670_eula_0"
+		}
+	}
+	"logo" "5cf3a2e8d2dff4c4e4966ce07feb18382a5079ca"
+	"logo_small" "5cf3a2e8d2dff4c4e4966ce07feb18382a5079ca_thumb"
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1673654400"
+		"tested_build_id" "9962545"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+			"7"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_SingleplayerGameplayRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "1"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"latam" "capsule_231x87_latam.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"french" "capsule_231x87_french.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,es-419,de,fr,pl"
+		"library_hero" "en"
+		"library_logo" "en,de,fr,pl"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "23.946124081317862"
+			"height_pct" "45.18764383167259"
+		}
+	}
+	"store_asset_mtime" "1709743229"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Maxis"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Electronic Arts"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Sims™"
+		}
+	}
+	"primary_genre" "37"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "28"
+		"3" "37"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_29" "1"
+		"category_42" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1409641200"
+	"steam_release_date" "1592506560"
+	"community_hub_visible" "1"
+	"gameid" "1222670"
+	"store_tags"
+	{
+		"0" "10235"
+		"1" "4747"
+		"2" "1643"
+		"3" "3859"
+		"4" "4947"
+		"5" "3810"
+		"6" "599"
+		"7" "4182"
+		"8" "113"
+		"9" "1654"
+		"10" "9551"
+		"11" "597"
+		"12" "4175"
+		"13" "4726"
+		"14" "4136"
+		"15" "9204"
+		"16" "5350"
+		"17" "21"
+		"18" "1684"
+		"19" "4195"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+	"mastersubs_granting_app" "1289670"
+}
+"extended"
+{
+	"onquitdemomsg" "https://steamstore-a.akamaihd.net/message/4463125051111153535/"
+	"developer" "Maxis"
+	"publisher" "Electronic Arts"
+	"homepage" "https://www.ea.com/games/the-sims/the-sims-4"
+	"isfreeapp" "1"
+	"aliases" "TS4"
+	"listofdlc" "1235720,1235721,1235722,1235730,1235731,1235732,1235733,1235734,1235740,1235741,1235742,1235743,1235744,1235745,1235746,1235747,1235750,1235751,1235752,1235753,1235754,1235755,1235756,1235757,1235758,1235759,1235760,1235761,1235762,1235763,1235764,1235765,1235766,1235767,1240380,1250920,1271130,1271131,1271132,1271133,1301020,1301021,1368570,1368571,1368572,1458150,1458151,1458152,1458153,1458154,1458155,1561770,1621460,1621470,1621471,1621473,1621474,1621475,1621476,1622460,1776780,1816550,1904370,1904390"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Sims 4"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "link2ea://launchgame/1222670\?platform=steam&theme=ts4"
+			"type" "none"
+		}
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2187497150"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1222671"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9199960447471291625"
+				"size" "23420130615"
+				"download" "22071773680"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "D13B9E44351BD3D4B00D9F733E602147"
+				"size" "9DEA52B546029CA899C39A04E62B3987"
+				"download" "236D35CDD5790A7EA07ECCE93481BA3D"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "A31E3985D6E1AE62C7B7FC4D0BB84957"
+				"size" "9FA12DD7C3C7E9879369D3BD42E91760"
+				"download" "CA3AF8B58B5E8417B91BFE3534D93D33"
+			}
+			"debug"
+			{
+				"gid" "5F965CF57976E2996968351DE56C706F"
+				"size" "481EB8684FA3B0A2A75AAB1ACF2F106E"
+				"download" "034F6EBC301B153DF6998F643E42AD55"
+			}
+			"eacc"
+			{
+				"gid" "951885CDE56A00A4C609BC84AE2E3A6D"
+				"size" "F793D5DDCA3879542F3D563F7D9773ED"
+				"download" "FB1512FDCA8012247E82DC3C997E888C"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "3D868A2A76E1628F255D3CFF9C53D1F9"
+				"size" "6589BC052688FB952F7CF2904304D475"
+				"download" "DFB928B6C91AEC5E2FBEB0C338EF76C8"
+			}
+			"maxis_testing"
+			{
+				"gid" "9761AEF3F845491511BBAD162B776CF1"
+				"size" "DBA7B728E090D4D04F292B373B70D125"
+				"download" "2BB9EE9D5D780AA52C52D051986CB0D4"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "5F66D4F407FD80070D888679436CBA82"
+				"size" "444A2DEF7371C59686DC6A4AA1A2C23C"
+				"download" "8EB85D3DC22F8D48A750C3CFFE423B78"
+			}
+			"xt_test_1"
+			{
+				"gid" "C1A28B292AD62678ED436C014B3CE65B"
+				"size" "15270996D22E7D803B86FE2E277E0219"
+				"download" "65E2F8953683C288C2899311788CD44C"
+			}
+			"xt_test_2"
+			{
+				"gid" "96255B1AE05F838B9679C61E245FF54B"
+				"size" "6DBEF4FBDC588ACD889D7002B690E506"
+				"download" "4A0BCF0D59B9F9DA5DA387ADCB452751"
+			}
+			"xt_test_3"
+			{
+				"gid" "28BE2B0A6A366E4C926D44EF71E08714"
+				"size" "16E72D9FBE589324C1C3556C9282A8AE"
+				"download" "B3E19F256324C437205C711853DEE6EC"
+			}
+		}
+	}
+	"1222672"
+	{
+		"config"
+		{
+			"language" "english"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5896371267854754037"
+				"size" "9575172"
+				"download" "8993440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "37B37681E50644DF859DC43E4F952367"
+				"size" "7A1BFEA1BB02B639FB6D35E81CCEC963"
+				"download" "750168F136F0B53434AB6CD73468756D"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "21C5223F3CA35CA39049ADD46BE8CC93"
+				"size" "559E78369FE7FE6033ED8CDB504E5BB9"
+				"download" "D3D01C306814A81D7679C4D8F8AD4447"
+			}
+			"debug"
+			{
+				"gid" "B0C696C0223E2DD3592464851C0A5626"
+				"size" "1D037FB17E2BEFE616E099AD4AB12C98"
+				"download" "276376D9604BD1F9FE8F3BD924E61C01"
+			}
+			"eacc"
+			{
+				"gid" "49206D62C0BCBEB9377A2112800CFAC9"
+				"size" "934051FB42E79A3BBAE1AB6A903836E9"
+				"download" "BDB5241508560CCB0E87BAA315A01EBE"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "F4ADBB29669B6A5778BD10F15BF12BB1"
+				"size" "BF4050ADD3CB0EEA145D68ABAA78FA1A"
+				"download" "CAEE6EDB9E467E40681FA866A04241BB"
+			}
+			"maxis_testing"
+			{
+				"gid" "198C28EA3625312673AB0023E4843B94"
+				"size" "7EABBB62FF5264A7D42C2FFCE40A090D"
+				"download" "F10BEEB28B01D313F77B7A0DF3FCE3CC"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "35ED66C0B5D5E92655CD8B6A810BB64C"
+				"size" "3D4A3E279CB9246092FE15ABD6C342F8"
+				"download" "A15CD2336CBCBCB67790ABA00F43F1A4"
+			}
+			"xt_test_1"
+			{
+				"gid" "F98E299492189D03D928DA0C3491E896"
+				"size" "0CEFBBB5A36375C0B8EB73E081FFCFF7"
+				"download" "082C63C512FBF7F6D06788E1B18783FF"
+			}
+			"xt_test_2"
+			{
+				"gid" "8F8C4EFA4BDD1F141D1A4C55A0D9011B"
+				"size" "815525A3A10FAE9D3F0C0ACE44B5FF26"
+				"download" "6CE5DCA2450B32954BCFFA38B684B03B"
+			}
+			"xt_test_3"
+			{
+				"gid" "AD8BA5C82222EE890085CC16F74DB54C"
+				"size" "192405C024D3A37889DAD38CFC05F083"
+				"download" "A8189EBF95DC77631125EAF45D8DB8AE"
+			}
+		}
+	}
+	"1222673"
+	{
+		"config"
+		{
+			"language" "czech"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7462985424553964412"
+				"size" "11434584"
+				"download" "10781648"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "8F43CD084F8EB4212628343748497950"
+				"size" "4BDA1CC9708DE39B6FC9784B9B7C85A4"
+				"download" "C1C89174717DC74EFDEED8FCEAA15E76"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "B9D3BF7C7A4FCA44D7F5C69A6BE3A882"
+				"size" "1FE4DA65A5641D9608BDEF15B4C09015"
+				"download" "56E09D3AF1E27EF7B60314700A1DA225"
+			}
+			"debug"
+			{
+				"gid" "F98943898C82617D62757C9FB3C6BFCC"
+				"size" "AFEF0F3E5B15475778B28024E9D6E0EA"
+				"download" "AA58E852A078A0E60CFC332D47B11602"
+			}
+			"eacc"
+			{
+				"gid" "263EB37F30101C850FF48B349E96E9E3"
+				"size" "A85EBED2F991DD6AF786811EFD317B9B"
+				"download" "9C59902D296CA526F07E8EE2F043A5C0"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "997A4FC1907621779F43E8A741B11E51"
+				"size" "0564E5955D679DCC4C8CE07C79960C5F"
+				"download" "6D17D90625DBBAB48339043C79A52C14"
+			}
+			"maxis_testing"
+			{
+				"gid" "8B817D462EF1E9B1B42C0DDE3710C8B9"
+				"size" "97E1B146E5CBD83A516DE61BAF4DD5DA"
+				"download" "498443EABF352BF143F15C246BDBBBFA"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "CE3CFE450C64515F8B94D865211A0DEC"
+				"size" "67DDFE8C030DBD4F531D886EAA1CC39F"
+				"download" "2201822DCA9B1406A423529458E5EA8D"
+			}
+			"xt_test_1"
+			{
+				"gid" "8A16295727EC9FD7B195FD096B15000D"
+				"size" "E63A7CB5097C90108F97AA39974AC0ED"
+				"download" "951D062911D1CF6D8B3D0046A703B44A"
+			}
+			"xt_test_2"
+			{
+				"gid" "A48C095F1E5E81684DF9C74C75897151"
+				"size" "6E7D1E165AECD0BA439C528797684691"
+				"download" "25A14D0CCD0759A52C097E6113401689"
+			}
+			"xt_test_3"
+			{
+				"gid" "082C9FA1D62DACD8A0C203190A98F9D6"
+				"size" "49EDE288867FCB9B655447337DA68A08"
+				"download" "CD8E23FC09B3A0CEA16F8B4C63C7EC67"
+			}
+		}
+	}
+	"1222674"
+	{
+		"config"
+		{
+			"language" "danish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "596326117947893986"
+				"size" "9523692"
+				"download" "8954352"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "732A38623C7D2E63BE302D1A3404E409"
+				"size" "84033C2FF85C906A685F3BDB04B38172"
+				"download" "DEA2EEAC92D7F2C8D4031570F305AC75"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "68544C640F2602519CEA2CA0741951CA"
+				"size" "FB02B9723325D2CA564CC745B2942D4D"
+				"download" "971AD1CFC5EDE55DDFC3574590D51574"
+			}
+			"debug"
+			{
+				"gid" "2445ED0F2D3FA5826930D423667F9BD4"
+				"size" "59CE499BBC1C68B35F4BE3B2160094AA"
+				"download" "4F14A3F933631E136C947C3F174199AB"
+			}
+			"eacc"
+			{
+				"gid" "EE231F547BFEC50CA9A6150711C76735"
+				"size" "58A149BF5D98EDCA819F5F29E0120EDB"
+				"download" "42F73EDE9C52D94655108A0737DB9227"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "A2582102BA867D20BA637BE788D10FFD"
+				"size" "1F52F59652DACC6496495140D28728FC"
+				"download" "FE5AFB0B8A3D2486F20DA659BBDBAD7B"
+			}
+			"maxis_testing"
+			{
+				"gid" "678C599D88765D172CADF662AAD78C3D"
+				"size" "A0DE175D9B159478B81A63C192B7D08E"
+				"download" "263EC0B1A7D5DBB07EDEA3273B3A5EBE"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "B399258325E39DD74C0F6497624FD459"
+				"size" "29218B273D95E08AD71A7DAF78DD05D8"
+				"download" "3CD68A73E132B3B47686E58DBC62DFC3"
+			}
+			"xt_test_1"
+			{
+				"gid" "EE3292A6024756FA7CE156F595C3DF7B"
+				"size" "B07559EA0A5AD4FA6D7CA4B27D06E471"
+				"download" "0F53D73F9DE827EA7181C49CFADA0EB4"
+			}
+			"xt_test_2"
+			{
+				"gid" "BA1528A732DBFC93C220B2BA3E1E30B8"
+				"size" "499968AE47C1F49D8394434A047F1B76"
+				"download" "8B0CD886B2BA93D73B2B4E0B791D2585"
+			}
+			"xt_test_3"
+			{
+				"gid" "4D37905AA336B29E03C016B445285FDC"
+				"size" "7F9DDDB5F98CD5B629A3E6A3B48B40C6"
+				"download" "A81F72FA540E4539E63A3B73F29E99DA"
+			}
+		}
+	}
+	"1222675"
+	{
+		"config"
+		{
+			"language" "german"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4452796683383257318"
+				"size" "10221052"
+				"download" "9601440"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "761D145E3E4DFF23339A25476A2BD624"
+				"size" "F85FBA79A8C9826D1830410EF2FEDA62"
+				"download" "9DEFD439FA37D72EE2B553997B1542EE"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "090A1DFA13560BFF934214F01BF8687E"
+				"size" "46045DC527849C141B689A32BAAFBE89"
+				"download" "597D77ACD576CC8F257B72319C39F1CE"
+			}
+			"debug"
+			{
+				"gid" "D958ED0E5F8AD54290D9060A8A4A3BBE"
+				"size" "36A926DC0CBA801265363D6C466DD70D"
+				"download" "4C040C0FC3FC75CB9D9AAF100EC9466F"
+			}
+			"eacc"
+			{
+				"gid" "00DC4F404F971233F753375A6329F107"
+				"size" "0A5371650FD19FAFD57C52AD9B5EC242"
+				"download" "796C722C0DAADD30D45E0FA156F680FD"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "DFA2DB170267ABBC37506A1D6B2B29CB"
+				"size" "AE3D5B80423F160C429A8B16C5AF0A0D"
+				"download" "A4EC036C9CFAE58D2794769FB1878CEF"
+			}
+			"maxis_testing"
+			{
+				"gid" "2DE35659A9071A5220137647CB7212A3"
+				"size" "3D5B0DB656FD5B8BE906B2A75DC19821"
+				"download" "45297124B2B72F5ED463568BA03C3993"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "7EFF3E5652A1D3EDB86CF36C8A3EA661"
+				"size" "FDBC615B150B5EF83AB0E3A8EDBA8E33"
+				"download" "5034DB76DCBF9EA364F3FB28EAA31338"
+			}
+			"xt_test_1"
+			{
+				"gid" "29BBFA77A99DB1D02E07A3600808A1F1"
+				"size" "D572E32EB076A5D8FE27F88AAD93D977"
+				"download" "6F063E2B52E7FC66E25B8C35AABE0A91"
+			}
+			"xt_test_2"
+			{
+				"gid" "11BB2F208CACEABAE845EDD53B33B960"
+				"size" "8C3955E35FE78B9D2E3CD3D69D0FEC25"
+				"download" "4427D1885E06C4C6FF5C3DEFE56F4152"
+			}
+			"xt_test_3"
+			{
+				"gid" "17DAECFD763B66CD026A9891EC1A9D92"
+				"size" "56087EC77094EBD4601B76F405AD87F1"
+				"download" "EDE06C3E22FBDCE5517315356DAFB6BF"
+			}
+		}
+	}
+	"1222676"
+	{
+		"config"
+		{
+			"language" "spanish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9160213330358505787"
+				"size" "11100922"
+				"download" "10474672"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "0CC65986E7D1D63C7137C7B1FBDC7673"
+				"size" "A5CE0406DC1460B560B9CA3A90D2BA87"
+				"download" "F35365A4BEA60CFB39E313ED0AE531D3"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "37944343FEC7E1A07817E3F3E3255428"
+				"size" "2FA09D31255664F57D2B1E1A69E415F2"
+				"download" "9246D734DE5676B2DDE445E713AC55E2"
+			}
+			"debug"
+			{
+				"gid" "9FB258F31682E55A38C65A109A60F1A6"
+				"size" "980744A048525FAF6E34468E201F5D56"
+				"download" "FE72CE0B2DCB9E807CE4D9EE9EB05347"
+			}
+			"eacc"
+			{
+				"gid" "47B72E1CE940D589ABA0D5AC2BC3682B"
+				"size" "9AC90181F530487CAEFB09C53761374B"
+				"download" "F0574948DBCD66C8A73A4F40C5749749"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "58D5E2EB43A10F826527B22EAA2D5B3D"
+				"size" "962A316C92C07EFAB5AB60C4864107B5"
+				"download" "8EF284A68998F22777791187AB489471"
+			}
+			"maxis_testing"
+			{
+				"gid" "46E111AD93C48AA3210EBB18232FE6A5"
+				"size" "3075F671CDCA8FC244A8368E9B283E67"
+				"download" "AF87D536B4AB257534F02A463047EA89"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "395E438B12E66EDA4B3B03317B05D840"
+				"size" "7A463718A3362599F60714DAC764DEAF"
+				"download" "4FC1C0F010B872F2CEC7BE1687417255"
+			}
+			"xt_test_1"
+			{
+				"gid" "3555CA9F5CF715C9F536F430EA05F569"
+				"size" "C5BBBAB5011CD0019FE795F00E566584"
+				"download" "E6DD87A7F3DA7D4FDA44C628E5FEA242"
+			}
+			"xt_test_2"
+			{
+				"gid" "5BE26335F11A1D3C7DCE30BB631DB1FA"
+				"size" "FDBE67ABCEA9E8D754767AA8D15B31C7"
+				"download" "91A28DFF728E6A3136B975A242EAE342"
+			}
+			"xt_test_3"
+			{
+				"gid" "0CB904339B24A7EBBD9A4730C9EE6789"
+				"size" "6E6CCB6FB879DD25AACBFB00C1180762"
+				"download" "D101B5AA465562CE5B585AE4FF961BD8"
+			}
+		}
+	}
+	"1222677"
+	{
+		"config"
+		{
+			"language" "finnish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8342171604155528923"
+				"size" "10881993"
+				"download" "10296048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "53C18E68962EB316EE0D7ECA8C0FA681"
+				"size" "2E57C308DF4690AC1D89AE6E20D5A5F4"
+				"download" "0C341449C9E36D3DE1FF5C9145DDED51"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "140D464A52955BF6CCAB3E7636646835"
+				"size" "C873683DCA9FA975BF1427CA4B013AA4"
+				"download" "8848936CE18BA235C5AE80909E9868E9"
+			}
+			"debug"
+			{
+				"gid" "75F3BCA59058F35DA7F95F5C3EF3545B"
+				"size" "3A7CE305DFDDDE3A9023FF68E601D663"
+				"download" "90C7443DF176C35C3C38C7EE7B3B4BC7"
+			}
+			"eacc"
+			{
+				"gid" "79F345B142C916834F47507CA8856141"
+				"size" "EB16A5F71891966C73AF8CED31F1E997"
+				"download" "FE824D2039F69B8E94032E8633E944C3"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "9DD8F4DCAE9E3CE51851377E4C862036"
+				"size" "EBBA8281AFAF379D10E249AABC0AA385"
+				"download" "5B3C8FE372596A03C03D2A511CBC105C"
+			}
+			"maxis_testing"
+			{
+				"gid" "467710EC8FAEC9FF6D70193AA5D6B831"
+				"size" "B1B3093F827C3809CC8A9647D9885413"
+				"download" "F73D2351925E4592818BE7895BB4E547"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "CBBEE8BC88430BAC622FC53D7163DAE5"
+				"size" "93D75907948CE983296685C9469778E2"
+				"download" "BA2FF0892004710977894A9FD3C2C88B"
+			}
+			"xt_test_1"
+			{
+				"gid" "5BF4CF96B43B387CCCEE74546785351D"
+				"size" "8D844329502A1CDDD55783E339CCAFFA"
+				"download" "21321A08B159944A867D02067B0DF6F7"
+			}
+			"xt_test_2"
+			{
+				"gid" "F74AB3C82BDD2A79A2A379EEF239B23C"
+				"size" "DD7C3F63B7CE57450B506AB15F8E45EE"
+				"download" "C06D1A5E82DBDE00BF72A9CEAD93CEA9"
+			}
+			"xt_test_3"
+			{
+				"gid" "D31037C536B3F465E4C05751E670462A"
+				"size" "5A4AC4FFAE0E17D7BE54F4F06E6583E1"
+				"download" "5A3D1D1E7B40FE84689BFD466DCE677A"
+			}
+		}
+	}
+	"1222678"
+	{
+		"config"
+		{
+			"language" "french"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "954344936122693564"
+				"size" "10689304"
+				"download" "10058816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "3C06534B41F62E488C6273195253F664"
+				"size" "31B5638C59E00E9E7D0A50CF93F1B978"
+				"download" "2B121E0A08DEE648FA003CC7DECFB29A"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "CC9E034C8E56D876A948DACADC12B80F"
+				"size" "CFECFA279F84B018162AB2867002F21C"
+				"download" "14873CB0A568D5B257B8DC7ED6B4F346"
+			}
+			"debug"
+			{
+				"gid" "B5854D9E73128C424519ECE4B3DCF3D8"
+				"size" "D8EA513DE74EFBAB8606256379CEEF59"
+				"download" "61BF5017FE6FCBA4A1B6A42B95753756"
+			}
+			"eacc"
+			{
+				"gid" "C930643532726B19DB0D4A4350334971"
+				"size" "EA2C7DBEF7E5C2F2DFE858E5C38BC94B"
+				"download" "7ACFB111773D55C2DF9CA74974ED590F"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "A34DE0F09EC9B7777C5407FEFA2176DA"
+				"size" "5F33538AC5772FC9E09A186804876257"
+				"download" "A63A58F46CE92FAAC344F57D5B13B83F"
+			}
+			"maxis_testing"
+			{
+				"gid" "F87DAB83F874BA4A07AAEF97F2A6E82C"
+				"size" "E7ABF14E12C2F9E50A0B2B4CE6236053"
+				"download" "7E33EB9DAF0FCE290C82DDB44C19D686"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "751B88C57C5DD10A0EAFD486A93FCC1B"
+				"size" "370BC84E06CC347EB8BFCAC06EB6BA7C"
+				"download" "A4B295C548D7D6B2E24C0CFC5715999E"
+			}
+			"xt_test_1"
+			{
+				"gid" "EFE24B2DAD46C0F4F8ACE981E9301F4D"
+				"size" "5B028C5DF79B919FBDFA9CA2512B5552"
+				"download" "FAD677B51C45ACD456168DA687268549"
+			}
+			"xt_test_2"
+			{
+				"gid" "E68B504D9B7F0F55B1DC594708396BB3"
+				"size" "4F8B0511684BAD804E534D2ECAE4C644"
+				"download" "5EFA4BD91359AB8F98476E7EFA4AD328"
+			}
+			"xt_test_3"
+			{
+				"gid" "E3395FA5F4C967B21E1BF5A8D143330C"
+				"size" "972E03CF21B974DAA715A68F5DE418B9"
+				"download" "3F34F4C032D1794FA94F0EBB2546597E"
+			}
+		}
+	}
+	"1222679"
+	{
+		"config"
+		{
+			"language" "italian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4796439800202231480"
+				"size" "10460934"
+				"download" "9843936"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "343F49D81F3FDCE07E6CCC975FBBCA83"
+				"size" "65038AB94FFB84E9BB669CB4EAFC308E"
+				"download" "FF369079FDDD20FE7AD7DC488B959C73"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "7DEA242F579FA4E3A0EA422A338B1E35"
+				"size" "3E06165E13BE4FC76D8A59563424C2BC"
+				"download" "03F269858E582F600E3C6EDC231B8490"
+			}
+			"debug"
+			{
+				"gid" "81EAB566316A48C965090286D1D2DD1C"
+				"size" "D128C0EE9FDF9410B976B8FDE84AB46F"
+				"download" "CDB580F5A06F1E89960D1E7A8FCB2FEC"
+			}
+			"eacc"
+			{
+				"gid" "DC50172E3BE9AF734AD51870E5CDB8BD"
+				"size" "FE88045502B5C860472FC13E5E24116F"
+				"download" "23439175628D49D5134DBDC4292CB758"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "E2640D6154DFA30B588A49932E3180A7"
+				"size" "BBC1BF3ABB73A558950098C13CFB4055"
+				"download" "2009BA68FD4B72F0F8C3944AD3044433"
+			}
+			"maxis_testing"
+			{
+				"gid" "8EDA2D672C49D68E58DFF23E1FF8C330"
+				"size" "5859A4CC278C21AB22B82155B221C170"
+				"download" "B476F7F3D8FFC7F1DCD99518EA9D8EFE"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "42B58E213DBDCDBF856CA295D6E61A34"
+				"size" "7D15C35CB29D315D6DE90EEBBC94C5D5"
+				"download" "A6BC45178E514B07C7EF8A863955249E"
+			}
+			"xt_test_1"
+			{
+				"gid" "EFF87AEC45560CEDBE318D013CF5E3A7"
+				"size" "77FD67A28465B08A6B666B82D84948D0"
+				"download" "63BE395F3DC9B98012DB81D0BEAA83A9"
+			}
+			"xt_test_2"
+			{
+				"gid" "3D28C818A12C04ADC0E5618A8AC8867C"
+				"size" "3AA3AD7F66C4F83A65D718C5D44C3E62"
+				"download" "382317296C12B9AC2F39391DB908D035"
+			}
+			"xt_test_3"
+			{
+				"gid" "7C9F5CBB14B5194E4A2E64857D4F5198"
+				"size" "909659C72C1825545B463920B653A079"
+				"download" "E763F85EA55F159F25BC86081A491DA2"
+			}
+		}
+	}
+	"1235723"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4424622728665386202"
+				"size" "10862898"
+				"download" "10217120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "6DE927C131CC7CA1DA7340589504177B"
+				"size" "AB4A58557A0EE223EC47B5B422B8F6A1"
+				"download" "FA24B861F7C83F754B825A87C3C26A02"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "9BEE0176209229D9F7E15C5A1A1F1EDF"
+				"size" "A91336BBADAA145A09E5EA7CA7A93215"
+				"download" "B07C8113FE9C6AD814C521FE35D33900"
+			}
+			"debug"
+			{
+				"gid" "EA788FECEF7E477504713803577506F0"
+				"size" "7E12B84F1C24D29D21AE8318D6D38C67"
+				"download" "1C1EE79A4FB0FECC72B2EAA49F09FE7A"
+			}
+			"eacc"
+			{
+				"gid" "75B1CE70F9AC422A79BD298B8672527B"
+				"size" "80BCEAB1D332F09F32AF11F8B76A76A2"
+				"download" "330E4D92673DD7B895451A30B306DEDB"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "90DF1804958E47BEFDF40E97FB4EDC62"
+				"size" "66B40CC957BC9F984A286BFF6D3A2E6A"
+				"download" "53E78ACD5C0D267B344C3CF5D13A3BC1"
+			}
+			"maxis_testing"
+			{
+				"gid" "C4448D953AB80CFE55DEF8AE5091D34D"
+				"size" "F7303A12BDA448CCA8D3C5130EB895ED"
+				"download" "70622E330DF83560DA3B1056EFDFD41C"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "A89A655703990A3E762C89AED091D472"
+				"size" "FC90C2C70C1CAF40DCE85CAF2DE262D3"
+				"download" "310D8C82AD693FB9EEF357D361502D02"
+			}
+			"xt_test_1"
+			{
+				"gid" "97823E47171D521D9366F673120B96EC"
+				"size" "A08137B45F83DCD05D586082481776D2"
+				"download" "A382738F7DEFE43C6DF0A9E6C43C5308"
+			}
+			"xt_test_2"
+			{
+				"gid" "0983A368059C760D0274B9E7C1B6D1B5"
+				"size" "2D305325C13A07B3C8A23FA076C9228A"
+				"download" "E372963C8FD3253D1C5D04F0857FE885"
+			}
+			"xt_test_3"
+			{
+				"gid" "463697CFB8C272AE10ED6430AAA2C635"
+				"size" "029550130EAFC0DFAEFDF44C73A39F8D"
+				"download" "1D51C080A2452D99F1A6FFF834187448"
+			}
+		}
+	}
+	"1235724"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5256856739891798049"
+				"size" "14146387"
+				"download" "13386240"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "DEE0F749E119D736592A5A54123B42A2"
+				"size" "0C073619606647586DF4DCB344372DB3"
+				"download" "0A43022AEE47022630AD5AC099B07623"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "404FEDF79E3DE18A2221EF8FB7A486D3"
+				"size" "9011E9FFB5BE31A471EAB845149AE51B"
+				"download" "2582E16D0F8C41E8D97618ABEE13F4F1"
+			}
+			"debug"
+			{
+				"gid" "318E4308B4E45EE8F660E3F179886E4F"
+				"size" "63ADA31CA83A68D0D13B17BAC08B825A"
+				"download" "ECA9AC4CCF8578F4D481D874D6E7050B"
+			}
+			"eacc"
+			{
+				"gid" "5B882C5F4B40BDB2A6ECE7E0BDA74BC8"
+				"size" "FCE2D5AAF1CEFC78349BF57739B12861"
+				"download" "028B644B4D47F7504F16D4B27C1F6957"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "3C03B2B2060B8811AB2088E8E12EEA80"
+				"size" "B7F1387CAE2FF82963F9CFB6976565CC"
+				"download" "B658E216C0B4EE8C68C3B24189486B1B"
+			}
+			"maxis_testing"
+			{
+				"gid" "E6486771D638F92A79ED61BCBEBBCD28"
+				"size" "47E0E6A03AC63302593641712ABA6E6C"
+				"download" "925DD09065044B5547F925FF4F7AB199"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "58DB665C4059592C65D8B8DB18BC2A47"
+				"size" "58CA5443A56A8E3FBC273EEE5CA70CD9"
+				"download" "12001C9E98DEF954FBEC3C6FD4E2F70E"
+			}
+			"xt_test_1"
+			{
+				"gid" "FD1F74A43F1E3DD9A45187A35E8D3C38"
+				"size" "BD98AB62F89C01A1BB27A3A11C2DCB88"
+				"download" "BD1EF9C3D236E6D2CF1AF9B26A5AF14B"
+			}
+			"xt_test_2"
+			{
+				"gid" "E30858E603C4E351A8AFD8B943EECF16"
+				"size" "1EE8BFA63A6C26F3DA2A83610D8802BB"
+				"download" "73C7F8E72DA2E1CF47534F4B2ADDD12F"
+			}
+			"xt_test_3"
+			{
+				"gid" "65635E6922B76A169BFA0C4C8AF4F60D"
+				"size" "47E8C3173F4EB01E4B957C2E88443073"
+				"download" "25079B1A1C63B993C6E16DC642D6BE5C"
+			}
+		}
+	}
+	"1235725"
+	{
+		"config"
+		{
+			"language" "dutch"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2120850013292636153"
+				"size" "10641904"
+				"download" "10042640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "8F4A1FA683F0EF7058AFE7A0C62D74A7"
+				"size" "51EF5A214545B0FE4ECF709D6AACD053"
+				"download" "4F25586FCDFCEC0BDB3EF73251475232"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "6C883E291F892A755DDEE3901CF944BF"
+				"size" "2F4917D350B4AB9F81EEB6DB0D57C3B2"
+				"download" "E714AD1AB4196FF9E3368865D06300A3"
+			}
+			"debug"
+			{
+				"gid" "8380E3C28668EFDE43A1AB260BEE959D"
+				"size" "43FE42EB115F52AA7F30998EBC0689B8"
+				"download" "57F7B6C4E263C65C96CA99F6AC18D9E2"
+			}
+			"eacc"
+			{
+				"gid" "5F6D9D661DF142F8E2EBD2FEF16BF01C"
+				"size" "F6B6AFADB2EE60DE4BD3E53BAE4ADE7A"
+				"download" "414AA55819544A07E5DA8553638CEDE4"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "7A7971A2D6B23147016B3923938B400B"
+				"size" "93D0018F8AD834747E05DDE4287E2B7A"
+				"download" "317BDAAE2B9348985718A661EB1C9646"
+			}
+			"maxis_testing"
+			{
+				"gid" "F17B19D2DA95791BCD7F053C1530C731"
+				"size" "93EC82A2E1CE4E91EF6E21ABB6FC7B05"
+				"download" "35C899503C04F143CBC94643F1ADD4AD"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "4E26F6E8EE343929FC35B586CF681342"
+				"size" "9982D2467C9233FF151D0E91A7037966"
+				"download" "3D65D8B9B1E10D6A04D7796DD1024A9B"
+			}
+			"xt_test_1"
+			{
+				"gid" "8803D6009DBEDA854EE595CF7E7DD81B"
+				"size" "5EC1BF1148215AA37E43C2D16F2A26FF"
+				"download" "7063543538EDC778B74FF8521D9EC9B6"
+			}
+			"xt_test_2"
+			{
+				"gid" "B78330CE4A2F8AE8901D0338458973E8"
+				"size" "5625018D71B06F426558C0F92A5ED0ED"
+				"download" "1BBBFF1F074FAFE05842F8A406D7858C"
+			}
+			"xt_test_3"
+			{
+				"gid" "12B168E2D5D5F3C78A61F724AD961077"
+				"size" "AE23A8B24C4C1D602C7A683BD054B415"
+				"download" "79DB82F6295BF82156C2FC5401D9C536"
+			}
+		}
+	}
+	"1235726"
+	{
+		"config"
+		{
+			"language" "norwegian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8999031564449331165"
+				"size" "9911843"
+				"download" "9348256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "D26A9CD940A8E85981FA013B1C9509C7"
+				"size" "95717F9051B3BA2C1B519F24E2F7CD77"
+				"download" "536F2A3E02FD5D7E0EFF6D2BD0F5323F"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "1EF9467CC5782418EB94B45BE0A36F67"
+				"size" "8A90F08A00F9E07E348BD887497B2339"
+				"download" "66B2EE4ACAD3DF7E9BD5D3F80B4108A9"
+			}
+			"debug"
+			{
+				"gid" "6AE88FEC4BB6F89632A604C5AB86A26A"
+				"size" "C7474F70BA92F9DC076577B4B778D92D"
+				"download" "24D1393ED13200210B4D426CB3A4B353"
+			}
+			"eacc"
+			{
+				"gid" "F3B161950115F78029D8E9BA56775F0E"
+				"size" "F3A712100E4B64A5CB40CB5BD24BC145"
+				"download" "C6134284C8D9F801719877179B3CDB31"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "2B1CCF64240B49AEDA8B75A0D017512B"
+				"size" "70E0E809EC5D9C049801F34719BAA4E9"
+				"download" "32C66B02F56D2901AF4EDCA45BE3DF3C"
+			}
+			"maxis_testing"
+			{
+				"gid" "4B8E9157A1CC1B6F663BBE2C83E0EBDA"
+				"size" "EDAE3362D6E26D4E9D4FBB0C7A581499"
+				"download" "A1D24FB80A75B2B14352694140B27B8A"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "B447EADB2DB3E41738DD9B11C9FF3DDD"
+				"size" "79F2C1A9D2AEECCABD6D03FC18CF3848"
+				"download" "8915E605D30A4A8E6980A9D83E302CA5"
+			}
+			"xt_test_1"
+			{
+				"gid" "D02E734FFE77EE10D2F00808672A2EB5"
+				"size" "D17B2CF5FDC6F92872086E2E6469A45E"
+				"download" "5DC738EFB7D80715102C3ACE75D849D8"
+			}
+			"xt_test_2"
+			{
+				"gid" "B83BCE34E1802EF1CAF048A23D35F020"
+				"size" "B91BA1965FCE717CD2602121F5055AC8"
+				"download" "39A1DC3A3160FB5587125438C73E98FD"
+			}
+			"xt_test_3"
+			{
+				"gid" "B5F673143FC3D8282273A11EBB5E8B38"
+				"size" "AA4057BAA0545B62DF4C11C12C5D3335"
+				"download" "64FA2780E04DD45CCFE246DB39E2CF50"
+			}
+		}
+	}
+	"1235727"
+	{
+		"config"
+		{
+			"language" "polish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5374384422227732302"
+				"size" "10980679"
+				"download" "10316880"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "7A33FAB5A0F1E2228953ABA40D7F8645"
+				"size" "644629C0F90F350ED36FF1CD7AC3AFD4"
+				"download" "FEBE720A97697E567E3CB0D9D0B116E1"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "0E41326B417B25A9CF3B0AB1E5BDCC82"
+				"size" "9C4B539ED948869C8B1B0C0F83ABF8A6"
+				"download" "6C5BD85A35AE6E26F8BAA7105E85F6CF"
+			}
+			"debug"
+			{
+				"gid" "0188F7EACC09E19C995946B0F2A62D11"
+				"size" "9E2F24309E3B761BCCC8D66E89705002"
+				"download" "C344A9E2A8E01C327E42AD19D32DF2E3"
+			}
+			"eacc"
+			{
+				"gid" "3E12D5E26DED88177215D65682552E90"
+				"size" "AE14E7A1798DD83A6D0FA1E3F15C323E"
+				"download" "E35819A397F4193C0F3AA8506B78AFA1"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "A5B4E559BC5E2151AA4D918EDB6BA5B4"
+				"size" "38873FBE5BACADDB57CD9C8828FF0D9C"
+				"download" "501D1F9CBCAB5D2FFD2B10032AE21700"
+			}
+			"maxis_testing"
+			{
+				"gid" "0D837D99B63B63D959A2C84D547A6FAE"
+				"size" "D52FCC51F4FD773A73B14D02D92A245E"
+				"download" "927A93AFE29651828293C1AA80FFA170"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "331BD8CBCCD82BF71C35B5A331DC46A5"
+				"size" "03B645F3BF500FDA62775F55F48BDE3B"
+				"download" "CAF69E61001D99E811F32F10B0555D60"
+			}
+			"xt_test_1"
+			{
+				"gid" "D67FEEC69C05D330BDA86FAE598D74B0"
+				"size" "138B34089EC1A00ECA59C7B0371663C1"
+				"download" "C7F363B35AD3501030DFA4C84088F22C"
+			}
+			"xt_test_2"
+			{
+				"gid" "8A1E9E8C44D24AE7E69EE6C54F037EB3"
+				"size" "E42F6FF4917AFC6BD97A4A3C0DE47608"
+				"download" "DC5AEC3581F3606298A7AB551B224570"
+			}
+			"xt_test_3"
+			{
+				"gid" "9400F1DC0B48B952BBE7148893487D18"
+				"size" "906B5D80073C3281BAD14C33A9509951"
+				"download" "3EDC7151A0012DAA740CC65110E55304"
+			}
+		}
+	}
+	"1235728"
+	{
+		"config"
+		{
+			"language" "brazilian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5007275321206714856"
+				"size" "10574608"
+				"download" "9992224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "0AE819A2B805270A6C2493C36F053EC7"
+				"size" "B2BDD55717351F73078A1CD158058B9C"
+				"download" "FC5B6E0AB5721EC09300304E743FE0D8"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "C9AE421B6C48BC2A906256F79803BA6E"
+				"size" "0C59EA7C79CC2CC57C6D4684B4DF7C23"
+				"download" "B3EB821AB9D3A895D5AE1E76B3ADFD6F"
+			}
+			"debug"
+			{
+				"gid" "FE414A82676E5FE28209FEE33B032166"
+				"size" "7291815C89A1AFF5941E60E38E4133FD"
+				"download" "AF5860314FDB8D96CBFD2B98253F77A3"
+			}
+			"eacc"
+			{
+				"gid" "255EEAC4388FF5000EA44014678DF53C"
+				"size" "D4A282F2EB5898CBDE78158698D22658"
+				"download" "C21851A333B663A2C966132951BFFDC7"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "25F42942B7CFF4D0EB75DAB069C83670"
+				"size" "3609147F9039037CD4055BBD5A7735B3"
+				"download" "2E48EDCB3086FE18CD4416BDE1FA7A21"
+			}
+			"maxis_testing"
+			{
+				"gid" "DE66B296E210ED7D5D61C8ACD099711F"
+				"size" "D2FDC1CDEF6A79D49AC9D1ED10A9887C"
+				"download" "9452AC8D5F07ACDE691DCB9BF67C0CA5"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "3C8E3573E3244D3809F746A41E8D34F9"
+				"size" "D02AA36B6B3A58FD3015D4A9B617259D"
+				"download" "E8DF6CC843D00AA3D00FEA47A2EFF7F9"
+			}
+			"xt_test_1"
+			{
+				"gid" "FC1B8B36A65260ABDBD32A01A6D897EA"
+				"size" "A0365CB139250BC387776DD1E559EABA"
+				"download" "FA7FC61FE7B20C2792EFFDE059ECB5CD"
+			}
+			"xt_test_2"
+			{
+				"gid" "AEB4D43C30D544199EC5B940A1B58CBB"
+				"size" "DE65A144D7E21E099E78C1135896123E"
+				"download" "9D543CB6F66B2810030CE4FDE400649D"
+			}
+			"xt_test_3"
+			{
+				"gid" "00391F7C32592B7B5F11B84E7109C388"
+				"size" "D11D04BAB6E4C1DD6914E9E1395890C0"
+				"download" "B8CD9A0EEC4E22F37802804CC7F5F791"
+			}
+		}
+	}
+	"1235729"
+	{
+		"config"
+		{
+			"language" "russian"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2095339452499074848"
+				"size" "12311212"
+				"download" "11518144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "5D82B0BDF1EA13FCEDCB09765BA0DD9F"
+				"size" "84C513E10F02CD56B95A7F2A49C13BC7"
+				"download" "85249BB5AF55612974D3144F5ED2D147"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "948AB0FCDCBA11289A4A29ACB10CD738"
+				"size" "B9B3E6AB24219804869792BE00B13100"
+				"download" "3C370005E21D60B02E012E257DBA98BF"
+			}
+			"debug"
+			{
+				"gid" "F53EAAC82E205A6D131960A52D294D4B"
+				"size" "11AA9C701FE7C7C15DFE32B119FB6C53"
+				"download" "C8507BA56829C8BA77A7A200697FB4CC"
+			}
+			"eacc"
+			{
+				"gid" "AF090D01CA54C70CEFE4C481E5C1F839"
+				"size" "0F10E1712C7BBC0C7C98560E334E20D9"
+				"download" "71B5C80F8DF8C01CAF91468D9B73B355"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "8CB1DC980CF924A14F505FC17F563574"
+				"size" "C202E53DD32E0B23C200718AD3402E65"
+				"download" "CC35A13156E090FF4A1D32F272BFD284"
+			}
+			"maxis_testing"
+			{
+				"gid" "538E0EB9E7EAEE4E7F5196D1C707C128"
+				"size" "4532E63B9F549906709F50291FFAB9AB"
+				"download" "3ECF8E60DF4E6130CF6322083270EA41"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "774BC269EBE434A38561409C0054DAA2"
+				"size" "1FC051983F06A9167487990451B59F23"
+				"download" "84EA218B9EBE29529F4824944F38E6D0"
+			}
+			"xt_test_1"
+			{
+				"gid" "C464E75BE4194A57721351C267AD494E"
+				"size" "7B7F2D54F2FF06D70BB0C11117DD9D3F"
+				"download" "4BFC9D94C956DCB874495CF451C9E9C6"
+			}
+			"xt_test_2"
+			{
+				"gid" "BD0EE3DE0DA7009361258A5E2EF5F83C"
+				"size" "8D19D6F2F0A52BCAE883BFACBF57E28E"
+				"download" "0293543D73CD2608656E08C560F92FB0"
+			}
+			"xt_test_3"
+			{
+				"gid" "DC9D39F88A7FE5551D9FCA20A6E0FB7B"
+				"size" "1B2747BE1F86D86F367F51416165C4EF"
+				"download" "A1FB8010BC3A40B8383784BB01C36F94"
+			}
+		}
+	}
+	"1235735"
+	{
+		"config"
+		{
+			"language" "swedish"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5301886941350209507"
+				"size" "9433591"
+				"download" "8852128"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "7A21F66ED6C4115B9F6F94F2C863CC2E"
+				"size" "4E815CC9E55992C6D025098B4934A9F1"
+				"download" "3A7B5D4F5EC9B90980459974466CCE65"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "3AEBABF5947C97501AFF24D8A05C96C8"
+				"size" "5644B19EB510DBE9B7E6342F9B5AE3C1"
+				"download" "C500B386C8AA108FB8C3A6A43AB64885"
+			}
+			"debug"
+			{
+				"gid" "39A1A5966EB29F8C704326A5AEE4A117"
+				"size" "D2AFD2C3DAD06520F6528232C6A72F08"
+				"download" "E2A8800C554159A9A6DCAB3B81907DA2"
+			}
+			"eacc"
+			{
+				"gid" "3E68ECCAA4C3EB97C5118AC58D65B47A"
+				"size" "9D26F50B4D8AD6DBC5DCBF53333900E8"
+				"download" "F524DAD78545D993E551C1FA962D3865"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "82DD6D2EBEB325737000793BC1D5B69F"
+				"size" "DB0655235D7CE43BAE05B78BAACA53FD"
+				"download" "186BEC1E7730D5EF0A3B753021E086D0"
+			}
+			"maxis_testing"
+			{
+				"gid" "74809C7AA96B22A12E3F0A66C2D5FB52"
+				"size" "09071FE50286FD346009DA5D72647180"
+				"download" "C2697DC9E60E3A4AC3752365874209E5"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "ACBC35761B80C358732238F4D2EA7ED1"
+				"size" "CF19183066C3AE294EBD6551D664A577"
+				"download" "5BC03066F0BC4FF5D61E200F161F661E"
+			}
+			"xt_test_1"
+			{
+				"gid" "8CAAD4D295AC82834D5876370B528989"
+				"size" "185B79A0331C61B8E01A3850F172EE3B"
+				"download" "C7914D718316616E40D9EF1044792499"
+			}
+			"xt_test_2"
+			{
+				"gid" "46B2934F20FB6B8F7D3C2FF8DC46C3B3"
+				"size" "50A9BFCCE8BA9A76FACCC8279AF9A551"
+				"download" "1AE902F31CF9C38782AA86E56C845B7D"
+			}
+			"xt_test_3"
+			{
+				"gid" "42EC8C1690B42A15926EBE3134521C4D"
+				"size" "D2AFA479CE472DE7441352A9D46930A0"
+				"download" "B69FE3121DE897054E8BFE44F923B41F"
+			}
+		}
+	}
+	"1235736"
+	{
+		"config"
+		{
+			"language" "tchinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2802614246963621594"
+				"size" "11604533"
+				"download" "10974432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "9D5ED9BC853A86CB27BB8CBC24CCD4D8"
+				"size" "7580EC62F2E8327861181A52E368D71A"
+				"download" "F2C07B5A3BA970915074EF7EFF85490B"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "329EE91435C7C2012EF467862732B944"
+				"size" "4F0282B354D7F93D9DADBB8ABA413ADB"
+				"download" "891D376BA279BDEBE0815631996FE8BE"
+			}
+			"debug"
+			{
+				"gid" "0FA610D75CA580946C46F9CC20E0A184"
+				"size" "D1B9C3974E039C45A81E9AAFEAF3C484"
+				"download" "0CBBAE7DB1FFD682F23487925AFC699C"
+			}
+			"eacc"
+			{
+				"gid" "7753ED605B8A018649D6DA05640C6277"
+				"size" "138571FA4330A6ABE7279936C30361EB"
+				"download" "F8D2BD982A020BBBFA798221F8840E9D"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "7FEB349FDCED9143F47CFC9D11D07487"
+				"size" "6D277AC2000946C465BC3A8901B20052"
+				"download" "FF2D62A82F917D215DA88258A95F3554"
+			}
+			"maxis_testing"
+			{
+				"gid" "7D5FC63FB66A271DA5C044409DAF2ED4"
+				"size" "E1F03C512C5406A63C68A2CD37E7DBB6"
+				"download" "F989E62602EDDE08251FB01BE76395B3"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "05F204583D8224EAA063462091BE8A20"
+				"size" "972A53D14614AD0F00B7F77212DD6F4E"
+				"download" "35CAC404D0DEFBE7EE2EA0FD632A0BB6"
+			}
+			"xt_test_1"
+			{
+				"gid" "6E918A94900B9F218C1025A1E3FFC109"
+				"size" "87561AF7B4E761BEE7FA7F157984B7B9"
+				"download" "14AEEED60C7E061D669511AB97A8CD70"
+			}
+			"xt_test_2"
+			{
+				"gid" "4BE6E4D3A4613AD12656CD7BA681291D"
+				"size" "C465E131AC6F6D77077E5F5EDE094676"
+				"download" "FE54C899B979BAE3206C6DFC13271759"
+			}
+			"xt_test_3"
+			{
+				"gid" "E79F8D8F515B502095CD0A64931B7D97"
+				"size" "E4C28438BD2E19AB7300A3134414F0E5"
+				"download" "EC9447E7865A52B925D61C5BBCE6F1DD"
+			}
+		}
+	}
+	"1235737"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3533496714913673090"
+				"size" "13581832"
+				"download" "12983184"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"eacc_ead_stage"
+			{
+				"gid" "1F1BCA78E416A43AC8361899A7224A34"
+				"size" "3AAAE074CE255757F4EE51C184A88686"
+				"download" "99B519DFA1C2A447714C2718ADE197A7"
+			}
+			"maxis_testing_3"
+			{
+				"gid" "49C385A75249D6D3A7B783708838EB71"
+				"size" "F5D6019F53E6F9CBEF3D0B2F91AD7F01"
+				"download" "406D4F49289DF82D59B97D413D597AD6"
+			}
+			"debug"
+			{
+				"gid" "8B02A4AF53F46E50E17BB631E6202C03"
+				"size" "62CB1564A481627346DEFBDB91CD040B"
+				"download" "497641B4AF507C526A8420F6CC5B788F"
+			}
+			"eacc"
+			{
+				"gid" "1BC14E8C7C279FB28363BD9176B0114D"
+				"size" "CBF223DC344E8308FEF50458D5AFB6C2"
+				"download" "4FC1F2ED813D79C76063310FEE3B7033"
+			}
+			"eacc_beta_branch_2"
+			{
+				"gid" "03777E6957A3B9FA70C3B30C44136494"
+				"size" "432EA28850D3AA3E4129AEFB3D41575B"
+				"download" "36BE4153C99DA2C87748EF0000F003DA"
+			}
+			"maxis_testing"
+			{
+				"gid" "F76EDE4F5537486DF9116D0457208A72"
+				"size" "635E8770E188AF9AD048B58668D6C51A"
+				"download" "3AC0991F3284DE44005F24D000BBB4F1"
+			}
+			"maxis_testing_2"
+			{
+				"gid" "61F92648DDFB1BC70E8719CD865DD8AD"
+				"size" "46A1D4A361DB25C75AADBBC8548A787E"
+				"download" "391B0157596AAC674A4FD6B9A37E2201"
+			}
+			"xt_test_1"
+			{
+				"gid" "09A6F999676BEA826519A30FA8601A7A"
+				"size" "60D67959D460A6E3AE1F2C212567FCDC"
+				"download" "E7F16164AFE9EBEE9E3FA631E0919A6C"
+			}
+			"xt_test_2"
+			{
+				"gid" "6228D9C6C780F89E34A03895A6EE66CC"
+				"size" "5D62C3E849C0C8EEDD24589A0F1A3C60"
+				"download" "EB571DCDEB11C746D02A5BB1158969F1"
+			}
+			"xt_test_3"
+			{
+				"gid" "9490166A299BF26FDDDA34C5B7D5DF70"
+				"size" "B09EAE4E40BFA76BA0AC68D55DBC6D4B"
+				"download" "7088EB0DD2290972CDFB9E802617F5E1"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,finnish,norwegian,swedish,czech,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14602726"
+			"timeupdated" "1717693224"
+		}
+		"eacc_ead_stage"
+		{
+			"buildid" "10343757"
+			"pwdrequired" "1"
+			"timeupdated" "1674001240"
+		}
+		"maxis_testing_3"
+		{
+			"buildid" "9209712"
+			"pwdrequired" "1"
+			"timeupdated" "1659028696"
+		}
+		"debug"
+		{
+			"buildid" "13684925"
+			"pwdrequired" "1"
+			"timeupdated" "1714174297"
+		}
+		"eacc"
+		{
+			"buildid" "14797106"
+			"pwdrequired" "1"
+			"timeupdated" "1718988657"
+		}
+		"eacc_beta_branch_2"
+		{
+			"buildid" "14698050"
+			"pwdrequired" "1"
+			"timeupdated" "1718231841"
+		}
+		"maxis_testing"
+		{
+			"buildid" "14709532"
+			"pwdrequired" "1"
+			"timeupdated" "1718305399"
+		}
+		"maxis_testing_2"
+		{
+			"buildid" "14523533"
+			"pwdrequired" "1"
+			"timeupdated" "1716923562"
+		}
+		"xt_test_1"
+		{
+			"buildid" "14281773"
+			"pwdrequired" "1"
+			"timeupdated" "1715732397"
+		}
+		"xt_test_2"
+		{
+			"buildid" "14281773"
+			"pwdrequired" "1"
+			"timeupdated" "1715732432"
+		}
+		"xt_test_3"
+		{
+			"buildid" "14281773"
+			"pwdrequired" "1"
+			"timeupdated" "1715732448"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "50"
+	"ignoreexternalfiles" "1"
+	"hidecloudui" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Electronic Arts\\The Sims 4\\saves"
+			"pattern" "*.save"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24087411"
+"_sha" "7b22e790336f298dc4f161c5131118e80cf2512d"
+"_size" "45867"
