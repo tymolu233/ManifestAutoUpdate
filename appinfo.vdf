@@ -1,0 +1,250 @@
+"appid" "1360810"
+"common"
+{
+	"name" "Office Life"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"logo" "eca0047feba3b16454011691b427d216d2de1d15"
+	"logo_small" "eca0047feba3b16454011691b427d216d2de1d15_thumb"
+	"clienticon" "aa15bc9ad224e1ec2cfaba5abe88a31fca03c96a"
+	"clienttga" "d5f733991f8f20bb1ea01e7bb69267d5b18e8dc2"
+	"icon" "1a2d2d130f9996a6a38f39879db2918b53d07ecb"
+	"name_localized"
+	{
+		"schinese" "职场浮生记"
+		"tchinese" "職場浮生記"
+		"japanese" "職場人生"
+		"koreana" "직장생활"
+		"english" "Office Life"
+	}
+	"aicontenttype" "1"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "66.99882312869273"
+			"height_pct" "79.9733953750272"
+		}
+	}
+	"store_asset_mtime" "1718073306"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "LeiYun Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2P Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "2P Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "3"
+		"1" "28"
+		"2" "2"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1716188365"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1360810"
+	"store_tags"
+	{
+		"0" "10235"
+		"1" "1742"
+		"2" "4726"
+		"3" "9551"
+		"4" "4145"
+		"5" "10397"
+		"6" "599"
+		"7" "122"
+		"8" "32322"
+		"9" "6426"
+		"10" "9"
+		"11" "12472"
+		"12" "6971"
+		"13" "4175"
+		"14" "4562"
+		"15" "4747"
+		"16" "1751"
+		"17" "4085"
+		"18" "791774"
+		"19" "16689"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "LeiYun Games"
+	"publisher" "2P Games"
+}
+"config"
+{
+	"installdir" "OfficeLife"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "OfficeLife.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"hasdepotsindlc" "0"
+	"1360811"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5467155105523495475"
+				"size" "2508509393"
+				"download" "1383073104"
+			}
+			"test"
+			{
+				"gid" "5467155105523495475"
+				"size" "2508509393"
+				"download" "1383073104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"bestlinker"
+			{
+				"gid" "6146CCD8F549A7A680AF51366D40829A"
+				"size" "978C2023F76EED97DF01FD8A68C3646B"
+				"download" "94FF5A27B70A4C79209A97ABDA3C9027"
+			}
+			"win32"
+			{
+				"gid" "5E22470D0BF5686B1D15E74AF07F7FE6"
+				"size" "BCA385DCA4F9D1AB71216B8F6D168032"
+				"download" "0ACE70B5BB0E0A43F059A2829D0FB577"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14779954"
+			"timeupdated" "1719211266"
+		}
+		"bestlinker"
+		{
+			"buildid" "5858209"
+			"pwdrequired" "1"
+			"timeupdated" "1605864802"
+		}
+		"win32"
+		{
+			"buildid" "5886231"
+			"pwdrequired" "1"
+			"timeupdated" "1606398223"
+		}
+		"test"
+		{
+			"buildid" "14779954"
+			"description" "测试版本"
+			"timeupdated" "1718879605"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "XiaMenLeiYun/OfficeLife/Save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "MacAppSupport"
+			"path" "XiaMenLeiYun/OfficeLife/Save"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24090011"
+"_sha" "918525cf6a5bba96edee342ef5d961ea674031b0"
+"_size" "4254"
