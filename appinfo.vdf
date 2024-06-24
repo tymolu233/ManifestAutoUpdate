@@ -1,0 +1,864 @@
+"appid" "1124180"
+"common"
+{
+	"name" "Rail Route"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"logo" "6d6c21551c000b8daf2adb76ec67389eecc30284"
+	"logo_small" "6d6c21551c000b8daf2adb76ec67389eecc30284_thumb"
+	"icon" "7ac0329499c7a12d621f44cd1428919ffb40d4c2"
+	"clienttga" "632f5d10f97d774a9477b5d257f23b22430cae28"
+	"clienticon" "5033c5b52fbeea8268d6bf2e6ddcb218547fb234"
+	"name_localized"
+	{
+		"schinese" "铁路调度模拟器"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"hungarian" "1"
+		"czech" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1706918400"
+		"tested_build_id" "13340249"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Rail Route"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "43.99066511085181"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1716189736"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bitrich.info"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bitrich.info"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1708592234"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1124180"
+	"store_tags"
+	{
+		"0" "1643"
+		"1" "12472"
+		"2" "3810"
+		"3" "7332"
+		"4" "4328"
+		"5" "4695"
+		"6" "1616"
+		"7" "6129"
+		"8" "255534"
+		"9" "1664"
+		"10" "599"
+		"11" "16689"
+		"12" "3813"
+		"13" "10383"
+		"14" "1654"
+		"15" "4182"
+		"16" "9"
+		"17" "3871"
+		"18" "4094"
+		"19" "1036"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Bitrich.info"
+	"publisher" "Bitrich.info"
+	"homepage" "https://railroute.eu"
+	"listofdlc" "2943430"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Rail Route"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Rail Route.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Rail Route.app\\Contents\\MacOS\\Rail Route"
+			"arguments" "-force-glcore"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Rail Route.x86"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamdecktouchscreen" "4"
+}
+"depots"
+{
+	"1124182"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2363736434745554034"
+				"size" "693597344"
+				"download" "357445072"
+			}
+			"2.0.16"
+			{
+				"gid" "8235220620200792118"
+				"size" "684073979"
+				"download" "354360704"
+			}
+			"backwards"
+			{
+				"gid" "4235177267307813062"
+				"size" "546960745"
+				"download" "275116960"
+			}
+			"ea_00"
+			{
+				"gid" "2252917913306425896"
+				"size" "344217120"
+				"download" "158132816"
+			}
+			"ea_02"
+			{
+				"gid" "7048757168507689652"
+				"size" "425377921"
+				"download" "197879200"
+			}
+			"ea_10"
+			{
+				"gid" "2684666872635733221"
+				"size" "589683881"
+				"download" "264487744"
+			}
+			"ea_11"
+			{
+				"gid" "7185562995777199951"
+				"size" "561960638"
+				"download" "271056528"
+			}
+			"ea_12"
+			{
+				"gid" "4697942390161312321"
+				"size" "547461889"
+				"download" "273928352"
+			}
+			"ea_13"
+			{
+				"gid" "4235177267307813062"
+				"size" "546960745"
+				"download" "275116960"
+			}
+			"ea_14"
+			{
+				"gid" "3713920515696485531"
+				"size" "548255011"
+				"download" "275707072"
+			}
+			"ea_15"
+			{
+				"gid" "2926452467567786500"
+				"size" "549501162"
+				"download" "276068704"
+			}
+			"ea_16"
+			{
+				"gid" "7070747054350419717"
+				"size" "560577844"
+				"download" "280165296"
+			}
+			"ea_17"
+			{
+				"gid" "372198834039979826"
+				"size" "570707170"
+				"download" "284260800"
+			}
+			"ea_18"
+			{
+				"gid" "2202208064084086219"
+				"size" "575603495"
+				"download" "287896656"
+			}
+			"rr_00"
+			{
+				"gid" "4263285142031124312"
+				"size" "684098365"
+				"download" "354132400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"angel"
+			{
+				"gid" "52F20E73AE896EFB5528BF3B34F2E894"
+				"size" "1441144ED489A1B166BDCB40AA1B6ECC"
+				"download" "573BA019B336419541DDFE74B4586C1B"
+			}
+			"devel"
+			{
+				"gid" "C920B678B74AC7A4F13723FC6A2D0C3C"
+				"size" "1F15072A0D901FBD76BA88667FA3430A"
+				"download" "E59D83039044DFA4E080AD8192C54632"
+			}
+			"smoke"
+			{
+				"gid" "5515B39378685BD6AF29D141608790CA"
+				"size" "D0BBE08B720F9A41F9E4913273323485"
+				"download" "C0BCDE4F662DFB4D2F626A703A493C89"
+			}
+			"staging"
+			{
+				"gid" "EF06D28126A4AA6D824B45D287A7A75A"
+				"size" "50125F88D3F6F2736098C898A37C78FE"
+				"download" "1FECA2D2F1EF6627ABB4A19712E7D6D3"
+			}
+		}
+	}
+	"1124183"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8980331352606939868"
+				"size" "744686113"
+				"download" "369403632"
+			}
+			"2.0.16"
+			{
+				"gid" "4810182184642124874"
+				"size" "735062325"
+				"download" "366180336"
+			}
+			"backwards"
+			{
+				"gid" "4394564244403279647"
+				"size" "573996754"
+				"download" "283382752"
+			}
+			"ea_00"
+			{
+				"gid" "6288877902804237982"
+				"size" "345442792"
+				"download" "158194352"
+			}
+			"ea_02"
+			{
+				"gid" "2208290056720359065"
+				"size" "451331047"
+				"download" "206012848"
+			}
+			"ea_10"
+			{
+				"gid" "2501684155079509063"
+				"size" "615148526"
+				"download" "272165424"
+			}
+			"ea_11"
+			{
+				"gid" "160836454814858782"
+				"size" "589055265"
+				"download" "279414880"
+			}
+			"ea_12"
+			{
+				"gid" "6132674081274554767"
+				"size" "574548245"
+				"download" "282293312"
+			}
+			"ea_13"
+			{
+				"gid" "4394564244403279647"
+				"size" "573996754"
+				"download" "283382752"
+			}
+			"ea_14"
+			{
+				"gid" "1891123255970877042"
+				"size" "575366878"
+				"download" "284101392"
+			}
+			"ea_15"
+			{
+				"gid" "8621919061864663945"
+				"size" "576531718"
+				"download" "284443872"
+			}
+			"ea_16"
+			{
+				"gid" "5070888420985939083"
+				"size" "587632821"
+				"download" "288463936"
+			}
+			"ea_17"
+			{
+				"gid" "6756667629439349179"
+				"size" "597816320"
+				"download" "292570032"
+			}
+			"ea_18"
+			{
+				"gid" "7315928163108936281"
+				"size" "602666316"
+				"download" "296019232"
+			}
+			"rr_00"
+			{
+				"gid" "8559890702204583876"
+				"size" "735197889"
+				"download" "366161216"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"angel"
+			{
+				"gid" "CF8FFD3BB1DBE360570460B98FECCCFB"
+				"size" "D0C7E29745A150580DA75554CA72FE17"
+				"download" "C74201A1F229EFE3D98729FCF4FB833B"
+			}
+			"devel"
+			{
+				"gid" "7D4BD7CAC28BA4DCE2D0F79A2AF6078E"
+				"size" "31DE808A3AAC273AB385D69B0C35A08A"
+				"download" "AA3B9824B2E391C60AA8B03E0D4ABC15"
+			}
+			"smoke"
+			{
+				"gid" "3F9E1ED3DD3791FEE7B9A06156E9C1D9"
+				"size" "76F205B69A3F34AB49FBBE0671DA1410"
+				"download" "CCA1106B9FAE4C031F9FE323C5045B98"
+			}
+			"staging"
+			{
+				"gid" "CC84EADC8CC24923FFA111A6E34CFA1C"
+				"size" "014CB01B1B313A390691BB60521DF1F3"
+				"download" "C26F913066293F7005CBD5FC05F3220F"
+			}
+		}
+	}
+	"1124184"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6942664869710475181"
+				"size" "723017827"
+				"download" "354753024"
+			}
+			"2.0.16"
+			{
+				"gid" "7672796533245307533"
+				"size" "713192476"
+				"download" "351470112"
+			}
+			"backwards"
+			{
+				"gid" "1638392473543241120"
+				"size" "592929961"
+				"download" "276431440"
+			}
+			"ea_00"
+			{
+				"gid" "8921543831234567872"
+				"size" "355605066"
+				"download" "159926640"
+			}
+			"ea_02"
+			{
+				"gid" "5642357138130762210"
+				"size" "469526962"
+				"download" "199384144"
+			}
+			"ea_10"
+			{
+				"gid" "4599254043712375369"
+				"size" "634682080"
+				"download" "265591232"
+			}
+			"ea_11"
+			{
+				"gid" "8489853254545332389"
+				"size" "607996105"
+				"download" "272286880"
+			}
+			"ea_12"
+			{
+				"gid" "2045205498365159529"
+				"size" "593522932"
+				"download" "275222432"
+			}
+			"ea_13"
+			{
+				"gid" "1638392473543241120"
+				"size" "592929961"
+				"download" "276431440"
+			}
+			"ea_14"
+			{
+				"gid" "8793388851602049043"
+				"size" "592952257"
+				"download" "276757232"
+			}
+			"ea_15"
+			{
+				"gid" "118611670834230612"
+				"size" "594174258"
+				"download" "277153888"
+			}
+			"ea_16"
+			{
+				"gid" "3118470219844545812"
+				"size" "605269457"
+				"download" "281351696"
+			}
+			"ea_17"
+			{
+				"gid" "902613183786040356"
+				"size" "615424467"
+				"download" "285303232"
+			}
+			"ea_18"
+			{
+				"gid" "7281518682738233782"
+				"size" "620288054"
+				"download" "288988992"
+			}
+			"rr_00"
+			{
+				"gid" "4479443117613408925"
+				"size" "713534000"
+				"download" "351529904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"angel"
+			{
+				"gid" "94F999D488E1141F3D3E30812FDDDD2E"
+				"size" "7DF6E28BEFB063D93B63908CF49B3D9B"
+				"download" "485BCFFB1EFCDB808BAB33C9EC8F79C6"
+			}
+			"devel"
+			{
+				"gid" "7A4D08EB26ED17A666E409F8A1431BE3"
+				"size" "1155F01A5276AEB537B279FAD5CA0D11"
+				"download" "B8E3D4E5962673ED99390EF862817304"
+			}
+			"smoke"
+			{
+				"gid" "0F91AD9A9F2CC4BD3E86015D9A4513AE"
+				"size" "0DC12708D20171A7EE179F24A7827F69"
+				"download" "DF65CFC46D8634DE2E7D497DF3D1DE0A"
+			}
+			"staging"
+			{
+				"gid" "4AB4353FE947764EE0666063B8CBDFA1"
+				"size" "3CC8E41E80B476C5CB066FD8AAD32BC3"
+				"download" "CEA89F9B3389745A567A225168A749A9"
+			}
+		}
+	}
+	"workshopdepot" "1124180"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14562081"
+			"timeupdated" "1717404731"
+		}
+		"2.0.16"
+		{
+			"buildid" "13827155"
+			"description" "Older Unity version"
+			"timeupdated" "1713208213"
+		}
+		"angel"
+		{
+			"buildid" "10619431"
+			"pwdrequired" "1"
+			"timeupdated" "1677511507"
+		}
+		"backwards"
+		{
+			"buildid" "11704524"
+			"description" "Previous version"
+			"timeupdated" "1691064161"
+		}
+		"devel"
+		{
+			"buildid" "14767955"
+			"pwdrequired" "1"
+			"timeupdated" "1718869954"
+		}
+		"ea_00"
+		{
+			"buildid" "7126149"
+			"description" "Early Access (1.0.18)"
+			"timeupdated" "1716199676"
+		}
+		"ea_02"
+		{
+			"buildid" "7926992"
+			"description" "Early Access Update 2 (1.2.34)"
+			"timeupdated" "1716199625"
+		}
+		"ea_10"
+		{
+			"buildid" "10783734"
+			"description" "Early Access Update 10 (1.10.7)"
+			"timeupdated" "1716199005"
+		}
+		"ea_11"
+		{
+			"buildid" "11286208"
+			"description" "Early Access Update 11 (1.11.20)"
+			"timeupdated" "1716199023"
+		}
+		"ea_12"
+		{
+			"buildid" "11632736"
+			"description" "Early Access Update 12 ( 1.12.12)"
+			"timeupdated" "1716199037"
+		}
+		"ea_13"
+		{
+			"buildid" "11704524"
+			"description" "Early Access Update 13 (1.13.4)"
+			"timeupdated" "1716199057"
+		}
+		"ea_14"
+		{
+			"buildid" "11870521"
+			"description" "Early Access Update 14 (1.14.6)"
+			"timeupdated" "1716199375"
+		}
+		"ea_15"
+		{
+			"buildid" "12190165"
+			"description" "Early Access Update 15 (1.15.11)"
+			"timeupdated" "1716199391"
+		}
+		"ea_16"
+		{
+			"buildid" "12437843"
+			"description" "Early Access Update 16 (1.16.16)"
+			"timeupdated" "1716199431"
+		}
+		"ea_17"
+		{
+			"buildid" "12822389"
+			"description" "Early Access Update 17  (1.17.18"
+			"timeupdated" "1716199450"
+		}
+		"ea_18"
+		{
+			"buildid" "13107021"
+			"description" "Early Access Update 18 (1.18.13)"
+			"timeupdated" "1716199465"
+		}
+		"rr_00"
+		{
+			"buildid" "14334888"
+			"description" "Full Release (2.0.20)"
+			"timeupdated" "1716291599"
+		}
+		"smoke"
+		{
+			"buildid" "14767955"
+			"pwdrequired" "1"
+			"timeupdated" "1718799841"
+		}
+		"staging"
+		{
+			"buildid" "14767955"
+			"pwdrequired" "1"
+			"timeupdated" "1718869967"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "bitrich/Rail Route"
+			"pattern" "*.gd.gz"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "bitrich/Rail Route"
+			"pattern" "*.png"
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "bitrich/Rail Route"
+			"pattern" "*.txt"
+			"recursive" "1"
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "bitrich/Rail Route"
+			"pattern" "*.mp.lz4"
+			"recursive" "1"
+		}
+		"4"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "bitrich/Rail Route"
+			"pattern" "*.bytes"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "bitrich/Rail Route"
+					"replace" "RailRoute"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "bitrich/Rail Route"
+					"replace" ".config/unity3d/bitrich/Rail Route"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24045630"
+"_sha" "bfb83e7ea48c526d644af1d45c1bea039e66bc60"
+"_size" "16342"
