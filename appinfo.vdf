@@ -1,0 +1,484 @@
+"appid" "1363080"
+"common"
+{
+	"name" "Manor Lords"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "604fd2b0b416b6379e0015312cf2167274b79b75"
+	"logo_small" "604fd2b0b416b6379e0015312cf2167274b79b75_thumb"
+	"icon" "f0b869c004ddb564f961668130894f335fe04175"
+	"clienttga" "cd99f7d47a95b322a63e9900ba05c1cc877b506c"
+	"clienticon" "32fa171f80c6eec208f02a229f9dda2bcab46f4d"
+	"name_localized"
+	{
+		"schinese" "庄园领主 Manor Lords"
+		"tchinese" "莊園領主 Manor Lords"
+		"japanese" "Manor Lords マナー・ロード"
+		"koreana" "Manor Lords 매너 로드"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"danish" "1"
+		"dutch" "1"
+		"swedish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+		"latam" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1667865600"
+		"tested_build_id" "9679726"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn,zh-tw,ko"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en,zh-tw,ja,zh-cn,ko"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "28.879813302216974"
+			"height_pct" "42.020897649014465"
+		}
+	}
+	"store_asset_mtime" "1714136506"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Slavic Magic"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1714136362"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1363080"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4328"
+		"2" "599"
+		"3" "7332"
+		"4" "12472"
+		"5" "1643"
+		"6" "3810"
+		"7" "8945"
+		"8" "220585"
+		"9" "3987"
+		"10" "1695"
+		"11" "1669"
+		"12" "1662"
+		"13" "4172"
+		"14" "4182"
+		"15" "1676"
+		"16" "4695"
+		"17" "1670"
+		"18" "493"
+		"19" "4364"
+	}
+	"review_score" "8"
+	"review_percentage" "88"
+}
+"extended"
+{
+	"developer" "Slavic Magic"
+	"publisher" "Hooded Horse"
+	"homepage" "http://www.manorlords.com"
+	"listofdlc" "2932660"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Manor Lords"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ManorLords.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229033"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,danish,dutch,swedish,hungarian,czech,turkish,brazilian,ukrainian"
+	"1363081"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8897475131777158496"
+				"size" "13076872863"
+				"download" "5683005664"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"prepforgo"
+			{
+				"gid" "A211C31E333E582932519D0B4F619F48"
+				"size" "12F024667E70D9734626D1C17FCEE570"
+				"download" "B7C143EB612DA63601AEB0098343F5D0"
+			}
+			"press_and_creators"
+			{
+				"gid" "0E1067BF8CE8EBB7F4E35888DC9D8B01"
+				"size" "5EE8572CDC9C758485C4C8AE2CCE77D3"
+				"download" "0B6064D405DF3DD2720D8898F1D07C01"
+			}
+			"secret"
+			{
+				"gid" "77B512E3AF62B1B0870A8D7A6F7D1495"
+				"size" "94D0EC9D54CC87F558FCCE823EA70F97"
+				"download" "106F0DDFE27ACBC82673EADDB454D56F"
+			}
+			"tasteofxessty"
+			{
+				"gid" "D42214B6CC52DDFFEEFA15B66A1C29A5"
+				"size" "A8245EFA6F8A06727D25C85C8536EAA9"
+				"download" "8CA2ED027156F6F738F399625B5371C3"
+			}
+			"closed_testing"
+			{
+				"gid" "DBE761DA7F2978C59CB9B182D51014E6"
+				"size" "28994630424FBDED1C794900491C71FD"
+				"download" "13659D5EEBE23A42824264B76F728D7B"
+			}
+			"closed_testing_shipping"
+			{
+				"gid" "0AE7642EF4C824E9C9D184B746B264C2"
+				"size" "BF099122EFAB4386D60F0518E1343A2B"
+				"download" "AEEF35018F50337DDD3845F8374EAB63"
+			}
+			"pre_release"
+			{
+				"gid" "D6C76483197718D91CDD17894664A8BE"
+				"size" "28C4B2E3E864DCFFE4E2CA98B271E003"
+				"download" "B6374632160C27EE62EC25083A17AF86"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14669873"
+			"timeupdated" "1718118703"
+		}
+		"prepforgo"
+		{
+			"buildid" "14055753"
+			"pwdrequired" "1"
+			"timeupdated" "1713179991"
+		}
+		"press_and_creators"
+		{
+			"buildid" "13987281"
+			"pwdrequired" "1"
+			"timeupdated" "1712589443"
+		}
+		"secret"
+		{
+			"buildid" "14140572"
+			"pwdrequired" "1"
+			"timeupdated" "1713842766"
+		}
+		"tasteofxessty"
+		{
+			"buildid" "14089900"
+			"pwdrequired" "1"
+			"timeupdated" "1713403269"
+		}
+		"closed_testing"
+		{
+			"buildid" "14669803"
+			"pwdrequired" "1"
+			"timeupdated" "1718055676"
+		}
+		"closed_testing_shipping"
+		{
+			"buildid" "14669873"
+			"pwdrequired" "1"
+			"timeupdated" "1718056071"
+		}
+		"pre_release"
+		{
+			"buildid" "14440552"
+			"pwdrequired" "1"
+			"timeupdated" "1716296415"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ManorLords/Saved/SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ManorLords/Saved/SaveGames"
+			"pattern" "*.png"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24084931"
+"_sha" "15cf067d0b1322bef9c7c22fdcf191fe77af75eb"
+"_size" "9112"
