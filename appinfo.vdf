@@ -1,0 +1,423 @@
+"appid" "2421410"
+"common"
+{
+	"name" "Cyber Manhunt 2: New World"
+	"type" "Game"
+	"icon" "aae6ec5fb5c3efc390f797fed323053cf04dd2e2"
+	"clienttga" "9582580866ac0f42020b7d0356925c54dd03ad22"
+	"clienticon" "5bac1d72000b9fcf62aeb16556a46889212a40bd"
+	"name_localized"
+	{
+		"english" "Cyber Manhunt 2: New World"
+		"schinese" "全网公敌2 新世界"
+		"tchinese" "全網公敵2 新世界"
+	}
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+	}
+	"exfgls" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1717545600"
+		"tested_build_id" "14404863"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "zh-cn,zh-tw,en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715242102"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Aluba Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Spiral Up Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Spiral Up Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+	}
+	"steam_release_date" "1715307939"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2421410"
+	"store_tags"
+	{
+		"0" "5502"
+		"1" "1742"
+		"2" "5923"
+		"3" "5030"
+		"4" "6426"
+		"5" "5716"
+		"6" "1698"
+		"7" "599"
+		"8" "379975"
+		"9" "122"
+		"10" "9"
+		"11" "5984"
+		"12" "3871"
+		"13" "597"
+		"14" "5613"
+		"15" "24003"
+		"16" "4182"
+		"17" "1664"
+		"18" "9204"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Aluba Studio"
+	"publisher" "Spiral Up Games"
+}
+"config"
+{
+	"installdir" "CyberManhunt2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "CyberManhunt2.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "CyberManhunt2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2421411"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1545568945070740079"
+				"size" "2029048870"
+				"download" "1651084864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chapter3"
+			{
+				"gid" "EB4CAED4A6109CBB70A0E3A1C96B0EC4"
+				"size" "1DC8BA769B87040DE3A9223446D1CF91"
+				"download" "7F3AAEB1C7FD11218009DA2BFD414838"
+			}
+			"chaptertest"
+			{
+				"gid" "5988F47598D8CF68B5E42A1998DAF5DD"
+				"size" "2F91121A44DA8136B6A5517495744DD9"
+				"download" "4A14C0660C0C036168D4B1E34CE74849"
+			}
+			"dubtest"
+			{
+				"gid" "C662B61C2F8A83920A28A3CA5EC4E57B"
+				"size" "D737A97F28B460FA01005333C0509CE4"
+				"download" "105045613041D5C00FD8EF47D8A26ABB"
+			}
+			"alubatest"
+			{
+				"gid" "9CC1E5A476E6E3306C91A4E2ADA03BC8"
+				"size" "06645224E170E1F93F0B363C480E2CC2"
+				"download" "5966B192190A3F8697C3193C38362F0B"
+			}
+			"eatest"
+			{
+				"gid" "9D820F1527CF2F6744E805818F60D321"
+				"size" "94450F550E42C0E30E368DC8BEFC4BB0"
+				"download" "84ECEE5E1719A2D65A15375A13B15EF3"
+			}
+			"kol123"
+			{
+				"gid" "2B882B26B8BC6ABCE4595222CED38F97"
+				"size" "6F5E6AF1C3AE5C7A2A35D066C819CAD6"
+				"download" "A7A95FB035584F68ECD62EF08B23430A"
+			}
+			"translate"
+			{
+				"gid" "155A26395D80B4CDC6C5E9139D4A32EF"
+				"size" "665AC9BD0065F930430A8A4FF4CF1469"
+				"download" "FB194747A7ABC4F8268CECCF08423187"
+			}
+		}
+	}
+	"2421412"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1201249489539431685"
+				"size" "2134598772"
+				"download" "1676750768"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"chapter3"
+			{
+				"gid" "EE49F3F1B9BD34AD36EE9E72E3788061"
+				"size" "24C042D895C94942B77BB4D02930A1FB"
+				"download" "C808297BB42C31E878786DC660AAA4A0"
+			}
+			"chaptertest"
+			{
+				"gid" "704D21C3E3926A071305FC578F9392C7"
+				"size" "A77152FB779383718175DC83AB55A41F"
+				"download" "71674652C8DF728E4A40E8983B7905D8"
+			}
+			"dubtest"
+			{
+				"gid" "DEA910BC19D1B990ADBEA31378BD6788"
+				"size" "4592B3206C7B5552BC82CF10E6AFAB3D"
+				"download" "41B3C0B37980983942E83AC4FCE4D3EC"
+			}
+			"alubatest"
+			{
+				"gid" "A66DCA599E1E2BFF2B236BB91E862A13"
+				"size" "E711276F35A21CF96B69D220C391FF7F"
+				"download" "F57CEA705BCAA46081DF6FC6DF7D252D"
+			}
+			"eatest"
+			{
+				"gid" "C86EE93566562CDD08CFAED9616616E7"
+				"size" "1ED3C707B3B0BF72542F85CAA4250527"
+				"download" "7CD13193CD46AFF7FEE6F5666C6603CA"
+			}
+			"kol123"
+			{
+				"gid" "A33C5428308C82785AAFF7A880E619CE"
+				"size" "1E500755D11E199C24CC47FD146CF266"
+				"download" "A06FFF1FC97B36BF60DD635CA4085D18"
+			}
+			"translate"
+			{
+				"gid" "2DEC62579EBD3BA42CD55F3D74DE24BB"
+				"size" "D2594DC0AF6C0F1897FC1376F23E9611"
+				"download" "D2F50F1E1A2B372A9D760CE617BE14A4"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14404863"
+			"timeupdated" "1716108830"
+		}
+		"chapter3"
+		{
+			"buildid" "13586833"
+			"pwdrequired" "1"
+			"timeupdated" "1709116192"
+		}
+		"chaptertest"
+		{
+			"buildid" "13560727"
+			"pwdrequired" "1"
+			"timeupdated" "1708916687"
+		}
+		"dubtest"
+		{
+			"buildid" "12281531"
+			"pwdrequired" "1"
+			"timeupdated" "1695695925"
+		}
+		"alubatest"
+		{
+			"buildid" "14766566"
+			"pwdrequired" "1"
+			"timeupdated" "1718791892"
+		}
+		"eatest"
+		{
+			"buildid" "14404863"
+			"pwdrequired" "1"
+			"timeupdated" "1716027474"
+		}
+		"kol123"
+		{
+			"buildid" "14217622"
+			"pwdrequired" "1"
+			"timeupdated" "1714967806"
+		}
+		"translate"
+		{
+			"buildid" "14404863"
+			"pwdrequired" "1"
+			"timeupdated" "1716027490"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "30"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "ALUBA/CyberManhunt2"
+			"pattern" "*.aluba"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "com.aluba.CyberManhunt2"
+			"pattern" "*.aluba"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24084932"
+"_sha" "67ce2856b174e2c4bfa914c3f7a04ff60fce2f8c"
+"_size" "8328"
