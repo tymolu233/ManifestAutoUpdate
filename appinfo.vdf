@@ -1,0 +1,418 @@
+"appid" "1335830"
+"common"
+{
+	"name" "Len\'s Island"
+	"type" "Game"
+	"clienttga" "f2ea4f65c69448ca72ca8a7af545235fb77d5935"
+	"clienticon" "dea130990b088785e74af947082e3bb1f5a6a301"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "f403759b8f7928888829a2d23175f41f55861d8a"
+	"logo" "6d66f5a57a7ebb0c0d7695653c29ca19111142cb"
+	"logo_small" "6d66f5a57a7ebb0c0d7695653c29ca19111142cb_thumb"
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1695168000"
+		"tested_build_id" "12204809"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "40.896751962845485"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1716827086"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Flow Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Flow Studio"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1637942357"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1335830"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "122"
+		"2" "1662"
+		"3" "3993"
+		"4" "1643"
+		"5" "1720"
+		"6" "3834"
+		"7" "1702"
+		"8" "19"
+		"9" "3810"
+		"10" "7332"
+		"11" "4231"
+		"12" "5125"
+		"13" "4520"
+		"14" "21"
+		"15" "4182"
+		"16" "4236"
+		"17" "30358"
+		"18" "4106"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Flow Studio"
+	"publisher" "Flow Studio"
+	"homepage" "https://www.lensisland.com/"
+}
+"config"
+{
+	"installdir" "Len\'s Island"
+	"steamcontrollertemplateindex" "2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Len\'s Island.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Len\'s Island.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1335831"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8177347200140838066"
+				"size" "4026579371"
+				"download" "2128360464"
+			}
+			"legacybranch"
+			{
+				"gid" "1417711526324644959"
+				"size" "2887459230"
+				"download" "799610304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphabranch"
+			{
+				"gid" "BCB5ACBC84BAA40D84BC2D11F831B5FC"
+				"size" "3AFE3ADAAC142CC193CC3144C8E176CA"
+				"download" "5C7ACE9AB670B232CCE8454A23297EAF"
+			}
+			"betabranch"
+			{
+				"gid" "8BA82FB51A3C6CFBE6A9B402FC63B2F8"
+				"size" "6DA250FFD1DACEF6CFE7E9E05E8C6CD6"
+				"download" "E693E0D3AA539BDE694E310171F68A19"
+			}
+			"bugbranch"
+			{
+				"gid" "3A2EBAEF5F78D8E507B7617A8AD00FC8"
+				"size" "6D9D6FE5C73501B2E964E65A68427054"
+				"download" "E4322ABABBEA761D96ED2C5F377E4DE8"
+			}
+			"devbranch"
+			{
+				"gid" "C1C90C99D46A3017B27077E9F78DD10B"
+				"size" "6FB5758D700192CC133AA0098483C5F9"
+				"download" "93B0DB5E8AE40873AA488D23F012D190"
+			}
+		}
+	}
+	"1335832"
+	{
+		"config"
+		{
+			"language" "english"
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9110694052564247863"
+				"size" "4063028445"
+				"download" "2135164864"
+			}
+			"legacybranch"
+			{
+				"gid" "3585282486280054515"
+				"size" "2914611508"
+				"download" "807673872"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alphabranch"
+			{
+				"gid" "ABFC93B63FF1D835E815BD4AF96379EC"
+				"size" "FA826F401DA9F2B47153658AF5115331"
+				"download" "4B2CC10F021F3BE2E25D3C13ACAEDF7E"
+			}
+			"betabranch"
+			{
+				"gid" "D7A6E5B4008D0E831EA9A9DFF8606BA5"
+				"size" "E0071997F7B71219C114B1B6B91C575B"
+				"download" "4DF20E6D3D993D4665ADD3C120E97378"
+			}
+			"bugbranch"
+			{
+				"gid" "D666E209201B0ABB8A3745F8A6FABAD9"
+				"size" "3BAC57D3D22C29A62FBB811221486FD8"
+				"download" "78E23F0809C93F9B04778B815CA163DF"
+			}
+			"devbranch"
+			{
+				"gid" "98D2671D059A8FE3D17270C342690CF4"
+				"size" "C444CF17E9F0D081AFC54F437C18D9A2"
+				"download" "C86A6D808F078E00875F980184330E14"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14654556"
+			"timeupdated" "1717919271"
+		}
+		"legacybranch"
+		{
+			"buildid" "8992030"
+			"description" "Old Legacy Version of Len\'s Island"
+			"timeupdated" "1671208971"
+		}
+		"alphabranch"
+		{
+			"buildid" "14654556"
+			"pwdrequired" "1"
+			"timeupdated" "1717919242"
+		}
+		"betabranch"
+		{
+			"buildid" "14654556"
+			"pwdrequired" "1"
+			"timeupdated" "1717919254"
+		}
+		"bugbranch"
+		{
+			"buildid" "14184063"
+			"pwdrequired" "1"
+			"timeupdated" "1714126140"
+		}
+		"devbranch"
+		{
+			"buildid" "14654556"
+			"pwdrequired" "1"
+			"timeupdated" "1717915571"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Flow Studio/Len\'s Island/Steam/{64BitSteamID}"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Flow Studio/Len\'s Island/Steam/{64BitSteamID}"
+					"replace" "com.FlowStudio.LensIsland/Steam/{64BitSteamID}"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23892011"
+"_sha" "08002f01cc41b9e37633c04346ec0a88ab9c791c"
+"_size" "7935"
