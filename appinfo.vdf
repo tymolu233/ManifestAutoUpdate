@@ -1,0 +1,414 @@
+"appid" "1817800"
+"common"
+{
+	"name" "Oddsparks: An Automation Adventure"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "e8c2b44c04b24ba76e963931e7e2013fc190e24b"
+	"clienticon" "b2372a203201c38313d96222528ad801c8efbbf5"
+	"clienttga" "6cf94f96b6ebab876ecbd0b2aafe2605ab376bee"
+	"name_localized"
+	{
+		"schinese" "火花奇遇记：自动化冒险"
+		"tchinese" "火花奇遇記：自動化冒險"
+		"swedish" "Oddsparks: Ett automatiseringsäventyr"
+		"koreana" "Oddsparks: 자동화 모험"
+		"italian" "Oddsparks: Un\'avventura nell\'automazione"
+		"spanish" "Oddsparks: Una aventura automatizada"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1714032978"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Massive Miniteam"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "HandyGames"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Oddsparks"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713963549"
+	"community_hub_visible" "1"
+	"gameid" "1817800"
+	"store_tags"
+	{
+		"0" "4791"
+		"1" "4726"
+		"2" "255534"
+		"3" "3843"
+		"4" "3859"
+		"5" "7332"
+		"6" "1702"
+		"7" "220585"
+		"8" "8945"
+		"9" "3834"
+		"10" "21"
+		"11" "1695"
+		"12" "3810"
+		"13" "5125"
+		"14" "9"
+		"15" "1643"
+		"16" "1684"
+		"17" "12472"
+		"18" "4328"
+		"19" "599"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Massive Miniteam"
+	"publisher" "HandyGames"
+	"homepage" "https://oddsparks.handy-games.com/"
+}
+"config"
+{
+	"installdir" "Oddsparks"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Oddsparks.exe"
+			"arguments" "-steam"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65533"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1817801"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1604547208375247877"
+				"size" "3355042458"
+				"download" "1301314608"
+			}
+			"beta"
+			{
+				"gid" "7699582391136164119"
+				"size" "3354422426"
+				"download" "1300809040"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"update1"
+			{
+				"gid" "06EC5CBB7E676582DDCEF20D4E7AD22E"
+				"size" "D289C75F85DF2C0B959789665E416C5E"
+				"download" "CBC73ED8E824EFD3F800141FF390B4C4"
+			}
+			"development"
+			{
+				"gid" "4E7249E0EFFEAA516607978AE3980C09"
+				"size" "936F3F8C60BC3F0E1A6BC327D725F662"
+				"download" "0B5A6454AD8AC1CF75760FA627B7D012"
+			}
+			"eostest"
+			{
+				"gid" "2FAF4AB8EBF90A56395E8349BC1F31F2"
+				"size" "5BB905381EDF7432E654C59BA9FBF543"
+				"download" "DD751CDFCC6DBA846D05636A8988735B"
+			}
+			"nightly"
+			{
+				"gid" "051E3D79D10D4B052F72519860C76192"
+				"size" "5CF75575894885FF3773A73DF1568639"
+				"download" "8CAB4929B203C56AD9149B84F1771D57"
+			}
+			"release_test"
+			{
+				"gid" "F9F9025F5B3D55EA15A0B993145CF578"
+				"size" "1AB0D64D7AFBF1857BA116801B4C96AA"
+				"download" "88F92F08C6C40BEE2941EF18D60F85E3"
+			}
+			"stable"
+			{
+				"gid" "0B8E0A67748F5F3C6F8D2E31B86CD393"
+				"size" "7BEBE6B88817FA7581E551F80B4C0130"
+				"download" "FBE7B3613ABC0A0610AC41C5E10B9715"
+			}
+			"stable_extern"
+			{
+				"gid" "D930C1C68A6A35EF2BD69DD813B5480F"
+				"size" "1D06E814475DA60D94D5C9B940A19EAD"
+				"download" "E94F1056233FBDEC702828E578E94D01"
+			}
+			"testinghg"
+			{
+				"gid" "AF92DD9739D7865AE71C0524E8E08271"
+				"size" "64B36659A8A7BA166BD860DE661C740C"
+				"download" "AEDCF097B561BD687A71BABC1FD5427C"
+			}
+			"testinghg_release"
+			{
+				"gid" "C0875D64BF2097D5D14AE7AA9EC1A5FA"
+				"size" "42BD5B5A1E65728A50057A150DC822AB"
+				"download" "D4344B59599B3B0945DA2E808B6ABDB6"
+			}
+			"testinghg2"
+			{
+				"gid" "754B24819271D8661ECD12C5BF9515C5"
+				"size" "8181BF948DFDE83ED0A2784EAABB80FB"
+				"download" "04F749998138738D898FA56521D4EE60"
+			}
+			"testingmmt"
+			{
+				"gid" "8432C76C4DF693D09A82256B1FF4684D"
+				"size" "00C911309C5548C67647481F86327567"
+				"download" "A014F3B16DDB169BA73AE23FC1CEABC7"
+			}
+			"ue5test"
+			{
+				"gid" "D58771B370C91A44E7ACC1D2384DDF69"
+				"size" "FC907C00E75578EC9A7342F463C50967"
+				"download" "162B3C421CB08B1C0204EC6B55BF4B50"
+			}
+			"default_development"
+			{
+				"gid" "6C4C33ECFCB0F2E1386D522209098DFA"
+				"size" "8C4C7B1FEF09877821E9843D47ED6047"
+				"download" "7EA5B0F32C079590702BA744CFD7D0D6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14386826"
+			"timeupdated" "1715870124"
+		}
+		"beta"
+		{
+			"buildid" "14517580"
+			"description" "branch for public beta testing"
+			"timeupdated" "1716910446"
+		}
+		"update1"
+		{
+			"buildid" "14519874"
+			"pwdrequired" "1"
+			"timeupdated" "1716928841"
+		}
+		"development"
+		{
+			"buildid" "14818274"
+			"pwdrequired" "1"
+			"timeupdated" "1719235214"
+		}
+		"eostest"
+		{
+			"buildid" "14666448"
+			"pwdrequired" "1"
+			"timeupdated" "1718034473"
+		}
+		"nightly"
+		{
+			"buildid" "14797058"
+			"pwdrequired" "1"
+			"timeupdated" "1718988451"
+		}
+		"release_test"
+		{
+			"buildid" "14797375"
+			"pwdrequired" "1"
+			"timeupdated" "1718990558"
+		}
+		"stable"
+		{
+			"buildid" "13844912"
+			"pwdrequired" "1"
+			"timeupdated" "1711378954"
+		}
+		"stable_extern"
+		{
+			"buildid" "13960625"
+			"pwdrequired" "1"
+			"timeupdated" "1712308044"
+		}
+		"testinghg"
+		{
+			"buildid" "14625651"
+			"pwdrequired" "1"
+			"timeupdated" "1717685195"
+		}
+		"testinghg_release"
+		{
+			"buildid" "14679634"
+			"pwdrequired" "1"
+			"timeupdated" "1718119586"
+		}
+		"testinghg2"
+		{
+			"buildid" "14693647"
+			"pwdrequired" "1"
+			"timeupdated" "1718205578"
+		}
+		"testingmmt"
+		{
+			"buildid" "14817377"
+			"pwdrequired" "1"
+			"timeupdated" "1719230334"
+		}
+		"ue5test"
+		{
+			"buildid" "14791942"
+			"pwdrequired" "1"
+			"timeupdated" "1718959669"
+		}
+		"default_development"
+		{
+			"buildid" "14387065"
+			"pwdrequired" "1"
+			"timeupdated" "1715870144"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Oddsparks\\Saved\\SaveGames"
+			"pattern" "*.sav"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Oddsparks\\Game\\SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24094696"
+"_sha" "2093285502f2d273b912d7f9c9cf749258b93619"
+"_size" "7976"
