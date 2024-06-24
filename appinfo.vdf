@@ -1,0 +1,725 @@
+"appid" "1276760"
+"common"
+{
+	"name" "DRAGON BALL: THE BREAKERS"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1276760_eula_0"
+			"name" "DBTB EULA"
+			"url" "https://store.steampowered.com//eula/1276760_eula_0"
+			"version" "4"
+		}
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "2fcb69ae740f23b377f530891ef78a1f7f037c26"
+	"clienttga" "1ab4a749768fe53ffbce4e9d62f76a3cc42188d6"
+	"icon" "88c17b401d41cc8ada3fdf9d90969b50c415af59"
+	"logo" "3e91401a53981fb097d89e279c2d54192fdbd7ee"
+	"logo_small" "3e91401a53981fb097d89e279c2d54192fdbd7ee_thumb"
+	"name_localized"
+	{
+		"koreana" "드래곤볼 더 브레이커즈"
+		"japanese" "ドラゴンボール ザ ブレイカーズ"
+		"schinese" "七龙珠 破界斗士"
+		"tchinese" "七龍珠 破界鬥士"
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1668124800"
+		"tested_build_id" "9665819"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedAntiCheatConfiguration"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-5"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"japanese" "header_japanese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja"
+		"library_hero" "en"
+		"library_logo" "en,ja"
+		"library_header" "en,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "68.09744779582365"
+			"height_pct" "84.13333333333333"
+		}
+	}
+	"store_asset_mtime" "1712320603"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Dimps Corporation"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Bandai Namco Entertainment"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Bandai Namco Entertainment"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_35" "1"
+		"category_18" "1"
+		"category_49" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1665698793"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1276760"
+	"store_tags"
+	{
+		"0" "3859"
+		"1" "4085"
+		"2" "1662"
+		"3" "1775"
+		"4" "3843"
+		"5" "4136"
+		"6" "11333"
+		"7" "19"
+		"8" "5711"
+		"9" "1697"
+		"10" "1687"
+		"11" "4747"
+		"12" "1671"
+		"13" "4236"
+		"14" "3834"
+		"15" "1685"
+		"16" "597"
+		"17" "1773"
+		"18" "5363"
+		"19" "21"
+	}
+	"review_score" "5"
+	"review_percentage" "53"
+}
+"extended"
+{
+	"developer" "Dimps Corporation"
+	"publisher" "Bandai Namco Entertainment"
+	"listofdlc" "1777260,1777370,1942070,1942071,1942072,1942073,1942074,1942075,1942076,1942077,1942078,2150540,2150541"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "DRAGON BALL THE BREAKERS"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start_game.exe"
+			"arguments" "-use_eac"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "bin\\DRAGON BALL THE BREAKERS.exe"
+			"arguments" "-onlinemode"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev-debug, qa-debug, rating-debug, allin-developsv-debug, allin-testsv-debug, prod-developsv-debug, prod-testsv-debug, staging-developsv-debug, staging-testsv-debug"
+			}
+			"description_loc"
+			{
+				"english" "no EAC / onlinemode"
+				"japanese" "EACなし / オンラインモード"
+			}
+			"description" "no EAC / onlinemode"
+		}
+		"3"
+		{
+			"executable" "bin\\DRAGON BALL THE BREAKERS.exe"
+			"arguments" "-offlinemode"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev-debug, qa-debug, rating-debug, allin-developsv-debug, allin-testsv-debug, prod-developsv-debug, prod-testsv-debug, staging-developsv-debug, staging-testsv-debug, compat"
+			}
+			"description_loc"
+			{
+				"english" "no EAC / offlinemode"
+				"japanese" "EACなし / オフラインモード"
+			}
+			"description" "no EAC / offlinemode"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2904615058"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,allin-developsv-debug,allin-developsv-release,allin-testsv-debug,allin-testsv-release,capture,compat,playtestvm,prod-developsv-debug,prod-developsv-release,prod-testsv-debug,prod-testsv-release,rating-debug,rating-release,staging-developsv-debug,staging-developsv-release,staging-testsv-debug,staging-testsv-release"
+			"use_action_block" "false"
+		}
+		"2904616828"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,allin-developsv-debug,allin-developsv-release,allin-testsv-debug,allin-testsv-release,capture,compat,playtestvm,prod-developsv-debug,prod-developsv-release,prod-testsv-debug,prod-testsv-release,rating-debug,rating-release,staging-developsv-debug,staging-developsv-release,staging-testsv-debug,staging-testsv-release"
+			"use_action_block" "false"
+		}
+		"2904616321"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,allin-developsv-debug,allin-developsv-release,allin-testsv-debug,allin-testsv-release,capture,compat,playtestvm,prod-developsv-debug,prod-developsv-release,prod-testsv-debug,prod-testsv-release,rating-debug,rating-release,staging-developsv-debug,staging-developsv-release,staging-testsv-debug,staging-testsv-release"
+			"use_action_block" "false"
+		}
+		"2904615829"
+		{
+			"controller_type" "controller_switch_pro"
+			"enabled_branches" "default,allin-developsv-debug,allin-developsv-release,allin-testsv-debug,allin-testsv-release,capture,compat,playtestvm,prod-developsv-debug,prod-developsv-release,prod-testsv-debug,prod-testsv-release,rating-debug,rating-release,staging-developsv-debug,staging-developsv-release,staging-testsv-debug,staging-testsv-release"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+	"uselaunchcommandline" "1"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1276761"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2651207574976289531"
+				"size" "23762314732"
+				"download" "16701097376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"allin-testsv-debug"
+			{
+				"gid" "84F33466EAE31B0B32769361E30EAB1B"
+				"size" "B3464572FEB9F952A278A64790233F39"
+				"download" "E4B916CCA23C08DF65F4776D70AD7B04"
+			}
+			"allin-testsv-release"
+			{
+				"gid" "18EE7AE5D53AD2AA7A13868467A1B253"
+				"size" "B24C9B22960C65D614FD08757C33CDB9"
+				"download" "632F7E8B8539A4370540115E988CC658"
+			}
+			"capture"
+			{
+				"gid" "D81C1D9E50995043DA9BDAE026FB0B8B"
+				"size" "0CAFBFB4DDE59EDF7B30003CD7167ABB"
+				"download" "100580ACF9116502602BE062C0F41BD3"
+			}
+			"compat"
+			{
+				"gid" "D69BDC5A9151B407596A93A7D2509681"
+				"size" "44A36190FD334CF0228D32473D8DB259"
+				"download" "11F12DD269F899E8B4548747836BC206"
+			}
+			"playtestvm"
+			{
+				"gid" "274030A1AB1E72136E98F170455135F0"
+				"size" "3C0B0FD7855D45ABF4B76E821751CB0B"
+				"download" "1607A75D1A80E98CD8213903CA5BC413"
+			}
+			"rating-debug"
+			{
+				"gid" "F7DDD30FAEA249F75B71EC8E2B533592"
+				"size" "8E958E4BE7E5510C1BAAA344DC59FAF1"
+				"download" "3C777D8F7E675BE53DB8D17055B513A2"
+			}
+			"rating-release"
+			{
+				"gid" "1E1CEF38DA98FAB544F36DB52EBC9259"
+				"size" "CE607338D1921913DA1D6463EDE1AC6D"
+				"download" "DC090801BC0AE04F28B8B503305FFE1F"
+			}
+			"allin-developsv-debug"
+			{
+				"gid" "D9004E62E3B82DC6C95D95C1FDB5ACD7"
+				"size" "638BAA7393632A5F66EFAB2709B21E1B"
+				"download" "E9BD8FDAF08906799808F665E2C59BBC"
+			}
+			"allin-developsv-release"
+			{
+				"gid" "BF3CE7F1C33669CDB59C3A752C205CAF"
+				"size" "EEF2532D014A61568B61C9F7E7F2180B"
+				"download" "675F41EC66CBB0E6FA7F274E7FB58198"
+			}
+			"prod-developsv-debug"
+			{
+				"gid" "6B1DD4456667F26FD6EAB77DA08C6DE4"
+				"size" "EB5324C703F76EA7D04AB751A9A3DACF"
+				"download" "C206ECBCF1085ACFFB9AF8E2B2F00E6B"
+			}
+			"prod-developsv-release"
+			{
+				"gid" "B11837E6F3A65540B9A91C0C7A6DD92F"
+				"size" "E4F5C5C12C54F8D18AF2DE715CCC50C8"
+				"download" "653374848D308FCFDE42331988790E52"
+			}
+			"prod-testsv-debug"
+			{
+				"gid" "28DFC00236B5DFCD6E484831CC58ADA8"
+				"size" "A60CE5E6FBB6D4D72FC32850D315E8AB"
+				"download" "A6112068D2637911E54CFB1209532297"
+			}
+			"prod-testsv-release"
+			{
+				"gid" "A2256C99BDCDBABCBA3468D4DE15FC0A"
+				"size" "84E985F548310CDB02C34A9501AF2D90"
+				"download" "89EE9B0F686F1C83E16F795A4F8009AF"
+			}
+			"staging-developsv-debug"
+			{
+				"gid" "4F6D467E365A9246E8046304CBCD3D48"
+				"size" "AA4830CF5C6BB8D7378ECD84A7A50DED"
+				"download" "D0C06941760528E7E16972C28193E2E7"
+			}
+			"staging-developsv-release"
+			{
+				"gid" "835CC6298A77C498C94D221742CC5C8D"
+				"size" "741BC0E81DE617BE7A68A9D438140FE4"
+				"download" "9E50F47A02C6FAB5216B1D233701B31B"
+			}
+			"staging-testsv-debug"
+			{
+				"gid" "31FDBAE1F512141F80DB5AB4E14E6020"
+				"size" "546CABB42DFEB3C06EBC11827487E868"
+				"download" "C375A9B76B07F85C494525F579A0896C"
+			}
+			"staging-testsv-release"
+			{
+				"gid" "4E669F9313BC689049E61AB3EAF001BE"
+				"size" "6A28753969EB6BA25894602A259BB078"
+				"download" "5D30BF5ECC115C83FA7102BE57569FFE"
+			}
+		}
+	}
+	"1276762"
+	{
+		"config"
+		{
+			"language" ""
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "257364667174158977"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"allin-testsv-debug"
+			{
+				"gid" "FBE9C03CA677496D7C615B4F93D156C3"
+				"size" "3AEDA4FC40DB262E3B1A46AF89022B78"
+				"download" "298D17789621D9F2EEB027D81BFC94EA"
+			}
+			"allin-testsv-release"
+			{
+				"gid" "50F901108B648DB7500D6004B503AD73"
+				"size" "7184ECC2EEDA721882D71482529E96E8"
+				"download" "7184ECC2EEDA721882D71482529E96E8"
+			}
+			"capture"
+			{
+				"gid" "7BC1B4583E613C5D8FAFCDB4F91CCCB8"
+				"size" "53C1B72D2BCD9FB490699202BE012F0B"
+				"download" "9262F6906CD3561E58B348A1C5626FAC"
+			}
+			"compat"
+			{
+				"gid" "09E46221DC8515A2FCDBBC26AF991BEE"
+				"size" "9F23D78520A459A319E601727FC3576C"
+				"download" "755084871272A91A989DE13E9C0C9D40"
+			}
+			"playtestvm"
+			{
+				"gid" "8B069FDECBF69376878BCD22F8FF9433"
+				"size" "A29EDA53243463D2E173DAD14009AEC0"
+				"download" "A29EDA53243463D2E173DAD14009AEC0"
+			}
+			"rating-debug"
+			{
+				"gid" "41C9B7A3ED0204BA62B3E757255953FB"
+				"size" "D6C0F6E6154BC34A32E20946A02EB2B0"
+				"download" "184A14A842E9EA03AB34971D1C98E2CC"
+			}
+			"rating-release"
+			{
+				"gid" "CFE8E5F6311447126962D411C2D640F4"
+				"size" "D58DADD83A323DC3A1E91CF964A4C0A6"
+				"download" "D58DADD83A323DC3A1E91CF964A4C0A6"
+			}
+			"allin-developsv-debug"
+			{
+				"gid" "421E1CA5B60A9A7492F6DAFBC7228864"
+				"size" "BB7655C255EB3C50174A4B162FA0E15E"
+				"download" "AD18EE6D2BC7BC9560BE541F61D741BB"
+			}
+			"allin-developsv-release"
+			{
+				"gid" "7881C7D654BF1DAC9FA45551451A4F3A"
+				"size" "0D923A35AC353E043434D5EB15EB700F"
+				"download" "0D923A35AC353E043434D5EB15EB700F"
+			}
+			"prod-developsv-debug"
+			{
+				"gid" "9A87293230496B5259537757F43F5743"
+				"size" "756078F01675BF83A7F4CDCA477EFD4C"
+				"download" "42591DDBF7720E961679BD5AA26AE487"
+			}
+			"prod-developsv-release"
+			{
+				"gid" "55FF6DEC59DDF1B4B8E495D369FED7AD"
+				"size" "722FC9F06699FB26454932AABF2F9068"
+				"download" "722FC9F06699FB26454932AABF2F9068"
+			}
+			"prod-testsv-debug"
+			{
+				"gid" "64D7B797AE8CFCD6448710B448C531E7"
+				"size" "79DC58F47F9C53CF2A80FF57D0F941EC"
+				"download" "652E232683BC5A6B53AF9B2B55342FE9"
+			}
+			"prod-testsv-release"
+			{
+				"gid" "0B5F582891E8A4BCDA63EF5FB9DF037D"
+				"size" "ACA3E1BF2DE3B2E7C6C15E2B9F056F65"
+				"download" "ACA3E1BF2DE3B2E7C6C15E2B9F056F65"
+			}
+			"staging-developsv-debug"
+			{
+				"gid" "389D523EDE39ECDA644D6FF46A0D1D06"
+				"size" "7D5AB43091A31FF25CD9ADED24CC0310"
+				"download" "235861476E3D84AF76AC3B91215CEE0F"
+			}
+			"staging-developsv-release"
+			{
+				"gid" "3218AA423C85032E60B1B169E5852EEF"
+				"size" "7549483F834619009188EBB5528EF504"
+				"download" "7549483F834619009188EBB5528EF504"
+			}
+			"staging-testsv-debug"
+			{
+				"gid" "A6CA899594CC467FD4FFC4FED9BE2709"
+				"size" "7F560C48B89CA27576DEEF306AEBD386"
+				"download" "8D5C244CFEC331E0311EB3B8B8849A37"
+			}
+			"staging-testsv-release"
+			{
+				"gid" "A0B9800DFE57E7158CC03D46F9429B6E"
+				"size" "0FACCF95C7AF425A81991AC07AC81070"
+				"download" "0FACCF95C7AF425A81991AC07AC81070"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13753629"
+			"timeupdated" "1712113217"
+		}
+		"allin-testsv-debug"
+		{
+			"buildid" "11769168"
+			"pwdrequired" "1"
+			"timeupdated" "1690175347"
+		}
+		"allin-testsv-release"
+		{
+			"buildid" "11769290"
+			"pwdrequired" "1"
+			"timeupdated" "1690175362"
+		}
+		"capture"
+		{
+			"buildid" "9485569"
+			"pwdrequired" "1"
+			"timeupdated" "1664205793"
+		}
+		"compat"
+		{
+			"buildid" "8814106"
+			"pwdrequired" "1"
+			"timeupdated" "1653888075"
+		}
+		"playtestvm"
+		{
+			"buildid" "8415633"
+			"pwdrequired" "1"
+			"timeupdated" "1647943925"
+		}
+		"rating-debug"
+		{
+			"buildid" "8265618"
+			"pwdrequired" "1"
+			"timeupdated" "1645682970"
+		}
+		"rating-release"
+		{
+			"buildid" "8265653"
+			"pwdrequired" "1"
+			"timeupdated" "1645683580"
+		}
+		"allin-developsv-debug"
+		{
+			"buildid" "14811465"
+			"pwdrequired" "1"
+			"timeupdated" "1719171973"
+		}
+		"allin-developsv-release"
+		{
+			"buildid" "14811686"
+			"pwdrequired" "1"
+			"timeupdated" "1719175143"
+		}
+		"prod-developsv-debug"
+		{
+			"buildid" "14677016"
+			"pwdrequired" "1"
+			"timeupdated" "1718247992"
+		}
+		"prod-developsv-release"
+		{
+			"buildid" "14677525"
+			"pwdrequired" "1"
+			"timeupdated" "1718248032"
+		}
+		"prod-testsv-debug"
+		{
+			"buildid" "14675990"
+			"pwdrequired" "1"
+			"timeupdated" "1718248816"
+		}
+		"prod-testsv-release"
+		{
+			"buildid" "14676511"
+			"pwdrequired" "1"
+			"timeupdated" "1718248773"
+		}
+		"staging-developsv-debug"
+		{
+			"buildid" "14473236"
+			"pwdrequired" "1"
+			"timeupdated" "1716775839"
+		}
+		"staging-developsv-release"
+		{
+			"buildid" "14473551"
+			"pwdrequired" "1"
+			"timeupdated" "1716775855"
+		}
+		"staging-testsv-debug"
+		{
+			"buildid" "14472497"
+			"pwdrequired" "1"
+			"timeupdated" "1716539779"
+		}
+		"staging-testsv-release"
+		{
+			"buildid" "14472912"
+			"pwdrequired" "1"
+			"timeupdated" "1716539795"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BANDAI NAMCO Entertainment\\DRAGON BALL THE BREAKERS\\Saved\\SaveGames\\{Steam3AccountID}"
+			"pattern" "*.dat"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocal"
+			"path" "BANDAI NAMCO Entertainment\\DRAGON BALL THE BREAKERS\\Saved\\SaveGames\\{Steam3AccountID}"
+			"pattern" "*.ini"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24086712"
+"_sha" "c254e54176ca8011affcd706d112b5d3326eebbc"
+"_size" "17559"
