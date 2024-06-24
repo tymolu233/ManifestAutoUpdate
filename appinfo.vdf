@@ -1,0 +1,253 @@
+"appid" "1859910"
+"common"
+{
+	"name" "活俠傳"
+	"type" "Game"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"english" "Legend of Mortal"
+		"sc_schinese" "活侠传"
+		"schinese" "活侠传"
+	}
+	"logo" "762e1eab2f9edf41ce54510c5ee1586c82d568f7"
+	"logo_small" "762e1eab2f9edf41ce54510c5ee1586c82d568f7_thumb"
+	"icon" "68001e6823e86bc78d1e8fc246b72bed876b922f"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "fbbf8efee8fab7f4638953fd51f7174b344cd945"
+	"clienttga" "cbe8184989f6f519209f5979282254e0ff9e6f61"
+	"releasestatesteamchina" "prerelease"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-cn,zh-xc"
+		"library_logo" "en,zh-cn,zh-xc"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "31.306826706676645"
+			"height_pct" "72.91666666666666"
+		}
+	}
+	"store_asset_mtime" "1718270254"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Obb Studio Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paras Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Obb Studio Inc."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Paras Games"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1718348160"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1859910"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6426"
+		"2" "4711"
+		"3" "6971"
+		"4" "3854"
+		"5" "6915"
+		"6" "9"
+		"7" "4182"
+		"8" "5984"
+		"9" "4136"
+		"10" "7702"
+		"11" "492"
+		"12" "9551"
+		"13" "21"
+		"14" "19"
+		"15" "3871"
+		"16" "21725"
+		"17" "4004"
+		"18" "4166"
+		"19" "3959"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "Obb Studio Inc."
+	"publisher" "Paras Games"
+	"homepage" "https://www.facebook.com/obbstudio"
+}
+"config"
+{
+	"installdir" "LegendOfMortal"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Mortal.exe"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "tchinese"
+	"1859911"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "81000999053608345"
+				"size" "3131109487"
+				"download" "668680016"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private_test"
+			{
+				"gid" "725539E41C4FBBEF37135108A34E6B5D"
+				"size" "DBB6C4769FC5216A1AB8A64E672D982E"
+				"download" "514A718E36F568E18B10AFAED6814022"
+			}
+			"test"
+			{
+				"gid" "C49550D094FC4307E6FBCEB67386B02D"
+				"size" "DE8DFD1143DCAEA18208CCD0E5F647A3"
+				"download" "C984F5F454B967CF6ADF14343FBFBE77"
+			}
+			"alpha_test"
+			{
+				"gid" "F7E17A6E5688EBDF2473B72AB8FDB08A"
+				"size" "C4E015FA5C3CEE6339DC2D4B8AC08887"
+				"download" "EF4269612EB407DECD120D4B570759F8"
+			}
+			"media_review"
+			{
+				"gid" "B751D8AAB757282C8BAAB028D6B88EE0"
+				"size" "1BF6007DE02E432A2A059DB30B81E923"
+				"download" "2CE383C52C0D06D3937762A5FA87697F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14815597"
+			"timeupdated" "1719219288"
+		}
+		"private_test"
+		{
+			"buildid" "10204853"
+			"pwdrequired" "1"
+			"timeupdated" "1671775915"
+			"sc_schinese" "private test"
+		}
+		"test"
+		{
+			"buildid" "8939412"
+			"pwdrequired" "1"
+			"timeupdated" "1660820967"
+		}
+		"alpha_test"
+		{
+			"buildid" "14813612"
+			"pwdrequired" "1"
+			"timeupdated" "1719200244"
+			"sc_schinese" "alpha_test"
+		}
+		"media_review"
+		{
+			"buildid" "14713668"
+			"pwdrequired" "1"
+			"timeupdated" "1718335966"
+			"sc_schinese" "media review"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Obb Studio/Mortal/{64BitSteamID}"
+			"pattern" "*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24091430"
+"_sha" "250ca022497387961e2532d7f2075e71e8bcb7cf"
+"_size" "4630"
