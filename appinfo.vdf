@@ -1,0 +1,349 @@
+"appid" "1448000"
+"common"
+{
+	"name" "迷离诡夜 blurred weird night"
+	"type" "Game"
+	"logo" "708ed3359f1c645dd9dce7cf3776cab5641ac81e"
+	"logo_small" "708ed3359f1c645dd9dce7cf3776cab5641ac81e_thumb"
+	"icon" "42d5325f7b08d3ea24899d1b6112295be6a323cc"
+	"clienttga" "955fcaca7d4e844b9d12467bcaa985a83a91415b"
+	"clienticon" "e7bdb5228941c1e17af2f8e27941986f7bb2506c"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1706140800"
+		"tested_build_id" "13065922"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "77.78934471971485"
+			"height_pct" "80.06397838645711"
+		}
+	}
+	"store_asset_mtime" "1718878927"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "QSN"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "QSN"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1700204401"
+	"community_hub_visible" "1"
+	"gameid" "1448000"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1667"
+		"2" "1664"
+		"3" "4486"
+		"4" "3834"
+		"5" "9551"
+		"6" "4191"
+		"7" "4947"
+		"8" "3839"
+		"9" "1742"
+		"10" "6971"
+		"11" "1659"
+		"12" "4064"
+		"13" "10679"
+		"14" "10808"
+		"15" "1663"
+		"16" "3810"
+		"17" "3799"
+		"18" "769306"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "QSN"
+	"publisher" "QSN"
+	"homepage" "https://www.moddb.com/games/httpsstoresteampoweredcomapp1448000-blurred-weird-night"
+}
+"config"
+{
+	"installdir" "blurred weird night"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BlurredWeirdNight.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229007"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229012"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,portuguese"
+	"1448001"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4782383941145838235"
+				"size" "14889265859"
+				"download" "7087519264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qqtest"
+			{
+				"gid" "CB41426B46DCBE792EA5E91F4943B403"
+				"size" "2A103F039515A78355F3A1A7511B6F1D"
+				"download" "12CE2F772D0651534F627133F89F334C"
+			}
+			"test"
+			{
+				"gid" "95401FA043F746337B138287DF449F4A"
+				"size" "28953F4F737765F5CA0860E6233DB5D7"
+				"download" "146D957E3736BDFB794A228FC04B088F"
+			}
+			"teststeam"
+			{
+				"gid" "E4E6AE3825B35F9026AC4435B07B9BBB"
+				"size" "8DB21A93B154A9ECC248808EC4658E5E"
+				"download" "AA623C4C4B497DAEF2609292F37D828C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14290497"
+			"timeupdated" "1715666931"
+		}
+		"qqtest"
+		{
+			"buildid" "14290497"
+			"pwdrequired" "1"
+			"timeupdated" "1715090028"
+		}
+		"test"
+		{
+			"buildid" "14290497"
+			"pwdrequired" "1"
+			"timeupdated" "1715087920"
+		}
+		"teststeam"
+		{
+			"buildid" "14290497"
+			"pwdrequired" "1"
+			"timeupdated" "1715087908"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24047653"
+"_sha" "782f4028f14979359ca189949f0c6f9e72624805"
+"_size" "5976"
