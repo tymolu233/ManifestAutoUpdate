@@ -1,0 +1,614 @@
+"appid" "1250410"
+"common"
+{
+	"name" "Microsoft Flight Simulator"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"logo" "c99309d9c21590b5c16f9593c9c517f9c3252bd4"
+	"logo_small" "c99309d9c21590b5c16f9593c9c517f9c3252bd4_thumb"
+	"icon" "e374de450803dc212690bf721a14843a0dd2ad58"
+	"clienticon" "8f9bfc440a33ca9d2799513ac4ea92456804927f"
+	"clienttga" "c717b4d0ac1bebf2fe3e338a01fc2ba7e4ba34cd"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"openvrsupport" "1"
+	"othervrsupport" "1"
+	"controllervr"
+	{
+		"kbm" "1"
+	}
+	"playareavr"
+	{
+		"seated" "1"
+	}
+	"othervrsupport_rift_13" "1"
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1646092800"
+		"tested_build_id" "7337593"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+		}
+	}
+	"metacritic_name" "Microsoft Flight Simulator"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "36.62937113120216"
+			"height_pct" "67.75376318388972"
+		}
+	}
+	"store_asset_mtime" "1689193180"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Asobo Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Xbox Game Studios"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_61" "1"
+		"category_53" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1597723200"
+	"metacritic_score" "91"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/microsoft-flight-simulator\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1250410"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "15045"
+		"2" "4175"
+		"3" "1695"
+		"4" "3859"
+		"5" "21978"
+		"6" "4182"
+		"7" "4166"
+		"8" "4161"
+		"9" "3968"
+		"10" "21"
+		"11" "4305"
+		"12" "5350"
+		"13" "5411"
+		"14" "8075"
+		"15" "1710"
+		"16" "7481"
+		"17" "3965"
+		"18" "4234"
+		"19" "1721"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"vrheadsetstreaming" "1"
+	"allowmicrotxnfromrestrictedcountries" "0"
+	"microtxnrestrictedcountries" "RU,BY"
+	"developer" "Asobo Studio"
+	"publisher" "Xbox Game Studios"
+	"homepage" "https://www.flightsimulator.com"
+	"listofdlc" "1265910,1265911"
+}
+"config"
+{
+	"installdir" "MicrosoftFlightSimulator"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FlightSimulator.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "FlightSimulator.exe"
+			"arguments" "-VR"
+			"type" "vr"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "test_interne_asobo"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollerconfigdetails" ""
+	"steamcontrollertouchconfigdetails"
+	{
+		"2258414162"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1250411"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8792695267886194841"
+				"size" "2130661520"
+				"download" "1194989152"
+			}
+			"flight_sim_beta"
+			{
+				"gid" "8792695267886194841"
+				"size" "2130661520"
+				"download" "1194989152"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"_amd_"
+			{
+				"gid" "7362ECB6E26DB3EA171F40475C595540"
+				"size" "781F2C1FDBA652E701E0CCA130BACB2C"
+				"download" "A2EBEDA31FB08FA2F867BD6B14F6161D"
+			}
+			"atr_test"
+			{
+				"gid" "F698CDED8E0B71E64F0826A08EBEF4FE"
+				"size" "1DF9AAB9F7B6CFB6CDF5BCD20C87EE6C"
+				"download" "76959835171B1822E283B0350A1E01B6"
+			}
+			"chicago"
+			{
+				"gid" "E5810D6197B03B2052FD5808700C58A8"
+				"size" "74E594F2FA7FB331B829D4CCAA8C3BB0"
+				"download" "DC4E11262483C827CE3C139ACC2AEB4D"
+			}
+			"chicago_test"
+			{
+				"gid" "3B11663CABB081AA356E09A94F7B0301"
+				"size" "C7E324BC8F79811D212B8210FB6EE9C2"
+				"download" "DA0316BF9FC93F75A08CEAC6EBB74EA6"
+			}
+			"open_r"
+			{
+				"gid" "A0ED65E9E3CD98CD02FF14D37CA39679"
+				"size" "0C1AC481EF35B7A6B7A2F013FDECFEE2"
+				"download" "A6025108F87C26EDBE4E0BE272374CAE"
+			}
+			"peripheral"
+			{
+				"gid" "DABAEB8B46FF15D2298188DC8BC94EBD"
+				"size" "982C639E22B035A54EDC60554FBEB7D4"
+				"download" "B96A35B3F32C06D50DE123AA4DC6B26A"
+			}
+			"qa_upload_future"
+			{
+				"gid" "C9FF498CE438FE07F40E7AF68311B7AB"
+				"size" "E92BA76571207BC22D222F4135F0AA44"
+				"download" "3F0EF8765F68E49CE533AE70524C66B6"
+			}
+			"qa_upload_future_test"
+			{
+				"gid" "E775956C93A8A7BDCA5270F24C47E8AB"
+				"size" "6D1FE721CC7DA06C990F5E4B2DB3C7D3"
+				"download" "84608EE9F6EF456385A43CFD35CD6294"
+			}
+			"sdk_team_test"
+			{
+				"gid" "4AF48A212657872CB23A7F47EDF2410C"
+				"size" "E0789E5DCAADB1CCFBA8EFD28278C497"
+				"download" "598C885BF09EDA779D9B48821ED4C2F8"
+			}
+			"sh_test"
+			{
+				"gid" "F04D3A1417E6D6CD0403E0EA4F7EA71E"
+				"size" "2550176FD8550C37DEF96EA1D0DF142A"
+				"download" "9F9B455D48A78456B086FB4C714FCC99"
+			}
+			"sneak_test2"
+			{
+				"gid" "48C611FB8A7D2AE553A9284A85136F1F"
+				"size" "FA152104B7A3C1284783BFA32604671E"
+				"download" "3168378E31CAAB595FAFD790A4971ACC"
+			}
+			"test-discount-glt"
+			{
+				"gid" "CE135F7F32CADF72CDA7912239A71B81"
+				"size" "5112BCC31FB34E37CD6EA2D1D0F35530"
+				"download" "0F3C4AD2EB393134D7B972ABF47451F7"
+			}
+			"test_future"
+			{
+				"gid" "ABCA6779BE054C575AD04009E5E90CEC"
+				"size" "362EA96F4BB036145E75A67447B05F9E"
+				"download" "93F758811D1F881BC6985F11E6DCA617"
+			}
+			"test_install"
+			{
+				"gid" "51702F4DD375794B862DD4B2074FAFBD"
+				"size" "380B0A3C0896BB4DFE670CA959E8312B"
+				"download" "57AE1C9BDDC31AFF5E997F0CF743EF83"
+			}
+			"tulipe_test"
+			{
+				"gid" "375CEF0A98B297EFBD155BDE52DC3E7E"
+				"size" "C2E75FA66305C666EE95319D41E2E1E1"
+				"download" "51953AF775CF66D87E845CC2DA52CF26"
+			}
+			"marketplace_test"
+			{
+				"gid" "4021763306FD406BDD9BD0016457C011"
+				"size" "8F658BA0BEB0AA740EF80C8C07811121"
+				"download" "5DC5EFE1809B5641D1187150AC382F66"
+			}
+			"nvidia_2"
+			{
+				"gid" "96D4C91AD2390E5BF6EE0D781A348AFB"
+				"size" "B716C4903CA1E5B5AD305B6DAAA13C64"
+				"download" "21FAFF7D2951921141AB150B9F2E412A"
+			}
+			"qa_upload"
+			{
+				"gid" "C8BD2E9439E2F4A5BE55EEB80F66798A"
+				"size" "79EE9429BF1526E7FBBA458DE78453D9"
+				"download" "E6ED9DB160DF40D419CB67F401A1C25D"
+			}
+			"redilg2"
+			{
+				"gid" "CA58BA3FF63E0DF71E320339E9973BCA"
+				"size" "5A6B3762A831EB279208D854E638B834"
+				"download" "D0DCAD1BF304F0170CB78972854F1A7C"
+			}
+			"test_gl"
+			{
+				"gid" "B751F084E03B88995D6C57ABB5F43746"
+				"size" "57DEF51A04B9E490AF38ADF2438C6E64"
+				"download" "DF370C620F947561CBE40B2980BCC186"
+			}
+			"test_gl_interne"
+			{
+				"gid" "4D35C925622BA8AA0C04C3FEEB4DE9C7"
+				"size" "4E9C29849007D9D28F487C87C213417B"
+				"download" "E1180B0F1B600175EC71FA41A46C6167"
+			}
+			"test_glt"
+			{
+				"gid" "AA8F0135A8C2F11DCDDB0323EE24D81E"
+				"size" "620EF6CD1D1EAB13E61DF9B6F891BDF3"
+				"download" "6AF6EC940B98F28A335AE8EAC66A579A"
+			}
+			"test_interne_asobo"
+			{
+				"gid" "2E214CAA44609E503B25036F20A3E91A"
+				"size" "93F8D924473BA72E25E5844A46083B8A"
+				"download" "C74FF8C08A52E086F9B78D41AC0A71F5"
+			}
+		}
+	}
+	"1250412"
+	{
+	}
+	"1250413"
+	{
+	}
+	"1250414"
+	{
+	}
+	"1250415"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14510894"
+			"timeupdated" "1717080642"
+		}
+		"_amd_"
+		{
+			"buildid" "9459910"
+			"pwdrequired" "1"
+			"timeupdated" "1662469111"
+		}
+		"atr_test"
+		{
+			"buildid" "10507378"
+			"pwdrequired" "1"
+			"timeupdated" "1675961949"
+		}
+		"chicago"
+		{
+			"buildid" "12088860"
+			"pwdrequired" "1"
+			"timeupdated" "1693845583"
+		}
+		"chicago_test"
+		{
+			"buildid" "12021690"
+			"pwdrequired" "1"
+			"timeupdated" "1692888966"
+		}
+		"open_r"
+		{
+			"buildid" "9001516"
+			"pwdrequired" "1"
+			"timeupdated" "1656081775"
+		}
+		"peripheral"
+		{
+			"buildid" "8761099"
+			"pwdrequired" "1"
+			"timeupdated" "1652867404"
+		}
+		"qa_upload_future"
+		{
+			"buildid" "13317087"
+			"pwdrequired" "1"
+			"timeupdated" "1706805371"
+		}
+		"qa_upload_future_test"
+		{
+			"buildid" "13048321"
+			"pwdrequired" "1"
+			"timeupdated" "1704379152"
+		}
+		"sdk_team_test"
+		{
+			"buildid" "14060523"
+			"pwdrequired" "1"
+			"timeupdated" "1713444639"
+		}
+		"sh_test"
+		{
+			"buildid" "11728878"
+			"pwdrequired" "1"
+			"timeupdated" "1689688504"
+		}
+		"sneak_test2"
+		{
+			"buildid" "12511886"
+			"pwdrequired" "1"
+			"timeupdated" "1698074199"
+		}
+		"test-discount-glt"
+		{
+			"buildid" "10754966"
+			"pwdrequired" "1"
+			"timeupdated" "1678784712"
+		}
+		"test_future"
+		{
+			"buildid" "13316723"
+			"pwdrequired" "1"
+			"timeupdated" "1706784114"
+		}
+		"test_install"
+		{
+			"buildid" "13317087"
+			"pwdrequired" "1"
+			"timeupdated" "1706784132"
+		}
+		"tulipe_test"
+		{
+			"buildid" "12246719"
+			"pwdrequired" "1"
+			"timeupdated" "1698072989"
+		}
+		"flight_sim_beta"
+		{
+			"buildid" "14510894"
+			"description" "Sim Update 15"
+			"timeupdated" "1717081433"
+		}
+		"marketplace_test"
+		{
+			"buildid" "14560629"
+			"pwdrequired" "1"
+			"timeupdated" "1718987550"
+		}
+		"nvidia_2"
+		{
+			"buildid" "14442634"
+			"pwdrequired" "1"
+			"timeupdated" "1716302323"
+		}
+		"qa_upload"
+		{
+			"buildid" "14510894"
+			"pwdrequired" "1"
+			"timeupdated" "1716913841"
+		}
+		"redilg2"
+		{
+			"buildid" "14510506"
+			"pwdrequired" "1"
+			"timeupdated" "1716913826"
+		}
+		"test_gl"
+		{
+			"buildid" "14510894"
+			"pwdrequired" "1"
+			"timeupdated" "1716896660"
+		}
+		"test_gl_interne"
+		{
+			"buildid" "14510506"
+			"pwdrequired" "1"
+			"timeupdated" "1716896645"
+		}
+		"test_glt"
+		{
+			"buildid" "13282455"
+			"pwdrequired" "1"
+			"timeupdated" "1715784923"
+		}
+		"test_interne_asobo"
+		{
+			"buildid" "14442634"
+			"pwdrequired" "1"
+			"timeupdated" "1716300722"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "270000000"
+	"maxnumfiles" "500"
+}
+"_missing_token" "False"
+"_change_number" "24069231"
+"_sha" "37dcced8e24e43ee8190d4ca082f2abadee5cbdb"
+"_size" "12436"
