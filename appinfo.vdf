@@ -1,0 +1,845 @@
+"appid" "954850"
+"common"
+{
+	"name" "Kerbal Space Program 2"
+	"type" "Game"
+	"clienticon" "48332fb4eca1ea3c97264deba2c78c61ce7fbdf8"
+	"clienttga" "22ea24f3da00e5ccd5449ac84bb4c741fc381de6"
+	"icon" "2e971deef0ab8584afe50c7e1de217eb7efa825d"
+	"logo" "af750a3ba5a96af7508999dd49a075da49d91988"
+	"logo_small" "af750a3ba5a96af7508999dd49a075da49d91988_thumb"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "954850_eula_0"
+			"name" "Kerbal Space Program 2 EULA"
+			"url" "https://store.steampowered.com//eula/954850_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1681776000"
+		"tested_build_id" "10752762"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Kerbal Space Program 2"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "91.48191365227538"
+			"height_pct" "53.67061296998112"
+		}
+	}
+	"store_asset_mtime" "1706744007"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Intercept Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Private Division"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Private Division"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Kerbal Space Program"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1677247179"
+	"community_hub_visible" "1"
+	"gameid" "954850"
+	"store_tags"
+	{
+		"0" "1755"
+		"1" "3810"
+		"2" "3834"
+		"3" "1643"
+		"4" "3968"
+		"5" "5794"
+		"6" "4026"
+		"7" "599"
+		"8" "4136"
+		"9" "1695"
+		"10" "16598"
+		"11" "4175"
+		"12" "3942"
+		"13" "4182"
+		"14" "493"
+		"15" "21"
+		"16" "4166"
+		"17" "1669"
+		"18" "492"
+		"19" "3859"
+	}
+	"review_score" "5"
+	"review_percentage" "43"
+}
+"extended"
+{
+	"developer" "Intercept Games"
+	"publisher" "Private Division"
+	"homepage" "https://www.kerbalspaceprogram.com/"
+}
+"config"
+{
+	"installdir" "Kerbal Space Program 2"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "KSP2_x64.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Kerbal Space Program 2"
+			}
+			"description" "Kerbal Space Program 2"
+		}
+	}
+}
+"depots"
+{
+	"954851"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3982435242459808716"
+				"size" "33337259792"
+				"download" "13704719680"
+			}
+			"0.1.0.0"
+			{
+				"gid" "7544952512286898518"
+				"size" "33824864866"
+				"download" "12021262656"
+			}
+			"0.1.1.0"
+			{
+				"gid" "4244005539939280089"
+				"size" "33802607855"
+				"download" "11985205280"
+			}
+			"0.1.2.0"
+			{
+				"gid" "6023514127848844735"
+				"size" "31769638931"
+				"download" "11889168032"
+			}
+			"0.1.3.1"
+			{
+				"gid" "5720223866235196238"
+				"size" "29517962389"
+				"download" "11474390784"
+			}
+			"0.1.3.2"
+			{
+				"gid" "1201723822657207348"
+				"size" "29517963389"
+				"download" "11474388512"
+			}
+			"0.1.4.1"
+			{
+				"gid" "1997375549697451600"
+				"size" "29562997565"
+				"download" "11504902128"
+			}
+			"0.1.5.0"
+			{
+				"gid" "371154442131475351"
+				"size" "28036329050"
+				"download" "11580729584"
+			}
+			"0.2.0.0"
+			{
+				"gid" "2665493203568949137"
+				"size" "33282962005"
+				"download" "13695974080"
+			}
+			"0.2.1.0"
+			{
+				"gid" "7918653577518483221"
+				"size" "33337099298"
+				"download" "13704640032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development3"
+			{
+				"gid" "173D6511CD2564CE3628FABEAAE05326"
+				"size" "E8B46F7AB581F4127AABDD72E81C465C"
+				"download" "1D37C2AB0BFB8EA8CE51E4CF2EB326DB"
+			}
+			"external"
+			{
+				"gid" "B74A16DEFC83B617056D88BE8259E964"
+				"size" "1C336971D6B7F5AB66FEC19459EF1CF3"
+				"download" "6878991A0FF36D2AC851F56AF8DE025D"
+			}
+			"next_dev"
+			{
+				"gid" "8DF3F785EEF2BD26D67B939EAB5057CC"
+				"size" "FC63B0F7244092403E94028690075A06"
+				"download" "D5C39765E8EB23031E810E0AABF50E30"
+			}
+			"preview"
+			{
+				"gid" "9625B50B052C116032D768DD85C34928"
+				"size" "E68651C0F826898405545E7FA7B902C3"
+				"download" "A28AC9BE16C6EF55C6D086B32437586B"
+			}
+			"t2test"
+			{
+				"gid" "02E6593014EEECAC91FB91B53662B009"
+				"size" "4E1B778AEFCDF3DE81388714C1A587FB"
+				"download" "0EA4AB9D9294DBE165FCFCCEA442EE1B"
+			}
+			"candidate"
+			{
+				"gid" "957E906B9FC52C49681670BD3014F622"
+				"size" "7B2DB2BD7E699823A03CA14F1708A0F4"
+				"download" "55940E6ADC93599DC32C24237D26028F"
+			}
+			"development"
+			{
+				"gid" "2587F29CC686653760599546FA02A4CE"
+				"size" "9E7EFF099C753F8E5E6F0A52795ECAAE"
+				"download" "325495EA310F765BA9040E480CF32A93"
+			}
+			"development2"
+			{
+				"gid" "2213765E4CFCA6DDFE9B81D75427CB27"
+				"size" "26988CF88B6B7E349A1360213FE2059F"
+				"download" "0DCA300531BA90D75E9D76A7E3CF3612"
+			}
+			"development4"
+			{
+				"gid" "9A8CB388C263AAFD686C24B7C9527D18"
+				"size" "13758633EE46B4FC11F49B6B13B7803C"
+				"download" "F51F5D5C69EFCADF3FF4A704439F7CE3"
+			}
+			"development5"
+			{
+				"gid" "6C28A69D4964667054BE85F158114EE7"
+				"size" "F53DB7D9E53A9E8431A930849C0ADDE5"
+				"download" "82ABCA32220CFB08888931A503E41622"
+			}
+			"development6"
+			{
+				"gid" "9A8291887D034C194C5EF3C8648173DE"
+				"size" "10E397BF13938702AFD609EBE9AED8D2"
+				"download" "288D06C08671092EA0964F4C24165D4F"
+			}
+			"development7"
+			{
+				"gid" "1E0D9278C0F3AE048FD13BDB7083CAA5"
+				"size" "D48F03795C6F07AA9C1DC624C73F9248"
+				"download" "46F119B59B1DABAB6F060A9666D67FC5"
+			}
+			"development8"
+			{
+				"gid" "0033BA58832D19DA1BBCCF4C48BF9716"
+				"size" "DF6084746BA9686AB218B9087F8C90FA"
+				"download" "598F4E23C8934F554F82836F865E0F59"
+			}
+			"playtest"
+			{
+				"gid" "173A94E9006941A47A6FE6A899A01AF2"
+				"size" "899329F3C9081ED4BDA4F362D7DC4F31"
+				"download" "2852BF85FFF708110BD11F3BF461741F"
+			}
+			"staging"
+			{
+				"gid" "2641B51D7606FD9612E6E6A3608ABD70"
+				"size" "2C0EA8E63AEF99F2FF43E11855D15DB6"
+				"download" "0FEA4FAED416CDF6C69CE004548C309E"
+			}
+			"test"
+			{
+				"gid" "1A49FEB07A92C3A3E55DFEC64EE3C76D"
+				"size" "9B120DB06A967E12407AEBF8664A2147"
+				"download" "3C02E603BD34A337418EC26B918DD730"
+			}
+			"test2"
+			{
+				"gid" "52977CB31D285941229CE28C2AE691A9"
+				"size" "B99FD8AB1DD97F5BF187A8163EDD4FFB"
+				"download" "9A22C0A80DEAB5BFA683FF05450B8438"
+			}
+			"voyager"
+			{
+				"gid" "5740A9E482BC3E08D2B2FF2E970D420A"
+				"size" "D1A77AAF2048BAC07964FD2CC95E1CC4"
+				"download" "97FA7F7503EAE0459E7CE5B58767F5D8"
+			}
+		}
+	}
+	"954852"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2894272240027278247"
+				"size" "0"
+				"download" "0"
+			}
+			"0.1.3.1"
+			{
+				"gid" "2894272240027278247"
+				"size" "0"
+				"download" "0"
+			}
+			"0.1.3.2"
+			{
+				"gid" "2894272240027278247"
+				"size" "0"
+				"download" "0"
+			}
+			"0.1.4.1"
+			{
+				"gid" "2894272240027278247"
+				"size" "0"
+				"download" "0"
+			}
+			"0.1.5.0"
+			{
+				"gid" "2894272240027278247"
+				"size" "0"
+				"download" "0"
+			}
+			"0.2.0.0"
+			{
+				"gid" "2894272240027278247"
+				"size" "0"
+				"download" "0"
+			}
+			"0.2.1.0"
+			{
+				"gid" "2894272240027278247"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "D2FC3249CAB51DCB7E7536427F5C0814"
+				"size" "3510743663DC7A8D77A15A11FE7AFD7D"
+				"download" "3510743663DC7A8D77A15A11FE7AFD7D"
+			}
+			"next_dev"
+			{
+				"gid" "098E4A53DA97775C21F0C38C40BE527D"
+				"size" "7D8107A466525F9A814B4FB893749CC3"
+				"download" "7D8107A466525F9A814B4FB893749CC3"
+			}
+			"preview"
+			{
+				"gid" "01A09E22916F7699E8B7A0D96E6642B3"
+				"size" "9CDEF76860727DD98FFF01F116552853"
+				"download" "9CDEF76860727DD98FFF01F116552853"
+			}
+			"t2test"
+			{
+				"gid" "6E5184A96393FEB508A435C264973823"
+				"size" "2E04FC4DA59B9B1D2899FADA2C4E7A54"
+				"download" "2E04FC4DA59B9B1D2899FADA2C4E7A54"
+			}
+			"development2"
+			{
+				"gid" "070DE01489BA6F1E7A83C4AEFA71D5D8"
+				"size" "EB2B29B038474520AFEE31BF44A836E8"
+				"download" "EB2B29B038474520AFEE31BF44A836E8"
+			}
+			"development7"
+			{
+				"gid" "B737FE7D845A978E22C82B429538A3E5"
+				"size" "8DCAFD46F4601941C735A9751829CAC8"
+				"download" "8DCAFD46F4601941C735A9751829CAC8"
+			}
+			"development8"
+			{
+				"gid" "5B1D64C8E91ACCC4025E9B3F0FCDBBFE"
+				"size" "B694689A14CE0697268674D203E5199C"
+				"download" "B694689A14CE0697268674D203E5199C"
+			}
+			"playtest"
+			{
+				"gid" "FB9E33A516BB512FBDD66E9F4FF5FC16"
+				"size" "41204DCE40DBDB6AEB654D6FE09550BE"
+				"download" "41204DCE40DBDB6AEB654D6FE09550BE"
+			}
+			"staging"
+			{
+				"gid" "32520592845FA6C941A79EE5710F9D6A"
+				"size" "F6A58FBE0F09BA6ED6FF8B080D731DF8"
+				"download" "F6A58FBE0F09BA6ED6FF8B080D731DF8"
+			}
+			"test"
+			{
+				"gid" "498DEFB2B48A3609E8BDC5F91CA6DAE6"
+				"size" "C9BA7847438C7EA6BE671EC6A9594CC9"
+				"download" "C9BA7847438C7EA6BE671EC6A9594CC9"
+			}
+			"test2"
+			{
+				"gid" "67C3321CA1C929B5207862D03C1FDB02"
+				"size" "EA110C2BEE84E1C252B569062A0D3E64"
+				"download" "EA110C2BEE84E1C252B569062A0D3E64"
+			}
+			"voyager"
+			{
+				"gid" "8B5D042556E30D5832F91029E5043EA8"
+				"size" "92D791B6295FC1420D240DC604B57048"
+				"download" "92D791B6295FC1420D240DC604B57048"
+			}
+		}
+	}
+	"954853"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5561556978087969695"
+				"size" "0"
+				"download" "0"
+			}
+			"0.1.3.1"
+			{
+				"gid" "5561556978087969695"
+				"size" "0"
+				"download" "0"
+			}
+			"0.1.3.2"
+			{
+				"gid" "5561556978087969695"
+				"size" "0"
+				"download" "0"
+			}
+			"0.1.4.1"
+			{
+				"gid" "5561556978087969695"
+				"size" "0"
+				"download" "0"
+			}
+			"0.1.5.0"
+			{
+				"gid" "5561556978087969695"
+				"size" "0"
+				"download" "0"
+			}
+			"0.2.0.0"
+			{
+				"gid" "5561556978087969695"
+				"size" "0"
+				"download" "0"
+			}
+			"0.2.1.0"
+			{
+				"gid" "5561556978087969695"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external"
+			{
+				"gid" "FBC37A5DECC95725E45BA6F037F2EAF7"
+				"size" "3510743663DC7A8D77A15A11FE7AFD7D"
+				"download" "3510743663DC7A8D77A15A11FE7AFD7D"
+			}
+			"next_dev"
+			{
+				"gid" "1E8A4CDA2AE12A3CA11B05747A195B52"
+				"size" "7D8107A466525F9A814B4FB893749CC3"
+				"download" "7D8107A466525F9A814B4FB893749CC3"
+			}
+			"preview"
+			{
+				"gid" "F46C14F27420A803A7561AED799FEFA5"
+				"size" "9CDEF76860727DD98FFF01F116552853"
+				"download" "9CDEF76860727DD98FFF01F116552853"
+			}
+			"t2test"
+			{
+				"gid" "9CEA471E254E8DBB8CDC48FE973B01CF"
+				"size" "2E04FC4DA59B9B1D2899FADA2C4E7A54"
+				"download" "2E04FC4DA59B9B1D2899FADA2C4E7A54"
+			}
+			"development2"
+			{
+				"gid" "A8CB4E8136242F643C1C86DB1B98ACF9"
+				"size" "EB2B29B038474520AFEE31BF44A836E8"
+				"download" "EB2B29B038474520AFEE31BF44A836E8"
+			}
+			"development7"
+			{
+				"gid" "F6AB2BD28ADAFBE8BC35C2517E324DA0"
+				"size" "8DCAFD46F4601941C735A9751829CAC8"
+				"download" "8DCAFD46F4601941C735A9751829CAC8"
+			}
+			"development8"
+			{
+				"gid" "35B3E79E73B6C320492426AA6100B097"
+				"size" "B694689A14CE0697268674D203E5199C"
+				"download" "B694689A14CE0697268674D203E5199C"
+			}
+			"playtest"
+			{
+				"gid" "949AB69E6B533767A522E6F9151F5BBA"
+				"size" "41204DCE40DBDB6AEB654D6FE09550BE"
+				"download" "41204DCE40DBDB6AEB654D6FE09550BE"
+			}
+			"staging"
+			{
+				"gid" "6EE0BBF3C454563DF6C3A4527FDE2C76"
+				"size" "F6A58FBE0F09BA6ED6FF8B080D731DF8"
+				"download" "F6A58FBE0F09BA6ED6FF8B080D731DF8"
+			}
+			"test"
+			{
+				"gid" "194E698C969F1FAF56D6B85F5E0C8FFA"
+				"size" "C9BA7847438C7EA6BE671EC6A9594CC9"
+				"download" "C9BA7847438C7EA6BE671EC6A9594CC9"
+			}
+			"test2"
+			{
+				"gid" "180F02FE505FFC03FF37416AD07AA6DA"
+				"size" "EA110C2BEE84E1C252B569062A0D3E64"
+				"download" "EA110C2BEE84E1C252B569062A0D3E64"
+			}
+			"voyager"
+			{
+				"gid" "34D063A524C1EF102A821567410C3CF7"
+				"size" "92D791B6295FC1420D240DC604B57048"
+				"download" "92D791B6295FC1420D240DC604B57048"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14669105"
+			"timeupdated" "1718121655"
+		}
+		"0.1.0.0"
+		{
+			"buildid" "10624168"
+			"description" "0.1.0.0 Kerbal Space Program 2"
+			"timeupdated" "1678913222"
+		}
+		"0.1.1.0"
+		{
+			"buildid" "10752762"
+			"description" "0.1.1.0 Kerbal Space Program 2"
+			"timeupdated" "1681320842"
+		}
+		"0.1.2.0"
+		{
+			"buildid" "10943457"
+			"description" "0.1.2.0 Kerbal Space Program 2"
+			"timeupdated" "1687382672"
+		}
+		"0.1.3.1"
+		{
+			"buildid" "11599476"
+			"description" "0.1.3.1 Kerbal Space Program 2"
+			"timeupdated" "1689033429"
+		}
+		"0.1.3.2"
+		{
+			"buildid" "11669922"
+			"description" "0.1.3.2 Kerbal Space Program 2"
+			"timeupdated" "1693360000"
+		}
+		"0.1.4.1"
+		{
+			"buildid" "12312214"
+			"description" "0.1.4.1 Kerbal Space Program 2"
+			"timeupdated" "1698192437"
+		}
+		"0.1.5.0"
+		{
+			"buildid" "12526347"
+			"description" "0.1.5.0 Kerbal Space Program 2"
+			"timeupdated" "1705958721"
+		}
+		"0.2.0.0"
+		{
+			"buildid" "12975719"
+			"description" "0.2.0.0 Kerbal Space Program 2"
+			"timeupdated" "1706316316"
+		}
+		"development3"
+		{
+			"buildid" "14028126"
+			"pwdrequired" "1"
+			"timeupdated" "1712875747"
+		}
+		"external"
+		{
+			"buildid" "12871182"
+			"pwdrequired" "1"
+			"timeupdated" "1701709803"
+		}
+		"next_dev"
+		{
+			"buildid" "12413847"
+			"pwdrequired" "1"
+			"timeupdated" "1697029851"
+		}
+		"preview"
+		{
+			"buildid" "12931692"
+			"pwdrequired" "1"
+			"timeupdated" "1702315953"
+		}
+		"t2test"
+		{
+			"buildid" "10686124"
+			"pwdrequired" "1"
+			"timeupdated" "1677865065"
+		}
+		"0.2.1.0"
+		{
+			"buildid" "13287433"
+			"description" "0.2.1.0 Kerbal Space Program 2"
+			"timeupdated" "1718050873"
+		}
+		"candidate"
+		{
+			"buildid" "14604893"
+			"pwdrequired" "1"
+			"timeupdated" "1717542824"
+		}
+		"development"
+		{
+			"buildid" "14794978"
+			"pwdrequired" "1"
+			"timeupdated" "1718976083"
+		}
+		"development2"
+		{
+			"buildid" "14794962"
+			"pwdrequired" "1"
+			"timeupdated" "1718975991"
+		}
+		"development4"
+		{
+			"buildid" "14781799"
+			"pwdrequired" "1"
+			"timeupdated" "1718976182"
+		}
+		"development5"
+		{
+			"buildid" "14621490"
+			"pwdrequired" "1"
+			"timeupdated" "1717649953"
+		}
+		"development6"
+		{
+			"buildid" "14461048"
+			"pwdrequired" "1"
+			"timeupdated" "1716417631"
+		}
+		"development7"
+		{
+			"buildid" "14444022"
+			"pwdrequired" "1"
+			"timeupdated" "1716306827"
+		}
+		"development8"
+		{
+			"buildid" "14566789"
+			"pwdrequired" "1"
+			"timeupdated" "1717195693"
+		}
+		"playtest"
+		{
+			"buildid" "14433250"
+			"pwdrequired" "1"
+			"timeupdated" "1716241557"
+		}
+		"staging"
+		{
+			"buildid" "14669105"
+			"pwdrequired" "1"
+			"timeupdated" "1718050774"
+		}
+		"test"
+		{
+			"buildid" "14593658"
+			"pwdrequired" "1"
+			"timeupdated" "1717477288"
+		}
+		"test2"
+		{
+			"buildid" "14540374"
+			"pwdrequired" "1"
+			"timeupdated" "1717027521"
+		}
+		"voyager"
+		{
+			"buildid" "14566789"
+			"pwdrequired" "1"
+			"timeupdated" "1717196734"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24066791"
+"_sha" "0ee8f695747381849138c2cb21aa7ecd89108656"
+"_size" "17655"
