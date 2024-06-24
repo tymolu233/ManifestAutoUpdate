@@ -1,0 +1,379 @@
+"appid" "2418520"
+"common"
+{
+	"name" "Farm Together 2"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"clienticon" "01048682b7ce5518d35aecfc77aa46d0a9ef03d9"
+	"clienttga" "db7cc657595958eba32571cb2e2c08d995668ab2"
+	"icon" "dda6a5202ada060fb486c4b06c67c0b3fa061749"
+	"clienticns" "545880e0b12ee36fe60474655e38ed3541de2ec7"
+	"linuxclienticon" "f786627a6daf1e196615fe4c95ab666096e95007"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1716854400"
+		"tested_build_id" "14430322"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.68444487146489"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1714728783"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Milkstone Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Milkstone Studios"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_43" "1"
+		"category_44" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1715097662"
+	"steam_deck_blog_url" "https://steamcommunity.com/games/2418520/announcements/detail/4213757668847074226"
+	"community_hub_visible" "1"
+	"gameid" "2418520"
+	"store_tags"
+	{
+		"0" "87918"
+		"1" "22602"
+		"2" "3810"
+		"3" "5350"
+		"4" "10235"
+		"5" "4726"
+		"6" "16689"
+		"7" "4747"
+		"8" "15564"
+		"9" "597"
+		"10" "3920"
+		"11" "1654"
+		"12" "4695"
+		"13" "7332"
+		"14" "1685"
+		"15" "4195"
+		"16" "599"
+		"17" "615955"
+		"18" "4191"
+		"19" "12472"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"developer" "Milkstone Studios"
+	"publisher" "Milkstone Studios"
+}
+"config"
+{
+	"installdir" "Farm Together 2"
+	"steamcontrollertemplateindex" "2"
+	"steamdecktouchscreen" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FarmTogether2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "FarmTogether2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2418521"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6976993560232882682"
+				"size" "624708795"
+				"download" "298399264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private"
+			{
+				"gid" "31EE0DA1E5008D86C76535FD29A3EA31"
+				"size" "2098AAD03E619D3FD348381B19DEB2D3"
+				"download" "365BF6080D2C82C6BE7481D241E23BFE"
+			}
+		}
+	}
+	"2418522"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4453455420280369449"
+				"size" "658953536"
+				"download" "309620224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"private"
+			{
+				"gid" "7FB00EDAEECC2173E698245FFE80F6FC"
+				"size" "0F01C7A3C327D4799FB53D25B873E16F"
+				"download" "C503DD2A3DAC550AD61E9E8A5CD06D32"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14771044"
+			"timeupdated" "1718816584"
+		}
+		"private"
+		{
+			"buildid" "14816685"
+			"pwdrequired" "1"
+			"timeupdated" "1719225789"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Milkstone Studios/FarmTogether2/SteamStorage/{64BitSteamID}/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"addpath" ""
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"addpath" ".config/unity3d/"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24092787"
+"_sha" "6246ed1b495b0e865f5e26182704fbfe0e504dad"
+"_size" "6467"
