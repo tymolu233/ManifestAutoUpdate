@@ -1,0 +1,233 @@
+"appid" "1606180"
+"common"
+{
+	"name" "下一站江湖Ⅱ"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "b8e51391d547413a10710dc17273d0752e3e20e9"
+	"logo_small" "b8e51391d547413a10710dc17273d0752e3e20e9_thumb"
+	"icon" "b46c8855fdf1634f949dc8df15ca95fec4345505"
+	"clienticon" "f558681120d088f66e1fbab350f0658d8d6f0ef1"
+	"clienttga" "a1643772c706d15af0b8b0dbadec4f27298bdd85"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"sc_schinese" "下一站江湖Ⅱ"
+	}
+	"releasestatesteamchina" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-cn,zh-xc"
+		"library_logo" "zh-cn,zh-xc,en"
+		"library_header" "en,zh-cn,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "42.150656467335736"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718886212"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "白玉京工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "白玉京工作室"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713398449"
+	"community_hub_visible" "1"
+	"gameid" "1606180"
+	"store_tags"
+	{
+		"0" "4182"
+		"1" "1695"
+		"2" "122"
+		"3" "3810"
+		"4" "1662"
+		"5" "3834"
+		"6" "1742"
+		"7" "6971"
+		"8" "21"
+		"9" "492"
+		"10" "4191"
+		"11" "1723"
+		"12" "9"
+		"13" "5395"
+		"14" "19"
+		"15" "4231"
+		"16" "6915"
+		"17" "4598"
+		"18" "4608"
+		"19" "3993"
+	}
+	"review_score" "6"
+	"review_percentage" "70"
+}
+"extended"
+{
+	"developer" "白玉京工作室"
+	"publisher" "白玉京工作室"
+	"homepage" "http://jh.inmotiongame.com/"
+	"listofdlc" "2905470,3007440"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "下一站江湖Ⅱ"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"launch"
+	{
+		"0"
+		{
+			"executable" "下一站江湖Ⅱ\\下一站江湖Ⅱ.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "6"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"1606181"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5748160963836180403"
+				"size" "18669924158"
+				"download" "10828949264"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "1E1B1F11BD66CB7A07CC3D969270CD98"
+				"size" "20D501911AC7C33A31A630C8A3E89844"
+				"download" "6E2B6283CB1E87937A8BD925AE5D3197"
+			}
+			"test"
+			{
+				"gid" "F7A95676E1AA3608AFB4909574CFA98A"
+				"size" "5B67D8749C192C952478A7A58648B1E9"
+				"download" "A161577636C9D049BC4A47158048D45D"
+			}
+		}
+	}
+	"2905470"
+	{
+		"dlcappid" "2905470"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2357287501546393262"
+				"size" "194391126"
+				"download" "190107376"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "1897C0AD95F13A5C5EEBE2FC623BFFA9"
+				"size" "91628C95DC1EBD4032A5CCBCD860788F"
+				"download" "510E2102B2091A8ACA272F1A76FDCE01"
+			}
+			"test"
+			{
+				"gid" "C92389F826DD77E12DB5F9B1F507D696"
+				"size" "A1E56C84180ECE93B97EBC55D1690B69"
+				"download" "63C28BBEEEBFAA92DE78E0545560D4AF"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14805247"
+			"timeupdated" "1719076376"
+		}
+		"steam_china_only"
+		{
+			"buildid" "14805247"
+			"pwdrequired" "1"
+			"timeupdated" "1719076388"
+			"sc_schinese" "仅中国"
+		}
+		"test"
+		{
+			"buildid" "14805247"
+			"pwdrequired" "1"
+			"timeupdated" "1719073706"
+			"sc_schinese" "Steam China test"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24082776"
+"_sha" "09ba2ebee5fd20e39776bd62c682b948d99ea9cc"
+"_size" "4437"
