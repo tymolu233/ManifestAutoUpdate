@@ -1,0 +1,298 @@
+"appid" "2100150"
+"common"
+{
+	"name" "Shadow of the Depth"
+	"type" "Game"
+	"name_localized"
+	{
+		"schinese" "深渊之影"
+		"english" "Shadow of the Depth"
+		"tchinese" "深淵之影"
+		"sc_schinese" "深渊之影"
+	}
+	"clienticon" "1ef5c0bbbce597fdb90110bab56f7003a71907b5"
+	"clienttga" "a2ce2d8aa1ed87727b906441faad573755e7e044"
+	"icon" "0e735a172c32f18b518508b598b614fde2ea6701"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"releasestatesteamchina" "prerelease"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1714780800"
+		"tested_build_id" "14232646"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "50.87258006327162"
+		}
+	}
+	"store_asset_mtime" "1717669968"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "ChillyRoom"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ChillyRoom"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_33" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713837560"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2100150"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "19"
+		"2" "42804"
+		"3" "1646"
+		"4" "3959"
+		"5" "122"
+		"6" "1716"
+		"7" "4182"
+		"8" "1720"
+		"9" "4711"
+		"10" "4026"
+		"11" "4231"
+		"12" "6815"
+		"13" "4166"
+		"14" "1759"
+		"15" "3871"
+		"16" "4791"
+		"17" "21"
+		"18" "29482"
+		"19" "4252"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "ChillyRoom"
+	"publisher" "ChillyRoom"
+}
+"config"
+{
+	"installdir" "SOTD"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SOTD.exe"
+			"type" "default"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+}
+"depots"
+{
+	"2100151"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8078774778842557843"
+				"size" "1458711358"
+				"download" "930129920"
+			}
+			"beta"
+			{
+				"gid" "69320261089569002"
+				"size" "1458711362"
+				"download" "930131696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "3E7F9435F068380D263716C9E3EE8CCF"
+				"size" "0DC870E549FF63A38AED8DE9412904B9"
+				"download" "D92BBD4E9C57B600D863141EAC1943FC"
+			}
+			"localization"
+			{
+				"gid" "749F3A11FD9E6CCC74577ADC6028AF3C"
+				"size" "281CDEA61FEE9210426A1663F8A6DC23"
+				"download" "3BD79364E7FA570C35F4E3B879A2081F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14716615"
+			"timeupdated" "1718357653"
+		}
+		"beta"
+		{
+			"buildid" "14705056"
+			"description" "Public Test"
+			"timeupdated" "1718280570"
+		}
+		"develop"
+		{
+			"buildid" "14557525"
+			"pwdrequired" "1"
+			"timeupdated" "1717142390"
+		}
+		"localization"
+		{
+			"buildid" "14210909"
+			"pwdrequired" "1"
+			"timeupdated" "1714407281"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "1000"
+}
+"_missing_token" "False"
+"_change_number" "24005670"
+"_sha" "b2a5f31fb4aba04af90121916ae5675496021f86"
+"_size" "5366"
