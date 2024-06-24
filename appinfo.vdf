@@ -1,0 +1,229 @@
+"appid" "2525970"
+"common"
+{
+	"name" "Do Not Feed the Monkeys 2099 - DLC 0"
+	"type" "DLC"
+	"parent" "1964040"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon,macosnotarized"
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1703169950"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fictiorama Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Joystick Ventures"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Joystick Ventures"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1703064304"
+	"gameid" "2525970"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "599"
+		"2" "492"
+		"3" "5030"
+		"4" "6426"
+		"5" "10235"
+		"6" "6971"
+		"7" "5923"
+		"8" "12472"
+		"9" "4136"
+		"10" "8945"
+		"11" "3871"
+		"12" "1742"
+		"13" "3964"
+		"14" "4182"
+		"15" "8369"
+		"16" "3942"
+		"17" "5230"
+		"18" "4166"
+		"19" "12095"
+	}
+	"review_score" "7"
+	"review_percentage" "100"
+}
+"extended"
+{
+	"dlcforappid" "1964040"
+	"mustownapptopurchase" "1964040"
+	"developer" "Fictiorama Studios"
+	"publisher" "Joystick Ventures"
+	"homepage" "https://www.donotfeedthemonkeys.com/"
+	"isfreeapp" "1"
+	"dlcavailableonstore" "1"
+}
+"depots"
+{
+	"2525970"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4830803629743581928"
+				"size" "66550518"
+				"download" "49276816"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cheatsbeta"
+			{
+				"gid" "CC558C9FEFD116A7F4A65A235020A340"
+				"size" "C30181E10BFDF212D8DA869ED912969B"
+				"download" "B048DE5DEE41743308085A1C8E4A37AD"
+			}
+			"internaltest"
+			{
+				"gid" "5C1123337CEC5F646FEF8D8F1804224C"
+				"size" "AA7C3C819BEBEFF53A9FBCE31E955B13"
+				"download" "CC257D7C006B0D34E3AE77E0295CF963"
+			}
+			"media"
+			{
+				"gid" "2CD5311FEE6416E1A980592C235605C9"
+				"size" "4E0D2CE9BA95FC708662F4BA3E7D95C3"
+				"download" "DE9C58F15CFF12C510AA38C93EE824D5"
+			}
+		}
+		"dlcappid" "2525970"
+	}
+	"2525971"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6759550410208305811"
+				"size" "66554020"
+				"download" "49316720"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cheatsbeta"
+			{
+				"gid" "23FDBEC9981A75043C01F1C93BFC04D6"
+				"size" "A481FC01B6FD5E90756A421D25876AA4"
+				"download" "9904DE12C229A9BED5D76B4026693D45"
+			}
+			"internaltest"
+			{
+				"gid" "8FE61BE2733E72DD77827119BFBC1874"
+				"size" "3954885DD5F8256844FFAD77B8902FBD"
+				"download" "A2384F744ABB9F79C716D443410EDC03"
+			}
+			"media"
+			{
+				"gid" "48EF4D3A1EEAC24B362636D3E0593D41"
+				"size" "0BF51471DBEB90876452C383925B649D"
+				"download" "D9FB79EE2A7C03D30AF2CBB8F86EE7ED"
+			}
+		}
+		"dlcappid" "2525970"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14147388"
+			"timeupdated" "1713948723"
+		}
+		"cheatsbeta"
+		{
+			"buildid" "14071860"
+			"pwdrequired" "1"
+			"timeupdated" "1713282624"
+		}
+		"internaltest"
+		{
+			"buildid" "14147388"
+			"pwdrequired" "1"
+			"timeupdated" "1713885327"
+		}
+		"media"
+		{
+			"buildid" "14072302"
+			"pwdrequired" "1"
+			"timeupdated" "1713365290"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "b4748e33195553a2bf503dda071dd868b5feeadb"
+"_size" "3901"
