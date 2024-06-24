@@ -1,0 +1,313 @@
+"appid" "2381740"
+"common"
+{
+	"name" "Hexguardian"
+	"type" "Game"
+	"clienttga" "7ffd4fe5de8a58fa9a50460260d30eb1b158f650"
+	"clienticon" "e11436acdc1bedb96da6e09cc51ae5eac66d656e"
+	"icon" "2915b15886565beff5834f4a5cd9369e3189bb92"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "六方守护者"
+		"tchinese" "六方守護者"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715194335"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Split Second Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Yogscast Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Yogscast Games"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_25" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1714647838"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2381740"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "3959"
+		"2" "1716"
+		"3" "9"
+		"4" "4195"
+		"5" "1684"
+		"6" "4328"
+		"7" "5125"
+		"8" "1717"
+		"9" "4191"
+		"10" "597"
+		"11" "4726"
+		"12" "7332"
+		"13" "1643"
+		"14" "4252"
+		"15" "4305"
+		"16" "4057"
+		"17" "8945"
+		"18" "4182"
+		"19" "1676"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"developer" "Split Second Games"
+	"publisher" "Yogscast Games"
+}
+"config"
+{
+	"installdir" "Hexguardian"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Hexguardian.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"2381742"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3486901132704044171"
+				"size" "1211133853"
+				"download" "885561024"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"events"
+			{
+				"gid" "C94D92781C5432FD8C3486FC4098B722"
+				"size" "6D2CCC87CC1ABDCBB0E969958CF1B084"
+				"download" "43ED13921BECD724A158901630315939"
+			}
+			"creator"
+			{
+				"gid" "FFAD0B81FDDC3AB129A23515D5E198FC"
+				"size" "3C2D9ABF37BCD2D2E2A50EBA0FFFCE30"
+				"download" "C667CD1E2139E0A18992CDAF2845B282"
+			}
+			"press"
+			{
+				"gid" "89CA0A5854AA599D8EE2B51058EC28D9"
+				"size" "0549956DFB869F0F6467B3B41E318F52"
+				"download" "991DEEF517EDF9962D69D91A2A7FDDDD"
+			}
+			"texttest"
+			{
+				"gid" "71F186622A9AA569D95E232D5D1EAD13"
+				"size" "C966C5145C02E148C66EC36AFFB80D11"
+				"download" "3F1DD9EE18187BB35770FF6198C1D2E9"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14727780"
+			"timeupdated" "1718442829"
+		}
+		"events"
+		{
+			"buildid" "13879997"
+			"pwdrequired" "1"
+			"timeupdated" "1711614707"
+		}
+		"creator"
+		{
+			"buildid" "14727780"
+			"pwdrequired" "1"
+			"timeupdated" "1718442943"
+		}
+		"press"
+		{
+			"buildid" "14727780"
+			"pwdrequired" "1"
+			"timeupdated" "1718442952"
+		}
+		"texttest"
+		{
+			"buildid" "14766527"
+			"pwdrequired" "1"
+			"timeupdated" "1718791586"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000"
+	"maxnumfiles" "2"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "RTSTest/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24078898"
+"_sha" "0286e56c1e0c593d894c1c2f11fad5fa0586622d"
+"_size" "5218"
