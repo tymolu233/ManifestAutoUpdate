@@ -1,0 +1,282 @@
+"appid" "2450100"
+"common"
+{
+	"name" "西游幸存者"
+	"type" "Game"
+	"icon" "72b917fe31d4af54fff2a9eb068749130bbb0c6a"
+	"clienticon" "9f2b76278d85ae129e1b775ef79d66cff1273a50"
+	"clienttga" "1f5cbc1b7823fc4964019d819e6beecf8e70b5f3"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "西游幸存者"
+		"tchinese" "西遊幸存者"
+		"english" "Journey to the West Survivor"
+		"japanese" "西遊生存者"
+		"koreana" "서유기 서바이벌"
+	}
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1706227200"
+		"tested_build_id" "12802241"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "33.22053675612605"
+			"height_pct" "63.14414628354308"
+		}
+	}
+	"store_asset_mtime" "1713754291"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Buding Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Leyo Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711335422"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2450100"
+	"store_tags"
+	{
+		"0" "5125"
+		"1" "3959"
+		"2" "1716"
+		"3" "3964"
+		"4" "4255"
+		"5" "4182"
+		"6" "4637"
+		"7" "454187"
+		"8" "1662"
+		"9" "4598"
+		"10" "4136"
+		"11" "1654"
+		"12" "4195"
+		"13" "6915"
+		"14" "3871"
+		"15" "7481"
+		"16" "16094"
+		"17" "1684"
+		"18" "9"
+		"19" "122"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Buding Games"
+	"publisher" "Leyo Games"
+}
+"config"
+{
+	"installdir" "XIYOU"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"hasdepotsindlc" "1"
+	"2450101"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8538162614783464982"
+				"size" "457767103"
+				"download" "230822080"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14708005"
+			"timeupdated" "1718295826"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*.save"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*.META"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23959184"
+"_sha" "5d7a6bf3464f9fae9279839776c6e1406b365eee"
+"_size" "4913"
