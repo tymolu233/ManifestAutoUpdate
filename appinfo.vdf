@@ -1,0 +1,460 @@
+"appid" "924750"
+"common"
+{
+	"name" "Harold Halibut"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "ee4270dcd6af97cb476494928fc2b44b1bf1ed2d"
+	"logo" "459dbc370c272ab9195c346f9403920a8cc94362"
+	"logo_small" "459dbc370c272ab9195c346f9403920a8cc94362_thumb"
+	"clienticon" "81adb25c13dc43fc02fbe0215e0645fc589ba3f3"
+	"clienttga" "62b8456b0b44f004cac18019653246a8898c055e"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1712966400"
+		"tested_build_id" "13908384"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,ja,ru"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.24897309245874"
+			"height_pct" "97.34042565526408"
+		}
+	}
+	"store_asset_mtime" "1715010060"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Slow Bros."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Slow Bros."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Slow Bros."
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "4"
+		"2" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_61" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_60" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713272274"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "924750"
+	"store_tags"
+	{
+		"0" "1742"
+		"1" "4145"
+		"2" "5900"
+		"3" "11014"
+		"4" "3834"
+		"5" "1697"
+		"6" "97376"
+		"7" "1654"
+		"8" "552282"
+		"9" "597"
+		"10" "3799"
+		"11" "492"
+		"12" "3854"
+		"13" "4166"
+		"14" "4305"
+		"15" "3942"
+		"16" "4136"
+		"17" "5608"
+		"18" "21"
+		"19" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Slow Bros."
+	"publisher" "Slow Bros."
+	"homepage" "https://haroldhalibut.com/"
+}
+"config"
+{
+	"installdir" "Harold Halibut"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Harold Halibut.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Harold_Halibut.x86_64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Harold Halibut.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"baselanguages" "english,german,french,koreana,spanish,schinese,russian,japanese,turkish,brazilian"
+	"924751"
+	{
+		"config"
+		{
+			"osarch" "64"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1090991341144987539"
+				"size" "54823044682"
+				"download" "42991837200"
+			}
+			"local"
+			{
+				"gid" "7444751533037879471"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "BC6F2F99933AEBDB402D6F579C46EB7C"
+				"size" "D562C7C2ACF51E67DEAB362E93BF34C9"
+				"download" "B02EFBD3E38EFF719BE19966C050A52B"
+			}
+			"beta"
+			{
+				"gid" "512D4CC7E314EF78498BD23C362F8D2F"
+				"size" "FFFA6169527052FCF5E02CEEE5D68018"
+				"download" "770C9535811F78B7C673071DFA205428"
+			}
+		}
+	}
+	"924752"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2260810708881160164"
+				"size" "60630365634"
+				"download" "46285933088"
+			}
+			"local"
+			{
+				"gid" "5568886274996082648"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "11F5D066FF76E83A993DE4E2324686F2"
+				"size" "CA35FA88EB8BCD32AFFC1717215D2074"
+				"download" "BBD9731FFB9F5A18FEAC543FFB63963D"
+			}
+			"beta"
+			{
+				"gid" "5DDEBC7F001D8578DD77CB62CA69E7C6"
+				"size" "19DE0987EFA0249B968C7FF01C1C7730"
+				"download" "11024243F0F1632523EC5DA2D0C5FEB6"
+			}
+		}
+	}
+	"924753"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8900455021709605283"
+				"size" "61895405056"
+				"download" "45500603040"
+			}
+			"local"
+			{
+				"gid" "1162721630802363586"
+				"size" "52607299304"
+				"download" "40579597776"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"staging"
+			{
+				"gid" "2962FAA60F39573B0D41976913B8555E"
+				"size" "E8576141893F2A371C8D5DEE45FB1FD9"
+				"download" "7F3B61A5E7EB178CBEED972EF5041EC2"
+			}
+			"beta"
+			{
+				"gid" "3684D6925025C11706C1A91C8BDE4C02"
+				"size" "92FBF83B807C5DD96875A31C7C53C592"
+				"download" "FF235F93C7A8DE657CA8C254EB013F9C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14450800"
+			"timeupdated" "1716399167"
+		}
+		"local"
+		{
+			"buildid" "9621442"
+			"description" "Local Content Server"
+			"lcsrequired" "1"
+			"timeupdated" "1664489333"
+		}
+		"staging"
+		{
+			"buildid" "14796938"
+			"pwdrequired" "1"
+			"timeupdated" "1718987715"
+		}
+		"beta"
+		{
+			"buildid" "14793829"
+			"pwdrequired" "1"
+			"timeupdated" "1719208383"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Slow Bros/Harold Halibut"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Slow Bros/Harold Halibut"
+					"replace" "Slow Bros/Harold Halibut"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Slow Bros/Harold Halibut"
+					"replace" ".config/unity3d/Slow Bros/Harold Halibut"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24089688"
+"_sha" "4b8fb1b5a480f7273294f2273760ee4f32e3ec58"
+"_size" "8267"
