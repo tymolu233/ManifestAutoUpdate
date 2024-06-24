@@ -1,0 +1,306 @@
+"appid" "1839820"
+"common"
+{
+	"name" "Never Mourn"
+	"type" "Game"
+	"logo" "9e5cd9f241392e9addf5e6528614e2533448f8a2"
+	"logo_small" "9e5cd9f241392e9addf5e6528614e2533448f8a2_thumb"
+	"icon" "37f756f4f42c5057d57e46ce11963f7a2d8807d6"
+	"clienttga" "1486ea5f0ba0ca360922290876c000677aacec9f"
+	"clienticon" "69ac282e67e95988194d9eb03771c356780a6d65"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "不朽之心"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1716940800"
+		"tested_build_id" "14408111"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "45.11627906976745"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1715290110"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Primal Seed"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Poysky Productions"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Light Up Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715616502"
+	"community_hub_visible" "1"
+	"gameid" "1839820"
+	"store_tags"
+	{
+		"0" "3993"
+		"1" "4182"
+		"2" "42804"
+		"3" "3959"
+		"4" "1697"
+		"5" "1716"
+		"6" "4106"
+		"7" "6730"
+		"8" "4191"
+		"9" "4604"
+		"10" "1759"
+		"11" "19"
+		"12" "9541"
+		"13" "4057"
+		"14" "122"
+		"15" "1708"
+		"16" "4172"
+		"17" "1662"
+		"18" "21"
+		"19" "1646"
+	}
+	"review_score" "8"
+	"review_percentage" "91"
+}
+"extended"
+{
+	"developer" "Primal Seed"
+	"publisher" "Poysky Productions"
+}
+"config"
+{
+	"installdir" "Never Mourn"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Nevermourn Release.exe"
+		}
+	}
+}
+"depots"
+{
+	"1839821"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1790854223152956850"
+				"size" "4796258069"
+				"download" "2467997120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "48690A60A8630D886F7859AE1F1F03D2"
+				"size" "564BA9A4DEB067840E529D824E2EFB54"
+				"download" "679AB119698C1554781BA99CA01D2722"
+			}
+			"develop-demo"
+			{
+				"gid" "A624C20E3FD129A0894CCFE4595DA7C3"
+				"size" "74AB5D0FD03AE519D04FB99A64FDBA29"
+				"download" "A6D8F553FCB93F30248061632A5B454D"
+			}
+			"experimental"
+			{
+				"gid" "BBF335EC359C2A54271A624C37706410"
+				"size" "1D2D6DFFBD2C00BA6A3914C98E3C6399"
+				"download" "408EA28F29C9E06E25048610AD3DDC90"
+			}
+			"publishing"
+			{
+				"gid" "8B2FB14940BC99B19242694FFC37C1DC"
+				"size" "67438D188DF6189DFDB842566ECEF5D9"
+				"download" "6054F782A1897199187CB68E3A02EB29"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14796903"
+			"timeupdated" "1718989316"
+		}
+		"develop"
+		{
+			"buildid" "14796903"
+			"pwdrequired" "1"
+			"timeupdated" "1718987410"
+		}
+		"develop-demo"
+		{
+			"buildid" "14381225"
+			"pwdrequired" "1"
+			"timeupdated" "1715808554"
+		}
+		"experimental"
+		{
+			"buildid" "14795901"
+			"pwdrequired" "1"
+			"timeupdated" "1718981168"
+		}
+		"publishing"
+		{
+			"buildid" "14770142"
+			"pwdrequired" "1"
+			"timeupdated" "1718882416"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24069617"
+"_sha" "78e599d23fc77a960de219f15010b8ebe33eea96"
+"_size" "5545"
