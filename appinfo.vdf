@@ -1,0 +1,381 @@
+"appid" "1127700"
+"common"
+{
+	"name" "Reverse Collapse: Code Name Bakery"
+	"type" "Game"
+	"logo" "bafb6f3ba11fd7d6fdb26e55f8039502880eb868"
+	"logo_small" "bafb6f3ba11fd7d6fdb26e55f8039502880eb868_thumb"
+	"icon" "65fd9d4a6049e26714587c3a3ae097b69bf64b94"
+	"clienttga" "ddfeb0067c534bd0673cf03da90254e46fc3d33b"
+	"clienticon" "3e33d001cd1c14f36a7388b428017b3679f19535"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"sc_schinese" "逆向坍塌：面包房行动"
+		"schinese" "逆向坍塌：面包房行动"
+		"english" "Reverse Collapse: Code Name Bakery"
+		"tchinese" "逆向坍塌：麵包房行動"
+		"koreana" "역붕괴 ：베이커리작전"
+		"japanese" "逆コーラップス：パン屋作戦"
+	}
+	"releasestatesteamchina" "released"
+	"languages"
+	{
+		"english" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"sc_schinese" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,ja,ko,zh-xc"
+		"library_hero" "en,zh-cn,zh-xc"
+		"library_logo" "en,zh-cn,ko,ja,zh-xc"
+		"library_header" "zh-cn,en,ja,ko,zh-tw,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1711075359"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shanghai Sunborn Network Technology Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "XD"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "X.D. Network Inc."
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711075516"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1127700"
+	"store_tags"
+	{
+		"0" "3871"
+		"1" "21725"
+		"2" "14139"
+		"3" "7432"
+		"4" "4182"
+		"5" "5716"
+		"6" "4791"
+		"7" "6971"
+		"8" "9"
+		"9" "1733"
+		"10" "3942"
+		"11" "4085"
+		"12" "17305"
+		"13" "1708"
+		"14" "11333"
+		"15" "4345"
+		"16" "1742"
+		"17" "21"
+		"18" "122"
+		"19" "4598"
+	}
+	"review_score" "6"
+	"review_percentage" "74"
+}
+"extended"
+{
+	"developer" "Shanghai Sunborn Network Technology Co., Ltd."
+	"publisher" "XD"
+	"listofdlc" "2849110"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Reverse Collapse Code Name Bakery"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"launch"
+	{
+		"0"
+		{
+			"executable" "windows\\ReverseCollapse.exe"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"hasdepotsindlc" "1"
+	"baselanguages" "english,koreana,schinese,tchinese,japanese"
+	"1127701"
+	{
+		"config"
+		{
+			"realm" "steamglobal"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4406181647358750773"
+				"size" "14852139861"
+				"download" "12360118336"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "BE1C8D392708E4F17945F5BBC577D9C8"
+				"size" "CDF1C540FCAC9E90EA4EBE0D106578E4"
+				"download" "51E86B34D78040F4B5756A16A0BB0E34"
+			}
+			"reverse-c"
+			{
+				"gid" "5FEAA101EC0B20FC9E5B806A30233AF7"
+				"size" "43A5F1045DE1FF502417B4409D82F1F8"
+				"download" "8EDA24D94F3E7A4F23089621CB597DE2"
+			}
+		}
+	}
+	"1127702"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "862400402407519173"
+				"size" "14882604759"
+				"download" "12825025840"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "8BE40619EF2D6F1E765637F2B109239E"
+				"size" "28026F070A3B9032E66BE66BDF933BC9"
+				"download" "951174CD84D9752B396962E8B94E2E4A"
+			}
+			"reverse-c"
+			{
+				"gid" "0A07A70772752D5329B130296DA32C10"
+				"size" "833D0F29D1E946272174FB76C5C59BF2"
+				"download" "51DAE8E1DF99B21C4814CDA6FFB9481B"
+			}
+		}
+	}
+	"2849110"
+	{
+		"dlcappid" "2849110"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1013257148932795723"
+				"size" "206498825"
+				"download" "145105552"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"steam_china_only"
+			{
+				"gid" "DF04254AE2050F15CAFFAE1C7253732B"
+				"size" "A45D883A5C4324D1E4ABA93F5647E815"
+				"download" "5CCA8E18A659992B1157B6F7975047BD"
+			}
+			"reverse-c"
+			{
+				"gid" "F25E8F3ACA9E78F80787E652EB293ADC"
+				"size" "8B13A808D0CBE843BB074D55E313E0E9"
+				"download" "27ECD1128036FC2E883531E3F41C58C6"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14781215"
+			"timeupdated" "1718942591"
+		}
+		"steam_china_only"
+		{
+			"buildid" "13750188"
+			"pwdrequired" "1"
+			"timeupdated" "1710494151"
+			"sc_schinese" "仅中国"
+		}
+		"reverse-c"
+		{
+			"buildid" "14781215"
+			"pwdrequired" "1"
+			"timeupdated" "1718887315"
+			"sc_schinese" "reverse-c"
+		}
+		"operation_test"
+		{
+			"sc_schinese" "operation"
+		}
+		"beta_test2307"
+		{
+			"sc_schinese" "betatest2307"
+		}
+		"strfest_test"
+		{
+			"sc_schinese" "strfest082323"
+		}
+		"reversecollapse2402"
+		{
+			"sc_schinese" "reversecollapse2402"
+		}
+		"reversec"
+		{
+			"sc_schinese" "reversec"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "340000000"
+	"maxnumfiles" "150"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SunBorn/ReverseCollapse/{64BitSteamID}/UserData"
+			"pattern" "*.bytes"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SunBorn/ReverseCollapse/{64BitSteamID}/UserData"
+			"pattern" "*.png"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SunBorn/ReverseCollapse/{64BitSteamID}/2092RData"
+			"pattern" "*.bytes"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"3"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "SunBorn/ReverseCollapse/{64BitSteamID}/2092RData"
+			"pattern" "*.png"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24060342"
+"_sha" "8a0ee579023a938d56559da4ff4eafcc51a74c10"
+"_size" "7302"
