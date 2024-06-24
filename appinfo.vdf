@@ -1,0 +1,527 @@
+"appid" "1677280"
+"common"
+{
+	"name" "Company of Heroes 3"
+	"type" "Game"
+	"icon" "714cc3ca1253f30ea8275f0d3f592c93723d7638"
+	"logo" "c141d9cc6c1a185c26099e9843116848f73f1023"
+	"logo_small" "c141d9cc6c1a185c26099e9843116848f73f1023_thumb"
+	"clienttga" "824db22b620667cf4a83d9e4a8dce3bad0690218"
+	"clienticon" "ab8fad9b06e4c76f5671efce95a0a81ee896ad49"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1677280_eula_1"
+			"name" "Company of Heroes 3 EULA"
+			"url" "https://store.steampowered.com//eula/1677280_eula_1"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1708041600"
+		"tested_build_id" "12967793"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DeviceCompatibilityWarningsShown"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"6"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Company of Heroes 3"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "40.8064910043147"
+			"height_pct" "99.24008549038234"
+		}
+	}
+	"store_asset_mtime" "1715930320"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Relic Entertainment"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SEGA"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Company of Heroes"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_9" "1"
+		"category_29" "1"
+		"category_38" "1"
+		"category_22" "1"
+		"category_30" "1"
+		"category_15" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1677174600"
+	"metacritic_score" "81"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/company-of-heroes-3\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1677280"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4684"
+		"2" "1676"
+		"3" "1723"
+		"4" "3813"
+		"5" "4150"
+		"6" "1775"
+		"7" "14139"
+		"8" "3987"
+		"9" "4168"
+		"10" "4791"
+		"11" "1741"
+		"12" "19"
+		"13" "6426"
+		"14" "1708"
+		"15" "4325"
+		"16" "1678"
+		"17" "4182"
+		"18" "3859"
+		"19" "4145"
+	}
+	"review_score" "5"
+	"review_percentage" "53"
+}
+"extended"
+{
+	"developer" "Relic Entertainment"
+	"publisher" "SEGA"
+	"homepage" "https://companyofheroes.com"
+	"listofdlc" "2068340,2068341,2068342"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Company of Heroes 3"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "RelicCoH3.exe"
+			"arguments" "-crash_on_initlist_failure"
+			"type" "default"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"229006"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1677281"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "701281046400189769"
+				"size" "30285296185"
+				"download" "25120995104"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dred_check"
+			{
+				"gid" "6E2ED3C257B0BD0CF6AF6165AF15B223"
+				"size" "FE39F9ECC49C4BF1EB3B7BAAFC3AF10B"
+				"download" "190336CC593D1928E6BE099D73A605FA"
+			}
+			"1_6_8_test_update"
+			{
+				"gid" "2628F6034730118DC6B670444E0B47A9"
+				"size" "BAF8E6CC1524EAF657593103EEF80B0B"
+				"download" "D644F9E0DBEC0A899F04288E806F4514"
+			}
+			"community_preview"
+			{
+				"gid" "BC4ED01A53D5D1873353FADA0FB3FBF8"
+				"size" "1DCE0941C9A69A870E707A33408F383B"
+				"download" "21DA3B2AFB5FC09AFE315E71225C433F"
+			}
+			"internal_test"
+			{
+				"gid" "7FEA1C4781182020BFBA01DF6D9241F3"
+				"size" "E82639FF325C62058CA041EF1E9D0616"
+				"download" "CDBE53108CAD6C9DD8C3D539C132B664"
+			}
+			"internal_test_2"
+			{
+				"gid" "2E72673681D5BFEDA958AB82CDBA02DF"
+				"size" "ED760CE32822448FC16B18C2B715871C"
+				"download" "A6397174D619C6EF187F21053F898BAA"
+			}
+			"isv_denuvo"
+			{
+				"gid" "D2D947AF7230D6FF8A0D5F7E37F89C78"
+				"size" "1BA8DBC809A329A4084FB9149FB877F6"
+				"download" "A10D6ABB7FD7644CB14DC1ACBACBB434"
+			}
+		}
+	}
+	"1677282"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5978825816771390425"
+				"size" "4262"
+				"download" "944"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dred_check"
+			{
+				"gid" "0516C3173DD486F6181FFA6A42C10103"
+				"size" "EA1DC3894ACF342EF76D3EFE767C672C"
+				"download" "11D8468C58A2544451B3CD7F15438D9A"
+			}
+			"1_6_8_test_update"
+			{
+				"gid" "A5018086C0C5E6D5234D18DE3A05EAB7"
+				"size" "92D5B6E74550830909BD44701AD289D8"
+				"download" "B51324C549C8BE8D03725FDAAEFF9D90"
+			}
+			"community_preview"
+			{
+				"gid" "34FC3C375D9071D65B47E9A07AC20BA2"
+				"size" "64016F5F28216A2EF813D942312E96F5"
+				"download" "74AB85C7D33DBD305805556E7710B6CE"
+			}
+			"internal_test"
+			{
+				"gid" "A8ECB3FFEB952F632525D8879F7BBBFB"
+				"size" "021C9E12FD67892E21FE60050ABB73EF"
+				"download" "07C9633156991A426577F5A9983FE5C9"
+			}
+			"internal_test_2"
+			{
+				"gid" "5F9D43B672F1B4BF7B40769649A8B159"
+				"size" "3A73F2BFA1CA2A0761422FDDDA8C9965"
+				"download" "4B0B7866A051463E3A3B05E284C1AEC4"
+			}
+			"isv_denuvo"
+			{
+				"gid" "B89891E40F1854427D15A06057293707"
+				"size" "8522901EF5A8EECB75A5DACA53BE9612"
+				"download" "69087C7BA21D73C12E46B73E1011E45F"
+			}
+		}
+	}
+	"1677283"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2093073144572229527"
+				"size" "6704"
+				"download" "2784"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dred_check"
+			{
+				"gid" "90B6B4E65985DBAF323B2D536407FA94"
+				"size" "D74E9ACE044FE21EC321E0B18B8D0F2F"
+				"download" "8E32172138918A086AC755F22BA14D88"
+			}
+			"1_6_8_test_update"
+			{
+				"gid" "6297A569F6372D74ADFF260C21E83E36"
+				"size" "5F0F85EFFB99DC56FD3741F3E4C69D20"
+				"download" "FE1FF8807F2055B5F7990993FA54ACA4"
+			}
+			"community_preview"
+			{
+				"gid" "FD7687D8FDB68EFF6A121823BA3A56AC"
+				"size" "BD63432A00D873E6C244A558BCD0FE58"
+				"download" "EF9A36EC91AFD9E68272C7F07C5D31C4"
+			}
+			"internal_test"
+			{
+				"gid" "D61D4FA5EA39E412318CFD064A6A8A9D"
+				"size" "E5D8B8702187D130C15D586975041C68"
+				"download" "E26B7560841F9A1B74125A0E533A6CD7"
+			}
+			"internal_test_2"
+			{
+				"gid" "A5C5F201A19950180D1532438F31B943"
+				"size" "966AC4956C737E8FC1DF833AA821C263"
+				"download" "43284A651EB8D20A4484C746A5AE93F7"
+			}
+			"isv_denuvo"
+			{
+				"gid" "FDAA06181D99D0A44BE9407928789873"
+				"size" "DF53A74BE8EFC62969909BAA6D66FCD3"
+				"download" "02BF28ACDBFAB7090723ECDA4152C0A1"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,polish,czech,turkish,brazilian"
+	"workshopdepot" "1677280"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14513373"
+			"timeupdated" "1717002215"
+		}
+		"dred_check"
+		{
+			"buildid" "14090796"
+			"pwdrequired" "1"
+			"timeupdated" "1713410670"
+		}
+		"1_6_8_test_update"
+		{
+			"buildid" "14328875"
+			"pwdrequired" "1"
+			"timeupdated" "1715356834"
+		}
+		"community_preview"
+		{
+			"buildid" "14248229"
+			"pwdrequired" "1"
+			"timeupdated" "1714682394"
+		}
+		"internal_test"
+		{
+			"buildid" "14787328"
+			"pwdrequired" "1"
+			"timeupdated" "1718951856"
+		}
+		"internal_test_2"
+		{
+			"buildid" "14332819"
+			"pwdrequired" "1"
+			"timeupdated" "1715385359"
+		}
+		"isv_denuvo"
+		{
+			"buildid" "14312459"
+			"pwdrequired" "1"
+			"timeupdated" "1715356516"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "24061554"
+"_sha" "8cd706e73209c359955c7e5e37366b8e0905ed4c"
+"_size" "10664"
