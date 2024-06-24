@@ -1,0 +1,471 @@
+"appid" "1993180"
+"common"
+{
+	"name" "Quilts and Cats of Calico"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"icon" "e5778fe7651458ed2972018b627ec66795b67eb8"
+	"clienticon" "e9aa51aa8e84348a20f43859bdc66ff048b78475"
+	"clienttga" "89beca4ae7835ac892067dd031f594c103e8bec2"
+	"clienticns" "dc6965815cadc0869a980e9a8e80851e46f0386d"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1710892800"
+		"tested_build_id" "13737480"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Quilts and Cats of Calico"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"french" "capsule_231x87_french.jpg"
+		"spanish" "capsule_231x87_spanish.jpg"
+		"brazilian" "capsule_231x87_brazilian.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"russian" "capsule_231x87_russian.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+		"italian" "capsule_231x87_italian.jpg"
+		"german" "capsule_231x87_german.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"italian" "header_italian.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"schinese" "header_schinese.jpg"
+		"russian" "header_russian.jpg"
+		"german" "header_german.jpg"
+		"french" "header_french.jpg"
+		"spanish" "header_spanish.jpg"
+		"brazilian" "header_brazilian.jpg"
+		"english" "header.jpg"
+		"polish" "header_polish.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,es,zh-tw,en,it,pt-br,ko,ru,pl,de,fr,ja"
+		"library_hero" "en"
+		"library_logo" "en,ja,ko,zh-cn,zh-tw"
+		"library_header" "ja,ru,it,zh-cn,pl,de,fr,es,zh-tw,pt-br,en,ko"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "34.130688448074686"
+			"height_pct" "45.0607905026333"
+		}
+	}
+	"store_asset_mtime" "1718278826"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Monster Couch"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Monster Couch"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Flatout Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Monster Couch"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_44" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709660533"
+	"metacritic_score" "86"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/quilts-and-cats-of-calico\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1993180"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "597"
+		"2" "1770"
+		"3" "1664"
+		"4" "17389"
+		"5" "4726"
+		"6" "17894"
+		"7" "4305"
+		"8" "1654"
+		"9" "30358"
+		"10" "3841"
+		"11" "7481"
+		"12" "7368"
+		"13" "3859"
+		"14" "4182"
+		"15" "3843"
+		"16" "1775"
+		"17" "552282"
+		"18" "1677"
+		"19" "97376"
+	}
+	"review_score" "8"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Monster Couch"
+	"publisher" "Monster Couch"
+	"homepage" "https://www.monstercouch.com/quilts-and-cats-of-calico/"
+}
+"config"
+{
+	"installdir" "Quilts_and_Cats_of_Calico"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Quilts_and_Cats_of_Calico.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Quilts_and_Cats_of_Calico.app"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1993181"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9176487635728301944"
+				"size" "975842312"
+				"download" "664963360"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"authentication_test"
+			{
+				"gid" "03B5C296BB933B964C921C286A4075F3"
+				"size" "D646C1298F610C4247EE21FEE5351A15"
+				"download" "2B903AB4630E1DACE702446287C9D8AB"
+			}
+			"challenge"
+			{
+				"gid" "44E8F117BCFB8116EE90B561A5BF1801"
+				"size" "853F22D3F359EC2569C6092BB013D9F4"
+				"download" "159F6DC4AC078F34B72349908C98D754"
+			}
+			"optimization"
+			{
+				"gid" "09CC3769ABF6F759D4331BD482AB05D5"
+				"size" "CDE83A913C0DCF40A995F81A9A8814A7"
+				"download" "CDEA2A487A03F0CCD2CA5B0B9BDB8538"
+			}
+			"develop"
+			{
+				"gid" "C10F82F4A62065EAB468CD7BC5F681E0"
+				"size" "B5BA4A7DD5BAF3A23AADA912AAAA84B0"
+				"download" "DC3CBC720FC6C9F818296FA8004E7F30"
+			}
+			"main"
+			{
+				"gid" "D068095505908B3030DDD9B6B7555702"
+				"size" "96E90444B36085D8644E9DD6C5886C48"
+				"download" "2608EE2C8C43C71891275BB8745C87BA"
+			}
+		}
+	}
+	"1993182"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6338901844643255252"
+				"size" "1135565513"
+				"download" "696252400"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"authentication_test"
+			{
+				"gid" "BAA9A319653D864A160555992328DA19"
+				"size" "9FCDC7F51A7A14E92D3503F4A550FAF1"
+				"download" "795005DC960FB567C1E8F5E0D674E2DF"
+			}
+			"challenge"
+			{
+				"gid" "FFBD3D2331E1BE208338F6D763470199"
+				"size" "E72051AB035365DC17164922F56F104A"
+				"download" "D2D60EEF3BB2C28DF6E3F10C90FC8B4A"
+			}
+			"optimization"
+			{
+				"gid" "44CDA965632D48F9F34587FE5642074E"
+				"size" "0EFC72A602C41E853C78A260B720AB2B"
+				"download" "273EA5CFAD202540571922F21FD54484"
+			}
+			"develop"
+			{
+				"gid" "9EA59F1ABC0CF239BDC0D7F0F6B6814D"
+				"size" "E131D88C6B386586F4B6AD7E0356F2FC"
+				"download" "1BC4ACFB4C737DD3DF3474EE39C56A74"
+			}
+			"main"
+			{
+				"gid" "E190DB84C6AA73E86FBCE815370723DB"
+				"size" "30D3E9474B11A1BFA8621D75F67999A4"
+				"download" "F96DC04B75886BC3ABA8823F4C3C6D6C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14695418"
+			"timeupdated" "1718287090"
+		}
+		"authentication_test"
+		{
+			"buildid" "13700975"
+			"pwdrequired" "1"
+			"timeupdated" "1710153781"
+		}
+		"challenge"
+		{
+			"buildid" "13949273"
+			"pwdrequired" "1"
+			"timeupdated" "1712235122"
+		}
+		"optimization"
+		{
+			"buildid" "13821136"
+			"pwdrequired" "1"
+			"timeupdated" "1711103532"
+		}
+		"develop"
+		{
+			"buildid" "14811786"
+			"pwdrequired" "1"
+			"timeupdated" "1719176631"
+		}
+		"main"
+		{
+			"buildid" "14695418"
+			"pwdrequired" "1"
+			"timeupdated" "1718214574"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "2000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "24086815"
+"_sha" "44d846cef969affc20e94ff7a1b49887f33f76ac"
+"_size" "9452"
