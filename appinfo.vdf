@@ -1,0 +1,751 @@
+"appid" "1380910"
+"common"
+{
+	"name" "Stardeus"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "ea7539918898ab589c8c78965524d0472337ea9f"
+	"logo_small" "ea7539918898ab589c8c78965524d0472337ea9f_thumb"
+	"icon" "b6c540c4458a8139cd5c8fa8ce0455bba39b1b1f"
+	"clienticon" "b3e8310d448074d7fed9d1a2bee68da4fd8da893"
+	"clienttga" "0a1d62f5a21fbde8befdccfc434ffac8a82baf5f"
+	"clienticns" "f995e54c85c23937c738499066158bbc9722139e"
+	"linuxclienticon" "f637381084f8cfec928f505aaa57a50ab4b209c4"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosapplesilicon"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1380910_eula_0"
+			"name" "Stardeus EULA"
+			"url" "https://store.steampowered.com//eula/1380910_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1663113600"
+		"tested_build_id" "9506674"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "57.800511508951416"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1697450736"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Kodo Linija"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Arc"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Paradox Arc"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_17" "1"
+		"category_28" "1"
+		"category_30" "1"
+		"category_23" "1"
+		"category_43" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1665586691"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1380910"
+	"store_tags"
+	{
+		"0" "220585"
+		"1" "7332"
+		"2" "9"
+		"3" "1662"
+		"4" "1755"
+		"5" "8945"
+		"6" "1702"
+		"7" "1669"
+		"8" "16598"
+		"9" "5300"
+		"10" "599"
+		"11" "5125"
+		"12" "3810"
+		"13" "12472"
+		"14" "5794"
+		"15" "255534"
+		"16" "1643"
+		"17" "122"
+		"18" "9204"
+		"19" "16689"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Kodo Linija"
+	"publisher" "Paradox Arc"
+	"homepage" "https://stardeusgame.com"
+	"listofdlc" "2165431"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Stardeus"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Stardeus.exe"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Stardeus"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+		}
+		"2"
+		{
+			"executable" "Stardeus.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2817696748"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,bleeding_edge,debug,experimental,geforce_now,mac_debug,old_version,v_0_10_rc"
+			"use_action_block" "false"
+		}
+		"3032303460"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,bleeding_edge,debug,experimental,geforce_now,old_version,v_0_10_rc"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "1380910"
+	"1380916"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6262375261683378781"
+				"size" "764242251"
+				"download" "653251552"
+			}
+			"old_version"
+			{
+				"gid" "3031955489927900155"
+				"size" "764138883"
+				"download" "653229536"
+			}
+			"v0_11_alpha"
+			{
+				"gid" "569159219670201468"
+				"size" "824429985"
+				"download" "708770384"
+			}
+			"v0_10_x"
+			{
+				"gid" "6262375261683378781"
+				"size" "764242251"
+				"download" "653251552"
+			}
+			"v0_9_x"
+			{
+				"gid" "1594000576368320122"
+				"size" "735424904"
+				"download" "635469568"
+			}
+			"v0_8_x"
+			{
+				"gid" "3512717530805579600"
+				"size" "729489139"
+				"download" "631162736"
+			}
+			"v0_8_0_20230511"
+			{
+				"gid" "6903767473433818673"
+				"size" "728847376"
+				"download" "630847168"
+			}
+			"v0_7_x"
+			{
+				"gid" "6133387275932963962"
+				"size" "728775958"
+				"download" "630836624"
+			}
+			"v0_7_1_20230124"
+			{
+				"gid" "2738503878087636462"
+				"size" "752559757"
+				"download" "627357664"
+			}
+			"v0_6_144_20221217"
+			{
+				"gid" "7677655160665057893"
+				"size" "740254957"
+				"download" "615366944"
+			}
+			"v0_6_125_20221112"
+			{
+				"gid" "7019553794471890790"
+				"size" "737697835"
+				"download" "613340192"
+			}
+			"v0_6_103_20221011"
+			{
+				"gid" "4536225830358725146"
+				"size" "719619083"
+				"download" "606965120"
+			}
+			"v0_6_78_20220901"
+			{
+				"gid" "5866377923039691066"
+				"size" "719255289"
+				"download" "606744384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"v0_11_stable"
+			{
+				"gid" "49CDBA656883F58CC4D85D3F403BA58F"
+				"size" "6CBC3AF4903867BBF6FE68FB0D03920A"
+				"download" "9943CE9659B2CC21A4862474E7F437E9"
+			}
+			"geforce_now"
+			{
+				"gid" "3A6F103DFAF0A7E4C826E22C31096CB4"
+				"size" "0461D26D5E78967EB6DDFACB638CD0F0"
+				"download" "41A5FBA653249EA19BBB0E2319A98CFA"
+			}
+		}
+	}
+	"1380917"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4078338497055485783"
+				"size" "774447057"
+				"download" "652781824"
+			}
+			"old_version"
+			{
+				"gid" "7504570414372977887"
+				"size" "774346761"
+				"download" "652761776"
+			}
+			"v0_11_alpha"
+			{
+				"gid" "3717801228256410361"
+				"size" "835310399"
+				"download" "708636512"
+			}
+			"v0_10_x"
+			{
+				"gid" "4078338497055485783"
+				"size" "774447057"
+				"download" "652781824"
+			}
+			"v0_9_x"
+			{
+				"gid" "2488282925628271770"
+				"size" "745188846"
+				"download" "634882256"
+			}
+			"v0_8_x"
+			{
+				"gid" "4722635672797298573"
+				"size" "739497124"
+				"download" "631327344"
+			}
+			"v0_8_0_20230511"
+			{
+				"gid" "2729712781406818038"
+				"size" "739425185"
+				"download" "631188336"
+			}
+			"v0_7_x"
+			{
+				"gid" "2323362470745777370"
+				"size" "739351399"
+				"download" "631176256"
+			}
+			"v0_7_1_20230124"
+			{
+				"gid" "6384875945762697364"
+				"size" "754404702"
+				"download" "626578384"
+			}
+			"v0_6_144_20221217"
+			{
+				"gid" "7078268924005892382"
+				"size" "748258622"
+				"download" "615468080"
+			}
+			"v0_6_125_20221112"
+			{
+				"gid" "2474017225545036231"
+				"size" "745680196"
+				"download" "613434000"
+			}
+			"v0_6_103_20221011"
+			{
+				"gid" "3604842399241751011"
+				"size" "721926636"
+				"download" "606645728"
+			}
+			"v0_6_78_20220901"
+			{
+				"gid" "7762530285996159545"
+				"size" "728977750"
+				"download" "608012704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"v0_11_stable"
+			{
+				"gid" "E618412BE5106B6234F59D3BB67D6D48"
+				"size" "BE077DABF2AFC7101A4602E027DA1182"
+				"download" "50CCEB67C948494ABA83981E54A5BF5A"
+			}
+			"geforce_now"
+			{
+				"gid" "33404B83780C6F5F692CE5460D0F26D9"
+				"size" "202E86D028DBE2275A6554EBB892EEB3"
+				"download" "C0637894128B09993E3E225919B18990"
+			}
+		}
+	}
+	"1380918"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "180442475673690070"
+				"size" "796845290"
+				"download" "661342272"
+			}
+			"old_version"
+			{
+				"gid" "5137563251284144499"
+				"size" "796755586"
+				"download" "661321616"
+			}
+			"v0_11_alpha"
+			{
+				"gid" "8122499702698761583"
+				"size" "857696493"
+				"download" "716978512"
+			}
+			"v0_10_x"
+			{
+				"gid" "180442475673690070"
+				"size" "796845290"
+				"download" "661342272"
+			}
+			"v0_9_x"
+			{
+				"gid" "9160827318558327851"
+				"size" "767486054"
+				"download" "643433728"
+			}
+			"v0_8_x"
+			{
+				"gid" "3774848013342397010"
+				"size" "730301984"
+				"download" "629986752"
+			}
+			"v0_8_0_20230511"
+			{
+				"gid" "4440302304678300812"
+				"size" "729649615"
+				"download" "629675008"
+			}
+			"v0_7_x"
+			{
+				"gid" "4416657653748965599"
+				"size" "729574606"
+				"download" "629663776"
+			}
+			"v0_7_1_20230124"
+			{
+				"gid" "8332122024472418492"
+				"size" "747284867"
+				"download" "625616544"
+			}
+			"v0_6_144_20221217"
+			{
+				"gid" "93528404743711343"
+				"size" "741127575"
+				"download" "614497504"
+			}
+			"v0_6_125_20221112"
+			{
+				"gid" "4208037224610513507"
+				"size" "738551127"
+				"download" "612469584"
+			}
+			"v0_6_103_20221011"
+			{
+				"gid" "5118308751500504103"
+				"size" "721020335"
+				"download" "606552976"
+			}
+			"v0_6_78_20220901"
+			{
+				"gid" "3557115590550314334"
+				"size" "720721892"
+				"download" "606375248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"v0_11_stable"
+			{
+				"gid" "9B734051D26703E74BA56E1F486954E4"
+				"size" "29694CCFCB0B9FAF5F14193D3A615B1C"
+				"download" "C94C5D6CC5CFC39035DDE400B2739334"
+			}
+			"geforce_now"
+			{
+				"gid" "A9DA8B674DC396898586AA02AE36B1E5"
+				"size" "1806C6CD54AFBA9CFAF0E4EF32353540"
+				"download" "D379F4661DA3BFC2D1310CADBB1DDAF2"
+			}
+		}
+	}
+	"hasdepotsindlc" "1"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13976716"
+			"timeupdated" "1712462838"
+		}
+		"old_version"
+		{
+			"buildid" "13694843"
+			"description" "Previous build"
+			"timeupdated" "1712462805"
+		}
+		"v0_11_alpha"
+		{
+			"buildid" "14802728"
+			"description" "v0.11 alpha"
+			"timeupdated" "1719041413"
+		}
+		"v0_11_stable"
+		{
+			"buildid" "14802728"
+			"pwdrequired" "1"
+			"timeupdated" "1719045174"
+		}
+		"v0_10_x"
+		{
+			"buildid" "13976716"
+			"description" "Last version of v0.10.x before upgrade to v0.11"
+			"timeupdated" "1714906685"
+		}
+		"v0_9_x"
+		{
+			"buildid" "12065313"
+			"description" "Last version of v0.9.x before upgrade to v0.10"
+			"timeupdated" "1696258487"
+		}
+		"v0_8_x"
+		{
+			"buildid" "11284894"
+			"description" "Last version of v.0.8.x before upgrade to v0.9"
+			"timeupdated" "1686212662"
+		}
+		"v0_8_0_20230511"
+		{
+			"buildid" "11210093"
+			"description" "Archives: Major Update #2: Complex Planets"
+			"timeupdated" "1683823733"
+		}
+		"v0_7_x"
+		{
+			"buildid" "11151692"
+			"description" "Last version of v.0.7.x before upgrade to v0.8"
+			"timeupdated" "1683261245"
+		}
+		"v0_7_1_20230124"
+		{
+			"buildid" "10392468"
+			"description" "Archives: Major Update #1: Derelict Ships"
+			"timeupdated" "1674636264"
+		}
+		"v0_6_144_20221217"
+		{
+			"buildid" "10171382"
+			"description" "Archives: 2 months in EA"
+			"timeupdated" "1671390288"
+		}
+		"v0_6_125_20221112"
+		{
+			"buildid" "9923860"
+			"description" "Archives: 1 Month in EA"
+			"timeupdated" "1668344613"
+		}
+		"v0_6_103_20221011"
+		{
+			"buildid" "9699497"
+			"description" "Archives: launch day"
+			"timeupdated" "1666336329"
+		}
+		"v0_6_78_20220901"
+		{
+			"buildid" "9449127"
+			"description" "Archives: pre-release alpha"
+			"timeupdated" "1666335296"
+		}
+		"geforce_now"
+		{
+			"buildid" "13976716"
+			"pwdrequired" "1"
+			"timeupdated" "1712462814"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Kodo Linija/Stardeus/Saves/"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Kodo Linija/Stardeus/Saves"
+					"replace" ".config/unity3d/Kodo Linija/Stardeus/Saves/"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Kodo Linija/Stardeus/Saves"
+					"replace" "Kodo Linija/Stardeus/Saves/"
+				}
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#statusfull" "%text%"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24085629"
+"_sha" "d6f30af6c7148c9f5fb89177dd97d9e2d6df30b5"
+"_size" "14264"
