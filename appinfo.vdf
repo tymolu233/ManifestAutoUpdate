@@ -1,0 +1,353 @@
+"appid" "1109680"
+"common"
+{
+	"name" "Regiments"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienttga" "95b72b716427dcf29e9d3422f5cc4972e2635350"
+	"clienticon" "ae14a676a05dea6352f8ebca9beec2538b5c0f7e"
+	"icon" "605eeacae8f3084c5a3a439ab8933fe22440f8e7"
+	"logo" "7491c266588ea79c40255a5ea246d62e18448fa9"
+	"logo_small" "7491c266588ea79c40255a5ea246d62e18448fa9_thumb"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1666396800"
+		"tested_build_id" "9324402"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-4"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Regiments"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1681850872"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Bird\'s Eye Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "MicroProse Software"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1660643471"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/regiments\?ftag=MCD-06-10aaa1f"
+	"community_hub_visible" "1"
+	"gameid" "1109680"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "4684"
+		"2" "3813"
+		"3" "5179"
+		"4" "3993"
+		"5" "1676"
+		"6" "4175"
+		"7" "4598"
+		"8" "1708"
+		"9" "4182"
+		"10" "1678"
+		"11" "7743"
+		"12" "5673"
+		"13" "4168"
+		"14" "13276"
+		"15" "599"
+		"16" "492"
+		"17" "4191"
+		"18" "6426"
+		"19" "6730"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"developer" "Bird\'s Eye Games"
+	"publisher" "MicroProse Software"
+	"listofdlc" "2542770"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Regiments"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Regiments.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Regiments.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+				"betakey" "mtest1"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1109681"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "645778471683142342"
+				"size" "8808766620"
+				"download" "3076403248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"l10n"
+			{
+				"gid" "C5569D9F3DB7CC550138D2229D352272"
+				"size" "6CA11D03F7E374BBD7F148D0F7FF8F94"
+				"download" "83322986B0128776C83653030BF21C0E"
+			}
+			"altapp"
+			{
+				"gid" "E9F3704AFF25FA79C3525B6B843FEA80"
+				"size" "933E71B3B602AB1FB0BFF60EB7AC4B6E"
+				"download" "DB2E81D8A4EB248B63829224F3B1F68F"
+			}
+			"closedbeta"
+			{
+				"gid" "E935AC1341CAEEABD668660A8F7E5A1D"
+				"size" "AC26F2561235DDE8818AD8B32242BF2C"
+				"download" "BC6D85EACEF22D612F36D6674DEA55EC"
+			}
+			"debug"
+			{
+				"gid" "CF67A4A96629EE6573EACDBDE9AB19B5"
+				"size" "A2DD06D6A1E24118A059ABE1BEF0783D"
+				"download" "BC064D5B2DD6769BD12505FF4DA02BD6"
+			}
+			"internal"
+			{
+				"gid" "78445E55C2227EFCB9131DB5AB46D2BE"
+				"size" "6887E595B5C5F0C5D15CA28AE900D5E8"
+				"download" "6978792D07ADEC5EC8056892DC3DCB2A"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14708333"
+			"timeupdated" "1718307932"
+		}
+		"l10n"
+		{
+			"buildid" "11805538"
+			"pwdrequired" "1"
+			"timeupdated" "1690924968"
+		}
+		"altapp"
+		{
+			"buildid" "14710504"
+			"pwdrequired" "1"
+			"timeupdated" "1718312391"
+		}
+		"closedbeta"
+		{
+			"buildid" "14549848"
+			"pwdrequired" "1"
+			"timeupdated" "1717086862"
+		}
+		"debug"
+		{
+			"buildid" "14708333"
+			"pwdrequired" "1"
+			"timeupdated" "1718297394"
+		}
+		"internal"
+		{
+			"buildid" "14549848"
+			"pwdrequired" "1"
+			"timeupdated" "1717087055"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "268435456"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Bird\'s Eye Games/Regiments/{64BitSteamID}"
+			"pattern" "RGT*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacAppSupport"
+			"path" "Bird\'s Eye Games/Regiments/{64BitSteamID}"
+			"pattern" "RGT*.sav"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+		"2"
+		{
+			"root" "LinuxXdgConfigHome"
+			"path" "unity3d/{64BitSteamID}"
+			"pattern" "RGT*.sav"
+			"platforms"
+			{
+				"1" "Linux"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23982917"
+"_sha" "eb51d4e7f275d25939e27611f0fd12a2b93b16bd"
+"_size" "6331"
