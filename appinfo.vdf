@@ -1,0 +1,490 @@
+"appid" "2331330"
+"common"
+{
+	"name" "The Bridge Curse 2: The Extrication"
+	"type" "Game"
+	"name_localized"
+	{
+		"tchinese" "女鬼橋二  釋魂路"
+		"schinese" "女鬼桥二  释魂路"
+		"thai" "คำสาปสะพานเฮี้ยน สู่ทางพ้นทุกข์"
+		"japanese" "女鬼橋2 釈魂路"
+		"koreana" "여귀교2: 자유로운 영혼의 길"
+		"spanish" "La Maldición del Puente 2: La Liberación "
+		"russian" "Проклятый мост 2: Эвакуация "
+		"german" "Der Fluch der Brücke 2: Die Befreiung"
+		"brazilian" "The Bridge Curse 2: A Libertação"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "7c488152b4f336008b37ce82703d203c8b2d3481"
+	"clienttga" "23775031b73538c52db7198c7a8f9191cbc339fd"
+	"clienticon" "28972bbc0122148f6d4b0901e5c1b6eded8d5124"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"exfgls" "1"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1716940800"
+		"tested_build_id" "14317086"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"thai" "capsule_231x87_thai.jpg"
+	}
+	"header_image"
+	{
+		"tchinese" "header_tchinese.jpg"
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"thai" "header_thai.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,en,zh-cn,ja,th"
+		"library_hero" "en"
+		"library_logo" "zh-tw,en,zh-cn,ja,th"
+		"library_header" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "56.349895042509985"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1716974651"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SOFTSTAR ENTERTAINMENT"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PQube"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "The Bridge Curse Road to Salvation"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "女鬼橋  開魂路"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "PQube"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1715244333"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2331330"
+	"store_tags"
+	{
+		"0" "5716"
+		"1" "1742"
+		"2" "1721"
+		"3" "1667"
+		"4" "6971"
+		"5" "4166"
+		"6" "5984"
+		"7" "4064"
+		"8" "1687"
+		"9" "3978"
+		"10" "3834"
+		"11" "10808"
+		"12" "5900"
+		"13" "3839"
+		"14" "21"
+		"15" "8369"
+		"16" "4145"
+		"17" "4182"
+		"18" "5372"
+		"19" "4106"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "SOFTSTAR ENTERTAINMENT"
+	"publisher" "PQube"
+	"homepage" "https://pqube.co.uk/games/the-bridge-curse-2-the-extrication/"
+	"listofdlc" "2915350"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "TBC2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TBC2\\Binaries\\Win64\\TBC2-Win64-Shipping.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "The Bridge Curse 2: The Extrication"
+			}
+			"description" "The Bridge Curse 2: The Extrication"
+		}
+		"1"
+		{
+			"executable" "TBC2\\Binaries\\Win64\\TBC2-Win64-Shipping.exe"
+			"arguments" "-dx11"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "with DirectX 11"
+			}
+			"description" "with DirectX 11"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2331331"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4039198292775111956"
+				"size" "6301899858"
+				"download" "6087788544"
+			}
+			"steamdeck"
+			{
+				"gid" "4184594351389738086"
+				"size" "5528190569"
+				"download" "5310098176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "D3A23F5ABACF84A5FF980A5E11804ACF"
+				"size" "7EF1034A1B2A5C5C44EE02EC22EB3BEC"
+				"download" "2A144B6AEF9C8782FFFBBDF1EAB72C75"
+			}
+			"steamdeck_develop"
+			{
+				"gid" "2F5660682A77BC3AC6A915DC29629DE2"
+				"size" "1C34CE17BCA777C47FEA9F6182939C3F"
+				"download" "3CA7DD9DAB036AE9747803D3A60FE1EB"
+			}
+			"livedemo"
+			{
+				"gid" "8DA7B126321047D3A57898F398C8A70D"
+				"size" "062FABC00A2C62B97525F6F8763F44D5"
+				"download" "474D5C5F9096B4E303D513265D443875"
+			}
+			"pqube"
+			{
+				"gid" "BC6CF0CC87771B6C1BEC69B98835EA6D"
+				"size" "9627B3EC789CF9B581B7BAA9F5F71DFC"
+				"download" "985D180A47464B409840429B1327129A"
+			}
+			"version1.6.2"
+			{
+				"gid" "02B1B0E625EF57A39C8E126C2AD731FE"
+				"size" "729C30E824CA266845A9E2DE4F387051"
+				"download" "E337419CD38F0F2E862D40967E5957ED"
+			}
+		}
+	}
+	"2915350"
+	{
+		"dlcappid" "2915350"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8496511133942115318"
+				"size" "359983631"
+				"download" "360581248"
+			}
+			"steamdeck"
+			{
+				"gid" "8496511133942115318"
+				"size" "359983631"
+				"download" "360581248"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"develop"
+			{
+				"gid" "16133E5727904D98699E5FD7AE906025"
+				"size" "936ABDC4940D9345FA31493992B06B75"
+				"download" "C873D8B9F31A2E8996E059A1F46DC7B2"
+			}
+			"steamdeck_develop"
+			{
+				"gid" "57187971C6640CD3C42994F8C5F92B48"
+				"size" "67EDFFA6FA89FD5FFFF34C4E8E0865BE"
+				"download" "8063E4C4D61FCE915977BE0B24D6307C"
+			}
+			"livedemo"
+			{
+				"gid" "3875C00D850FB7E56407A1AD5F7F9961"
+				"size" "7CBE4645471B801183AE2B8C8274DCC6"
+				"download" "132C929D4559572D06C9BED8FFD50A84"
+			}
+			"pqube"
+			{
+				"gid" "ADC63A2EC1E2C53370FD6634CF2550DB"
+				"size" "705CC07482918A13FB0A2C2277F54D4C"
+				"download" "DA19D31786561BF75D01F5D94030C6DE"
+			}
+			"version1.6.2"
+			{
+				"gid" "B100D617E819A739566F4D6A07B614B2"
+				"size" "D849C23B3BCB148F41F7D4BE7DB01B73"
+				"download" "9CA852424A0E377DD8EEE1D05A1685D2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14317086"
+			"timeupdated" "1715275894"
+		}
+		"develop"
+		{
+			"buildid" "14477359"
+			"pwdrequired" "1"
+			"timeupdated" "1716522309"
+		}
+		"steamdeck_develop"
+		{
+			"buildid" "14519847"
+			"pwdrequired" "1"
+			"timeupdated" "1716903708"
+		}
+		"livedemo"
+		{
+			"buildid" "14278766"
+			"pwdrequired" "1"
+			"timeupdated" "1715004341"
+		}
+		"pqube"
+		{
+			"buildid" "14477359"
+			"pwdrequired" "1"
+			"timeupdated" "1716902608"
+		}
+		"version1.6.2"
+		{
+			"buildid" "14310464"
+			"pwdrequired" "1"
+			"timeupdated" "1715308841"
+		}
+		"steamdeck"
+		{
+			"buildid" "14326340"
+			"description" "vp9 codec"
+			"timeupdated" "1715340575"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "TBC2/Saved/SaveGames/"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23996340"
+"_sha" "a8c2904ad3c54206bda7d5faa43ddb671964bdf3"
+"_size" "9698"
