@@ -1,0 +1,473 @@
+"appid" "1350840"
+"common"
+{
+	"name" "Song Of The Prairie"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "1fef632332ef5df1273b7462da123084fe47b675"
+	"logo_small" "1fef632332ef5df1273b7462da123084fe47b675_thumb"
+	"clienticon" "e266e7791df9a190d4cfb1554f5f1fa3c7c95883"
+	"clienttga" "f4eacaab25405fd7365e7786192a3f0555389dce"
+	"icon" "ee4ac78e4769c7ebb3e9f8fc32600243834960a9"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"sc_schinese" "牧野之歌"
+		"schinese" "牧野之歌"
+	}
+	"releasestatesteamchina" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+		"latam" "1"
+		"sc_schinese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1693958400"
+		"tested_build_id" "12085356"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_UnsupportedGraphicsPerformance"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-xc"
+		"library_hero" "en,zh-xc,zh-cn"
+		"library_logo" "en,zh-xc"
+		"library_header" "en,zh-cn,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "27.785957574574525"
+			"height_pct" "65.04162378954595"
+		}
+	}
+	"store_asset_mtime" "1717553816"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "The Droplet Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "AOE Plus"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "3"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1680825624"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1350840"
+	"store_tags"
+	{
+		"0" "87918"
+		"1" "10235"
+		"2" "22602"
+		"3" "1702"
+		"4" "1742"
+		"5" "1654"
+		"6" "6869"
+		"7" "3810"
+		"8" "9551"
+		"9" "4747"
+		"10" "1695"
+		"11" "122"
+		"12" "599"
+		"13" "597"
+		"14" "4182"
+		"15" "5984"
+		"16" "4520"
+		"17" "3834"
+		"18" "7948"
+		"19" "4726"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "The Droplet Studio"
+	"publisher" "AOE Plus"
+	"homepage" "https://sop.aoeplus.com/landing"
+	"listofdlc" "2522580"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Song Of The Prairie"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SoP.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"hasdepotsindlc" "1"
+	"1350841"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8872371399729860082"
+				"size" "3078882735"
+				"download" "2531462384"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sandbox"
+			{
+				"gid" "4B4BFECAB38E1AA9F3C150F779249D28"
+				"size" "D38B07BCD23FF2025161AEC196EDCD32"
+				"download" "F4681737E2458D9ED09370B5CCA46D56"
+			}
+		}
+	}
+	"1350842"
+	{
+		"config"
+		{
+			"realm" "steamchina"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3207929470411557189"
+				"size" "3078882735"
+				"download" "2531468032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sandbox"
+			{
+				"gid" "E834B76963157305819B0BC879B58A5C"
+				"size" "D38B07BCD23FF2025161AEC196EDCD32"
+				"download" "07A9CDCE1DAE84E4B542E54DC4C0551B"
+			}
+		}
+	}
+	"2344790"
+	{
+		"dlcappid" "2344790"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4194841907786683725"
+				"size" "21395731"
+				"download" "20257808"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sandbox"
+			{
+				"gid" "E461E6A46A80DBEB19A23799B1A61907"
+				"size" "C1688FA2FE921C40D4346113FD123D2F"
+				"download" "466CE612D6E22644EA965F5E34BB5B9C"
+			}
+		}
+	}
+	"2352070"
+	{
+		"dlcappid" "2352070"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2330598789253473233"
+				"size" "60100690"
+				"download" "56338656"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sandbox"
+			{
+				"gid" "1AA384AA6082C2EDB654D44A13A159F9"
+				"size" "36A20E2C02F7C8F8FF2874B0A4AB1E74"
+				"download" "87A5DC688E70211D8F968A97AC0C7328"
+			}
+		}
+	}
+	"2352071"
+	{
+		"dlcappid" "2352071"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6668761938243165223"
+				"size" "2653481"
+				"download" "2503072"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sandbox"
+			{
+				"gid" "26FE571B1305C669AAA5FECCCB290492"
+				"size" "0E588818F35DC5141CEF4F0EFDAB8ECF"
+				"download" "FC9AA202C9AF46004096D8F34B29F1C2"
+			}
+		}
+	}
+	"2352072"
+	{
+		"dlcappid" "2352072"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2547075501308163293"
+				"size" "3339559"
+				"download" "3170192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sandbox"
+			{
+				"gid" "CADB6A04616ACF8A716EF4CD1304B720"
+				"size" "4B6032AD792A06DFE35BA170CC215408"
+				"download" "FD634C62F9197495450E328F0A217005"
+			}
+		}
+	}
+	"2352073"
+	{
+		"dlcappid" "2352073"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8086283158535861899"
+				"size" "13911502"
+				"download" "12944864"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sandbox"
+			{
+				"gid" "86742170005FF334EFBE567B9419DD39"
+				"size" "17EDE4141E51E4CF77251F2603DA01A7"
+				"download" "F8AA35AD06BDE4129DF7F5FF0FE0DB40"
+			}
+		}
+	}
+	"2522580"
+	{
+		"dlcappid" "2522580"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8322502406160372932"
+				"size" "9212624"
+				"download" "8681232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"sandbox"
+			{
+				"gid" "505D18784A5EDFA5DD754626981B2510"
+				"size" "21F66FD6DA526CC729B06369859B9649"
+				"download" "9F472BB71CF14B29412CDB95B9359ADD"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14793693"
+			"timeupdated" "1718971891"
+		}
+		"sandbox"
+		{
+			"buildid" "14694556"
+			"pwdrequired" "1"
+			"timeupdated" "1718240652"
+		}
+		"steam_china_only"
+		{
+			"sc_schinese" "仅中国"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "536870912"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Funalter/SoP/{64BitSteamID}"
+			"pattern" "*.encrypt"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "WinMyDocuments"
+			"path" "Funalter/SoP/{64BitSteamID}"
+			"pattern" "Input.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "24065829"
+"_sha" "8ce4687a267d37390ccf716e9fe452fa5e97dc36"
+"_size" "8355"
