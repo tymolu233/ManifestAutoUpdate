@@ -1,0 +1,387 @@
+"appid" "110800"
+"common"
+{
+	"name" "L.A. Noire"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"russian" "1"
+	}
+	"clienticon" "7089ece80400e4b0567c81b776a0c8934f30c89c"
+	"clienttga" "fe7d8b8fefece93864be93fbee27d5fc50e1b250"
+	"icon" "ee09d4d2552e52c78d139a3b6dbe60173079d9f8"
+	"logo" "4176ba6f679e28225a95447082c38db290bc2557"
+	"logo_small" "4176ba6f679e28225a95447082c38db290bc2557_thumb"
+	"exfgls" "1"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "8213010"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_LauncherInteractionIssues"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "1"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "L.A. Noire: The Complete Edition"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "43.52392065344223"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1618856826"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team Bondi"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Rockstar Leeds"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Rockstar Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_18" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"metacritic_score" "83"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/la-noire-the-complete-edition\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "110800"
+	"store_tags"
+	{
+		"0" "5613"
+		"1" "6378"
+		"2" "1695"
+		"3" "6052"
+		"4" "21"
+		"5" "1742"
+		"6" "5716"
+		"7" "1697"
+		"8" "8369"
+		"9" "4182"
+		"10" "4145"
+		"11" "19"
+		"12" "4166"
+		"13" "5611"
+		"14" "6650"
+		"15" "1664"
+		"16" "9"
+		"17" "3814"
+		"18" "4064"
+		"19" "29363"
+	}
+	"review_score" "8"
+	"review_percentage" "85"
+}
+"extended"
+{
+	"allowelevation" "1"
+	"checkpkgstate" "1"
+	"developer" "Team Bondi"
+	"dlcavailableonstore" "1"
+	"dlcpurchasefromingame" "0"
+	"gamedir" "L.A.Noire"
+	"guideappid" "101006"
+	"homepage" "http://www.rockstargames.com/lanoire/agegate/ref/\?redirect="
+	"icon" ""
+	"installscript" "installscript.vdf"
+	"noservers" "1"
+	"order" "1"
+	"primarycache" "110801"
+	"serverbrowsername" ""
+	"state" "eStateAvailable"
+	"publisher" "Rockstar Games"
+	"gamemanualurl" "https://store.steampowered.com/manual/110800/"
+	"listofdlc" "110810"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "L.A.Noire"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "PlayLAN.exe"
+			"type" "none"
+		}
+		"1"
+		{
+			"executable" "PlayLAN.exe"
+			"description" "Play LA Noire"
+			"type" "none"
+			"config"
+			{
+				"betakey" "qabeta3"
+			}
+		}
+	}
+	"steamcontrollerconfigfileids" "536013920"
+	"steamcontrollertemplateindex" "1"
+}
+"depots"
+{
+	"overridescddb" "1"
+	"110802"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3234208118368148040"
+				"size" "24345993"
+				"download" "10448112"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "8B9F51C9E84FE479AB6EF1EE4707AF0E"
+				"size" "31FA10C5D5983948162E46192422AFD3"
+				"download" "9FBCD1EDFD04B88382C093AF14F2E664"
+			}
+			"qatest"
+			{
+				"gid" "A439D5B4F47EE6FE78F3ED0C2B42E03C"
+				"size" "4323E6C6BB4BFABA3079D57143B6ADA0"
+				"download" "ED273CC7D313AFF0CF19A8CCE0DC2F4C"
+			}
+		}
+	}
+	"110810"
+	{
+		"optional" "1"
+		"systemdefined" "1"
+		"dlcappid" "110810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "239200575577592374"
+				"size" "167"
+				"download" "176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "430A7A6E32700DBA0C41D01C2F1FD112"
+				"size" "6E760EF262DFD85B1F13FF16AC36DD94"
+				"download" "6ED0E46EDDA18DDA988B2064920EA6F6"
+			}
+			"qatest"
+			{
+				"gid" "445B34720BE085B90CAEAF5F395C15CA"
+				"size" "F2D1968A3F246D78537B8E5F45E22431"
+				"download" "A8C8E960B07B51AF8AC8F196EEBBD522"
+			}
+		}
+	}
+	"110801"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7802845176688782381"
+				"size" "14466771789"
+				"download" "13787094928"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "9492D954D9B1D64CE1FB8C0B1E524335"
+				"size" "BC959199E0B9DA88F0C6BFD4BA32682A"
+				"download" "EF1EFF98164266BEC07C2DDC7B786B08"
+			}
+			"qatest"
+			{
+				"gid" "F920A872BE1503DD418CACAE37E52E69"
+				"size" "74087945604253D98D987AAD57C3B08D"
+				"download" "3BCF1A59B116EAD80EF4D3FC1D71B664"
+			}
+		}
+	}
+	"1899671"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2485572587613409384"
+				"size" "292044061"
+				"download" "250080416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qabeta"
+			{
+				"gid" "64A27B4AD75827905861EB78DC1A223A"
+				"size" "333A77A3742835946FE68C69C5830F53"
+				"download" "A0AA8C95B01190D852257CCB526BC3BB"
+			}
+			"qalive"
+			{
+				"gid" "4BE36D97D19633A4B1C6B75D84F4E860"
+				"size" "7FE0B46A63DA8E9714B58C6672241272"
+				"download" "6BF23B3A5316D6144548CB06A6727141"
+			}
+			"qatest"
+			{
+				"gid" "437CE1CABE176C6DE1D39AACC2BAD77C"
+				"size" "7B1D0FDFB5DBF56776F28E07EA85B077"
+				"download" "25C6AD9752A1190188D072437C748E97"
+			}
+		}
+		"depotfromapp" "1899670"
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13185632"
+			"timeupdated" "1706630752"
+		}
+		"qabeta"
+		{
+			"buildid" "13185632"
+			"pwdrequired" "1"
+			"timeupdated" "1705413442"
+		}
+		"qatest"
+		{
+			"buildid" "13185632"
+			"pwdrequired" "1"
+			"timeupdated" "1705413591"
+		}
+		"qalive"
+		{
+			"buildid" "13946739"
+			"pwdrequired" "1"
+			"timeupdated" "1712218865"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24091029"
+"_sha" "56359861d9cdb66418be8320c3631e3152a98451"
+"_size" "7514"
