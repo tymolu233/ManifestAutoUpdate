@@ -1,0 +1,251 @@
+"appid" "2429860"
+"common"
+{
+	"name" "Living With Sister: Monochrome Fantasy"
+	"type" "Game"
+	"name_localized"
+	{
+		"schinese" "妹相随～黑白世界的缤纷冒险～"
+		"tchinese" " 妹相隨～黑白世界的繽紛冒險～"
+		"japanese" "妹!せいかつ～ファンタジー～"
+	}
+	"clienttga" "6bf0480133d7cf9aca5d1fa28c1bdc6418b6c177"
+	"clienticon" "5a01b2b9bf8a5dc8bf8c86d9c40ad7a1fec866e7"
+	"icon" "aa642ef1d0e6f232bc39a8ebe36f1cc1849469df"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en,ja"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn,ja"
+		"library_header" "en,zh-cn,ja"
+	}
+	"store_asset_mtime" "1711119483"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Inusuku"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kagura Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Kagura Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711166415"
+	"community_hub_visible" "1"
+	"gameid" "2429860"
+	"store_tags"
+	{
+		"0" "12095"
+		"1" "9130"
+		"2" "6650"
+		"3" "4726"
+		"4" "4085"
+		"5" "5611"
+		"6" "122"
+		"7" "24904"
+		"8" "4434"
+		"9" "1663"
+		"10" "3871"
+		"11" "4182"
+		"12" "4136"
+		"13" "492"
+		"14" "3799"
+		"15" "1721"
+		"16" "9551"
+		"17" "599"
+		"18" "29482"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Inusuku"
+	"publisher" "Kagura Games"
+}
+"config"
+{
+	"installdir" "Living With SIster Monochrome Fantasy"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Game.exe"
+			"type" "default"
+		}
+		"1"
+		{
+			"executable" "Launcher.exe"
+			"type" "option1"
+			"config"
+			{
+				"betakey" "testing"
+			}
+			"description_loc"
+			{
+				"english" "Game"
+			}
+			"description" "Game"
+		}
+	}
+}
+"depots"
+{
+	"2429861"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2563026805166856843"
+				"size" "471579387"
+				"download" "435552000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "38B545F4FC501AB8E50E359767D24477"
+				"size" "BAE67B75173E4183C57D12216210C7E4"
+				"download" "D95F4338C1D9E09A75CEA02F2AFD7529"
+			}
+		}
+	}
+	"2429862"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2208207033562509711"
+				"size" "493682283"
+				"download" "440881120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "CAABB075D7DDE7168A283F1D8C355693"
+				"size" "3407A88E540E992A545DB2A794815DC1"
+				"download" "F95BA8D5828132071B8CF26E324AB899"
+			}
+		}
+	}
+	"2429863"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7504000890197777094"
+				"size" "481794715"
+				"download" "433884048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testing"
+			{
+				"gid" "8143FB93351354444316D28817EE941B"
+				"size" "81AAD8DC3B29431DDCC8F8F7EE8164B1"
+				"download" "0022F2E5E6F270834F83506E5EC880E2"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13830589"
+			"timeupdated" "1711174724"
+		}
+		"testing"
+		{
+			"buildid" "14786346"
+			"pwdrequired" "1"
+			"timeupdated" "1718916467"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "101"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Save"
+			"pattern" "*.*"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24099072"
+"_sha" "d57da5a003e6913362bfbdfd868dbd8c397fa33e"
+"_size" "4163"
