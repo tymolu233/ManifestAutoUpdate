@@ -1,0 +1,202 @@
+"appid" "808040"
+"common"
+{
+	"name" "Smalland: Survive the Wilds - Dedicated Server"
+	"type" "Tool"
+	"parent" "768200"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"icon" "8e1cf834c8502da531466d037088a077d0355ee9"
+	"clienttga" "bf55c0014114fd7bd2eb8b6dbe77e7bdef83be71"
+	"clienticon" "5e83fc4e0af27ea6098686c3d4548bc5766c373a"
+	"associations"
+	{
+	}
+	"gameid" "808040"
+}
+"extended"
+{
+	"gamedir" "SMALLAND"
+}
+"config"
+{
+	"installdir" "SMALLANDSurviveTheWildsDedicatedServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "start-server.bat"
+			"type" "server"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch game server - Windows"
+			}
+			"description" "Launch game server - Windows"
+		}
+		"1"
+		{
+			"executable" "start-server.sh"
+			"type" "server"
+			"config"
+			{
+				"oslist" "linux"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Launch game server - Linux"
+			}
+			"description" "Launch game server - Linux"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"808042"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5183934518715956611"
+				"size" "2294939040"
+				"download" "1022706320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "14EEAD1D71366BD9C4CD2BF94197101D"
+				"size" "366BBABCA9E4A9518F94EA236742892E"
+				"download" "1872FAAE00FF347015BBE1A4F601479D"
+			}
+			"prospero"
+			{
+				"gid" "B373359E67EA318D806147EB29085D39"
+				"size" "A217B10E2AABA300609E2D3770CE8E1B"
+				"download" "422E5DD76CDDF06984C374A35B136C03"
+			}
+			"prospero-dev"
+			{
+				"gid" "593FA5F8525E1B93BDCBBBA9376C81E1"
+				"size" "01AB831C58036910812D5698A8F609BD"
+				"download" "160CB21DFD40215771AF5175513AF2D7"
+			}
+			"scarlett"
+			{
+				"gid" "F08785FD6D8B25B4400977F191AF0462"
+				"size" "4F5544216465D120874083435846C40F"
+				"download" "FBAA65E35662F238CD33DCCF2D46263D"
+			}
+			"scarlett-dev"
+			{
+				"gid" "967CA873CD9A7FF7700F5B10202D1E5A"
+				"size" "8D6767623EF53B43A1282AC6DE87ADAF"
+				"download" "29DE7BCBD986C9D97AF5E8AA2973CF7F"
+			}
+		}
+	}
+	"808044"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2456096967963091385"
+				"size" "1771202664"
+				"download" "509639824"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "F6265E653C36983BD59E3E4454063655"
+				"size" "B36A2524C5E901347D2BF7196F1E1D00"
+				"download" "8215033050B23F0F9E055F0C3ED851BB"
+			}
+			"prospero"
+			{
+				"gid" "371AFD5F74AB90265301E02B9357CB0B"
+				"size" "2E430C9CD62580B7CD351174CE4CC680"
+				"download" "C6D065A8CEE6619516A419CD509783B9"
+			}
+			"prospero-dev"
+			{
+				"gid" "345F3B9B2D065E9B12E843428DFB439E"
+				"size" "BADB2FD742AFA42BF07E7634D0B7AFDA"
+				"download" "FA3860242CA5864477D9D901615176D0"
+			}
+			"scarlett"
+			{
+				"gid" "9D7BDC32743085BBDAD8503368FB1549"
+				"size" "F71E16DEA6121C010449E76119E2AC39"
+				"download" "294B46FE98ABA91C15DDC7EA43152F46"
+			}
+			"scarlett-dev"
+			{
+				"gid" "76D3C663917C870B49CF684D81625093"
+				"size" "F1EE7966B7AAF43D60C22A69D82A849A"
+				"download" "A49B4430AC9DB4C7CF38D928EC616374"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14692517"
+			"timeupdated" "1718712755"
+		}
+		"development"
+		{
+			"buildid" "14692517"
+			"pwdrequired" "1"
+			"timeupdated" "1718200188"
+		}
+		"prospero"
+		{
+			"buildid" "14311328"
+			"pwdrequired" "1"
+			"timeupdated" "1715701832"
+		}
+		"prospero-dev"
+		{
+			"buildid" "14821856"
+			"pwdrequired" "1"
+			"timeupdated" "1719258088"
+		}
+		"scarlett"
+		{
+			"buildid" "14311805"
+			"pwdrequired" "1"
+			"timeupdated" "1715700754"
+		}
+		"scarlett-dev"
+		{
+			"buildid" "14820744"
+			"pwdrequired" "1"
+			"timeupdated" "1719250281"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24099426"
+"_sha" "fad29f76347e59eb42df8f6f8ad9db137b4f4b03"
+"_size" "4035"
