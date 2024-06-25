@@ -1,0 +1,269 @@
+"appid" "1233070"
+"common"
+{
+	"name" "Isles of Sea and Sky"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "9874d96845573b77925dddf229320711251a1813"
+	"logo_small" "9874d96845573b77925dddf229320711251a1813_thumb"
+	"icon" "f5adfd683fad5709b7966b458324034f5235e462"
+	"clienttga" "36e8c620337e09e23395536af814a8118c1af756"
+	"clienticon" "41a5ace5d81c345c78bdaa45bf5a4f71ce866562"
+	"name_localized"
+	{
+		"schinese" "海天岛传说"
+		"tchinese" "海天岛传说"
+		"japanese" "空と海の伝説"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "53.140282817712006"
+			"height_pct" "92.00282148299141"
+		}
+	}
+	"store_asset_mtime" "1717050771"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cicada Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cicada Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1716386008"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1233070"
+	"store_tags"
+	{
+		"0" "1628"
+		"1" "4004"
+		"2" "4166"
+		"3" "21"
+		"4" "1664"
+		"5" "1695"
+		"6" "3834"
+		"7" "5652"
+		"8" "1730"
+		"9" "16094"
+		"10" "3964"
+		"11" "4182"
+		"12" "6971"
+		"13" "6869"
+		"14" "1654"
+		"15" "597"
+		"16" "3871"
+		"17" "4305"
+		"18" "3854"
+		"19" "9"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Cicada Games"
+	"publisher" "Cicada Games"
+	"homepage" "https://www.islesofseaandsky.com/"
+}
+"config"
+{
+	"installdir" "IslesOfSeaAndSky"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "IslesOfSeaAndSky.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"1233071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3533192569875455400"
+				"size" "441111506"
+				"download" "321256048"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"internal"
+			{
+				"gid" "FEF04D3659757A74D51BD7AD887B40EE"
+				"size" "C13329996D8386BDDB3BDCF6A6B8C468"
+				"download" "B053EFBB856A3CE7BB372BF14A1B5118"
+			}
+			"beta"
+			{
+				"gid" "34F64E70D9B37AF1ADE934C8E92C1053"
+				"size" "3E96D330A031F9DCDA5BCA30A3E652A4"
+				"download" "9F1786DF5C3D9CE604F58B46E39162AB"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14685606"
+			"timeupdated" "1718156979"
+		}
+		"internal"
+		{
+			"buildid" "14524701"
+			"pwdrequired" "1"
+			"timeupdated" "1716930814"
+		}
+		"beta"
+		{
+			"buildid" "14667744"
+			"pwdrequired" "1"
+			"timeupdated" "1718041397"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "IslesOfSeaAndSky/steam_{64BitSteamID}/"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23983301"
+"_sha" "411928d1765d356f0789b6f0502e452a22f12153"
+"_size" "4382"
