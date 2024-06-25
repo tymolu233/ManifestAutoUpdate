@@ -1,0 +1,449 @@
+"appid" "2201940"
+"common"
+{
+	"name" "Ship Graveyard Simulator 2"
+	"type" "Game"
+	"clienticon" "54f33e58667b04ff7061ae8944b5eb0dbe2afd58"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"icon" "e0dedb547169938ec0341c84577d6008bfb9b2c0"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "船舶墓地模拟器2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"turkish" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1692921600"
+		"tested_build_id" "11936716"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718802821"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Games Incubator"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Hypnotic Ants"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Games Incubator"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "PlayWay S.A."
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Games Incubator"
+		}
+		"5"
+		{
+			"type" "franchise"
+			"name" "PlayWay S.A."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_1" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1692189960"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2201940"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "5363"
+		"2" "3859"
+		"3" "3843"
+		"4" "3834"
+		"5" "12472"
+		"6" "4175"
+		"7" "1643"
+		"8" "3839"
+		"9" "492"
+		"10" "1654"
+		"11" "597"
+		"12" "3810"
+		"13" "19"
+		"14" "6276"
+		"15" "4166"
+		"16" "5350"
+		"17" "21"
+		"18" "1702"
+		"19" "1036"
+	}
+	"review_score" "8"
+	"review_percentage" "81"
+}
+"extended"
+{
+	"developer" "Games Incubator"
+	"publisher" "Games Incubator"
+	"homepage" "https://games-i.com/"
+	"listofdlc" "2504670,2628300,2909000"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Ship Graveyard Simulator 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ShipGraveyard2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "ShipGraveyard2.exe"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "dx12"
+			}
+			"description" "dx12"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228981"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228982"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228984"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2201941"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4095788139392745440"
+				"size" "11723431059"
+				"download" "11426938912"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"multiplayer-testing"
+			{
+				"gid" "DB217AA37120A211AAF7F1A4C2299DB3"
+				"size" "D1D2D5693D976963D7781264B90015D8"
+				"download" "F4318552A701363DCE5D7C174EED0386"
+			}
+			"testing"
+			{
+				"gid" "8FBAC39CCABA5027F46A1BB1D47085EE"
+				"size" "5A2E75244656F51E06E447835C5BB2B8"
+				"download" "29B70C8BC4BAE8835703B7B45DFFCF9F"
+			}
+			"testowe_buildy"
+			{
+				"gid" "FA1F4AAA9D1F7397A63E641B4DAF5B95"
+				"size" "905A731BA222CEDAD0178F94B74E51BE"
+				"download" "8EFFCD80711B7FCD55703F0947B2B712"
+			}
+			"unstable-default"
+			{
+				"gid" "F8867E1FFC7A8AB4F918EA57F7F0E910"
+				"size" "1702E153AD4171371B9BCBAF03055DD8"
+				"download" "261C3004085F5B41556BBFEE59BE153F"
+			}
+		}
+	}
+	"2201942"
+	{
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14794157"
+			"timeupdated" "1718978086"
+		}
+		"multiplayer-testing"
+		{
+			"buildid" "14816190"
+			"pwdrequired" "1"
+			"timeupdated" "1719222941"
+		}
+		"testing"
+		{
+			"buildid" "14794545"
+			"pwdrequired" "1"
+			"timeupdated" "1718977337"
+		}
+		"testowe_buildy"
+		{
+			"buildid" "14794157"
+			"pwdrequired" "1"
+			"timeupdated" "1718972706"
+		}
+		"unstable-default"
+		{
+			"buildid" "14755921"
+			"pwdrequired" "1"
+			"timeupdated" "1718802404"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ShipGraveyard2/Saved"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24092540"
+"_sha" "61d33e0edbec1e6519b894c263190033f32d19e4"
+"_size" "7573"
