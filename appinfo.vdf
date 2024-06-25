@@ -1,0 +1,492 @@
+"appid" "1409830"
+"common"
+{
+	"name" "Sons of Valhalla"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"logo" "8e4e55ebc385959fa9fe5c1a7ca4757a223899a0"
+	"logo_small" "8e4e55ebc385959fa9fe5c1a7ca4757a223899a0_thumb"
+	"icon" "ffd7a2318e2f7717f84beb100f69aad5de1e673e"
+	"clienttga" "a2c2ce62f9a79d8976cd1e5027d33a026416e3ef"
+	"clienticon" "21558d14ec4172bcaab178d76900bc23c2ab8dba"
+	"name_localized"
+	{
+		"schinese" "英灵殿之子 Sons of Valhalla"
+		"tchinese" "英靈殿之子 Sons of Valhalla"
+		"japanese" "Sons of Valhalla サンズ・オブ・ヴァルハラ"
+		"koreana" "Sons of Valhalla 선즈 오브 발할라"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"polish" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"ukrainian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1712966400"
+		"tested_build_id" "14012060"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Sons of Valhalla"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"japanese" "capsule_231x87_japanese.jpg"
+		"koreana" "capsule_231x87_koreana.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"japanese" "header_japanese.jpg"
+		"koreana" "header_koreana.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,ja,ko"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "ja,en,zh-tw,zh-cn,ko"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718884259"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pixel Chest"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Hooded Horse"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Hooded Horse"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "1"
+		"1" "3"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1712322035"
+	"metacritic_score" "76"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/sons-of-valhalla\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1409830"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "122"
+		"2" "4172"
+		"3" "19"
+		"4" "21"
+		"5" "1695"
+		"6" "1678"
+		"7" "3810"
+		"8" "1662"
+		"9" "1742"
+		"10" "599"
+		"11" "4328"
+		"12" "4604"
+		"13" "3959"
+		"14" "4182"
+		"15" "1708"
+		"16" "4747"
+		"17" "1697"
+		"18" "3964"
+		"19" "3987"
+	}
+	"review_score" "5"
+	"review_percentage" "64"
+}
+"extended"
+{
+	"developer" "Pixel Chest"
+	"publisher" "Hooded Horse"
+	"listofdlc" "1886240"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Sons of Valhalla"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "SoV.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"1409831"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6735772450023054852"
+				"size" "3246651267"
+				"download" "507227744"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"perf-test"
+			{
+				"gid" "FB385AE20039021E4A89FA882EE3B436"
+				"size" "A49BF4A9E209A2C0DCE9E3AA598239D5"
+				"download" "3BEB3B67DF5C699C0F1B2972EC546763"
+			}
+			"pre-test"
+			{
+				"gid" "169BBCA26ED06D4C7A1C933754C95F47"
+				"size" "AF082258DCB79D9048B1772083E586A9"
+				"download" "81D9517A626B5531DCD09A4D1C7C6645"
+			}
+			"trailer"
+			{
+				"gid" "25DC3A92208D4F35A7003950E914F4D9"
+				"size" "B7C8A729F5A5F0AE21AC149DAC5B974F"
+				"download" "1B3D74FEF321394E782F9C25387C5E34"
+			}
+			"first-test"
+			{
+				"gid" "F9342DB44DDF1F56B44F432F02F103CB"
+				"size" "044C2A551029CDEEAED1673D527E2C12"
+				"download" "9383897D0C3BFAAB114C20125DA30785"
+			}
+			"loc-test"
+			{
+				"gid" "88C35C694D774007FAAC8DD66DD3FDA7"
+				"size" "74B25137C1DA7DD2393167AA7E2F15D5"
+				"download" "C982121720501145FB0359A70869C643"
+			}
+			"pre-release"
+			{
+				"gid" "87B4110A3A94D8E51D44F9D75F64C9BB"
+				"size" "59B7325B80361C1A3E1D511667E1A48A"
+				"download" "6CE17AEA98B2DD45111B07ED019515A2"
+			}
+			"qa-test"
+			{
+				"gid" "7E2AF2235C11613DF02B8B6B6ACD1676"
+				"size" "F8B9418E9273772F406F2337522B6076"
+				"download" "B4E3591547069572F58C93951B64ABE7"
+			}
+		}
+	}
+	"1409833"
+	{
+		"dlcappid" "1886240"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2716598350131176968"
+				"size" "1916035203"
+				"download" "826395456"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"perf-test"
+			{
+				"gid" "FA3C9BCAFA70A24D65A4CA5384540387"
+				"size" "7057502EC0C2421A84116C25F75BA9CC"
+				"download" "7057502EC0C2421A84116C25F75BA9CC"
+			}
+			"pre-test"
+			{
+				"gid" "E0CF17EE4295806E68BB60F1B89F4476"
+				"size" "4BBCA2C670BB9794BCA263B7014C5CCF"
+				"download" "4BBCA2C670BB9794BCA263B7014C5CCF"
+			}
+			"trailer"
+			{
+				"gid" "491B1C46D7DF7CE3DA1C1B23F0A88749"
+				"size" "37410C1176E478407E28298292082285"
+				"download" "747D505D87F8995F2034C091D95FAD78"
+			}
+			"first-test"
+			{
+				"gid" "5B9D4DD124285DF5CE7F6EC52481FBCC"
+				"size" "C15DEC8F47F82020649FF65615B7D661"
+				"download" "963F39AEF4F5BA17D7750DE3F5BA4935"
+			}
+			"loc-test"
+			{
+				"gid" "12CB086F7DF35EB91C38CA466C78E423"
+				"size" "8A4C8F56817E1DAB33AECE9CB2CA025D"
+				"download" "8D5000DD1FE3E6569B815518DCC3B7C4"
+			}
+			"pre-release"
+			{
+				"gid" "B1994A565429430AE3E1A8B8D180EDA6"
+				"size" "8D667D75FE127E5EA9AFE5960392D6A3"
+				"download" "0E5ECDDE2DE3C683D292444EEA36E2A0"
+			}
+			"qa-test"
+			{
+				"gid" "0C8C6232D393067499FD5F366A7C6908"
+				"size" "39492A4D10917CA8CA68B199AA36C980"
+				"download" "A3C76395C1EABAB99770C67A1106F150"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14342302"
+			"timeupdated" "1715532517"
+		}
+		"perf-test"
+		{
+			"buildid" "13627212"
+			"pwdrequired" "1"
+			"timeupdated" "1709494541"
+		}
+		"pre-test"
+		{
+			"buildid" "13717942"
+			"pwdrequired" "1"
+			"timeupdated" "1710268997"
+		}
+		"trailer"
+		{
+			"buildid" "13961472"
+			"pwdrequired" "1"
+			"timeupdated" "1712313687"
+		}
+		"first-test"
+		{
+			"buildid" "14342302"
+			"pwdrequired" "1"
+			"timeupdated" "1715531168"
+		}
+		"loc-test"
+		{
+			"buildid" "14342302"
+			"pwdrequired" "1"
+			"timeupdated" "1715532541"
+		}
+		"pre-release"
+		{
+			"buildid" "14342302"
+			"pwdrequired" "1"
+			"timeupdated" "1715532550"
+		}
+		"qa-test"
+		{
+			"buildid" "14342302"
+			"pwdrequired" "1"
+			"timeupdated" "1715532558"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "20485760"
+	"maxnumfiles" "14"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pixel Chest Games/Sons of Valhalla/saves"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24048806"
+"_sha" "a12d8d3f028236281e901b3f16a3ddbd1161d83f"
+"_size" "9817"
