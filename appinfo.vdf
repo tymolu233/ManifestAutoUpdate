@@ -1,0 +1,363 @@
+"appid" "2235020"
+"common"
+{
+	"name" "Contra: Operation Galuga"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienttga" "c9f08a505d486970f6fcdcddbbdcabbb968197d0"
+	"icon" "03d8c9d64452f0e42a0e9a12393e291d26c9eb6e"
+	"clienticon" "56c39db28b107e4a144f923e2a1300be2c66f73e"
+	"name_localized"
+	{
+		"japanese" "魂斗羅 オペレーション ガルガ"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1710979200"
+		"tested_build_id" "13626439"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "87.86464410735124"
+			"height_pct" "69.60341961529328"
+		}
+	}
+	"store_asset_mtime" "1718864100"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "WayForward"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "KONAMI"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Contra"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_39" "1"
+		"category_24" "1"
+		"category_44" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_60" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_23" "1"
+		"category_56" "1"
+		"category_58" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1710226906"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2235020"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1773"
+		"2" "1774"
+		"3" "1625"
+		"4" "5379"
+		"5" "4255"
+		"6" "3798"
+		"7" "3871"
+		"8" "7743"
+		"9" "6691"
+		"10" "3942"
+		"11" "1673"
+		"12" "4004"
+		"13" "6730"
+		"14" "7481"
+		"15" "4747"
+		"16" "3993"
+		"17" "12057"
+		"18" "7208"
+		"19" "1742"
+	}
+	"review_score" "8"
+	"review_percentage" "87"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default"
+	"developer" "WayForward"
+	"publisher" "KONAMI"
+	"homepage" "https://www.konami.com/games/contra/og/"
+}
+"config"
+{
+	"installdir" "Contra Operation Galuga"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "ContraOG.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2235021"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3864994051288809346"
+				"size" "14572956546"
+				"download" "7972917888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"qa_dev"
+			{
+				"gid" "C5B9537BBAFB2FAA71705679E297847E"
+				"size" "A07D4A6053FC676E639DBEFB33E00E99"
+				"download" "54F4DF2E4924FF623AD50C5525EE99A2"
+			}
+			"qa_release"
+			{
+				"gid" "B3419199B7CAEAD3E0BB4BFD537828AC"
+				"size" "8CF1C81315C569A509F5D4C926ABB777"
+				"download" "6D505BCC904C98B655F276C8305E8A8D"
+			}
+			"qa_review"
+			{
+				"gid" "CF860487ACF57B6371FB2BDA355B3FC3"
+				"size" "CE246889B65C60F7B5758BA11C76794E"
+				"download" "39CFF66E50725E5D5C8684FD1484FF32"
+			}
+			"qa_submission"
+			{
+				"gid" "F58BD1345DBC7C1BD767B2D5CA05270B"
+				"size" "0EB7C377EB82835F48A682539AE431C8"
+				"download" "D38F0BA42C93C14C90A89B78B4DBEF0D"
+			}
+			"qa_submissionreview"
+			{
+				"gid" "6DAA01539457011C417F3A95DB6477CF"
+				"size" "540408C6923383282F31C2748D80F62F"
+				"download" "2F1F9E0015E85A408D842C6BF9298949"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14178934"
+			"timeupdated" "1715247740"
+		}
+		"qa_dev"
+		{
+			"buildid" "14198042"
+			"pwdrequired" "1"
+			"timeupdated" "1714264378"
+		}
+		"qa_release"
+		{
+			"buildid" "14195360"
+			"pwdrequired" "1"
+			"timeupdated" "1714223156"
+		}
+		"qa_review"
+		{
+			"buildid" "14197224"
+			"pwdrequired" "1"
+			"timeupdated" "1714251756"
+		}
+		"qa_submission"
+		{
+			"buildid" "14178934"
+			"pwdrequired" "1"
+			"timeupdated" "1714086675"
+		}
+		"qa_submissionreview"
+		{
+			"buildid" "14178021"
+			"pwdrequired" "1"
+			"timeupdated" "1714080225"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "WayForward Technologies/Contra_ Operation Galuga/_savedata"
+			"pattern" "savefile"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "24044477"
+"_sha" "47bc7cefbfff21ed09aeea9b9b36a92a2db52be2"
+"_size" "6703"
