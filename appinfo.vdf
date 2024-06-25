@@ -1,0 +1,403 @@
+"appid" "505460"
+"common"
+{
+	"name" "Foxhole"
+	"type" "Game"
+	"clienttga" "940220b9e929b61554944fdcf67b3aaf8f2559b8"
+	"clienticon" "da3de1490a9b1d527919041249fe19f56feac6d8"
+	"icon" "69f274102aa347f7c22c4e6b9bb02dd20ee976e0"
+	"logo" "2dfaa824663287ffed6d6d8bd7ddd1e2b9e76b0b"
+	"logo_small" "2dfaa824663287ffed6d6d8bd7ddd1e2b9e76b0b_thumb"
+	"oslist" "windows"
+	"releasestate" "released"
+	"eulas"
+	{
+		"1"
+		{
+			"id" "505460_eula_1"
+			"name" "Foxhole EULA"
+			"url" "https://store.steampowered.com//eula/505460_eula_1"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "8877757"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Foxhole"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "100"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1698446087"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Siege Camp"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Siege Camp"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "29"
+		"3" "3"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_36" "1"
+		"category_20" "1"
+		"category_49" "1"
+		"category_8" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1664377537"
+	"community_hub_visible" "1"
+	"gameid" "505460"
+	"store_tags"
+	{
+		"0" "128"
+		"1" "4684"
+		"2" "4168"
+		"3" "7332"
+		"4" "1695"
+		"5" "4150"
+		"6" "3810"
+		"7" "1678"
+		"8" "4791"
+		"9" "1775"
+		"10" "1708"
+		"11" "4637"
+		"12" "3859"
+		"13" "9"
+		"14" "5711"
+		"15" "1702"
+		"16" "1774"
+		"17" "1685"
+		"18" "19"
+		"19" "122"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Siege Camp"
+	"publisher" "Siege Camp"
+	"homepage" "http://www.foxholegame.com"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Foxhole"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "War.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"systemprofile" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"2756803367"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default,community,devbranch,internal,internal2,nightly-build,previous-live,release-branch,testing"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"505461"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6183390230108352158"
+				"size" "18307401104"
+				"download" "5951188016"
+			}
+			"devbranch"
+			{
+				"gid" "1830264327008935849"
+				"size" "18307179408"
+				"download" "5951199232"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"community"
+			{
+				"gid" "D53DD96F346E74E0F0D1C1ADBA758C5E"
+				"size" "1061B178909A24B93ADC38BF2A9DF31D"
+				"download" "B5EB327BDE75ECA1682CE67E392F73B1"
+			}
+			"internal"
+			{
+				"gid" "00A774B322C4E844144859942C2F2856"
+				"size" "066932A3EACD36D4256A6D100F11CD61"
+				"download" "C73F9084EDB353B9DC71EB5494D46D15"
+			}
+			"internal2"
+			{
+				"gid" "29EB9E98D5A68754E8EE19CBD10F137A"
+				"size" "286CB3F3A5DBCAFCAA4C376FB11BA2FD"
+				"download" "5E8E0B104EFF47751ECAC5D0702E40A0"
+			}
+			"preview"
+			{
+				"gid" "CA3D7A7C0F5DDE953D31F1D233965139"
+				"size" "0A9F38748B8772A5E8D61BF255C9CADC"
+				"download" "378BC444554D2317A35E4C0CA4AAA420"
+			}
+			"testing"
+			{
+				"gid" "3FAE667E648B39C90B90BB185013A08A"
+				"size" "6FB58462D615EF5C2BAE5B381A54F6BD"
+				"download" "E1468C9E5C3E98603B9ECDAD49E87850"
+			}
+			"closedtest"
+			{
+				"gid" "25B5A360494C070C37A15E2E5A76019C"
+				"size" "C986309B7B27A66E7C3B3B783354460D"
+				"download" "9BBE24E43CC0F5C9C49747D403E1F36F"
+			}
+			"nightly-build"
+			{
+				"gid" "52BB16E26E093974D39122657A9302AC"
+				"size" "76383CD2E9160C73DE22DAAEF4B22D40"
+				"download" "EEDD6ABA3A1225CB0509DB063B1DD0AB"
+			}
+			"previous-live"
+			{
+				"gid" "75ED353D1423CD9FCFDD1760D49EDEB3"
+				"size" "C7E942CED6B3D76FBE0BFE7FDFDA1128"
+				"download" "50764B36FDA50958EE3998B8F7E96B7E"
+			}
+			"release-branch"
+			{
+				"gid" "14C141F618B8F8B61D41B1BF8687F2E7"
+				"size" "1C13C7D10AFD5A9453685AF40CD0BB85"
+				"download" "5C43773432C1747898875A5C58BBF831"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14629250"
+			"timeupdated" "1717764235"
+		}
+		"community"
+		{
+			"buildid" "5345204"
+			"pwdrequired" "1"
+			"timeupdated" "1596032479"
+		}
+		"devbranch"
+		{
+			"buildid" "13956640"
+			"description" "Player testing environment"
+			"timeupdated" "1712281152"
+		}
+		"internal"
+		{
+			"buildid" "13212801"
+			"pwdrequired" "1"
+			"timeupdated" "1705618485"
+		}
+		"internal2"
+		{
+			"buildid" "13562276"
+			"pwdrequired" "1"
+			"timeupdated" "1709749171"
+		}
+		"preview"
+		{
+			"buildid" "12342145"
+			"pwdrequired" "1"
+			"timeupdated" "1696364539"
+		}
+		"testing"
+		{
+			"buildid" "8220852"
+			"pwdrequired" "1"
+			"timeupdated" "1645163607"
+		}
+		"closedtest"
+		{
+			"buildid" "14756580"
+			"pwdrequired" "1"
+			"timeupdated" "1718730446"
+		}
+		"nightly-build"
+		{
+			"buildid" "14815383"
+			"pwdrequired" "1"
+			"timeupdated" "1719218088"
+		}
+		"previous-live"
+		{
+			"buildid" "14258682"
+			"pwdrequired" "1"
+			"timeupdated" "1717764183"
+		}
+		"release-branch"
+		{
+			"buildid" "14824404"
+			"pwdrequired" "1"
+			"timeupdated" "1719269834"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24101108"
+"_sha" "9850ee44ee118cbfdaf4ce7b25e0525d1a26a929"
+"_size" "7870"
