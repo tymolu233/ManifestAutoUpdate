@@ -1,0 +1,423 @@
+"appid" "2000090"
+"common"
+{
+	"name" "The Isle Tide Hotel"
+	"type" "Game"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64,macosapplesilicon"
+	"clienticon" "3142e3896f138b5151d2cc63355f9dee78bdb949"
+	"clienttga" "310d6f29a2d3b2f245d7df0c792abb5b7f64deab"
+	"icon" "6efe98a0836ba785cb5866077170b4a4d87e25c9"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "The Isle Tide Hotel 岛潮酒店"
+		"japanese" "The Isle Tide Hotel アイルタイドホテル"
+		"koreana" "The Isle Tide Hotel 아일 타이드 호텔"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"clienticns" "6b89b3320b66c8851e3f1794c38997e087c7f72f"
+	"linuxclienticon" "7654723af5c406e93d413a3aa3d746c0928008d9"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1693267200"
+		"tested_build_id" "12014495"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "48.50261865349654"
+			"height_pct" "96.20042745191165"
+		}
+	}
+	"store_asset_mtime" "1693574092"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Wales Interactive"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Interflix Media"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Wales Interactive"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Wales Interactive"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1694501849"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2000090"
+	"store_tags"
+	{
+		"0" "18594"
+		"1" "3834"
+		"2" "3854"
+		"3" "4486"
+		"4" "11014"
+		"5" "1698"
+		"6" "6426"
+		"7" "3799"
+		"8" "5716"
+		"9" "1664"
+		"10" "1742"
+		"11" "5613"
+		"12" "21"
+		"13" "9204"
+		"14" "4175"
+		"15" "4182"
+		"16" "6378"
+		"17" "6971"
+		"18" "6869"
+		"19" "4064"
+	}
+	"review_score" "5"
+	"review_percentage" "69"
+}
+"extended"
+{
+	"developer" "Wales Interactive"
+	"publisher" "Wales Interactive"
+	"homepage" "https://www.walesinteractive.com/theisletidehotel"
+	"listofdlc" "2521410"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Isle Tide Hotel"
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheIsleTideHotel.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "TheIsleTideHotel.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2000091"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4064502463195548232"
+				"size" "14268889267"
+				"download" "14133668176"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "399488429B7960F1BDC22BF5D05267DF"
+				"size" "F07FF789774AE64E26B795007FAA946A"
+				"download" "1BF33B217FF12D6DBA4FFDA88FD9B932"
+			}
+		}
+	}
+	"2000092"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1121731929850308147"
+				"size" "468172006"
+				"download" "149023968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "68F7BA160E7BE909AA7E0F20C2264836"
+				"size" "E5DACA072F62491F29E21E593E735A33"
+				"download" "9D1F72820664A0826B690050075A4D58"
+			}
+		}
+	}
+	"2000093"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8696399879194565081"
+				"size" "483302646"
+				"download" "153314208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "352A7F579EE9A87C27F30AEF26B06C1C"
+				"size" "EC5DDF81C6C39A50C88CE6E064D14C19"
+				"download" "76FF96E13BFD272CAB991BAAF0C3D6C6"
+			}
+		}
+	}
+	"2000094"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6681251306088402910"
+				"size" "499186953"
+				"download" "160429168"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "C2351E11AD65EC71C6ECC453B7029D05"
+				"size" "8EB60EA981302F5147208228F34B28F5"
+				"download" "F4084563CAF4333B3F87BB76C0C60917"
+			}
+		}
+	}
+	"2521410"
+	{
+		"dlcappid" "2521410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2121349713424817065"
+				"size" "33405363544"
+				"download" "32591305120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "EEEDDAABC95212383C0D18A7BB943E45"
+				"size" "4BF2D6B0C46CA8879021A0A59124CF63"
+				"download" "C2B0CE7D143F4B1898ABA27478A7118B"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2521410"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14386580"
+			"timeupdated" "1715941733"
+		}
+		"development"
+		{
+			"buildid" "14386580"
+			"pwdrequired" "1"
+			"timeupdated" "1715848412"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+}
+"_missing_token" "False"
+"_change_number" "24087426"
+"_sha" "1af3a1a5745519f3fbb9c2f77ac0f115a113c808"
+"_size" "7578"
