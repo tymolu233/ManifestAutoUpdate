@@ -1,0 +1,239 @@
+"appid" "2182400"
+"common"
+{
+	"name" "Laughing to Die"
+	"type" "Game"
+	"name_localized"
+	{
+		"schinese" "喜丧"
+	}
+	"icon" "0ff182cd391a2c8ec09741f5548be97819a2bcfa"
+	"clienttga" "39277041667ca325bd2241788d816871477535df"
+	"clienticon" "653d81d570e2937525fa541302c6b0ef741517a5"
+	"releasestate" "released"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "zh-cn,en"
+		"library_logo" "zh-cn,en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"store_asset_mtime" "1712802651"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "大吉利制作组"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Gamera Games"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1712818471"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2182400"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "597"
+		"2" "1625"
+		"3" "1664"
+		"4" "5379"
+		"5" "6815"
+		"6" "5537"
+		"7" "1721"
+		"8" "15277"
+		"9" "3871"
+		"10" "4195"
+		"11" "4305"
+		"12" "5984"
+		"13" "5716"
+		"14" "7208"
+		"15" "7250"
+		"16" "4182"
+		"17" "492"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "大吉利制作组"
+	"publisher" "Gamera Games"
+}
+"config"
+{
+	"installdir" "Laughing to Die"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HappyEnding.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "XiSang.app\\Contents\\MacOS\\HappyEnding"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2182401"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8896619631433916473"
+				"size" "2356119692"
+				"download" "427374752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "F0588E9A061C8CA15B73A4BAE8B3255A"
+				"size" "DD9FAF869944DE2F15226F2B2D1AF63F"
+				"download" "7E878E618FF8B25B5246E2DC7FF66489"
+			}
+		}
+	}
+	"2182402"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8496071629537278613"
+				"size" "2379936555"
+				"download" "434511296"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "C66EF8969909716EADFE2E23AC48EC4A"
+				"size" "83773AA6F5B8F92C46D590FBD8BE2880"
+				"download" "8E76C4A6B70D0E7132985A41257D47DB"
+			}
+		}
+	}
+	"hasdepotsindlc" "0"
+	"baselanguages" "schinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14360347"
+			"timeupdated" "1715953027"
+		}
+		"test"
+		{
+			"buildid" "14360347"
+			"pwdrequired" "1"
+			"timeupdated" "1715680259"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Dajili/HappyEnding"
+			"pattern" "*.bbs"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"1"
+		{
+			"root" "MacHome"
+			"path" "/Library/Application Support/Dajili/HappyEnding"
+			"pattern" "*.bbs"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23584048"
+"_sha" "284d6d78413f6c31b6efe455be216952ede4413d"
+"_size" "3848"
