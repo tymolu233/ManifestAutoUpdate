@@ -1,0 +1,551 @@
+"appid" "2848520"
+"common"
+{
+	"name" "Voice Love on Air Soundtrack Collection"
+	"type" "Music"
+	"parent" "2321120"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"clienttga" "b42de8f8c0d28801fb4113cff854599e178ef08f"
+	"clienticon" "efcd6de1a329ba28ca1c31907e94a4a5a37123e8"
+	"icon" "cf121b9ec77d69a207f65c5efedce26affa376fe"
+	"name_localized"
+	{
+		"tchinese" "Voice Love on Air 精選音樂集"
+		"schinese" "纯爱声放送 音乐原声带"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1709366851"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "SOFTSTAR ENTERTAINMENT"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Noisy Fish"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "SOFTSTAR ENTERTAINMENT"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Voice Love on Air"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_50" "1"
+	}
+	"steam_release_date" "1711591309"
+	"gameid" "2848520"
+	"exfgls" "6"
+}
+"extended"
+{
+	"musicalbumforappid" "2321120"
+	"developer" "SOFTSTAR ENTERTAINMENT"
+	"publisher" "SOFTSTAR ENTERTAINMENT"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "VLoA_OST"
+}
+"depots"
+{
+	"2848521"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6345649836755656219"
+				"size" "60688747"
+				"download" "59948512"
+			}
+		}
+	}
+	"2848522"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1309497893183914577"
+				"size" "561276268"
+				"download" "474111920"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14357324"
+			"timeupdated" "1715659192"
+		}
+	}
+}
+"albummetadata"
+{
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "Vocalist: Shawn Christmas; Violinist: konstantin ilitskii; Guitarist: Wassim Rahmani; Cellist: Polina Faustova"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" "演唱: Shawn Christmas; 小提琴: konstantin ilitskii; 吉他: Wassim Rahmani; 大提琴: Polina Faustova"
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" "演唱: Shawn Christmas; 小提琴: konstantin ilitskii; 吉他: Wassim Rahmani; 大提琴: Polina Faustova\r\n"
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"english" "rizet Tsen, Hoskey Cheng"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" "曾志豪, Hoskey Cheng"
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" "曾志豪, Hoskey Cheng"
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"english" "SOFTSTAR ENTERTAINMENT INC."
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" "大宇资讯"
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" "大宇資訊"
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"english" "Lyrics: rizet Tsen/Trista Huang; Mixing Engineer: rizet Tsen"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"indonesian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" "作词: 曾志豪/黄秀娟;  混音: 曾志豪"
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" "作詞: 曾志豪/黃秀娟;  混音: 曾志豪"
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+	"cdn_assets"
+	{
+		"album_cover" "b08025d7e895a7b69a692671cf29bcf37ac6f0dd"
+		"album_additional_images"
+		{
+			"2"
+			{
+				"image" "f0a345e42357950a663109beef0876b2776fc3db"
+			}
+			"3"
+			{
+				"image" "144f3936d2e88355c0db52effa97f22a4065fd81"
+			}
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "I Wanna Hear Your Voice"
+			"m" "4"
+			"s" "4"
+			"internationalname" "I Wanna Hear Your Voice"
+			"languagecode" "zh-tw"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "紀亞樹的主題"
+			"m" "3"
+			"s" "32"
+			"internationalname" "Aki\'s Theme"
+			"languagecode" "zh-tw"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "衛斯禮的主題"
+			"m" "2"
+			"s" "23"
+			"internationalname" "Wesley\'s Theme"
+			"languagecode" "zh-tw"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "凌成的主題"
+			"m" "3"
+			"s" "21"
+			"internationalname" "Ryousei\'s Theme"
+			"languagecode" "zh-tw"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "原淳一的主題"
+			"m" "3"
+			"s" "11"
+			"internationalname" "Junichi\'s Theme"
+			"languagecode" "zh-tw"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "石侑熙的主題"
+			"m" "4"
+			"s" "18"
+			"internationalname" "Yuki\'s Theme"
+			"languagecode" "zh-tw"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "休閒時光"
+			"m" "2"
+			"s" "3"
+			"internationalname" "Leisure Time"
+			"languagecode" "zh-tw"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "彩虹的彼端"
+			"m" "1"
+			"s" "46"
+			"internationalname" "Over The Rainbow"
+			"languagecode" "zh-tw"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "美好的一天"
+			"m" "1"
+			"s" "27"
+			"internationalname" "A Delighted Day"
+			"languagecode" "zh-tw"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "緊張對峙"
+			"m" "1"
+			"s" "3"
+			"internationalname" "Confrontation"
+			"languagecode" "zh-tw"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "徬徨無助"
+			"m" "2"
+			"s" "7"
+			"internationalname" "Confused and Helpless"
+			"languagecode" "zh-tw"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "搞笑時刻"
+			"m" "1"
+			"s" "36"
+			"internationalname" "Funny You"
+			"languagecode" "zh-tw"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "悲傷的心"
+			"m" "1"
+			"s" "26"
+			"internationalname" "Sadness"
+			"languagecode" "zh-tw"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "聲導的日常"
+			"m" "2"
+			"s" "21"
+			"internationalname" "Director\'s Daily"
+			"languagecode" "zh-tw"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "錄製進行中"
+			"m" "2"
+			"s" "21"
+			"internationalname" "Recording"
+			"languagecode" "zh-tw"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "錄製完成"
+			"m" "0"
+			"s" "38"
+			"internationalname" "Drama Completed"
+			"languagecode" "zh-tw"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "廣播劇配樂：浪漫"
+			"m" "0"
+			"s" "37"
+			"internationalname" "Drama Romance"
+			"languagecode" "zh-tw"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "廣播劇配樂：喜劇"
+			"m" "0"
+			"s" "34"
+			"internationalname" "Drama Comedy"
+			"languagecode" "zh-tw"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "廣播劇配樂：悲劇"
+			"m" "0"
+			"s" "42"
+			"internationalname" "Drama Tragedy"
+			"languagecode" "zh-tw"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "廣播劇配樂：懸疑"
+			"m" "0"
+			"s" "42"
+			"internationalname" "Drama Thriller"
+			"languagecode" "zh-tw"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "城市漫遊"
+			"m" "1"
+			"s" "30"
+			"internationalname" "Roam Around the City"
+			"languagecode" "zh-tw"
+		}
+		"21"
+		{
+			"discnumber" "1"
+			"tracknumber" "22"
+			"originalname" "商業街"
+			"m" "1"
+			"s" "2"
+			"internationalname" "Commercial Street"
+			"languagecode" "zh-tw"
+		}
+		"22"
+		{
+			"discnumber" "1"
+			"tracknumber" "23"
+			"originalname" "海洋絮語"
+			"m" "1"
+			"s" "5"
+			"internationalname" "Whisper From the Ocean"
+			"languagecode" "zh-tw"
+		}
+		"23"
+		{
+			"discnumber" "1"
+			"tracknumber" "24"
+			"originalname" "餐酒館"
+			"m" "1"
+			"s" "12"
+			"internationalname" "Bistro"
+			"languagecode" "zh-tw"
+		}
+		"24"
+		{
+			"discnumber" "1"
+			"tracknumber" "25"
+			"originalname" "海樂樂園"
+			"m" "1"
+			"s" "16"
+			"internationalname" "Sea Paradise"
+			"languagecode" "zh-tw"
+		}
+		"25"
+		{
+			"discnumber" "1"
+			"tracknumber" "26"
+			"originalname" "悲劇結局"
+			"m" "2"
+			"s" "28"
+			"internationalname" "Tragedy"
+			"languagecode" "zh-tw"
+		}
+		"26"
+		{
+			"discnumber" "1"
+			"tracknumber" "27"
+			"originalname" "完美結局"
+			"m" "2"
+			"s" "30"
+			"internationalname" "Happy Ending"
+			"languagecode" "zh-tw"
+		}
+		"27"
+		{
+			"discnumber" "1"
+			"tracknumber" "28"
+			"originalname" "Voice Love on Air 主題音樂"
+			"m" "1"
+			"s" "33"
+			"internationalname" "Main Theme"
+			"languagecode" "zh-tw"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23540649"
+"_sha" "4adeef0ec2a6339e6cf9cd0b892abae7bf132621"
+"_size" "10635"
