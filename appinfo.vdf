@@ -1,0 +1,802 @@
+"appid" "835960"
+"common"
+{
+	"name" "The Talos Principle 2"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "bbab9cdc63ac289d9ff2da0bc477455db80d791b"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"icon" "3f79ab72358e4a867351997738c994cdab35da19"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "塔罗斯的法则2"
+		"tchinese" "塔羅斯的法則2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"turkish" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1702080000"
+		"tested_build_id" "12854513"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "The Talos Principle 2"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1709127166"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Croteam"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Devolver Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "The Talos Principle"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Croteam"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "Devolver Digital"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_61" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1698939923"
+	"metacritic_score" "88"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/the-talos-principle-2\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "835960"
+	"store_tags"
+	{
+		"0" "1664"
+		"1" "1742"
+		"2" "3839"
+		"3" "3942"
+		"4" "5537"
+		"5" "3834"
+		"6" "15277"
+		"7" "5395"
+		"8" "5900"
+		"9" "1697"
+		"10" "3835"
+		"11" "3854"
+		"12" "4106"
+		"13" "4191"
+		"14" "6129"
+		"15" "7250"
+		"16" "4175"
+		"17" "4853"
+		"18" "5794"
+		"19" "5716"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Croteam"
+	"publisher" "Devolver Digital"
+	"homepage" "http://talosprinciple.com"
+	"listofdlc" "2676320,2981410"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Talos Principle 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Talos2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"835961"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8371849622405446655"
+				"size" "83375247942"
+				"download" "78809101008"
+			}
+			"talos2_1.0"
+			{
+				"gid" "4050671372073458402"
+				"size" "75859553462"
+				"download" "73192400496"
+			}
+			"talos2_1.0.3"
+			{
+				"gid" "3033022998121385393"
+				"size" "75859525882"
+				"download" "73192242880"
+			}
+			"talos2_1.0.4"
+			{
+				"gid" "354433496432907284"
+				"size" "75859800639"
+				"download" "73192548896"
+			}
+			"talos2_1.1.0"
+			{
+				"gid" "3761021543791642050"
+				"size" "79620485766"
+				"download" "74738296928"
+			}
+			"talos2_1.1.1"
+			{
+				"gid" "5464397759569968732"
+				"size" "79620687775"
+				"download" "74738779120"
+			}
+			"talos2_2.0.0_elysium"
+			{
+				"gid" "1065456460957665479"
+				"size" "83374346397"
+				"download" "78808180320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "015B41052B41F14FA4AE944A504D5E3F"
+				"size" "9C1FF4E0EED03D86EEDC8F0BF0C39366"
+				"download" "4AAB47C4D039357B1971B78815CE3E51"
+			}
+			"umain_dev_upload"
+			{
+				"gid" "50BEDCE38FA6CA6C43E9665CD6168D1A"
+				"size" "84085E871108C23C844617FF2BD511B8"
+				"download" "1D83231D21870298A2DCCDD50F3929AB"
+			}
+			"umain_ship_upload"
+			{
+				"gid" "59D4CC7023561562A2CE414B7146356F"
+				"size" "03B15F1FD7B5002EBD03D27A55BB58BB"
+				"download" "C62733A844D4E8AF71FAEB829B94A740"
+			}
+			"ver_rollback"
+			{
+				"gid" "9B0826405D7C9BD93DA76151743EDCAB"
+				"size" "38A9D997E2B470D2882CA220016882A2"
+				"download" "538EC959E76877E9344630CBF0FEC37F"
+			}
+			"beta2_qa"
+			{
+				"gid" "9D6D2322A2C90E32148C2AABFE5C8E19"
+				"size" "4577A879F3029D80DC85969BFC94004D"
+				"download" "98E822E9EA6C9BCB2FE2894C09B44DBC"
+			}
+			"dev_upload"
+			{
+				"gid" "5EFA2047C0CB927ABB4D378965308FC4"
+				"size" "C3BDA37ED75C1973F375A25B7B06D485"
+				"download" "18A0CEA60254599B5A362858499BEC1F"
+			}
+			"internal_test"
+			{
+				"gid" "35899680798E961B3B97F46DC1FAA0B7"
+				"size" "EA3619874989D23FD6BC05886496F2F8"
+				"download" "44DB6FE031EB23DECFEDD21A002EFA1F"
+			}
+			"loc_qa"
+			{
+				"gid" "D945B4442E5113C3015EF534C29CC77E"
+				"size" "D9C3360614A8B084492CDD0EAB346D5E"
+				"download" "E7240AE0390DF870A450943796280AC7"
+			}
+			"release_ship_upload"
+			{
+				"gid" "40D114C9A0865D101AA687B40989A0FB"
+				"size" "0C59BF5F8D778C006976ADE773F860B4"
+				"download" "686C7A833C41C1B5CFDE3A67F06C8078"
+			}
+			"ship_upload"
+			{
+				"gid" "1E988B267156410B8BCD8B7F494B9717"
+				"size" "455627C21C2877CB5CC298B340C24577"
+				"download" "F805CE0194A99CC9C0AF5F1345C244A2"
+			}
+			"upload_test"
+			{
+				"gid" "D15E923D86E6CB4E053B962D29AF6ACC"
+				"size" "8FB173E0A8FB916ED7D2C8A8479CB57F"
+				"download" "F598291E935396D4F69BD3262E35FB07"
+			}
+		}
+	}
+	"2676320"
+	{
+		"dlcappid" "2676320"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1186211547627304243"
+				"size" "311999787"
+				"download" "305759696"
+			}
+			"talos2_1.0"
+			{
+				"gid" "1186211547627304243"
+				"size" "311999787"
+				"download" "305759696"
+			}
+			"talos2_1.0.3"
+			{
+				"gid" "1186211547627304243"
+				"size" "311999787"
+				"download" "305759696"
+			}
+			"talos2_1.0.4"
+			{
+				"gid" "1186211547627304243"
+				"size" "311999787"
+				"download" "305759696"
+			}
+			"talos2_1.1.0"
+			{
+				"gid" "1186211547627304243"
+				"size" "311999787"
+				"download" "305759696"
+			}
+			"talos2_1.1.1"
+			{
+				"gid" "1186211547627304243"
+				"size" "311999787"
+				"download" "305759696"
+			}
+			"talos2_2.0.0_elysium"
+			{
+				"gid" "1186211547627304243"
+				"size" "311999787"
+				"download" "305759696"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_test"
+			{
+				"gid" "7A243350BF95BE0FB2E57202DB4E6415"
+				"size" "8CD6BED6717099AD8153951C7C292E23"
+				"download" "5A8324E025F044DB3C20CD5DD78DBA22"
+			}
+			"ver_rollback"
+			{
+				"gid" "87E3E4663DC9DF0544D40E4FC4334B93"
+				"size" "78E1DC5B5AC82CEEDDFF3E184BD32982"
+				"download" "6BF83E3E2B1A4CD6CCB5F3BCE19ABC42"
+			}
+			"beta2_qa"
+			{
+				"gid" "61B0C5EF80C07550D99C9D0D4708F96E"
+				"size" "F2001F06B4DE5D9DB29A9AE4AE42CE55"
+				"download" "4AEA793D5A844EA755F6AAF789F136C8"
+			}
+			"dev_upload"
+			{
+				"gid" "1FF2C19E6CFA59D7A71D1D63D973B9C3"
+				"size" "9654FBA191D2A4991FCA66797D79E388"
+				"download" "9151C9426765A2F64BC2A6AE579248E6"
+			}
+			"internal_test"
+			{
+				"gid" "F74CE392DD9078EE9E36B0D741545E7E"
+				"size" "91E3DCE4371FC3259926D67309EFF8DD"
+				"download" "CAA16292B23A0802E089CA6BDCC28EB1"
+			}
+			"loc_qa"
+			{
+				"gid" "A2D59CF2358776523C86AD13A53411CA"
+				"size" "95C779A37C48529B2B653185E26E26FA"
+				"download" "AD4922B7C0C5874705D12BED7A28543A"
+			}
+		}
+	}
+	"2981410"
+	{
+		"dlcappid" "2981410"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "689039679490288791"
+				"size" "27039009177"
+				"download" "26185895680"
+			}
+			"talos2_2.0.0_elysium"
+			{
+				"gid" "7799218399661339303"
+				"size" "27028994676"
+				"download" "26177074896"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta2_qa"
+			{
+				"gid" "430111BB020652CC85E0BA1C7A02564D"
+				"size" "1178A6643CEE74BA2385FA81FFE37F74"
+				"download" "E358066F91E942BDCEC9D67460C7B574"
+			}
+			"dev_upload"
+			{
+				"gid" "83E06986C4AD2C6B54E053979830EADC"
+				"size" "47BD5E2ACB3918ABA2A9C33823BF2C01"
+				"download" "160703FD8E4591857D20004D43FD212D"
+			}
+			"internal_test"
+			{
+				"gid" "8F8FA99D7DA26CEC0CF6AC06545E566E"
+				"size" "F69B4C944C077A34BC044C510B7F4A24"
+				"download" "2F41F13BBA645D24B716D5B7FC6E8CC6"
+			}
+			"loc_qa"
+			{
+				"gid" "6C49542D684A5C46215365616EB549C2"
+				"size" "801C87B9F7D476E4CA690B8ADCAFF2A7"
+				"download" "11C3849796A6264D057F805C917EE704"
+			}
+			"release_ship_upload"
+			{
+				"gid" "A8AA7D4731239B6EA70C8D2D7048D6A4"
+				"size" "7BABA15681AA03AD3ED648DF685F1231"
+				"download" "D3F7E232DABCF25B58E379724A988D26"
+			}
+			"ship_upload"
+			{
+				"gid" "97A6733BE8EDA52B9218B61D94C394EC"
+				"size" "0557F27D3A44FFE1A04DC32DDED7EE89"
+				"download" "1E440C6156390FBB8359D2F31F8A2E56"
+			}
+			"upload_test"
+			{
+				"gid" "B828FBA59ECB2B7FA53F7D0C8D243DAA"
+				"size" "20B3D8EF55B69A8DBEE651BD952E6EBC"
+				"download" "91C7F165F35384883E4E4B522ED10017"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14803054"
+			"timeupdated" "1719045375"
+		}
+		"dev_test"
+		{
+			"buildid" "12928252"
+			"pwdrequired" "1"
+			"timeupdated" "1702291189"
+		}
+		"talos2_1.0"
+		{
+			"buildid" "12595090"
+			"description" "v1.0"
+			"timeupdated" "1699043707"
+		}
+		"talos2_1.0.3"
+		{
+			"buildid" "12643844"
+			"description" "v1.0.3"
+			"timeupdated" "1700300550"
+		}
+		"talos2_1.0.4"
+		{
+			"buildid" "13289327"
+			"description" "v1.0.4"
+			"timeupdated" "1706343839"
+		}
+		"umain_dev_upload"
+		{
+			"buildid" "12800662"
+			"pwdrequired" "1"
+			"timeupdated" "1700993188"
+		}
+		"umain_ship_upload"
+		{
+			"buildid" "12800392"
+			"pwdrequired" "1"
+			"timeupdated" "1700987151"
+		}
+		"ver_rollback"
+		{
+			"buildid" "14072147"
+			"pwdrequired" "1"
+			"timeupdated" "1713284170"
+		}
+		"beta2_qa"
+		{
+			"buildid" "14670118"
+			"pwdrequired" "1"
+			"timeupdated" "1718057851"
+		}
+		"dev_upload"
+		{
+			"buildid" "14824860"
+			"pwdrequired" "1"
+			"timeupdated" "1719273555"
+		}
+		"internal_test"
+		{
+			"buildid" "14463966"
+			"pwdrequired" "1"
+			"timeupdated" "1716485898"
+		}
+		"loc_qa"
+		{
+			"buildid" "14585269"
+			"pwdrequired" "1"
+			"timeupdated" "1717419768"
+		}
+		"release_ship_upload"
+		{
+			"buildid" "14824594"
+			"pwdrequired" "1"
+			"timeupdated" "1719271461"
+		}
+		"ship_upload"
+		{
+			"buildid" "14824729"
+			"pwdrequired" "1"
+			"timeupdated" "1719272487"
+		}
+		"talos2_1.1.0"
+		{
+			"buildid" "13281626"
+			"description" "v1.1.0"
+			"timeupdated" "1710163636"
+		}
+		"talos2_1.1.1"
+		{
+			"buildid" "13666529"
+			"description" "v1.1.1 - Pre DLC"
+			"timeupdated" "1718294157"
+		}
+		"talos2_2.0.0_elysium"
+		{
+			"buildid" "14735329"
+			"description" "v2.0.0. Road to Elysium"
+			"timeupdated" "1719045205"
+		}
+		"upload_test"
+		{
+			"buildid" "14288937"
+			"pwdrequired" "1"
+			"timeupdated" "1715079401"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "64000000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"1"
+		{
+			"root" "gameinstall"
+			"path" "Talos2/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+		"2"
+		{
+			"root" "WinAppDataLocal"
+			"path" "Talos2/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_playing" "Playing"
+				"#status_inthemenu" "In the menu"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#status_playing" "Spielt"
+				"#status_inthemenu" "Im Menü"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#status_playing" "En jeu"
+				"#status_inthemenu" "Dans le menuu"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#status_playing" "플레이 중"
+				"#status_inthemenu" "메뉴"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#status_playing" "Jugando"
+				"#status_inthemenu" "En el menú"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#status_playing" "游戏中"
+				"#status_inthemenu" "在菜单"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#status_playing" "游戏中"
+				"#status_inthemenu" "在菜单"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#status_playing" "Играет"
+				"#status_inthemenu" "В меню"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#status_playing" "遊ぶ"
+				"#status_inthemenu" "メニュー画面"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#status_playing" "Gra"
+				"#status_inthemenu" "W menu"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#status_playing" "Está jogando"
+				"#status_inthemenu" "No menu principal"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24101598"
+"_sha" "45505a39fff86e1bbb35a091b69e855b23766f07"
+"_size" "15614"
