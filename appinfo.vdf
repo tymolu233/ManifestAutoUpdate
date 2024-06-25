@@ -1,0 +1,257 @@
+"appid" "2319030"
+"common"
+{
+	"name" "Lotus Lantern: Rescue Mother"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"clienticon" "8f7952e4267607947d17ffc7af555ba6f6aacda7"
+	"clienttga" "baf05efb6898fe3aa79b246823eec71033741c66"
+	"icon" "92e1c6edc6412f80a95dadfbac18a155837216ca"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "宝莲灯：太子沉香"
+		"tchinese" "太子沉香"
+	}
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "32.78650719775523"
+			"height_pct" "60.03204885160008"
+		}
+	}
+	"store_asset_mtime" "1718329714"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Unstable Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Plaisir Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1712890918"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2319030"
+	"store_tags"
+	{
+		"0" "42804"
+		"1" "1716"
+		"2" "16094"
+		"3" "1646"
+		"4" "4231"
+		"5" "21"
+		"6" "4106"
+		"7" "4791"
+		"8" "3959"
+		"9" "1742"
+		"10" "122"
+		"11" "492"
+		"12" "3993"
+		"13" "19"
+		"14" "4182"
+		"15" "4975"
+		"16" "6915"
+		"17" "1697"
+		"18" "5984"
+		"19" "5125"
+	}
+	"review_score" "6"
+	"review_percentage" "79"
+}
+"extended"
+{
+	"developer" "Unstable Games"
+	"publisher" "Plaisir Games"
+}
+"config"
+{
+	"installdir" "ChenXiang"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "ChenXiang.exe"
+			"arguments" "-dx11"
+			"workingdir" "ChenXiang"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"english" "Chen Xiang (DirectX 11)"
+				"schinese" "太子沉香 (DirectX 11)"
+			}
+			"description" "Chen Xiang (DirectX 11)"
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2319031"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5742852475714267111"
+				"size" "2697622127"
+				"download" "2341745584"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dtest"
+			{
+				"gid" "8940BB9523344AB7975C034B94AD2DE6"
+				"size" "BCAB2AE98CC03B016D166BEEF9D5815E"
+				"download" "6F6430F3FEAD93808771CCAA995C7750"
+			}
+			"test"
+			{
+				"gid" "3B3A5F776FD4FCE8CE1E65FFEEFE370E"
+				"size" "FDCCB049BD89008F4D38BB754C53D8AB"
+				"download" "DCC2CFF2A3365E1E1B13866EAB0C4D16"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14707517"
+			"timeupdated" "1718328855"
+		}
+		"dtest"
+		{
+			"buildid" "14110654"
+			"pwdrequired" "1"
+			"timeupdated" "1713535857"
+		}
+		"test"
+		{
+			"buildid" "14707517"
+			"pwdrequired" "1"
+			"timeupdated" "1718292870"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "5000000000"
+	"maxnumfiles" "1000"
+	"sync_while_suspended" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "ChenXiang"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24084660"
+"_sha" "9c1603486e5b5c182551a0291408272fd60d8e14"
+"_size" "4299"
