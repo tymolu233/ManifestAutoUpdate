@@ -1,0 +1,530 @@
+"appid" "1981610"
+"common"
+{
+	"name" "Wanted: Dead"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "6232fe3bdef971aaa4853570e6f5d035e778333b"
+	"clienticon" "e39ce0b2642f3d9c9437d8344e2288d86a795d0e"
+	"clienttga" "2ec3c08f2d1cc5a2221e766011e014b43e997837"
+	"releasestate" "released"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"spanish" "1"
+		"japanese" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1981610_eula_0"
+			"name" "Wanted: Dead EULA"
+			"url" "https://store.steampowered.com//eula/1981610_eula_0"
+			"version" "1"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "1"
+		"1" "2"
+		"2" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1676505600"
+		"tested_build_id" "9935321"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50.61481169718655"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1680727739"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Soleil Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "110 Industries SA"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Wanted: Dead"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1676361860"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1981610"
+	"store_tags"
+	{
+		"0" "1646"
+		"1" "3814"
+		"2" "7208"
+		"3" "1774"
+		"4" "4231"
+		"5" "4106"
+		"6" "4115"
+		"7" "1697"
+		"8" "4598"
+		"9" "4608"
+		"10" "19"
+		"11" "5796"
+		"12" "7250"
+		"13" "1742"
+		"14" "5030"
+		"15" "21"
+		"16" "7926"
+		"17" "7743"
+		"18" "3993"
+		"19" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "63"
+}
+"extended"
+{
+	"developer" "Soleil Ltd."
+	"publisher" "110 Industries SA"
+	"homepage" "https://www.wanteddeadgame.com/"
+}
+"config"
+{
+	"installdir" "Wanted Dead"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "WDGame.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1981611"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9057651525516559023"
+				"size" "35684061803"
+				"download" "34987280080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"110_test"
+			{
+				"gid" "4A54B20947EAA68669300F506CEA14B9"
+				"size" "065F00CAB1DFAE55C3D656C9BFD75381"
+				"download" "FFAED4171B674AAC497822CBFD4F81C5"
+			}
+			"110_test_2"
+			{
+				"gid" "596177B475D5EC7CC4ACE417F89731CD"
+				"size" "F6A86B0B5B172193B580EBA2FED8C445"
+				"download" "D234ABA45692B3D310FE9B7D7452D6DE"
+			}
+			"apr_patch"
+			{
+				"gid" "319796E1646D0F55E9363C049D01B974"
+				"size" "3057A85BE6FFB099BAA0F7DBC3384D95"
+				"download" "282D4E48F692FECD3072AFF5E8416798"
+			}
+			"dec_patch"
+			{
+				"gid" "C9760D836F087FAA2CB4D1CB85D85209"
+				"size" "60F5E5A0F0B1104D515AB1C7C3DD3B73"
+				"download" "24C6EA7F81701851536F83DE62E3F858"
+			}
+			"dev_temp_test1"
+			{
+				"gid" "FA0D1B645B1CD0B2326761D63DDB9891"
+				"size" "15955D16382EFD10639064D42740684A"
+				"download" "4D6767CD82B2021C84E5AB2D9C6262E6"
+			}
+			"dev_temp_test2"
+			{
+				"gid" "F54543CE8F02815585CF8E07091482A4"
+				"size" "AA423009B21152B810A4B05A80F4CAA6"
+				"download" "B65F3FE99AE7D1E53203BBC1CA26265C"
+			}
+			"dev_temp_test3"
+			{
+				"gid" "AB47289B6EE1021BE55F89D7D094E02E"
+				"size" "E8F68E7A6F9008B8D208A3C40AC41CFD"
+				"download" "22282A6F661D4FEFB0E9A3DF210D393A"
+			}
+			"development_01"
+			{
+				"gid" "0E6DF488E74A0D606B109E43216CF2A8"
+				"size" "64ECB780F90B579DF30AB45A115BD5E6"
+				"download" "F00E870D6ECF287F42F15FFF78925739"
+			}
+			"f_patch"
+			{
+				"gid" "B8672D473BE2529B0433085DD95279D3"
+				"size" "523E56BE6725527344E229BC30B42271"
+				"download" "B59188B6B8BBC8C3470519758E5DFE18"
+			}
+			"qabuilds"
+			{
+				"gid" "A542888A8805839BD05533444B16520E"
+				"size" "56CACF550F3780929BEDE1B046FD1CF2"
+				"download" "933B676975351F839A1FF3D5D51F9F89"
+			}
+			"rcbuilds"
+			{
+				"gid" "827187C8D15EEA87F01F3CBFCFFEA774"
+				"size" "9A9AFE3C2A8E07862ACE7A933C15DC8D"
+				"download" "A0053BE225E0212367345351D4450DDA"
+			}
+			"test_01"
+			{
+				"gid" "7CCFEA392AB22910002385D0B5AB3152"
+				"size" "551B8210EF19142CEEC1623A7A9A8E70"
+				"download" "02D8F38048B1DC903287F44E5AFD2FE0"
+			}
+		}
+	}
+	"1981612"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4525232038616188360"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"110_test"
+			{
+				"gid" "BB65BA12DA633889F7A203C9449AB3B5"
+				"size" "D2FFA03C6FC68FF5D1EC78656A300D70"
+				"download" "D2FFA03C6FC68FF5D1EC78656A300D70"
+			}
+			"110_test_2"
+			{
+				"gid" "D1D920B9E3CB033DCA56AB889D3D71F7"
+				"size" "282CE60E53BDC2F2B22F0668F8B00ACF"
+				"download" "282CE60E53BDC2F2B22F0668F8B00ACF"
+			}
+			"apr_patch"
+			{
+				"gid" "FD003FA7D1FA77EAACB3F9660A3025CD"
+				"size" "2D8545E86826E5D9E08EE1958BB46D96"
+				"download" "2D8545E86826E5D9E08EE1958BB46D96"
+			}
+			"dec_patch"
+			{
+				"gid" "BBE9812C6966AA8E63E0F811FCFB575D"
+				"size" "7253F418E14E01600249B4C0CE0E22E4"
+				"download" "7253F418E14E01600249B4C0CE0E22E4"
+			}
+			"dev_temp_test1"
+			{
+				"gid" "B1D0EC2B3108D99FE429793257469C6A"
+				"size" "2A08885FD3DD8200F0834129A94F326D"
+				"download" "2A08885FD3DD8200F0834129A94F326D"
+			}
+			"dev_temp_test2"
+			{
+				"gid" "3B463CB1C3CC26740D58B9C5F4A58DB4"
+				"size" "1AEAC4CCA2933A4F59ACF28C47CDB613"
+				"download" "1AEAC4CCA2933A4F59ACF28C47CDB613"
+			}
+			"dev_temp_test3"
+			{
+				"gid" "C7157D6DA3136D7BA9751677AE5DD3F7"
+				"size" "CCC2BAB0EB6AA5BE1D9D92771758A259"
+				"download" "CCC2BAB0EB6AA5BE1D9D92771758A259"
+			}
+			"development_01"
+			{
+				"gid" "097DA9A6F27733D9B6F0C7CFBEDE8DF2"
+				"size" "2B494E5D8F46294A2863A8B91A395312"
+				"download" "2B494E5D8F46294A2863A8B91A395312"
+			}
+			"f_patch"
+			{
+				"gid" "6E21302631BF311F3C3014F4657BB523"
+				"size" "1C8213FE54D76CC52384DFB2C9014BC5"
+				"download" "1C8213FE54D76CC52384DFB2C9014BC5"
+			}
+			"qabuilds"
+			{
+				"gid" "62B3B4FDB016FDFA7D5A3E152C904C4A"
+				"size" "B9C1FFA01837CDA6A9ECA72102D8EDB1"
+				"download" "B9C1FFA01837CDA6A9ECA72102D8EDB1"
+			}
+			"rcbuilds"
+			{
+				"gid" "C058ADC75AC0C6B57A5FFABD6CB7BC9B"
+				"size" "7D5ABB117406F80FE7022D77EAAB4302"
+				"download" "7D5ABB117406F80FE7022D77EAAB4302"
+			}
+			"test_01"
+			{
+				"gid" "60CAA263D1B136AB97A509CB176D7BCE"
+				"size" "F11E6D2734B0E2A08DBF27F7A034916C"
+				"download" "F11E6D2734B0E2A08DBF27F7A034916C"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13893466"
+			"timeupdated" "1712684953"
+		}
+		"110_test"
+		{
+			"buildid" "13890196"
+			"pwdrequired" "1"
+			"timeupdated" "1712057300"
+		}
+		"110_test_2"
+		{
+			"buildid" "13399261"
+			"pwdrequired" "1"
+			"timeupdated" "1708097186"
+		}
+		"apr_patch"
+		{
+			"buildid" "13893466"
+			"pwdrequired" "1"
+			"timeupdated" "1711723507"
+		}
+		"dec_patch"
+		{
+			"buildid" "12976931"
+			"pwdrequired" "1"
+			"timeupdated" "1702919773"
+		}
+		"dev_temp_test1"
+		{
+			"buildid" "13700941"
+			"pwdrequired" "1"
+			"timeupdated" "1710153599"
+		}
+		"dev_temp_test2"
+		{
+			"buildid" "13608144"
+			"pwdrequired" "1"
+			"timeupdated" "1709561966"
+		}
+		"dev_temp_test3"
+		{
+			"buildid" "13813770"
+			"pwdrequired" "1"
+			"timeupdated" "1711045129"
+		}
+		"development_01"
+		{
+			"buildid" "13921485"
+			"pwdrequired" "1"
+			"timeupdated" "1712052860"
+		}
+		"f_patch"
+		{
+			"buildid" "13352781"
+			"pwdrequired" "1"
+			"timeupdated" "1707155100"
+		}
+		"qabuilds"
+		{
+			"buildid" "13889840"
+			"pwdrequired" "1"
+			"timeupdated" "1711692518"
+		}
+		"rcbuilds"
+		{
+			"buildid" "13899485"
+			"pwdrequired" "1"
+			"timeupdated" "1711757742"
+		}
+		"test_01"
+		{
+			"buildid" "13890196"
+			"pwdrequired" "1"
+			"timeupdated" "1711682424"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "500000"
+	"maxnumfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "WDGame/Saved/SaveGames/main"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23144389"
+"_sha" "17d2ca4acb957eb7eba0e8cbf34b4ebf133553fd"
+"_size" "10687"
