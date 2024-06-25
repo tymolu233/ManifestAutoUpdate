@@ -1,0 +1,516 @@
+"appid" "881020"
+"common"
+{
+	"name" "Granblue Fantasy: Relink"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"japanese" "GRANBLUE FANTASY: Relink"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienticon" "7309ffa3401ca910c1bad4543d5468e226c4355c"
+	"clienttga" "a53a5d164d7d2a9d46ab68708bfe693eeaadf425"
+	"icon" "1b9bcf2c07e1c760349fd4ecbc3b8690ef915e11"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "881020_eula_0"
+			"name" "Granblue Fantasy: Relink EULA"
+			"url" "https://store.steampowered.com//eula/881020_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1712793600"
+		"tested_build_id" "13445086"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "86.64440734557596"
+			"height_pct" "72.91666666666667"
+		}
+	}
+	"store_asset_mtime" "1707988225"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Cygames, Inc."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Cygames, Inc."
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_18" "1"
+		"category_59" "1"
+		"category_60" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1706763574"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "881020"
+	"store_tags"
+	{
+		"0" "4085"
+		"1" "19"
+		"2" "4434"
+		"3" "4231"
+		"4" "3843"
+		"5" "3859"
+		"6" "1684"
+		"7" "122"
+		"8" "7208"
+		"9" "1697"
+		"10" "4182"
+		"11" "4777"
+		"12" "4191"
+		"13" "7481"
+		"14" "1646"
+		"15" "4046"
+		"16" "4057"
+		"17" "4608"
+		"18" "6730"
+		"19" "12057"
+	}
+	"review_score" "8"
+	"review_percentage" "89"
+}
+"extended"
+{
+	"developer" "Cygames, Inc."
+	"publisher" "Cygames, Inc."
+	"homepage" "https://relink.granbluefantasy.jp/"
+	"listofdlc" "2183570,2694640,2694650,2694660,2694670,2710000,2782160,2782170,2782180,2782190,2782200,2799840,2799850,2853950,2853960,2853970,2853980,2853990,2854000,2854010,2854020,2944840,2944850,2944860,2944870,2944880,2944890,2944900"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Granblue Fantasy Relink"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "granblue_fantasy_relink.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "granblue_fantasy_relink.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3101502540"
+		{
+			"controller_type" "controller_ps4"
+			"enabled_branches" "default,kgl-v1_0_1-master_qa,masterbr-v1_0_1-master,masterbr-v1_0_1-master_qa,masterbr-v1_1-master,masterbr-v1_1-master_qa,masterbr-v1_2-master,masterbr-v1_2-master_qa,masterbr-v1_3-master,masterbr-v1_3-master_qa"
+			"use_action_block" "false"
+		}
+		"3101501766"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,kgl-v1_0_1-master_qa,masterbr-v1_0_1-master,masterbr-v1_0_1-master_qa,masterbr-v1_1-master,masterbr-v1_1-master_qa,masterbr-v1_2-master,masterbr-v1_2-master_qa,masterbr-v1_3-master,masterbr-v1_3-master_qa"
+			"use_action_block" "false"
+		}
+		"3101502141"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,kgl-v1_0_1-master_qa,masterbr-v1_0_1-master,masterbr-v1_0_1-master_qa,masterbr-v1_1-master,masterbr-v1_1-master_qa,masterbr-v1_2-master,masterbr-v1_2-master_qa,masterbr-v1_3-master,masterbr-v1_3-master_qa"
+			"use_action_block" "false"
+		}
+		"3106676322"
+		{
+			"controller_type" "controller_steamcontroller_gordon"
+			"enabled_branches" "default,kgl-v1_0_1-master_qa,masterbr-v1_0_1-master,masterbr-v1_0_1-master_qa,masterbr-v1_1-master,masterbr-v1_1-master_qa,masterbr-v1_2-master,masterbr-v1_2-master_qa,masterbr-v1_3-master,masterbr-v1_3-master_qa"
+			"use_action_block" "false"
+		}
+	}
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,japanese,brazilian"
+	"881021"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1682525962769112429"
+				"size" "97501418767"
+				"download" "65154076704"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"ag-v1_0_1-master"
+			{
+				"gid" "34B68CDD41110C2AC9B339853BE5216D"
+				"size" "393FF78DE29DFA02672EB158608BFDF5"
+				"download" "6AB5151B165488DA902F9F8F93310F80"
+			}
+			"for_media_v1_0_1_master"
+			{
+				"gid" "704EE6AE346D0B4601078434D3AAD2FC"
+				"size" "20965C9977DA5819D92AC8E7F8E22839"
+				"download" "309BAFB5CBFBC7EEDFCFFBC3CC88C82C"
+			}
+			"kgl-v1_0_1-master_qa"
+			{
+				"gid" "033B346C18E313E2C18BD81051746D11"
+				"size" "71D3EB51E605D81D74BF364677FF3602"
+				"download" "22519049DD890F12CE25A61C1F78BCC3"
+			}
+			"masterbr-v1_0_1-master"
+			{
+				"gid" "DC10CBF58398471F3F2D087CB505CDBC"
+				"size" "A79DF9BCF747C53FA6C26520861C46BA"
+				"download" "E32B1278D99713930D379F17031ECFA0"
+			}
+			"masterbr-v1_0_1-master_qa"
+			{
+				"gid" "E43E110BC274FC1E28CC695D1F81DE91"
+				"size" "81F47FFCFC36AAABD331AEF965DD9B99"
+				"download" "CA083D3842DD9AD02980D51902C8E6A1"
+			}
+			"masterbr-v1_1-master"
+			{
+				"gid" "A19CDBDB5D8D216C635041BF0454E0D7"
+				"size" "06D52EE39057CC0A51506513ADCDA517"
+				"download" "C4AE2306F6CAAC895382BB079C1406F6"
+			}
+			"masterbr-v1_1-master_qa"
+			{
+				"gid" "0F6A73CEC3C92EAEADF2152A44E52DC1"
+				"size" "3525F5E585B47D03C446BC27D5B70975"
+				"download" "0A004A4ABA35D4F82204A13E3BD02CA7"
+			}
+			"masterbr-v1_2-master"
+			{
+				"gid" "F49D52E9E2EF71F51203FF2C9219BD1F"
+				"size" "F47A12D528E1DE9F0E72F6986C6BAD49"
+				"download" "88697DD1C5ED3E0411D142DEFBAFDCAA"
+			}
+			"masterbr-v1_2-master_qa"
+			{
+				"gid" "530A2B9F7314410E37C562733753E12C"
+				"size" "01025D8A487F09A475A7A34DEDB4A380"
+				"download" "C03BCFD43A66BCBA1048DC3ED9F0EB62"
+			}
+			"testbranch"
+			{
+				"gid" "9C980CE47D9EEB53D49438AC6D0FE890"
+				"size" "7E83912C43335F388E1ED1B0C33E4C7F"
+				"download" "051A19281AA1FBAE161E7B9E6FFD983D"
+			}
+			"jenkinsjob"
+			{
+				"gid" "ACB825C5195A2E8EAD86294CBA52A112"
+				"size" "88E6C7F98C11D8E656AE1263BCB6F481"
+				"download" "C897A0167EB089287C98E834CA6CD242"
+			}
+			"kanaria"
+			{
+				"gid" "60E4DF915F090CB5FF0FA88265CD9C8A"
+				"size" "A9B37FA5461AAC34E6297CDE21821B9C"
+				"download" "9160C76026FD0DCB93B6004A8BEEACCD"
+			}
+			"masterbr-v1_3-master"
+			{
+				"gid" "C40EE8FA8CC658CDD56A9C934E1CA81A"
+				"size" "D54CAAA210B6A2D03F4A43D030C50DD6"
+				"download" "259517A412B3B74ADCFCD69EFA526E6C"
+			}
+			"masterbr-v1_3-master_qa"
+			{
+				"gid" "E5674E756BF81F4CD395DA9ECD186563"
+				"size" "E8CC5457FBDF299D82279E0FF645BB62"
+				"download" "239B2A541880685A48ED1686AA5B1AD6"
+			}
+			"okameinko"
+			{
+				"gid" "051F6C283EBA9B9D7546894ECDF5BD2E"
+				"size" "7B1AA3F6AF138B7DB0BA5E4284747D97"
+				"download" "3CB50485179CA4DCA386421797226B5B"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14468096"
+			"timeupdated" "1717131627"
+		}
+		"ag-v1_0_1-master"
+		{
+			"buildid" "13044807"
+			"pwdrequired" "1"
+			"timeupdated" "1703555781"
+		}
+		"for_media_v1_0_1_master"
+		{
+			"buildid" "13170838"
+			"pwdrequired" "1"
+			"timeupdated" "1705287195"
+		}
+		"kgl-v1_0_1-master_qa"
+		{
+			"buildid" "12934802"
+			"pwdrequired" "1"
+			"timeupdated" "1702363350"
+		}
+		"masterbr-v1_0_1-master"
+		{
+			"buildid" "13445086"
+			"pwdrequired" "1"
+			"timeupdated" "1707840534"
+		}
+		"masterbr-v1_0_1-master_qa"
+		{
+			"buildid" "13445121"
+			"pwdrequired" "1"
+			"timeupdated" "1707840787"
+		}
+		"masterbr-v1_1-master"
+		{
+			"buildid" "13912201"
+			"pwdrequired" "1"
+			"timeupdated" "1711969737"
+		}
+		"masterbr-v1_1-master_qa"
+		{
+			"buildid" "13912261"
+			"pwdrequired" "1"
+			"timeupdated" "1711970403"
+		}
+		"masterbr-v1_2-master"
+		{
+			"buildid" "14145265"
+			"pwdrequired" "1"
+			"timeupdated" "1713873798"
+		}
+		"masterbr-v1_2-master_qa"
+		{
+			"buildid" "14145262"
+			"pwdrequired" "1"
+			"timeupdated" "1713873765"
+		}
+		"testbranch"
+		{
+			"buildid" "13680146"
+			"pwdrequired" "1"
+			"timeupdated" "1710486042"
+		}
+		"jenkinsjob"
+		{
+			"buildid" "14400042"
+			"pwdrequired" "1"
+			"timeupdated" "1715932963"
+		}
+		"kanaria"
+		{
+			"buildid" "14581250"
+			"pwdrequired" "1"
+			"timeupdated" "1717462030"
+		}
+		"masterbr-v1_3-master"
+		{
+			"buildid" "14751212"
+			"pwdrequired" "1"
+			"timeupdated" "1718692955"
+		}
+		"masterbr-v1_3-master_qa"
+		{
+			"buildid" "14751225"
+			"pwdrequired" "1"
+			"timeupdated" "1718693082"
+		}
+		"okameinko"
+		{
+			"buildid" "14581218"
+			"pwdrequired" "1"
+			"timeupdated" "1717462047"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "GBFR/Saved/SaveGames"
+			"pattern" "*.dat"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24012483"
+"_sha" "976aaae7d97634ba49d5a4b90660e400c34a3db9"
+"_size" "11604"
