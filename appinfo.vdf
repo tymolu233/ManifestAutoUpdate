@@ -1,0 +1,341 @@
+"appid" "2277320"
+"common"
+{
+	"name" "Necrosmith 2"
+	"type" "Game"
+	"icon" "6436cb5f8920c3d09eda4e891484588102a5541f"
+	"clienticon" "7a9484fd251f3c589b5ac53b43b6b259e385592c"
+	"clienttga" "b1c129822d82163192a5279181950e580f627003"
+	"oslist" "windows,macos"
+	"osarch" "64"
+	"osextended" "macos64"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "亡灵巫师2"
+		"tchinese" "亡靈巫師2"
+	}
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"clienticns" "71a70b7c4861beab23e989f179d5dc6581878fa2"
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "69.13652275379229"
+			"height_pct" "90.12111137497033"
+		}
+	}
+	"store_asset_mtime" "1711556903"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Alawar"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Alawar"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Alawar"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_18" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1711557489"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2277320"
+	"store_tags"
+	{
+		"0" "1645"
+		"1" "9"
+		"2" "3959"
+		"3" "4885"
+		"4" "4161"
+		"5" "12472"
+		"6" "599"
+		"7" "19"
+		"8" "4791"
+		"9" "3834"
+		"10" "4604"
+		"11" "3964"
+		"12" "1659"
+		"13" "3993"
+		"14" "1708"
+		"15" "4018"
+		"16" "3871"
+		"17" "3916"
+		"18" "4057"
+		"19" "1716"
+	}
+	"review_score" "6"
+	"review_percentage" "78"
+}
+"extended"
+{
+	"developer" "Alawar"
+	"publisher" "Alawar"
+	"homepage" "https://necrosmith.com/"
+}
+"config"
+{
+	"installdir" "Necrosmith 2"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Necrosmith2.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Necrosmith2.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2277321"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "9128035212924437516"
+				"size" "1164538372"
+				"download" "92397856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "C819FD5C2E4DB7A2FDB6199C66BF0A46"
+				"size" "9A20048B935273F45791325FA0215E28"
+				"download" "579E1DF812BB68EDB5BD30D51B54D636"
+			}
+			"developmentsteamdeck"
+			{
+				"gid" "CAB762BB557470F51705297FE3EEF864"
+				"size" "BE49AED69B940139C986D58C8140339E"
+				"download" "1E0679A4581850B51CA9DBD3C55C295B"
+			}
+			"releasecandidate"
+			{
+				"gid" "E4CB697387B111A471D7D37513992D50"
+				"size" "DB09EEC28F82EDAB1456BD6CCE9F92D4"
+				"download" "576DE754986B998E0FD60466375C4D8A"
+			}
+		}
+	}
+	"2277322"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8489067752399159789"
+				"size" "1126455116"
+				"download" "86160992"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "9FDB2389A6D39A14719C0E38F7B4524C"
+				"size" "473C3D2957F5209AE086AA0D27FF8AE3"
+				"download" "5675F113B33A1E9113EF2FAE023BD689"
+			}
+			"developmentsteamdeck"
+			{
+				"gid" "17C748268B0A2D4F80F6B020FD2940D7"
+				"size" "FC93CD8E83E8F1F1953BD8D74899A3E1"
+				"download" "479F380340F61A8FEE8A7D2A3B0251AB"
+			}
+			"releasecandidate"
+			{
+				"gid" "ED7C3F150BF8F8C697A41E547A232D63"
+				"size" "23DE4F8F07296336953CD3D79E0E704E"
+				"download" "E01B1B840D574FF37D155CB464CFBEC1"
+			}
+		}
+	}
+	"baselanguages" "english"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14067874"
+			"timeupdated" "1713267351"
+		}
+		"development"
+		{
+			"buildid" "14067797"
+			"pwdrequired" "1"
+			"timeupdated" "1713258789"
+		}
+		"developmentsteamdeck"
+		{
+			"buildid" "13843200"
+			"pwdrequired" "1"
+			"timeupdated" "1711368133"
+		}
+		"releasecandidate"
+		{
+			"buildid" "14067874"
+			"pwdrequired" "1"
+			"timeupdated" "1713259304"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "300"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinMyDocuments"
+			"path" "Alawar\\Necrosmith2\\Saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "MacHome"
+			"path" "Alawar/Necrosmith2/Saves"
+			"pattern" "*"
+			"platforms"
+			{
+				"1" "MacOS"
+			}
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23691515"
+"_sha" "eaf70518da8e5e2e6ee88b2cbf6307374c2476ab"
+"_size" "5751"
