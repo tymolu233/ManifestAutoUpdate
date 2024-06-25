@@ -1,0 +1,615 @@
+"appid" "799600"
+"common"
+{
+	"name" "Cosmoteer: Starship Architect & Commander"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"logo" "14d82e8db5471a1150e3a000b440447db6313f83"
+	"logo_small" "14d82e8db5471a1150e3a000b440447db6313f83_thumb"
+	"icon" "f9c8ab9fa6f33c5639c3f4618f3c4301e24e1c28"
+	"clienttga" "3aa688bae6297c413b1ea4de864896f517019711"
+	"clienticon" "cc49829f5f538ed9b2168791171458826283e3fb"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "799600_eula_0"
+			"name" "Cosmoteer EULA"
+			"url" "https://store.steampowered.com//eula/799600_eula_0"
+		}
+	}
+	"name_localized"
+	{
+		"french" "Cosmoteer : architecte et commandant de vaisseaux spatiaux"
+		"german" "Cosmoteer: Raumschiffarchitekt & Kommandant"
+		"portuguese" "Cosmoteer: Arquiteto e comandante de espaçonave"
+		"brazilian" "Cosmoteer: Arquiteto e comandante de espaçonave"
+		"russian" "Cosmoteer: Конструктор и командир звездолёта"
+		"schinese" "Cosmoteer: 星舰设计师"
+		"spanish" "Cosmoteer: Arquitecto y comandante de una nave espacial"
+		"latam" "Cosmoteer: Arquitecto y comandante de una nave espacial"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1710806400"
+		"tested_build_id" "13459764"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Cosmoteer: Starship Architect &amp;amp; Commander"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"german" "header_german.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,de,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "100"
+			"height_pct" "30.208333333333385"
+		}
+	}
+	"store_asset_mtime" "1701181813"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Walternate Realities"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Walternate Realities"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_49" "1"
+		"category_47" "1"
+		"category_48" "1"
+		"category_30" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1666627140"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "799600"
+	"store_tags"
+	{
+		"0" "3942"
+		"1" "4182"
+		"2" "492"
+		"3" "3871"
+		"4" "1755"
+		"5" "9"
+		"6" "1643"
+		"7" "4026"
+		"8" "3834"
+		"9" "16598"
+		"10" "1662"
+		"11" "3859"
+		"12" "3843"
+		"13" "4166"
+		"14" "599"
+		"15" "21"
+		"16" "3964"
+		"17" "7107"
+		"18" "493"
+		"19" "4291"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"developer" "Walternate Realities"
+	"publisher" "Walternate Realities"
+	"homepage" "https://cosmoteer.net/"
+}
+"config"
+{
+	"installdir" "Cosmoteer"
+	"steamcontrollertemplateindex" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Bin/Cosmoteer.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Bin/Cosmoteer.exe"
+			"arguments" "--no-mods"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Temporarily Disable Mods"
+			}
+			"description" "Temporarily Disable Mods"
+		}
+		"2"
+		{
+			"executable" "Bin/Cosmoteer.exe"
+			"arguments" "--devmode"
+			"config"
+			{
+				"oslist" "windows"
+			}
+			"description_loc"
+			{
+				"english" "Developer Mode"
+			}
+			"description" "Developer Mode"
+		}
+	}
+	"steamcontrollerconfigdetails"
+	{
+		"3169034245"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"hasdepotsindlc" "0"
+	"799601"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1252035611068335302"
+				"size" "1229968504"
+				"download" "1192614064"
+			}
+			"0.21.0"
+			{
+				"gid" "8798703307783890563"
+				"size" "1127741157"
+				"download" "1092488400"
+			}
+			"0.22.1"
+			{
+				"gid" "8790411938090441113"
+				"size" "1158721462"
+				"download" "1123553328"
+			}
+			"0.24.1"
+			{
+				"gid" "2365973965663930335"
+				"size" "1197804452"
+				"download" "1160937024"
+			}
+			"0.24.3"
+			{
+				"gid" "1711267534111295913"
+				"size" "1207498777"
+				"download" "1170687056"
+			}
+			"previous-build"
+			{
+				"gid" "5556880053449339889"
+				"size" "1229968504"
+				"download" "1192614064"
+			}
+			"unstable"
+			{
+				"gid" "8262244980857130180"
+				"size" "1235431858"
+				"download" "1198075856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "1CC76D4204394151E97B445B953F5DE7"
+				"size" "CE21C8833DD8EB2A2F3BA5C63D18D5B2"
+				"download" "87CD0D528E01BCD387E92E78BC3ED60B"
+			}
+			"dev-preview"
+			{
+				"gid" "D172CE5D9C3AD34CA4CC68C30AEB8A2B"
+				"size" "74EC14969E0D8ECEE1C21A304325E077"
+				"download" "969EA588318E9BA796A9391DEC4E9CAC"
+			}
+			"developer"
+			{
+				"gid" "F021D01130C73557A63E94DD5BD38B70"
+				"size" "DB27AC0E37989A6B8AF8E4E9162A3C0D"
+				"download" "8BC821E0EA0F87F089A3C53D7B8AE256"
+			}
+			"preview"
+			{
+				"gid" "684A2CFED94089266838CFC19ABF9ACE"
+				"size" "109104DD0DD7EE4AF27BA4ADE99814FD"
+				"download" "13C731869651887A767BDFFC0CE02FAA"
+			}
+		}
+	}
+	"799602"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4131831165881018597"
+				"size" "261437007"
+				"download" "77689152"
+			}
+			"0.21.0"
+			{
+				"gid" "3644198040669067447"
+				"size" "235146440"
+				"download" "73225712"
+			}
+			"0.22.1"
+			{
+				"gid" "8752563791271250750"
+				"size" "235049831"
+				"download" "72927824"
+			}
+			"0.24.1"
+			{
+				"gid" "6497785271402012994"
+				"size" "236305528"
+				"download" "73261424"
+			}
+			"0.24.3"
+			{
+				"gid" "7434872766982359031"
+				"size" "236375791"
+				"download" "73282592"
+			}
+			"previous-build"
+			{
+				"gid" "7696886636828925070"
+				"size" "261437007"
+				"download" "77686832"
+			}
+			"unstable"
+			{
+				"gid" "4832099764183883967"
+				"size" "234166192"
+				"download" "73483312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "B4607024B75239D2BB55A5D16B5D6E60"
+				"size" "EB1ABA9C7F0330185A2FFAEDA3DEF287"
+				"download" "2F35EE0E2FBB4BCAEBD7B875E1388768"
+			}
+			"dev-preview"
+			{
+				"gid" "624BA97DB44C7FF366CB6D1F58A109C6"
+				"size" "D59F04E04735FA8BDB04263E2221F75C"
+				"download" "7404DA49FF81DF4B506B667B7EA7639B"
+			}
+			"developer"
+			{
+				"gid" "AF27AD6FF160AD21C12E2CAF61BB7EEB"
+				"size" "416CEDF464818C60AAD5AF9CD770C4BF"
+				"download" "1A6C77E891F836FF4E5D3A827555A6B2"
+			}
+			"preview"
+			{
+				"gid" "F4E02F2057AD78BA15E010C7E9B920BA"
+				"size" "1003F41502E730B459D9FB3B3987483A"
+				"download" "BB77A62444B4448895993A578426A72E"
+			}
+		}
+	}
+	"799603"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4627408845394697137"
+				"size" "280091405"
+				"download" "86085904"
+			}
+			"0.21.0"
+			{
+				"gid" "287415624646651659"
+				"size" "252515369"
+				"download" "81281504"
+			}
+			"0.22.1"
+			{
+				"gid" "2233746911404898911"
+				"size" "252416333"
+				"download" "80328912"
+			}
+			"0.24.1"
+			{
+				"gid" "4975956921817721903"
+				"size" "253756046"
+				"download" "80714960"
+			}
+			"0.24.3"
+			{
+				"gid" "5227897352254476389"
+				"size" "253834501"
+				"download" "80738096"
+			}
+			"previous-build"
+			{
+				"gid" "5481480266248797524"
+				"size" "280091405"
+				"download" "86096288"
+			}
+			"unstable"
+			{
+				"gid" "1843075200556753515"
+				"size" "251255686"
+				"download" "80709968"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "316F4F02468D2B3035679D709EADE7D8"
+				"size" "153B5EF4A659F8B328056DB2CE38315C"
+				"download" "D486FCF1191455E30FF47F09104439AC"
+			}
+			"dev-preview"
+			{
+				"gid" "CE1BDEA3F32D5D78FAA73B2DBDB8F843"
+				"size" "894A9EE57A6E7136AE4E61A8681E134A"
+				"download" "F05D32C430EFF7C32CE53F71C326D6D1"
+			}
+			"developer"
+			{
+				"gid" "240711718C53E0022916C84390A9F153"
+				"size" "0A031449B62D658B7DB787130B666D09"
+				"download" "DC1FF847476646555A6331AFFBD1B7B1"
+			}
+			"preview"
+			{
+				"gid" "8FCE42E364D550B5281A4BDFB10669AC"
+				"size" "71C83664F88561C6CC2765CD2C9C14EA"
+				"download" "0C20C005C0CCDFE02F51FD2ECCBEBAC8"
+			}
+		}
+	}
+	"workshopdepot" "799600"
+	"baselanguages" "english,german,french,schinese,russian,brazilian,latam"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14723824"
+			"timeupdated" "1718399799"
+		}
+		"0.21.0"
+		{
+			"buildid" "10532372"
+			"description" "Update 0.21.1 broke some mods, so use this version to keep playing them."
+			"timeupdated" "1677970941"
+		}
+		"0.22.1"
+		{
+			"buildid" "11436350"
+			"description" "Update 0.23.0 broke some mods, so use this version to keep playing them."
+			"timeupdated" "1687553991"
+		}
+		"0.24.1"
+		{
+			"buildid" "12586273"
+			"description" "Update 0.24.2 broke some mods, so use this version to keep playing them."
+			"timeupdated" "1699908577"
+		}
+		"0.24.3"
+		{
+			"buildid" "12955354"
+			"description" "Update 0.25.0 broke some mods, so use this version to keep playing them."
+			"timeupdated" "1703374977"
+		}
+		"test"
+		{
+			"buildid" "13579986"
+			"pwdrequired" "1"
+			"timeupdated" "1709063757"
+		}
+		"dev-preview"
+		{
+			"buildid" "14785514"
+			"pwdrequired" "1"
+			"timeupdated" "1718910796"
+		}
+		"developer"
+		{
+			"buildid" "14825228"
+			"pwdrequired" "1"
+			"timeupdated" "1719276602"
+		}
+		"preview"
+		{
+			"buildid" "14788003"
+			"pwdrequired" "1"
+			"timeupdated" "1718928258"
+		}
+		"previous-build"
+		{
+			"buildid" "14669758"
+			"description" "The previous game build, in case the latest build has any issues."
+			"timeupdated" "1718399761"
+		}
+		"unstable"
+		{
+			"buildid" "14825228"
+			"description" "Bleeding-edge updates; possibly very buggy!"
+			"timeupdated" "1719276773"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "Cosmoteer\\{64BitSteamID}\\Saved Ships"
+			"pattern" "*.ship.png"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "Cosmoteer\\{64BitSteamID}\\Saved Games"
+			"pattern" "*.savedgame"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24102057"
+"_sha" "7ceecbe6025c1838371597aecf892b4ce4e19dbc"
+"_size" "12491"
