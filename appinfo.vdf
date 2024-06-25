@@ -1,0 +1,495 @@
+"appid" "1769170"
+"common"
+{
+	"name" "Shattered Pixel Dungeon"
+	"type" "Game"
+	"releasestate" "released"
+	"clienttga" "973eb6a5735237dc66f86db87a1c8ec900070f1b"
+	"clienticon" "40986c5d79c5bf9890112c7f1239dc1602eea89c"
+	"icon" "0f11ea9de0dcc0f96a9480388601cbbcfdf6d18a"
+	"logo" "401300801c594ef2003aa6f8bb4924fe15255b80"
+	"logo_small" "401300801c594ef2003aa6f8bb4924fe15255b80_thumb"
+	"oslist" "windows,macos,linux"
+	"osarch" "64"
+	"osextended" "macos64,macosnotarized"
+	"clienticns" "6d6f0042a6281de95c20a5fa3dab7495b8471ca6"
+	"linuxclienticon" "c64a29e6717ef32ece5187712b399c79ecbe0992"
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1666742400"
+		"tested_build_id" "9692423"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "40.646651270207855"
+			"height_pct" "74.92401332106135"
+		}
+	}
+	"store_asset_mtime" "1705528407"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Shattered Pixel"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Shattered Pixel"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1648051044"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1769170"
+	"store_tags"
+	{
+		"0" "454187"
+		"1" "1720"
+		"2" "1716"
+		"3" "122"
+		"4" "1677"
+		"5" "198631"
+		"6" "1759"
+		"7" "492"
+		"8" "3871"
+		"9" "4026"
+		"10" "5125"
+		"11" "4711"
+		"12" "3964"
+		"13" "1684"
+		"14" "4325"
+		"15" "21"
+		"16" "4791"
+		"17" "4236"
+		"18" "4182"
+		"19" "1702"
+	}
+	"review_score" "9"
+	"review_percentage" "95"
+}
+"extended"
+{
+	"deckresolutionoverride" "Native"
+	"developer" "Shattered Pixel"
+	"publisher" "Shattered Pixel"
+	"homepage" "https://shatteredpixel.com/shatteredpd/"
+}
+"config"
+{
+	"installdir" "Shattered Pixel Dungeon"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Shattered Pixel Dungeon.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Shattered Pixel Dungeon.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "bin\\Shattered Pixel Dungeon"
+			"type" "default"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamdecktouchscreen" "1"
+}
+"depots"
+{
+	"1769171"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3014732132001488105"
+				"size" "120083842"
+				"download" "102314208"
+			}
+			"beta"
+			{
+				"gid" "3014732132001488105"
+				"size" "120083842"
+				"download" "102314208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "99AB659CEBDCAB183A3C73FAFD73562D"
+				"size" "D974B7A4578EF85D5AB1A4C634E8FB75"
+				"download" "20517D1DA7F6EBAA2499A75D409C241E"
+			}
+			"internal"
+			{
+				"gid" "57DEAF799279C127CD7AE7C996C0453D"
+				"size" "0F9D06F6852A8D80B558BED8E2CAD4BE"
+				"download" "7453F110E7ABD817007F3C7CD7315A79"
+			}
+		}
+	}
+	"1769172"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "439831846665547863"
+				"size" "125343752"
+				"download" "101391424"
+			}
+			"beta"
+			{
+				"gid" "439831846665547863"
+				"size" "125343752"
+				"download" "101391424"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "CF1546F547C4F6DD7564D2FCBD250AB0"
+				"size" "4364FEA82C901493F1F7EFA77578AC08"
+				"download" "99B847546C19A9D86BFF9B422E06E76B"
+			}
+			"internal"
+			{
+				"gid" "FFC4BA0D83010EE80941C009B0785748"
+				"size" "7E0C844E6742F714880EC4F7CFC3861F"
+				"download" "70D8E9B448EBD3B44B54D96CB496DD69"
+			}
+		}
+	}
+	"1769173"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7891780129520400324"
+				"size" "132135126"
+				"download" "105100976"
+			}
+			"beta"
+			{
+				"gid" "7891780129520400324"
+				"size" "132135126"
+				"download" "105100976"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"alpha"
+			{
+				"gid" "5D7BC4ECBF6B0CACA699EBE12780C32E"
+				"size" "FDE4B3B1FC265BAEF17B261AA2CF21EC"
+				"download" "818222890EB6F64B34583DE43D8D6B4E"
+			}
+			"internal"
+			{
+				"gid" "2063A92096F198A832AD8AEB02B72829"
+				"size" "6AF836A7EFC46578ECDD7F297A7016A4"
+				"download" "DEBD97C7BD2E875B968885865F3BBFA0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14602240"
+			"timeupdated" "1717604506"
+		}
+		"alpha"
+		{
+			"buildid" "14602240"
+			"pwdrequired" "1"
+			"timeupdated" "1717525123"
+		}
+		"beta"
+		{
+			"buildid" "14602240"
+			"description" "Get access to updates early, but in a rougher state."
+			"timeupdated" "1717525136"
+		}
+		"internal"
+		{
+			"buildid" "14602240"
+			"pwdrequired" "1"
+			"timeupdated" "1717525070"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10485760"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" ".shatteredpixel/Shattered Pixel Dungeon"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ".shatteredpixel/Shattered Pixel Dungeon"
+					"replace" "Shattered Pixel Dungeon"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxXdgDataHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" ".shatteredpixel/Shattered Pixel Dungeon"
+					"replace" ".shatteredpixel/shattered-pixel-dungeon"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23841745"
+"_sha" "5332d0e5703a84b21036721995ec822ee5dedca7"
+"_size" "9060"
