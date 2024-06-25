@@ -1,0 +1,210 @@
+"appid" "2423300"
+"common"
+{
+	"name" "School Labyrinth"
+	"type" "Game"
+	"icon" "d06a27c8c87577da717b6c4bc829d45734c4e77c"
+	"clienticon" "1df33ab63a2e341f34a311f8dee89c3a1fd1cb5d"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"japanese" "1"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"japanese" "capsule_231x87_japanese.jpg"
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"japanese" "header_japanese.jpg"
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,ja,zh-cn"
+		"library_hero" "en"
+		"library_logo" "ja,en,zh-cn"
+		"library_header" "en,ja"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "54.634262308608406"
+			"height_pct" "70.7927561655935"
+		}
+	}
+	"store_asset_mtime" "1702962806"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "RainyDollGames"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "RainyDollGames"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_18" "1"
+		"category_2" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1708559963"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2423300"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3843"
+		"2" "5125"
+		"3" "19"
+		"4" "3859"
+		"5" "1687"
+		"6" "1685"
+		"7" "1716"
+		"8" "492"
+		"9" "3959"
+		"10" "7481"
+		"11" "4191"
+		"12" "4182"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "RainyDollGames"
+	"publisher" "RainyDollGames"
+	"homepage" "https://twitter.com/RainyDollGames"
+}
+"config"
+{
+	"installdir" "School Labyrinth"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Windows\\UI_Test.exe"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2423301"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "180318969800346423"
+				"size" "2013533274"
+				"download" "1869596560"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatest"
+			{
+				"gid" "DF05E59FD5D91E6C6CB17FC29A529D50"
+				"size" "EF882DD063FDC45788C23361E788AA71"
+				"download" "4B02E6EF7FB3FA7A44C582B619D83DE5"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "13867575"
+			"timeupdated" "1711532268"
+		}
+		"betatest"
+		{
+			"buildid" "14120146"
+			"pwdrequired" "1"
+			"timeupdated" "1713623042"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000"
+	"maxnumfiles" "100"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+}
+"_missing_token" "False"
+"_change_number" "24100743"
+"_sha" "eba97c2fc53ce7f3811904884bafb686d4408708"
+"_size" "3433"
