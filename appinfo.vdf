@@ -1,0 +1,227 @@
+"appid" "2533070"
+"common"
+{
+	"name" "TerraTech Worlds Dedicated Server"
+	"type" "Tool"
+	"parent" "2313330"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "ca2a55a5c0bcc631dd27ee44a347ae6c767463f5"
+	"clienticon" "7c650a35347c45ff860ff8777b458119472a616f"
+	"clienttga" "ffc282b236dbf4d5025b061fef504e40ba60f06b"
+	"releasestate" "released"
+	"gameid" "2533070"
+}
+"config"
+{
+	"installdir" "TTW_Dedicated_Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TT2Server.exe"
+			"arguments" "-log -nullrhi"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"2533071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5884305590300690083"
+				"size" "4835281316"
+				"download" "1097258000"
+			}
+			"ttw_unstable"
+			{
+				"gid" "3642923511600480521"
+				"size" "4889113608"
+				"download" "1148570304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"devtest"
+			{
+				"gid" "9241C8B053E93C36F211DC2798D280F1"
+				"size" "26D5D71AB48289C895CC819B9E7578B9"
+				"download" "406554FE61F5CE37450AF3F141E6941F"
+			}
+			"internaldev"
+			{
+				"gid" "499F4E546DEE629FBE5EE61551550B1F"
+				"size" "68CD6ACF0BE0DB929E5C8EFF39363244"
+				"download" "DFADA20488832E9D388786506D234E96"
+			}
+			"linux_experimental"
+			{
+				"gid" "DCE859D57BA3068B07FAA44C989E88C1"
+				"size" "02A6E54566B904EB21E6FE321CBD72FB"
+				"download" "486850D6630021F8CC5FDD60408A83A1"
+			}
+			"partner"
+			{
+				"gid" "8526108E63D02A767A47F11904B7F467"
+				"size" "C82D77E684663C66984552DD834B3255"
+				"download" "E6F870F90A46BAD1E24576F033B5526C"
+			}
+			"release_tested"
+			{
+				"gid" "434F0B4C4FC32D3F7F7BC2A84355C824"
+				"size" "BE364B717B38456434BC0B6DEB0343AE"
+				"download" "E923B8BB491AF2B1F7A712DEAC8686E9"
+			}
+			"release_untested"
+			{
+				"gid" "4D6E48ED01BDC09BA7B54F1B5F1905E2"
+				"size" "FC244D0D68AE71648460CF7875D1374C"
+				"download" "5175BB80247AA86E417B93A213A4CC00"
+			}
+			"dev_tested"
+			{
+				"gid" "6CBCA89F768408A29977E2D1847A4B6A"
+				"size" "C559D10E9BAEF721F3B48780A78350FF"
+				"download" "1FEA592E7750C1F8F7131761701B4063"
+			}
+			"dev_untested"
+			{
+				"gid" "152728377A163717D572811ACDC43F9D"
+				"size" "4DDFFF20BB58D266CD4C419BD293F164"
+				"download" "F93134EDE0018498D0125D16DD8BBA7F"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14485113"
+			"timeupdated" "1716802290"
+		}
+		"devtest"
+		{
+			"buildid" "13828127"
+			"pwdrequired" "1"
+			"timeupdated" "1711146553"
+		}
+		"internaldev"
+		{
+			"buildid" "14480349"
+			"pwdrequired" "1"
+			"timeupdated" "1716541908"
+		}
+		"linux_experimental"
+		{
+			"buildid" "14531496"
+			"pwdrequired" "1"
+			"timeupdated" "1716977754"
+		}
+		"partner"
+		{
+			"buildid" "14032019"
+			"pwdrequired" "1"
+			"timeupdated" "1712923455"
+		}
+		"release_tested"
+		{
+			"buildid" "14793342"
+			"pwdrequired" "1"
+			"timeupdated" "1718971287"
+		}
+		"release_untested"
+		{
+			"buildid" "14817636"
+			"pwdrequired" "1"
+			"timeupdated" "1719231587"
+		}
+		"dev_tested"
+		{
+			"buildid" "14691553"
+			"pwdrequired" "1"
+			"timeupdated" "1718197709"
+		}
+		"dev_untested"
+		{
+			"buildid" "14790101"
+			"pwdrequired" "1"
+			"timeupdated" "1718946539"
+		}
+		"ttw_unstable"
+		{
+			"buildid" "14793342"
+			"description" "Work-in-progress build"
+			"timeupdated" "1718971371"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24093875"
+"_sha" "dbc853499a37734e20eeac39df02a44aa636b7ac"
+"_size" "4243"
