@@ -1,0 +1,1023 @@
+"appid" "1310410"
+"common"
+{
+	"name" "Alone in the Dark"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "f9e442d4c81b3908cd887e4c97398710bee26518"
+	"clienticon" "68391461378ac79860d74ba8c19b9921a2f7f245"
+	"clienttga" "2083b8ab19ea563e23c590ea4aab4bc0e72b29d9"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"indonesian" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1712361600"
+		"tested_build_id" "13801462"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsNotPerformant"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "65.63593932322053"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1711546266"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pieces Interactive"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Alone in the Dark"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "THQ Nordic"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_23" "1"
+		"category_28" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"hindi"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"persian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1710943006"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1310410"
+	"store_tags"
+	{
+		"0" "1721"
+		"1" "1667"
+		"2" "7432"
+		"3" "19"
+		"4" "21"
+		"5" "6052"
+		"6" "4145"
+		"7" "4342"
+		"8" "4175"
+		"9" "1697"
+		"10" "7208"
+		"11" "5613"
+		"12" "5716"
+		"13" "5186"
+		"14" "10808"
+		"15" "3978"
+		"16" "1710"
+		"17" "4064"
+		"18" "3993"
+		"19" "5094"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "diary-study,focustest,internal"
+	"developer" "Pieces Interactive"
+	"publisher" "THQ Nordic"
+	"homepage" "http://aloneinthedarkgame.com/"
+	"listofdlc" "2450980,2450981,2450982,2450983"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "AloneInTheDark"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "AloneInTheDark.exe"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1310411"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1599423929991799385"
+				"size" "31651099023"
+				"download" "30457314336"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"baseline"
+			{
+				"gid" "67771FBA914500964BB7F03EBC63FCC1"
+				"size" "F3660B61658CF36F0F99979B4ABDB6AA"
+				"download" "F4EB98424B77D028E2BA7FBA9114ED8E"
+			}
+			"capture"
+			{
+				"gid" "928CB0761E337FEDD4E059D59FF3B850"
+				"size" "6A7ED177774A3690768EAF0E70AFF562"
+				"download" "6BF5D601904AA1E1CAA622BC048EADE2"
+			}
+			"development"
+			{
+				"gid" "3763A504DA2C223EFBFE184A8734A80D"
+				"size" "49116963A36212393AF7715CE33AEE40"
+				"download" "0524641FF9C4B971C8FD94437D4D70F8"
+			}
+			"diary-study"
+			{
+				"gid" "3F10CFA3B2BFFBE62F19709758631909"
+				"size" "60452B82B329E854BB133D743F04A0E6"
+				"download" "386968FFBE0CE1B72098059492A84AB6"
+			}
+			"evaluation"
+			{
+				"gid" "707C3BCF7868DCEE71AC5F625E1B32C8"
+				"size" "211AA72BAE50EC5F58109C24D36E3597"
+				"download" "059A44D16A738AD45238CC665A5F239E"
+			}
+			"internal-ship"
+			{
+				"gid" "224CE58537224D56E6A8E676938C72F3"
+				"size" "5F213D497A19C0ADD23CC252FC9C1A91"
+				"download" "8C9FB60DA31A50C72482581D0F114E76"
+			}
+			"nightly-dev"
+			{
+				"gid" "CFFC311FA3691D7BC764479650FFFA14"
+				"size" "B81D1F15AF6807848271D40CFA6D21F4"
+				"download" "7566A0922DEEA4941F57E0F438A0AEDD"
+			}
+			"nightly-ship"
+			{
+				"gid" "47DCE49031B83722E5E0E4F28EABC87A"
+				"size" "B579AF7080D13DDF4F9552322027DC5F"
+				"download" "DE7739E82EA5CA39818D4CDF0BE58D4A"
+			}
+			"preview"
+			{
+				"gid" "80AA575F602173B7C6B58CA96D6E0B31"
+				"size" "B3697755D8B1867A60E52A97F005C5AD"
+				"download" "9434D0C72F39747CAA957A0489B3BEF7"
+			}
+			"preview_jp"
+			{
+				"gid" "4FA540761957FFC9DDA35BC030761CE8"
+				"size" "8DE4B0ADFCA3AAC563EE1EB73A9A7308"
+				"download" "9DC0EABB3AD1DAE945D73DE3A37A7957"
+			}
+			"puzzlebox-preview"
+			{
+				"gid" "619E52CD81C2EEE1DBD9EC4AECA3A64D"
+				"size" "F9A4A3119A5281769649C81C8F477F39"
+				"download" "47772AD7FB40E2EEEEA445919AAB3741"
+			}
+			"rican-temp"
+			{
+				"gid" "4176651B62002DCED6252575A9282026"
+				"size" "1F874BEE3565510A7950BAE2DCFC3811"
+				"download" "EDD1C223EA03690825FA462ABEDD075B"
+			}
+			"savefile-test"
+			{
+				"gid" "241FE66E9458C987141CCAD76505ADAD"
+				"size" "CAD6BE56EEE4FD07D408D272F6BBAB84"
+				"download" "1FEF9F7823467A851F34E4FB6B49A4C5"
+			}
+			"shipping"
+			{
+				"gid" "D0537F06390E2B3B483D6A172358A7F0"
+				"size" "EA7B63DDCEBB86F17793E322C84A4A4E"
+				"download" "AB863527530B47AB92058C8BAB77BB8D"
+			}
+			"co-temp"
+			{
+				"gid" "ECE8C1E0CFF3D09B047046BCC228AA72"
+				"size" "EA569AC3C030338CC07FD3D0F371B3D4"
+				"download" "4D6A7100CC13C16D6D3E71F8BBB3EFC0"
+			}
+			"external-qa"
+			{
+				"gid" "04E7B27A8C7CD3B1874DDF591D8B79AA"
+				"size" "F7BB836699E2EBD7D35A8F70EE796E4D"
+				"download" "DD19155CC32A0CDC19D24BA880A65A50"
+			}
+			"internal"
+			{
+				"gid" "4E990939ECB021FDF161CDE6F3ABA798"
+				"size" "2ACF6AF35979BAC6804383D5B6BD0A89"
+				"download" "3D7C22847EE81BC11E0E41141215863C"
+			}
+			"lqa-test"
+			{
+				"gid" "D32F253FDDD074D06EFB8A7FB40DD520"
+				"size" "60B6D730D2CEE53AA82CB928A567EF8C"
+				"download" "3D635BA532F4819AB21D09B6F88D82F7"
+			}
+			"nightly-test"
+			{
+				"gid" "CA99AB9ED78548A9C18C55CC59C4FF15"
+				"size" "6EFA3CCDA2B0DABD945436347D0F982C"
+				"download" "134F86165523CB7EEE4E8103A1D7EEE4"
+			}
+			"rasan-temp"
+			{
+				"gid" "C5CE8D80B39C56C4AC4D58F1487CEB93"
+				"size" "D85E571AAF6887F2A19EE108101D0ABA"
+				"download" "0375AB641DDCBE85F8C4BA6BF8073775"
+			}
+			"stable-dev"
+			{
+				"gid" "EB46F1D15675C3B28589F5E2962E9D54"
+				"size" "625BD449D1CA576E3767A56DE9E74A01"
+				"download" "86B184F16B56EC25F889ACE77BD03F72"
+			}
+			"stable-ship"
+			{
+				"gid" "60A7B66981C88492AFF77D1AFD18D60D"
+				"size" "047C03CD44C9D7957AEB65896A9B5843"
+				"download" "8BC8DA32664B5E36DC54F1910CADB31C"
+			}
+			"stable-test"
+			{
+				"gid" "CF87644201D0E9D37D09CFF796A77B12"
+				"size" "F4FF269CE75EFC07847F8D0AAF905CE9"
+				"download" "CDFB52FB51F2EEA2F7A366EA8AFD1245"
+			}
+			"wrapper"
+			{
+				"gid" "B42CBBFA5FDA2F947205CC2146697DF4"
+				"size" "8F1F2B33099288A6B94649EDBF130CBB"
+				"download" "D201676B30F2E704EAA1F62857CCA59F"
+			}
+		}
+	}
+	"2450980"
+	{
+		"dlcappid" "2450980"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4188049365323835729"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"diary-study"
+			{
+				"gid" "8A7B5117536B75566D8D5A324C4594EF"
+				"size" "60452B82B329E854BB133D743F04A0E6"
+				"download" "5777CAB388061BD2115CC18C457CA0C7"
+			}
+			"nightly-dev"
+			{
+				"gid" "E674EF1FA50EA3A5630F183D39B8FB77"
+				"size" "B81D1F15AF6807848271D40CFA6D21F4"
+				"download" "CA523835612BE7A1F9C2070294A4AF13"
+			}
+			"nightly-ship"
+			{
+				"gid" "8279D5A7AF860A4C24CB63055FE36BDC"
+				"size" "B579AF7080D13DDF4F9552322027DC5F"
+				"download" "3522DBD29600C73F20E12CD3123C3965"
+			}
+			"co-temp"
+			{
+				"gid" "281F19E3101B35754970684B1D067FA5"
+				"size" "C3B15C875E3993AF4EF27B0B6B36FD4B"
+				"download" "C3B15C875E3993AF4EF27B0B6B36FD4B"
+			}
+			"external-qa"
+			{
+				"gid" "84BFECEAA5861026D08B9CCA4BF9C0BA"
+				"size" "C0CCD4F004003B366683E1892D9498B2"
+				"download" "C0CCD4F004003B366683E1892D9498B2"
+			}
+			"internal"
+			{
+				"gid" "F5B7740C1B2F5D6ABB084A6EE21DE7E3"
+				"size" "7E643E3788A27086CAF972BE669DEC26"
+				"download" "7E643E3788A27086CAF972BE669DEC26"
+			}
+			"lqa-test"
+			{
+				"gid" "93532C41F2295CC0BFD478EE3492A892"
+				"size" "492C5AF3B872099C5BAF06F229C99921"
+				"download" "492C5AF3B872099C5BAF06F229C99921"
+			}
+			"nightly-test"
+			{
+				"gid" "50DF22FF9C3045C4C0C67D63C2737533"
+				"size" "3F693A419290A14A1054533E9FB22E1A"
+				"download" "3F693A419290A14A1054533E9FB22E1A"
+			}
+			"rasan-temp"
+			{
+				"gid" "9643CAE4971B9A11777EE8B006DA8587"
+				"size" "AA113365B5F15008EAA2C1DEEA8B64AF"
+				"download" "AA113365B5F15008EAA2C1DEEA8B64AF"
+			}
+			"stable-dev"
+			{
+				"gid" "E84AD143B0E4243175800786BEF76A31"
+				"size" "EF6DFAE2B85CE7E8C861F36994BC722F"
+				"download" "EF6DFAE2B85CE7E8C861F36994BC722F"
+			}
+			"stable-ship"
+			{
+				"gid" "3C064A09FB80E2D829A8542BC5C6EA16"
+				"size" "9BD1584C0AB6F765ED08A380399AEDB4"
+				"download" "9BD1584C0AB6F765ED08A380399AEDB4"
+			}
+			"stable-test"
+			{
+				"gid" "077F23B1AE84A0E765ABC06EC5F71DF2"
+				"size" "E75BAA766DF9CB1C9A1F472DFC20B725"
+				"download" "E75BAA766DF9CB1C9A1F472DFC20B725"
+			}
+			"wrapper"
+			{
+				"gid" "A581E641BE3313977EF3E8FC86068245"
+				"size" "B28847D33747E935EE154CBAE05D816C"
+				"download" "B28847D33747E935EE154CBAE05D816C"
+			}
+		}
+	}
+	"2450982"
+	{
+		"dlcappid" "2450982"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3337194034610531235"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"diary-study"
+			{
+				"gid" "1D9F9BD63E38C078B47D1430024644B3"
+				"size" "60452B82B329E854BB133D743F04A0E6"
+				"download" "5777CAB388061BD2115CC18C457CA0C7"
+			}
+			"nightly-dev"
+			{
+				"gid" "81EF971FB9A5AECDD81DEADF2F82FDA6"
+				"size" "B81D1F15AF6807848271D40CFA6D21F4"
+				"download" "F57059C526B84A5717D393B5ACE2CC61"
+			}
+			"nightly-ship"
+			{
+				"gid" "8393878A235AE7D6390AF8C0F0B2F128"
+				"size" "B579AF7080D13DDF4F9552322027DC5F"
+				"download" "8DCA3AD15F48AA73526D37260F43BBB2"
+			}
+			"co-temp"
+			{
+				"gid" "F776770025EBB1E09A18A75425C26C43"
+				"size" "C3B15C875E3993AF4EF27B0B6B36FD4B"
+				"download" "C3B15C875E3993AF4EF27B0B6B36FD4B"
+			}
+			"external-qa"
+			{
+				"gid" "3D77479D02E0F92D6DA591BDA5DEAD29"
+				"size" "C0CCD4F004003B366683E1892D9498B2"
+				"download" "C0CCD4F004003B366683E1892D9498B2"
+			}
+			"internal"
+			{
+				"gid" "FC17E566894E6C2CD44247FCC5FE4923"
+				"size" "7E643E3788A27086CAF972BE669DEC26"
+				"download" "7E643E3788A27086CAF972BE669DEC26"
+			}
+			"lqa-test"
+			{
+				"gid" "01D13E7E0C07490424A19FECF596B688"
+				"size" "492C5AF3B872099C5BAF06F229C99921"
+				"download" "492C5AF3B872099C5BAF06F229C99921"
+			}
+			"nightly-test"
+			{
+				"gid" "6B2A2BDF100DAA40DF2501FD5AEDE4D9"
+				"size" "3F693A419290A14A1054533E9FB22E1A"
+				"download" "3F693A419290A14A1054533E9FB22E1A"
+			}
+			"rasan-temp"
+			{
+				"gid" "0B321A4F770280A1ECC7B1213CB3A411"
+				"size" "AA113365B5F15008EAA2C1DEEA8B64AF"
+				"download" "AA113365B5F15008EAA2C1DEEA8B64AF"
+			}
+			"stable-dev"
+			{
+				"gid" "0863B6E639C7DE9B893D9C049FC5E6D2"
+				"size" "EF6DFAE2B85CE7E8C861F36994BC722F"
+				"download" "EF6DFAE2B85CE7E8C861F36994BC722F"
+			}
+			"stable-ship"
+			{
+				"gid" "2A6E2F9871D83D15B0F525478B452360"
+				"size" "9BD1584C0AB6F765ED08A380399AEDB4"
+				"download" "9BD1584C0AB6F765ED08A380399AEDB4"
+			}
+			"stable-test"
+			{
+				"gid" "210C1003F5872A33E91606C7C415CF66"
+				"size" "E75BAA766DF9CB1C9A1F472DFC20B725"
+				"download" "E75BAA766DF9CB1C9A1F472DFC20B725"
+			}
+			"wrapper"
+			{
+				"gid" "4E67C8D65B4D8EA2EE32C337D658D2D1"
+				"size" "B28847D33747E935EE154CBAE05D816C"
+				"download" "B28847D33747E935EE154CBAE05D816C"
+			}
+		}
+	}
+	"2450981"
+	{
+		"dlcappid" "2450981"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4074926775292582049"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"diary-study"
+			{
+				"gid" "3BAC78EC9A0AB005F7F610885720265F"
+				"size" "60452B82B329E854BB133D743F04A0E6"
+				"download" "5777CAB388061BD2115CC18C457CA0C7"
+			}
+			"nightly-dev"
+			{
+				"gid" "DC454AC52508D70DD3CFF10DB573DC42"
+				"size" "B81D1F15AF6807848271D40CFA6D21F4"
+				"download" "99F2D56EBBEBFF2CAAE6362C5289975D"
+			}
+			"nightly-ship"
+			{
+				"gid" "E317F9A8AAB512A6AA553741E8F3DF41"
+				"size" "B579AF7080D13DDF4F9552322027DC5F"
+				"download" "33C1A01A86081A712C06D74A19EF7358"
+			}
+			"co-temp"
+			{
+				"gid" "DD2327C829C5FB3C5C469FC4B6A73131"
+				"size" "C3B15C875E3993AF4EF27B0B6B36FD4B"
+				"download" "C3B15C875E3993AF4EF27B0B6B36FD4B"
+			}
+			"external-qa"
+			{
+				"gid" "52137745A5773FC534896EF56B65B29D"
+				"size" "C0CCD4F004003B366683E1892D9498B2"
+				"download" "C0CCD4F004003B366683E1892D9498B2"
+			}
+			"internal"
+			{
+				"gid" "F011EA800A40719E039E3CEA1CDD0A11"
+				"size" "7E643E3788A27086CAF972BE669DEC26"
+				"download" "7E643E3788A27086CAF972BE669DEC26"
+			}
+			"lqa-test"
+			{
+				"gid" "B1F82A1E584913508C0B2306C28DD4F5"
+				"size" "492C5AF3B872099C5BAF06F229C99921"
+				"download" "492C5AF3B872099C5BAF06F229C99921"
+			}
+			"nightly-test"
+			{
+				"gid" "80B0161600CE1DDC373ECCD7B58A238A"
+				"size" "3F693A419290A14A1054533E9FB22E1A"
+				"download" "3F693A419290A14A1054533E9FB22E1A"
+			}
+			"rasan-temp"
+			{
+				"gid" "2CBF8D195ED08EB4BCFAB8A6A54481F3"
+				"size" "AA113365B5F15008EAA2C1DEEA8B64AF"
+				"download" "AA113365B5F15008EAA2C1DEEA8B64AF"
+			}
+			"stable-dev"
+			{
+				"gid" "1323FBC215109288C39F1C3BEBE93843"
+				"size" "EF6DFAE2B85CE7E8C861F36994BC722F"
+				"download" "EF6DFAE2B85CE7E8C861F36994BC722F"
+			}
+			"stable-ship"
+			{
+				"gid" "41C6E8327A3925C5D9FDB7FDDC68535C"
+				"size" "9BD1584C0AB6F765ED08A380399AEDB4"
+				"download" "9BD1584C0AB6F765ED08A380399AEDB4"
+			}
+			"stable-test"
+			{
+				"gid" "4A7E65ADD776BBF3C8424E046613BB45"
+				"size" "E75BAA766DF9CB1C9A1F472DFC20B725"
+				"download" "E75BAA766DF9CB1C9A1F472DFC20B725"
+			}
+			"wrapper"
+			{
+				"gid" "13942011469C010E89F2438E5C28B947"
+				"size" "B28847D33747E935EE154CBAE05D816C"
+				"download" "B28847D33747E935EE154CBAE05D816C"
+			}
+		}
+	}
+	"2450983"
+	{
+		"dlcappid" "2450983"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6929282419867829082"
+				"size" "20652202"
+				"download" "19957904"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"diary-study"
+			{
+				"gid" "CF7C879052ABD4AC39C098A9FCBF1633"
+				"size" "60452B82B329E854BB133D743F04A0E6"
+				"download" "5777CAB388061BD2115CC18C457CA0C7"
+			}
+			"nightly-dev"
+			{
+				"gid" "7EF9F4D684FDD94B7E51D5EC89669D75"
+				"size" "B81D1F15AF6807848271D40CFA6D21F4"
+				"download" "F57059C526B84A5717D393B5ACE2CC61"
+			}
+			"nightly-ship"
+			{
+				"gid" "445EE93654253F1B209150F6E5C13D23"
+				"size" "B579AF7080D13DDF4F9552322027DC5F"
+				"download" "BB77406F2C13D571120AEAD4D33E8A2D"
+			}
+			"preview"
+			{
+				"gid" "DF6D77A5B6E0D016F35ACDD363BEDC2C"
+				"size" "FF9A018BACB0A8D8368A33E33CE420F1"
+				"download" "F1755A35ED59C5C92252C00597604A5C"
+			}
+			"preview_jp"
+			{
+				"gid" "BF2ADC05B4739B4F2B6D41C140E7130D"
+				"size" "0963AED670CA7844F971252E01215875"
+				"download" "9284C593306FFDD384C92DA061F6EB25"
+			}
+			"puzzlebox-preview"
+			{
+				"gid" "66510294ADA5A0B9C270FF1A379521E5"
+				"size" "C6D65F6F5E7AC7D19CD37DA47BD03005"
+				"download" "447D79BEEF49CA6C17FA81156FF734BB"
+			}
+			"co-temp"
+			{
+				"gid" "99A9DECDA7DC2E355C245020A302E70C"
+				"size" "57CB9B7E6771881E553284DB5F17C025"
+				"download" "B022955CDDBC95AB0A7DE29DEDCD8CDF"
+			}
+			"external-qa"
+			{
+				"gid" "6253BD47364CBC6C66DD7E494DFEE32B"
+				"size" "8BBFD430BCB06178B5B2F78579D030B9"
+				"download" "70AAB721023231BCB5B9BD26CB153E53"
+			}
+			"internal"
+			{
+				"gid" "04C33F298E1266C075680C96FFF6F5BE"
+				"size" "3B0C654B9F03E61233F5259556753A28"
+				"download" "D4EBE6992A26480E19B514BCD93005DB"
+			}
+			"nightly-test"
+			{
+				"gid" "951D20005FB2A97B47C16AC9A4EA6994"
+				"size" "ACF5023F0BA0BC3FE9187E6436D1974B"
+				"download" "5F2D2430434B4ED631F538A99BAAC433"
+			}
+			"rasan-temp"
+			{
+				"gid" "6FCE4637AE43E48483F08418D0132B93"
+				"size" "AA113365B5F15008EAA2C1DEEA8B64AF"
+				"download" "AA113365B5F15008EAA2C1DEEA8B64AF"
+			}
+			"stable-dev"
+			{
+				"gid" "87943D4DF5797AA459A07F2AE9BCE161"
+				"size" "A943568B3A682E669CA3FC93C0DBE624"
+				"download" "2BE777BC2FD1577BD19F8EEBA4C7C10C"
+			}
+			"stable-ship"
+			{
+				"gid" "486CCBE2D7B19429EC9055E007D4DD94"
+				"size" "9BD1584C0AB6F765ED08A380399AEDB4"
+				"download" "9BD1584C0AB6F765ED08A380399AEDB4"
+			}
+			"stable-test"
+			{
+				"gid" "0AED49D8C9D9F1A85BD4A3A919A84FF0"
+				"size" "A388E93B2C85BCC26185474D8264DB4E"
+				"download" "B14634450271C800CC4A2C2069FF7B8A"
+			}
+			"wrapper"
+			{
+				"gid" "D2840E19399CA93AA614A6A8325222F3"
+				"size" "4DB8EBE02A5B7C5176DE4136A974EDDD"
+				"download" "F7902FC7F781FAEF0BE71AB9367D87F7"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14609657"
+			"timeupdated" "1717674330"
+		}
+		"baseline"
+		{
+			"buildid" "12660729"
+			"pwdrequired" "1"
+			"timeupdated" "1700564959"
+		}
+		"capture"
+		{
+			"buildid" "13678092"
+			"pwdrequired" "1"
+			"timeupdated" "1709886991"
+		}
+		"development"
+		{
+			"buildid" "12738772"
+			"pwdrequired" "1"
+			"timeupdated" "1700292188"
+		}
+		"diary-study"
+		{
+			"buildid" "13875250"
+			"pwdrequired" "1"
+			"timeupdated" "1712311086"
+		}
+		"evaluation"
+		{
+			"buildid" "13563962"
+			"pwdrequired" "1"
+			"timeupdated" "1709227177"
+		}
+		"internal-ship"
+		{
+			"buildid" "10728955"
+			"pwdrequired" "1"
+			"timeupdated" "1678367522"
+		}
+		"nightly-dev"
+		{
+			"buildid" "13901169"
+			"pwdrequired" "1"
+			"timeupdated" "1711780343"
+		}
+		"nightly-ship"
+		{
+			"buildid" "13972600"
+			"pwdrequired" "1"
+			"timeupdated" "1712397416"
+		}
+		"preview"
+		{
+			"buildid" "13773937"
+			"pwdrequired" "1"
+			"timeupdated" "1711106578"
+		}
+		"preview_jp"
+		{
+			"buildid" "13773937"
+			"pwdrequired" "1"
+			"timeupdated" "1710953033"
+		}
+		"puzzlebox-preview"
+		{
+			"buildid" "13773937"
+			"pwdrequired" "1"
+			"timeupdated" "1710953013"
+		}
+		"rican-temp"
+		{
+			"buildid" "13177532"
+			"pwdrequired" "1"
+			"timeupdated" "1707221931"
+		}
+		"savefile-test"
+		{
+			"buildid" "12676291"
+			"pwdrequired" "1"
+			"timeupdated" "1710244968"
+		}
+		"shipping"
+		{
+			"buildid" "12284180"
+			"pwdrequired" "1"
+			"timeupdated" "1695720265"
+		}
+		"co-temp"
+		{
+			"buildid" "14310103"
+			"pwdrequired" "1"
+			"timeupdated" "1716366513"
+		}
+		"external-qa"
+		{
+			"buildid" "14516391"
+			"pwdrequired" "1"
+			"timeupdated" "1716884041"
+		}
+		"internal"
+		{
+			"buildid" "14291457"
+			"pwdrequired" "1"
+			"timeupdated" "1715168244"
+		}
+		"lqa-test"
+		{
+			"buildid" "14138009"
+			"pwdrequired" "1"
+			"timeupdated" "1713965222"
+		}
+		"nightly-test"
+		{
+			"buildid" "14285898"
+			"pwdrequired" "1"
+			"timeupdated" "1715058498"
+		}
+		"rasan-temp"
+		{
+			"buildid" "14386857"
+			"pwdrequired" "1"
+			"timeupdated" "1715850585"
+		}
+		"stable-dev"
+		{
+			"buildid" "14478657"
+			"pwdrequired" "1"
+			"timeupdated" "1716532049"
+		}
+		"stable-ship"
+		{
+			"buildid" "14514960"
+			"pwdrequired" "1"
+			"timeupdated" "1716872353"
+		}
+		"stable-test"
+		{
+			"buildid" "14516876"
+			"pwdrequired" "1"
+			"timeupdated" "1716886947"
+		}
+		"wrapper"
+		{
+			"buildid" "14609657"
+			"pwdrequired" "1"
+			"timeupdated" "1717577556"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "115343360"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "AloneInTheDark/Saved/SaveGames"
+			"pattern" "*.sav"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23941536"
+"_sha" "6ebbc350c46c7968074457c56c229202cc4d3fa1"
+"_size" "23064"
