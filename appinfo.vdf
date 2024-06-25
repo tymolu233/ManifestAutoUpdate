@@ -1,0 +1,595 @@
+"appid" "2427700"
+"common"
+{
+	"name" "Backpack Battles"
+	"type" "Game"
+	"icon" "852629f282e0dfc3e12da56ed5692043665cf9d3"
+	"clienticon" "ef11fc6882a16e1dddfc04cd24830e11395fcc1c"
+	"clienttga" "583818a3142b4087f598fac5a8eaf7bd13b38850"
+	"clienticns" "0669a29e93f43515d5de76b2c44153c44d11a8e2"
+	"linuxclienticon" "b8fff07bce3797a72b3935e35194705c4165c90e"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "背包乱斗：福西法的宝藏 Backpack Battles"
+		"japanese" "バックパック・バトル"
+		"koreana" "백팩 배틀즈"
+		"tchinese" "背包亂鬥 Backpack Battles"
+	}
+	"oslist" "windows,linux"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1713916800"
+		"tested_build_id" "14142232"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "native"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "67.40883821882102"
+			"height_pct" "74.11538503996721"
+		}
+	}
+	"store_asset_mtime" "1713519689"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "PlayWithFurcifer"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "PlayWithFurcifer"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "IndieArk"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "IndieArk"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "2"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709891953"
+	"community_hub_visible" "1"
+	"gameid" "2427700"
+	"store_tags"
+	{
+		"0" "1084988"
+		"1" "6276"
+		"2" "9"
+		"3" "1775"
+		"4" "3859"
+		"5" "17770"
+		"6" "1091588"
+		"7" "492"
+		"8" "1708"
+		"9" "1677"
+		"10" "791774"
+		"11" "3993"
+		"12" "4236"
+		"13" "4711"
+		"14" "1716"
+		"15" "3871"
+		"16" "4726"
+		"17" "6815"
+		"18" "97376"
+		"19" "7208"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "PlayWithFurcifer"
+	"publisher" "PlayWithFurcifer"
+	"homepage" "https://playwithfurcifer.github.io/backpack-battles-presskit/"
+}
+"config"
+{
+	"installdir" "Backpack Battles"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "BackpackBattles.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "BackpackBattles.x86_64"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+	"steamdecktouchscreen" "4"
+	"steamcontrollertemplateindex" "2"
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,koreana,schinese,japanese"
+	"workshopdepot" "2427700"
+	"2427701"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "352319933913696539"
+				"size" "226075448"
+				"download" "162950800"
+			}
+			"beta"
+			{
+				"gid" "310828362049729358"
+				"size" "229826488"
+				"download" "166533504"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "9141492593EF34D72A7F0BE4E6507302"
+				"size" "807D7398A8137DD3C5DA5B8D6E8E9624"
+				"download" "557593BE99A028F60FDC06F12AAFB8ED"
+			}
+		}
+	}
+	"2427702"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7719695325919486669"
+				"size" "248155976"
+				"download" "168574368"
+			}
+			"beta"
+			{
+				"gid" "7719695325919486669"
+				"size" "248155976"
+				"download" "168574368"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "3C878C9703EE6209558F09BA7EB320D1"
+				"size" "48987938854D2355C4C29AA5944372CA"
+				"download" "F3C836839CAC705AC9E21181218DFD3D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14636691"
+			"timeupdated" "1717750192"
+		}
+		"beta"
+		{
+			"buildid" "14791926"
+			"description" "Patch preview & testing"
+			"timeupdated" "1718959564"
+		}
+		"debug"
+		{
+			"buildid" "14662228"
+			"pwdrequired" "1"
+			"timeupdated" "1718012130"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"2"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/Backpack Battles/{64BitSteamID}/full"
+			"pattern" "*.save"
+		}
+		"3"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Godot/app_userdata/Backpack Battles/{64BitSteamID}/full/backup"
+			"pattern" "*.save"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Godot/app_userdata/Backpack Battles"
+					"replace" ".local/share/godot/app_userdata/Backpack Battles"
+				}
+			}
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#%gamemode%}: {#%class%} (%numwins% {#Wins}/{#Round} %roundnum%)"
+				"#status_menu" "Main Menu"
+				"#ranked" "Ranked"
+				"#unranked" "Unranked"
+				"#round" "Round"
+				"#wins" "Wins"
+				"#ranger" "Ranger"
+				"#reaper" "Reaper"
+				"#berserker" "Berserker"
+				"#pyromancer" "Pyromancer"
+				"#hunter" "Hunter"
+				"#lifebinder" "Lifebinder"
+				"#pathfinder" "Pathfinder"
+				"#grovekeeper" "Grovekeeper"
+				"#beastmaster" "Beastmaster"
+				"#vampiress" "Vampiress"
+				"#witch" "Witch"
+				"#hexblade" "Hexblade"
+				"#venomancer" "Venomancer"
+				"#alchemist" "Alchemist"
+				"#pack leader" "Pack Leader"
+				"#blacksmith" "Blacksmith"
+				"#chieftain" "Chieftain"
+				"#shaman" "Shaman"
+				"#fighter" "Fighter"
+				"#firebender" "Firebender"
+				"#crusader" "Crusader"
+				"#ashbringer" "Ashbringer"
+				"#cryomancer" "Cryomancer"
+				"#scalewarden" "Scalewarden"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#%gamemode%}: {#%class%} (%numwins% {#Wins}/{#Round} %roundnum%)"
+				"#status_menu" "Hauptmenü"
+				"#ranked" "Gewertet"
+				"#unranked" "Ungewertet"
+				"#round" "R"
+				"#wins" "W"
+				"#ranger" "Waldläufer"
+				"#reaper" "Sensenfrau"
+				"#berserker" "Berserker"
+				"#pyromancer" "Pyromane"
+				"#hunter" "Jäger"
+				"#lifebinder" "Lebensbinder"
+				"#pathfinder" "Pfadfinder"
+				"#grovekeeper" "Wächter des Waldes"
+				"#beastmaster" "Bestienzähmer"
+				"#vampiress" "Vampirella"
+				"#witch" "Hexe"
+				"#hexblade" "Fluchklinge"
+				"#venomancer" "Schlangenbeschwörer"
+				"#alchemist" "Alchimist"
+				"#pack leader" "Rudelführer"
+				"#blacksmith" "Schmied"
+				"#chieftain" "Häuptling"
+				"#shaman" "Schamane"
+				"#fighter" "Krieger"
+				"#firebender" "Feuerbändiger"
+				"#crusader" "Kreuzritter"
+				"#ashbringer" "Aschbringer"
+				"#cryomancer" "Kryomane"
+				"#scalewarden" "Drachenwächter"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#%gamemode%}: {#%class%} (%numwins% {#Wins}/{#Round} %roundnum%)"
+				"#status_menu" "主界面"
+				"#ranked" "排名游戏"
+				"#unranked" "休闲游戏"
+				"#round" "回合"
+				"#wins" "胜局"
+				"#ranger" "游侠"
+				"#reaper" "收割者"
+				"#berserker" "狂战士"
+				"#pyromancer" "火焰魔导士"
+				"#hunter" "猎人"
+				"#lifebinder" "生命缚誓者"
+				"#pathfinder" "开拓者"
+				"#grovekeeper" "丛林守护者"
+				"#beastmaster" "兽王"
+				"#vampiress" "吸血鬼夫人"
+				"#witch" "女巫"
+				"#hexblade" "魔剑士"
+				"#venomancer" "剧毒术士"
+				"#alchemist" "炼金术士"
+				"#pack leader" "头领"
+				"#blacksmith" "铁匠"
+				"#chieftain" "酋长"
+				"#shaman" "萨满"
+				"#fighter" "战士"
+				"#firebender" "火宗"
+				"#crusader" "十字军"
+				"#ashbringer" "灰烬使者"
+				"#cryomancer" "冰霜法师"
+				"#scalewarden" "龙巢守卫"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#%gamemode%}: {#%class%} (%numwins% {#Wins}/{#Round} %roundnum%)"
+				"#status_menu" "主畫面"
+				"#ranked" "排名遊戲"
+				"#unranked" "休閒遊戲"
+				"#round" "回合"
+				"#wins" "勝利"
+				"#ranger" "遊俠"
+				"#reaper" "死神"
+				"#berserker" "狂戰士"
+				"#pyromancer" "火焰術士"
+				"#hunter" "獵人"
+				"#lifebinder" "生命束縛者"
+				"#pathfinder" "尋路者"
+				"#grovekeeper" "叢林守護者"
+				"#beastmaster" "獸王"
+				"#vampiress" "女吸血鬼"
+				"#witch" "女巫"
+				"#hexblade" "魔劍士"
+				"#venomancer" "劇毒術士"
+				"#alchemist" "煉金術士"
+				"#pack leader" "頭領"
+				"#blacksmith" "鐵匠"
+				"#chieftain" "酋長"
+				"#shaman" "薩滿"
+				"#fighter" "戰士"
+				"#firebender" "火宗"
+				"#crusader" "十字軍"
+				"#ashbringer" "灰燼使者"
+				"#cryomancer" "冰霜法師"
+				"#scalewarden" "龍巢守衛"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#%gamemode%}: {#%class%} (%numwins% {#Wins}/{#Round} %roundnum%)"
+				"#status_menu" "タイトル"
+				"#ranked" "ランクモード"
+				"#unranked" "ランクなしモード"
+				"#round" "ラウンド"
+				"#wins" "勝利回数"
+				"#ranger" "レンジャー"
+				"#reaper" "リーパー"
+				"#berserker" "バーサーカー"
+				"#pyromancer" "パイロマンサー"
+				"#hunter" "ハンター"
+				"#lifebinder" "ライフバインダー"
+				"#pathfinder" "パスファインダー"
+				"#grovekeeper" "グルーヴキーパー"
+				"#beastmaster" "ビーストマスター"
+				"#vampiress" "ヴァンパイア"
+				"#witch" "ウィッチ"
+				"#hexblade" "ヘキサブレード"
+				"#venomancer" "ヴェノムマンサー"
+				"#alchemist" "アルケミスト"
+				"#pack leader" "ウルフコマンダー"
+				"#blacksmith" "ブラックスミス"
+				"#chieftain" "チーフテン"
+				"#shaman" "シャーマン"
+				"#fighter" "ファイター"
+				"#firebender" "ファイアベンダー"
+				"#crusader" "クルセイダー"
+				"#ashbringer" "アッシュブリンガー"
+				"#cryomancer" "クライオマンサー"
+				"#scalewarden" "スケイルウォーデン"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#status_ingame" "{#%gamemode%}: {#%class%} (%numwins% {#Wins}/{#Round} %roundnum%)"
+				"#status_menu" "타이틀로"
+				"#ranked" "랭크 게임"
+				"#unranked" "일반 게임"
+				"#round" "라운드"
+				"#wins" "승리"
+				"#ranger" "레인저"
+				"#reaper" "리퍼"
+				"#berserker" "버서커"
+				"#pyromancer" "파이로맨서"
+				"#hunter" "사냥꾼"
+				"#lifebinder" "생명술사"
+				"#pathfinder" "길잡이"
+				"#grovekeeper" "숲지기"
+				"#beastmaster" "야수조련사"
+				"#vampiress" "흡혈귀"
+				"#witch" "마녀"
+				"#hexblade" "마검사"
+				"#venomancer" "독술사"
+				"#alchemist" "연금술사"
+				"#pack leader" "무리 지도자"
+				"#blacksmith" "대장장이"
+				"#chieftain" "족장"
+				"#shaman" "주술사"
+				"#fighter" "투사"
+				"#firebender" "화염"
+				"#crusader" "성전사"
+				"#ashbringer" "재부르미"
+				"#cryomancer" "냉기술사"
+				"#scalewarden" "비늘관리자"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24101171"
+"_sha" "05170c7c862252c6308fc4c2038409b1ab35a98d"
+"_size" "13363"
