@@ -1,0 +1,544 @@
+"appid" "1684350"
+"common"
+{
+	"name" "The Thaumaturge"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "cbe9185d27a6b35a2f0c913a4eb49da15c937a3f"
+	"clienticon" "08b814c0e7b481ebe7db0e219ba88967e33b36d3"
+	"clienttga" "6012ea81d68607ad0dfc5610e61f17101373c1fd"
+	"name_localized"
+	{
+		"schinese" "奇唤士"
+		"tchinese" "奇喚士"
+		"japanese" "ソーマタージ"
+		"koreana" "디 쏘마터지"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"polish" "1"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1684350_eula_0"
+			"name" "The Thaumaturge EULA"
+			"url" "https://store.steampowered.com//eula/1684350_eula_0"
+			"version" "2"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1714780800"
+		"tested_build_id" "14203309"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"polish" "capsule_231x87_polish.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"polish" "header_polish.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomCenter"
+			"width_pct" "42.746317683853704"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1719238301"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Fool\'s Theory"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "11 bit studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "11 bit studios"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1709575200"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1684350"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6426"
+		"2" "4325"
+		"3" "9541"
+		"4" "4342"
+		"5" "1742"
+		"6" "5613"
+		"7" "5851"
+		"8" "4057"
+		"9" "5716"
+		"10" "5186"
+		"11" "3993"
+		"12" "4182"
+		"13" "3854"
+		"14" "21"
+		"15" "3834"
+		"16" "1684"
+		"17" "4604"
+		"18" "916648"
+		"19" "4166"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Fool\'s Theory"
+	"publisher" "11 bit studios"
+	"homepage" "http://www.thaumaturgethegame.com"
+	"listofdlc" "2777010"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "The Thaumaturge"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "TheThaumaturge.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+}
+"depots"
+{
+	"baselanguages" "polish"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1684351"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3827349087397519461"
+				"size" "24364424844"
+				"download" "22429446208"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"external_1"
+			{
+				"gid" "925AEE4AC1614D46A5673DDC0F3D8B7D"
+				"size" "4D2866E91D82D10BFFDA566E38C32E3D"
+				"download" "106B1F2F9BD01D5EFD14FF57CCF97FEC"
+			}
+			"lqa_test"
+			{
+				"gid" "739296267CCC563A87A95C351C424B0F"
+				"size" "0CF7D09D807E79EEE6D3B4F05B0E7201"
+				"download" "5CF8D8AB822F70829F060EEB54FD4607"
+			}
+			"marketing_press_release"
+			{
+				"gid" "328DDC953B390DD2D8152180643A89CC"
+				"size" "8E17FEC54FA07E472E7A601C90773028"
+				"download" "4F99F86EEB956C7072BBDD4C2E6745CA"
+			}
+			"profiling"
+			{
+				"gid" "7B3729F727F68BD5EFE76C0638AFE564"
+				"size" "C7409ACB6CBEF75EEB1F5DF51863E745"
+				"download" "9F06C6C8B5B9DD1959083549DC19A601"
+			}
+			"qa_backup"
+			{
+				"gid" "C8FC368297CFC6130E4E0D1C17762B10"
+				"size" "FB75F37F76B3B0F13429E9568E0C4708"
+				"download" "52520ECAFFC6B8A2C644AC2A714A82A6"
+			}
+			"release_build"
+			{
+				"gid" "BB637CD7162DA9BEBFA3BBD1EFB9CF00"
+				"size" "92B82AE32448C90665958CE9B81631D6"
+				"download" "A2D2ECAC33B06032D714FF8A7F2FA4EA"
+			}
+			"steam_deck_qa"
+			{
+				"gid" "CFD9965B94FBF0B9FA479F2091A7B701"
+				"size" "46A8BA922FCE69593EE2CD4A3BF1AA3A"
+				"download" "312F851C8E71E0C95941F1F950062A41"
+			}
+			"fqa_test"
+			{
+				"gid" "CCD1F1DB155406AAA3623A391A359014"
+				"size" "85240653948336A3E585CCE30F24E8D4"
+				"download" "4DFC02AC5B7664D9674B7027F1D8A74C"
+			}
+			"ft_daily"
+			{
+				"gid" "91AE5B6527EC78EC0136A8FB1C08031C"
+				"size" "5E3940673B46AB82ECEFB856B7E2A4AA"
+				"download" "3A8C0360D204FC7B9BEA63A3753565AA"
+			}
+			"marketing"
+			{
+				"gid" "5572D532D0D84020698CA297F6DDDC56"
+				"size" "0AD5404659AACFE86FD70BDD1DE9E8DC"
+				"download" "3D4A45A25644429FF0087FB761226AB8"
+			}
+			"steam_deck_review"
+			{
+				"gid" "B7DFEB65A93CD4AF4ED13533CE9AB16E"
+				"size" "30932B575B358C455D5BDCA6AE229153"
+				"download" "C09412F0BDECFEAA08843950951517D9"
+			}
+		}
+	}
+	"2777010"
+	{
+		"dlcappid" "2777010"
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7908042934278497045"
+				"size" "386116783"
+				"download" "361590000"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"lqa_test"
+			{
+				"gid" "3433D23830F582C28D1F2CE9E31F0D4F"
+				"size" "05D80FCF0BC68348D9B79343E59E5277"
+				"download" "C5756738028872EA284813ECBB7D0790"
+			}
+			"marketing_press_release"
+			{
+				"gid" "954828C12E29C0A9DD2285565D8FB3AA"
+				"size" "9CB5CFEB62D1D74F0300803F645BD40C"
+				"download" "CED2159DC47AF10AD11FA0F541EB8B3C"
+			}
+			"profiling"
+			{
+				"gid" "2ADBDAF51B82177816014B99CAE121B4"
+				"size" "6FE8FEADC1E572692510EDF2C92B2B57"
+				"download" "5364A2ABD0B1EDBF21E3192E32C5F493"
+			}
+			"qa_backup"
+			{
+				"gid" "3DD9B4856A9EE30D63060D33C6E780E1"
+				"size" "9C57C8F531F80BA0224626E7408BF895"
+				"download" "623B929B11214DE4276CE4D580F52FE0"
+			}
+			"release_build"
+			{
+				"gid" "A77DDECF7D17EF7A9F3B2C6C44C31504"
+				"size" "3DB19CC011DF0FAD22A464ABA8A70550"
+				"download" "9E390ABDB07AE14AF8197D5E082904C9"
+			}
+			"steam_deck_qa"
+			{
+				"gid" "B45EFCBD355D3B6D17D0EB920FDDB689"
+				"size" "03D3C74C2D220143D221FC08499F68BF"
+				"download" "50A78B049CAFA849DD82964EB9CE19DB"
+			}
+			"fqa_test"
+			{
+				"gid" "2AF6473FF0FA594C036C4378AFF8A474"
+				"size" "4FC141E71C4BB6E4C239EA103D1E6A79"
+				"download" "B9F4076AEDF4B1A709385B7D8C731606"
+			}
+			"ft_daily"
+			{
+				"gid" "9EE3A9DCE013C44414C83A23796ADD2E"
+				"size" "B5B3B989852B6E3F7E3DD2A0BE25534C"
+				"download" "DDA4C9D7E85F38C2461338C8FD1D0216"
+			}
+			"marketing"
+			{
+				"gid" "33813FC789FC3E2895B18117F3E01EAC"
+				"size" "38C6D4EE37901AC2F9822477F637BA90"
+				"download" "33677B0DF23AF23BA47CF184D4B43037"
+			}
+			"steam_deck_review"
+			{
+				"gid" "FF9EF43D60774286CD5BDFD3E3E872C2"
+				"size" "3332CBED1EB47F6127C998B7DA5637D8"
+				"download" "8C5DFE4D14A7659B4067B612DE66BC31"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14475006"
+			"timeupdated" "1716828739"
+		}
+		"external_1"
+		{
+			"buildid" "13284625"
+			"pwdrequired" "1"
+			"timeupdated" "1706524480"
+		}
+		"lqa_test"
+		{
+			"buildid" "14009594"
+			"pwdrequired" "1"
+			"timeupdated" "1712754058"
+		}
+		"marketing_press_release"
+		{
+			"buildid" "13563015"
+			"pwdrequired" "1"
+			"timeupdated" "1709121227"
+		}
+		"profiling"
+		{
+			"buildid" "13551573"
+			"pwdrequired" "1"
+			"timeupdated" "1708963006"
+		}
+		"qa_backup"
+		{
+			"buildid" "13881105"
+			"pwdrequired" "1"
+			"timeupdated" "1711621954"
+		}
+		"release_build"
+		{
+			"buildid" "13563015"
+			"pwdrequired" "1"
+			"timeupdated" "1709121188"
+		}
+		"steam_deck_qa"
+		{
+			"buildid" "13922364"
+			"pwdrequired" "1"
+			"timeupdated" "1712931407"
+		}
+		"fqa_test"
+		{
+			"buildid" "14824349"
+			"pwdrequired" "1"
+			"timeupdated" "1719269366"
+		}
+		"ft_daily"
+		{
+			"buildid" "14824079"
+			"pwdrequired" "1"
+			"timeupdated" "1719267123"
+		}
+		"marketing"
+		{
+			"buildid" "14152204"
+			"pwdrequired" "1"
+			"timeupdated" "1713956428"
+		}
+		"steam_deck_review"
+		{
+			"buildid" "14203309"
+			"pwdrequired" "1"
+			"timeupdated" "1714389766"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1048576000"
+	"maxnumfiles" "100"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "TheThaumaturge\\Saved\\SaveGames"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24101054"
+"_sha" "bfb71fa01c9c5c31b51799f2d51c602ed0c2f105"
+"_size" "10965"
