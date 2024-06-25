@@ -1,0 +1,349 @@
+"appid" "1268590"
+"common"
+{
+	"name" "Millennia"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "d2edd7419783ede6ac0f9fc3fe9881abbcaf7c55"
+	"clienttga" "4cbee03e18712b9a1b0d370f78387b3ed7796121"
+	"clienticon" "43328ab590a92ebc2b74b2aa6a87c38dd282d1b7"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1268590_eula_0"
+			"name" "Millennia EULA"
+			"url" "https://store.steampowered.com//eula/1268590_eula_0"
+			"version" "2"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "41.52739126076625"
+			"height_pct" "83.68022705771051"
+		}
+	}
+	"store_asset_mtime" "1716304459"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "C Prompt Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Paradox Interactive"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "28"
+		"1" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1711472340"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1268590"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1670"
+		"2" "1741"
+		"3" "4364"
+		"4" "599"
+		"5" "4598"
+		"6" "3987"
+		"7" "1677"
+		"8" "4695"
+		"9" "1678"
+		"10" "4182"
+		"11" "6310"
+		"12" "1708"
+		"13" "4168"
+		"14" "4711"
+		"15" "4853"
+		"16" "12472"
+		"17" "1717"
+		"18" "4325"
+		"19" "3859"
+	}
+	"review_score" "5"
+	"review_percentage" "68"
+}
+"extended"
+{
+	"developer" "C Prompt Games"
+	"publisher" "Paradox Interactive"
+	"homepage" "https://www.paradoxinteractive.com/games/millennia"
+	"listofdlc" "2647810,2829670,2829680,2829690,2829710"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Millennia"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "launcher/dowser.exe"
+			"type" "default"
+		}
+	}
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails"
+	{
+		"3262588166"
+		{
+			"controller_type" "controller_neptune"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english"
+	"hasdepotsindlc" "1"
+	"1268591"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1360370653827551879"
+				"size" "6040105302"
+				"download" "3073284304"
+			}
+			"openbeta"
+			{
+				"gid" "1360370653827551879"
+				"size" "6040105302"
+				"download" "3073284304"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"compatlab"
+			{
+				"gid" "FBE148E871340E4249182B85D0A851BA"
+				"size" "962F412D5C46E6226BA84F4CABC5CBC5"
+				"download" "A0593499270ADEAB21ECDE0E7D04E957"
+			}
+			"influencer"
+			{
+				"gid" "FCA89D932DF44D270B1E294A43313CC8"
+				"size" "024464E890AF52E24B5A78DB08570CD8"
+				"download" "4E57B6EA40B30E3B305AB08D45DE0A4F"
+			}
+			"dev_internal"
+			{
+				"gid" "AAA19154CC29AEE41CDB547F72C86078"
+				"size" "3CAB2C5BDDDBAEFB41736F6848AD7E62"
+				"download" "221B1022BA248EED72330AE5BCB01A77"
+			}
+			"dev_playtest"
+			{
+				"gid" "E284B58150E6F606E3EC21C1CBCCB481"
+				"size" "5EA0F3A61B776282623C61A643816461"
+				"download" "B22C102B9AD7CBB70CBCA063B9AAC06A"
+			}
+			"dev_playtest2"
+			{
+				"gid" "F3D720C71AC35BB7248BBBBFD216BD5F"
+				"size" "D9F3B68F07E4C6F7B9704C236BA9E8D5"
+				"download" "73663C7BD78C40DFE4912FC697E383E0"
+			}
+			"dev_testbuild"
+			{
+				"gid" "3166A08D4D9C0C4E30DF1F70747050D3"
+				"size" "09473A46BD18FBD96406D121BA0CF458"
+				"download" "E125717805F0A3E2503C2125CE0A93CE"
+			}
+		}
+	}
+	"2647810"
+	{
+		"dlcappid" "2647810"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8194239366616770741"
+				"size" "261085722"
+				"download" "225768080"
+			}
+			"openbeta"
+			{
+				"gid" "8194239366616770741"
+				"size" "261085722"
+				"download" "225768080"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"dev_internal"
+			{
+				"gid" "C41200BD543E97DEA921E208A62A0D05"
+				"size" "BB49D7230E31A26407EF03C126BEB900"
+				"download" "E4713E9A8EEE7113DBCE1547B250612E"
+			}
+			"dev_playtest"
+			{
+				"gid" "393C8F63D4E5140BD8D29AFC47E5FCD0"
+				"size" "FEF076F159AADA096D407473F799BD21"
+				"download" "F9157FCD2DA839BD0475CCD780AAEB2F"
+			}
+			"dev_playtest2"
+			{
+				"gid" "F5B65E62758B5DA2D0D3263114F7C16F"
+				"size" "39A5359DCEAF65652AAFE1343CDA41D0"
+				"download" "CF5E92CE6BF168814D045D775FF9569E"
+			}
+			"dev_testbuild"
+			{
+				"gid" "8D686C96F386E4F5BF92A39080D02666"
+				"size" "1A11CE8805F8BA140BCC3A0CCA10F777"
+				"download" "A0C9430F38EF54CFBF6583ACFB2F7629"
+			}
+		}
+		"config"
+		{
+			"optionaldlc" "2647810"
+		}
+	}
+	"workshopdepot" "1268590"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14696253"
+			"timeupdated" "1718629265"
+		}
+		"compatlab"
+		{
+			"buildid" "13420257"
+			"pwdrequired" "1"
+			"timeupdated" "1707534341"
+		}
+		"influencer"
+		{
+			"buildid" "13707743"
+			"pwdrequired" "1"
+			"timeupdated" "1710203165"
+		}
+		"dev_internal"
+		{
+			"buildid" "14409459"
+			"pwdrequired" "1"
+			"timeupdated" "1717613687"
+		}
+		"dev_playtest"
+		{
+			"buildid" "14801006"
+			"pwdrequired" "1"
+			"timeupdated" "1719019462"
+		}
+		"dev_playtest2"
+		{
+			"buildid" "14785646"
+			"pwdrequired" "1"
+			"timeupdated" "1718914775"
+		}
+		"dev_testbuild"
+		{
+			"buildid" "14822703"
+			"pwdrequired" "1"
+			"timeupdated" "1719265136"
+		}
+		"openbeta"
+		{
+			"buildid" "14696253"
+			"description" "For public testing of upcoming updates"
+			"timeupdated" "1718315217"
+		}
+	}
+	"appmanagesdlc" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10000"
+}
+"_missing_token" "False"
+"_change_number" "24100468"
+"_sha" "f0538316be16cac4cfa59060ef7e5e531f7508ee"
+"_size" "6548"
