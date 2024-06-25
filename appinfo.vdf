@@ -1,0 +1,378 @@
+"appid" "1159690"
+"common"
+{
+	"name" "Voidtrain"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "bc67f2c57b64819821abee5f5da08c0297b1867a"
+	"logo_small" "bc67f2c57b64819821abee5f5da08c0297b1867a_thumb"
+	"clienticon" "99f29e9c22adedf6cd469b7133e6b801819d8749"
+	"clienttga" "6956a240fa0102753df8022692668201a56f82d6"
+	"icon" "42ac88f2a79b018eafbffb48c6fc17dc60957b6f"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "虚空列车"
+	}
+	"languages"
+	{
+		"english" "1"
+		"russian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1684454400"
+		"tested_build_id" "11203615"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-2"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Voidtrain"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "57.6659038901602"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1717064289"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "HypeTrain Digital"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "HypeTrain Digital"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "HypeTrain Digital"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_38" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_27" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1683647940"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1159690"
+	"store_tags"
+	{
+		"0" "1100689"
+		"1" "1685"
+		"2" "1662"
+		"3" "3859"
+		"4" "7332"
+		"5" "1695"
+		"6" "1702"
+		"7" "3843"
+		"8" "21"
+		"9" "3839"
+		"10" "3834"
+		"11" "1643"
+		"12" "4166"
+		"13" "4182"
+		"14" "3810"
+		"15" "19"
+		"16" "599"
+		"17" "493"
+		"18" "1616"
+		"19" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "73"
+}
+"extended"
+{
+	"developer" "HypeTrain Digital"
+	"publisher" "HypeTrain Digital"
+	"listofdlc" "2348780"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Voidtrain"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "VoidTrain.exe"
+			"arguments" "-EOS_OVERLAY_DISABLE"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1159691"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3882286607261278904"
+				"size" "36847386241"
+				"download" "11912536592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"testbranch2"
+			{
+				"gid" "D034264861D396A870D4ADCB539051C9"
+				"size" "F0E92761A3B43E9908552A1A250A0639"
+				"download" "E13D89A1D9494376772157FA8D219F60"
+			}
+			"testbranch2-dev"
+			{
+				"gid" "1AE43D57D89BD2A82CC5F8AE4B5FE9AE"
+				"size" "FC5FB0133BDEA38CBA4C396F3E567785"
+				"download" "2869B2DE87756B9C886581112B5C8358"
+			}
+			"testbranch3"
+			{
+				"gid" "D7E5D0296D0287AF1D27624128CCF6B4"
+				"size" "6FABC416D49EE6F09CD0C74E41609998"
+				"download" "C7869CFFC448587065BA09A19E41DD58"
+			}
+			"fullbuild"
+			{
+				"gid" "147719F0AB73A0CD9A9BCE467BC0836B"
+				"size" "3E78F782777D1A4A91D952E902279274"
+				"download" "07031889886A85F91DFA9423C16C5BC6"
+			}
+			"testbranch"
+			{
+				"gid" "F0D0665401D01006BA43E83F67B1DD85"
+				"size" "129008E11FB8AD002772DABF93E1FBF4"
+				"download" "4E7A43BAC01E8BFE07D7DE4B8BA22091"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,russian,japanese,polish,turkish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14566174"
+			"timeupdated" "1717195266"
+		}
+		"testbranch2"
+		{
+			"buildid" "12451797"
+			"pwdrequired" "1"
+			"timeupdated" "1697461461"
+		}
+		"testbranch2-dev"
+		{
+			"buildid" "11860974"
+			"pwdrequired" "1"
+			"timeupdated" "1691092971"
+		}
+		"testbranch3"
+		{
+			"buildid" "13844524"
+			"pwdrequired" "1"
+			"timeupdated" "1711376384"
+		}
+		"fullbuild"
+		{
+			"buildid" "14769125"
+			"pwdrequired" "1"
+			"timeupdated" "1718806247"
+		}
+		"testbranch"
+		{
+			"buildid" "14392915"
+			"pwdrequired" "1"
+			"timeupdated" "1715881791"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "VoidTrain/Saved/SaveGames/SteamCloud"
+			"pattern" "*.sav"
+			"recursive" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24035126"
+"_sha" "f6dabe514c3c146dfddba147c217cea7160e177d"
+"_size" "7030"
