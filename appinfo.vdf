@@ -1,0 +1,451 @@
+"appid" "1465460"
+"common"
+{
+	"name" "Infection Free Zone"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "7aa281e55d0d0352de7ef583f24448dc0d65c528"
+	"logo" "c9faf224155caf3d274fa8e1e3995bc1786766c3"
+	"logo_small" "c9faf224155caf3d274fa8e1e3995bc1786766c3_thumb"
+	"clienticon" "6dd2cdf8e734305c8e26ebe06702c73199770fa4"
+	"clienttga" "4b01e8181b6158bb0d25736ceb0d719f2c024b2d"
+	"linuxclienticon" "b7d7c7b8929fd6da201bcc0c29674ec310fe00f3"
+	"clienticns" "de22118b7db9a3897325130a1eac24a1ebfd8cf3"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "Infection Free Zone (无感染区)"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1465460_eula_0"
+			"name" "Infection Free Zone EULA"
+			"url" "https://store.steampowered.com//eula/1465460_eula_0"
+			"version" "1"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1713916800"
+		"tested_build_id" "14052126"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "63.704220702029545"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1718959000"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Jutsu Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Games Operators"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Games Operators"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1712854313"
+	"community_visible_stats" "1"
+	"workshop_visible" "1"
+	"community_hub_visible" "1"
+	"gameid" "1465460"
+	"store_tags"
+	{
+		"0" "7332"
+		"1" "3835"
+		"2" "4328"
+		"3" "9"
+		"4" "1659"
+		"5" "599"
+		"6" "12472"
+		"7" "1100686"
+		"8" "1676"
+		"9" "3810"
+		"10" "220585"
+		"11" "1662"
+		"12" "9204"
+		"13" "16689"
+		"14" "4191"
+		"15" "4182"
+		"16" "4094"
+		"17" "4166"
+		"18" "4342"
+		"19" "5030"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "Jutsu Games"
+	"publisher" "Games Operators"
+	"homepage" "http://infection-free-zone.com/"
+}
+"config"
+{
+	"installdir" "Infection Free Zone"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Infection Free Zone.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1465461"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "5705398608920551215"
+				"size" "4875028409"
+				"download" "2915751776"
+			}
+			"open_beta"
+			{
+				"gid" "5705398608920551215"
+				"size" "4875028409"
+				"download" "2915751776"
+			}
+			"previous"
+			{
+				"gid" "2433551459388909644"
+				"size" "4772796448"
+				"download" "2899351312"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"last_with_fps_ok"
+			{
+				"gid" "9863FB92118D7F038B96E1C13D804465"
+				"size" "F6B1B677BFCB9B44C685D4D2AFEAB410"
+				"download" "C8FA9D1EF237C52F8CD1B83C8EB937F0"
+			}
+			"pga_2022"
+			{
+				"gid" "9BDE13CA4B962328A24D11FD416EDC33"
+				"size" "A2F230940B92EB0728DFF963196E0306"
+				"download" "9CB1C730C46F7E746F03EF312BA57236"
+			}
+			"pga_2022_offline"
+			{
+				"gid" "E79E6B7235A62559FD2FB2D80270C942"
+				"size" "A9D68F5F92CF660651DD99EACB97EA26"
+				"download" "7219E5EBF3A254A0D968B77F42664EE0"
+			}
+			"testing"
+			{
+				"gid" "A96E9053813274A638334AFCC52D8375"
+				"size" "85438F687B31C7724954E61739194247"
+				"download" "53D0B17AEE007419A46EF484B5A4CF65"
+			}
+			"development"
+			{
+				"gid" "ABEB7BE6924903670EC88E98BE5781D3"
+				"size" "D4253DF72EDE63C46E01E0B23008E5A6"
+				"download" "816EEA8453959AFE1D97F97F966218A8"
+			}
+			"experimental"
+			{
+				"gid" "F0BA1DEFF40A409DCB3A781A76B734F2"
+				"size" "35BBE64F3CFDE2C01F60EDB02690B767"
+				"download" "6547C6446ED9470C79120926FC1CA41F"
+			}
+			"future_candidate"
+			{
+				"gid" "EB121B64553320DBD0C84A330499F9EC"
+				"size" "9A904CE69EEC9478A54DF170207CDD38"
+				"download" "B47EC40FB85E437F44F1DD2A0C6BC672"
+			}
+			"internal"
+			{
+				"gid" "63ABD3EF2CF6185C0D40121CC4699F4B"
+				"size" "025D2BFC656332F589C6D0B1BC52DFC7"
+				"download" "BA9AA7B9CDD2EACCCA2901BB40458B19"
+			}
+		}
+	}
+	"workshopdepot" "1465460"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14749266"
+			"timeupdated" "1718797737"
+		}
+		"last_with_fps_ok"
+		{
+			"buildid" "11463853"
+			"pwdrequired" "1"
+			"timeupdated" "1688395829"
+		}
+		"pga_2022"
+		{
+			"buildid" "9668568"
+			"pwdrequired" "1"
+			"timeupdated" "1665071781"
+		}
+		"pga_2022_offline"
+		{
+			"buildid" "9677328"
+			"pwdrequired" "1"
+			"timeupdated" "1665399574"
+		}
+		"testing"
+		{
+			"buildid" "13938776"
+			"pwdrequired" "1"
+			"timeupdated" "1712164083"
+		}
+		"development"
+		{
+			"buildid" "14801307"
+			"pwdrequired" "1"
+			"timeupdated" "1719022078"
+		}
+		"experimental"
+		{
+			"buildid" "14782653"
+			"pwdrequired" "1"
+			"timeupdated" "1718894674"
+		}
+		"future_candidate"
+		{
+			"buildid" "14749266"
+			"pwdrequired" "1"
+			"timeupdated" "1718711477"
+		}
+		"internal"
+		{
+			"buildid" "14801245"
+			"pwdrequired" "1"
+			"timeupdated" "1719021397"
+		}
+		"open_beta"
+		{
+			"buildid" "14749266"
+			"description" "New builds still in testing"
+			"timeupdated" "1718711487"
+		}
+		"previous"
+		{
+			"buildid" "14614059"
+			"description" "previous default build"
+			"timeupdated" "1718797710"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "JutsuGames/Infection Free Zone/Cloud/{64BitSteamID}"
+			"pattern" "*.dat"
+			"recursive" "1"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "JutsuGames/Infection Free Zone/Saves/"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+		"2"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "JutsuGames/Infection Free Zone/TileStats/"
+			"pattern" "*.*"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24095471"
+"_sha" "8df0ec78e1112d0cf98bf4a6e5433abb8125e915"
+"_size" "8656"
