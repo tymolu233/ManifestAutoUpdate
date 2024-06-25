@@ -1,0 +1,260 @@
+"appid" "2530420"
+"common"
+{
+	"name" "Fatermyth"
+	"type" "Game"
+	"icon" "8ecceb8187209f1aea67069fe356379d9ef65d28"
+	"clienticon" "e494e476147b845138ee3eb9ba2ba0580747b30e"
+	"clienttga" "f7cb8aea2527db94e71689a3c113565fd0e0cc35"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "命定奇谭"
+		"tchinese" "命定奇譚"
+	}
+	"controllertagwizard" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-tw,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "zh-cn,en,zh-tw"
+		"library_header" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "32.598834345694115"
+			"height_pct" "75"
+		}
+	}
+	"store_asset_mtime" "1715249590"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "KDream"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "ETime Studio"
+		}
+	}
+	"primary_genre" "3"
+	"genres"
+	{
+		"0" "25"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1713857336"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2530420"
+	"store_tags"
+	{
+		"0" "21"
+		"1" "1742"
+		"2" "122"
+		"3" "32322"
+		"4" "5984"
+		"5" "7208"
+		"6" "17389"
+		"7" "3854"
+		"8" "4182"
+		"9" "1666"
+		"10" "14139"
+		"11" "4486"
+		"12" "791774"
+		"13" "492"
+		"14" "4166"
+		"15" "3871"
+		"16" "4325"
+		"17" "1684"
+		"18" "6971"
+		"19" "9"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"absolutemousecoordinates" "0"
+	"remoteplaytogethertestingbranches" "default,fullversion"
+	"developer" "KDream"
+	"publisher" "ETime Studio"
+	"listofdlc" "2916730"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "命定奇谭"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Fatermyth.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"hasdepotsindlc" "0"
+	"2530421"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6563729595477411996"
+				"size" "5534305842"
+				"download" "1001494416"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"weplay"
+			{
+				"gid" "4A0B0637FB2957D9CEA91B28DEBB7AEE"
+				"size" "B7181E4B864ED8FF1E15297FAF98F549"
+				"download" "D60C9D68575774B5887529D89E856D04"
+			}
+			"debug"
+			{
+				"gid" "F10251BA10ECB50F971FA7D1B5C22419"
+				"size" "5C9620D235E8A5B8C7C274141A993F5D"
+				"download" "42CFD8EC8C5905C75432B554E4A549E3"
+			}
+			"fullversion"
+			{
+				"gid" "E293B1FEAC1AAFFD7F68B497C10D68ED"
+				"size" "04F88E05CCB65646EE87C23513D2B968"
+				"download" "F539E0678392F7DAD343F487514B35B0"
+			}
+		}
+	}
+	"2916730"
+	{
+		"dlcappid" "2916730"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2064620681140460928"
+				"size" "604816071"
+				"download" "604803568"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"debug"
+			{
+				"gid" "269C7DC37B55B69F4E4D36E1119C0899"
+				"size" "5FAABFCF110C49934F7DA2988421F423"
+				"download" "5825C3FD1C2B82D5F0D995D887974A51"
+			}
+			"fullversion"
+			{
+				"gid" "1A57A4135B9B673237B7237BBE18ED2F"
+				"size" "2BA9CCAD31F7AE9E3D2BC13B141437AF"
+				"download" "A124E732B106FAA7B57F3E1C71A8D8F3"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14783588"
+			"timeupdated" "1718898377"
+		}
+		"weplay"
+		{
+			"buildid" "12718132"
+			"pwdrequired" "1"
+			"timeupdated" "1700122676"
+		}
+		"debug"
+		{
+			"buildid" "14465890"
+			"pwdrequired" "1"
+			"timeupdated" "1716454173"
+		}
+		"fullversion"
+		{
+			"buildid" "14700818"
+			"pwdrequired" "1"
+			"timeupdated" "1718254233"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "50000000"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "KDREAM\\Fatermyth"
+			"pattern" "*.kd"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24052249"
+"_sha" "7a546a5545d9c0d6307d3262dc4659580f6d6f58"
+"_size" "4607"
