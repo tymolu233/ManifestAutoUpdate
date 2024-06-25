@@ -1,0 +1,266 @@
+"appid" "1473350"
+"common"
+{
+	"name" "(the) Gnorp Apologue"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "cc69eb69ec460198b2569c09b5dd87a7c7ee7418"
+	"clienttga" "083e94cf59ea13512833c24d9b1d73e5eda7d71a"
+	"icon" "c0ce2ae2660a7d0590b777e2cdbc6395d78e99c3"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "糯米团子历代记"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"japanese" "1"
+		"brazilian" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1704240000"
+		"tested_build_id" "13032231"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn"
+		"library_hero" "en"
+		"library_logo" "en,zh-cn"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "62.40409207161126"
+			"height_pct" "64.23611111111111"
+		}
+	}
+	"store_asset_mtime" "1718996444"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Myco"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "(Myco) "
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+		"3" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1702576817"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1473350"
+	"store_tags"
+	{
+		"0" "379975"
+		"1" "615955"
+		"2" "9"
+		"3" "1643"
+		"4" "3959"
+		"5" "4695"
+		"6" "12472"
+		"7" "4726"
+		"8" "5981"
+		"9" "3871"
+		"10" "1716"
+		"11" "597"
+		"12" "599"
+		"13" "3964"
+		"14" "4094"
+		"15" "4305"
+		"16" "8945"
+		"17" "4182"
+		"18" "492"
+		"19" "13782"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "Myco"
+	"publisher" "(Myco) "
+	"homepage" "https://gnorp.dev/"
+}
+"config"
+{
+	"installdir" "Gnorp"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "(the) Gnorp Apologue.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"1473352"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1229099878770664826"
+				"size" "61448213"
+				"download" "51629200"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta"
+			{
+				"gid" "2347F474AEF7A1166357E22B9C2DD85D"
+				"size" "E7620EB028672D961FCD6802C3A71217"
+				"download" "F119C01662DF28E988239C7BFB7722A0"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14798308"
+			"timeupdated" "1718997854"
+		}
+		"beta"
+		{
+			"buildid" "14798266"
+			"pwdrequired" "1"
+			"timeupdated" "1718997093"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataRoaming"
+			"path" "Gnorp/Apologue/Saves"
+			"pattern" "*.gnorp"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24071148"
+"_sha" "8656186591709dd56e32768473b17bd257ca1cc5"
+"_size" "4533"
