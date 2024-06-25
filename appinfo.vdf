@@ -1,0 +1,294 @@
+"appid" "2171630"
+"common"
+{
+	"name" "地心归途 Return From Core"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "15ac0f7916ef76edbacbe1f97f39dc854839fbef"
+	"clienttga" "31611ec4ed6d2913446df81fd42d3b4b3c79bb89"
+	"clienticon" "9b08688e11b9960aca56ab69421c3dee7f9a9e33"
+	"name_localized"
+	{
+		"english" "Return from Core"
+		"schinese" "地心归途"
+		"tchinese" "地心歸途"
+		"japanese" "リターン・フロム・コア"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1704499200"
+		"tested_build_id" "13019434"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotSupported"
+			}
+			"5"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"schinese" "header_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "zh-cn,en"
+		"library_logo" "zh-cn,en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "40.58289503755904"
+			"height_pct" "70.00093999841687"
+		}
+	}
+	"store_asset_mtime" "1714464035"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tanxun Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "2P Games"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "2P Games"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "28"
+		"5" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1702657928"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2171630"
+	"store_tags"
+	{
+		"0" "1702"
+		"1" "1662"
+		"2" "7332"
+		"3" "255534"
+		"4" "3810"
+		"5" "4182"
+		"6" "493"
+		"7" "21"
+		"8" "1720"
+		"9" "1643"
+		"10" "3834"
+		"11" "5981"
+		"12" "599"
+		"13" "122"
+		"14" "87918"
+		"15" "4231"
+		"16" "3993"
+		"17" "4106"
+		"18" "4695"
+		"19" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Tanxun Studio"
+	"publisher" "2P Games"
+}
+"config"
+{
+	"installdir" "Return From Core"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Return From Core\\Return From Core.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"2171631"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7271719134419119739"
+				"size" "1638701624"
+				"download" "727194160"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"console"
+			{
+				"gid" "3BF20A27446586605E3E6D932B711017"
+				"size" "42CA2A7DDD9D4643DC1E975EE02A2975"
+				"download" "07FE65F23DA83CF0EAA2564F76B6735A"
+			}
+			"test"
+			{
+				"gid" "D67CA299D30ADBC4AE2A5A78F1747EB3"
+				"size" "164189078BF491A467FA86E4BB85B614"
+				"download" "F681E3A2F4490A3C313ADB2B2737521C"
+			}
+		}
+	}
+	"baselanguages" "english,schinese,tchinese,japanese"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14791677"
+			"timeupdated" "1718963909"
+		}
+		"console"
+		{
+			"buildid" "13527025"
+			"pwdrequired" "1"
+			"timeupdated" "1708574229"
+		}
+		"test"
+		{
+			"buildid" "14791677"
+			"pwdrequired" "1"
+			"timeupdated" "1718958325"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "10"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Return From Core/SavesDir"
+			"pattern" "*.json"
+			"platforms"
+			{
+				"1" "Windows"
+			}
+			"recursive" "1"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "24099112"
+"_sha" "6b368f1a3da1da20c9af2287f49483776beb8d34"
+"_size" "5361"
