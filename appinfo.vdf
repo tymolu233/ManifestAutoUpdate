@@ -1,0 +1,531 @@
+"appid" "1937500"
+"common"
+{
+	"name" "Let\'s School"
+	"type" "Game"
+	"releasestate" "released"
+	"icon" "ee8e8ba70a3f8b7f2eae27d052d872b6b87c602f"
+	"clienticon" "f0b5d027682ddd6036d48de9eb112e16f1597161"
+	"clienttga" "44e64390f54f374c589d759953fbe585c91b8d28"
+	"name_localized"
+	{
+		"schinese" "学园构想家"
+		"sc_schinese" "学园构想家"
+	}
+	"releasestatesteamchina" "prerelease"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"koreana" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"japanese" "1"
+	}
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1691798400"
+		"tested_build_id" "11866082"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-experimental"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"schinese" "capsule_231x87_schinese.jpg"
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-cn,en"
+		"library_hero" "en,zh-cn"
+		"library_logo" "zh-cn,en"
+		"library_header" "en,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.694885044943405"
+			"height_pct" "73.44628156415736"
+		}
+	}
+	"store_asset_mtime" "1715247220"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Pathea Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Pathea Games"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PM Studios, inc."
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Pathea Games"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "PM Studios, inc."
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "4"
+		"1" "23"
+		"2" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_29" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1690422600"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1937500"
+	"store_tags"
+	{
+		"0" "12472"
+		"1" "4328"
+		"2" "9"
+		"3" "599"
+		"4" "3810"
+		"5" "1643"
+		"6" "1036"
+		"7" "1100688"
+		"8" "4136"
+		"9" "30358"
+		"10" "1654"
+		"11" "5350"
+		"12" "4182"
+		"13" "16689"
+		"14" "1719"
+		"15" "4695"
+		"16" "4191"
+		"17" "1732"
+		"18" "492"
+		"19" "1695"
+	}
+	"review_score" "8"
+	"review_percentage" "92"
+}
+"extended"
+{
+	"developer" "Pathea Games"
+	"publisher" "Pathea Games"
+	"listofdlc" "2802470"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Let\'s School"
+	"launch"
+	{
+		"3"
+		{
+			"executable" "学园构想家.exe"
+			"type" "default"
+			"config"
+			{
+				"betakey" "steam_china_only"
+			}
+			"description_loc"
+			{
+				"english" "老版本启动项"
+			}
+			"description" "老版本启动项"
+		}
+		"4"
+		{
+			"executable" "LetsSchool.exe"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "新版本启动项"
+			}
+			"description" "新版本启动项"
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+	"steamcontrollertouchtemplateindex" "1"
+	"steamcontrollertouchconfigdetails"
+	{
+		"2054479888"
+		{
+			"controller_type" "controller_mobile_touch"
+			"enabled_branches" "default"
+			"use_action_block" "false"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamcontrollertemplateindex" "1"
+	"steamcontrollerconfigdetails" ""
+}
+"depots"
+{
+	"baselanguages" "english"
+	"workshopdepot" "1937500"
+	"1937501"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4238625317200593212"
+				"size" "2080338907"
+				"download" "585433856"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"2023_11_privatetest"
+			{
+				"gid" "1AA2BCAD13C6E771D1A9B24B2CEBFEF6"
+				"size" "CE28BBD81BAE25C859F13AA4CEBA3D07"
+				"download" "CE28BBD81BAE25C859F13AA4CEBA3D07"
+			}
+			"2023_12_13_test"
+			{
+				"gid" "4936A9CB958417B37E0D1FAAB34BFF06"
+				"size" "6284A5941B35B3A92BA76E276EF3DA59"
+				"download" "43E19ED566672D2FDBB4D42FF52CCE2D"
+			}
+			"i18n_test_1020"
+			{
+				"gid" "7AA8E4A004A4F3204DB1C99F19B8F11A"
+				"size" "577B624EFCF7D9FCAE62730B4750D39F"
+				"download" "577B624EFCF7D9FCAE62730B4750D39F"
+			}
+			"jp_i18n_test"
+			{
+				"gid" "62F46E83B766BE1BC6CE8C6356EA472F"
+				"size" "FF8643AC0EE413AA0DF5A1ACFC26B1FD"
+				"download" "FF8643AC0EE413AA0DF5A1ACFC26B1FD"
+			}
+			"mediareview"
+			{
+				"gid" "7C3587D50B9979B2F5837E2A91D5A1F7"
+				"size" "D4E4218FB8F21525C0088E47C922EF24"
+				"download" "D4E4218FB8F21525C0088E47C922EF24"
+			}
+			"principal-version"
+			{
+				"gid" "9F46DC5D0D7A6DD4CE97C298B9D5E7F4"
+				"size" "9270D9C1DD39F68FCA17A65509E6606E"
+				"download" "9270D9C1DD39F68FCA17A65509E6606E"
+			}
+			"ru__test"
+			{
+				"gid" "6EAA8B2E878635FC3814019ADC598436"
+				"size" "A84B5E26180C01189A29024ABF46DB18"
+				"download" "A84B5E26180C01189A29024ABF46DB18"
+			}
+			"steam_china_only"
+			{
+				"gid" "96F506B0F3FE9DDC0F652B4BA9DBBDEA"
+				"size" "9BE0776AFECD856437A1B735804E6B02"
+				"download" "9BE0776AFECD856437A1B735804E6B02"
+			}
+			"build-test"
+			{
+				"gid" "4DCA3CDCD39C2A0A1B74A67D46E202B2"
+				"size" "7FC562F45AD2F01F2A7EB3547CCA0E85"
+				"download" "3536DEC28F60293CB9F75E8EB971FC00"
+			}
+			"build-test2"
+			{
+				"gid" "08FCCA89BB2ED4AA93A041B3686148DD"
+				"size" "B0DD196FEC674892D678F172EEF35FBC"
+				"download" "B0DD196FEC674892D678F172EEF35FBC"
+			}
+			"modtest"
+			{
+				"gid" "7EBD805C99F1ADF0183C47CA086CC890"
+				"size" "B26479E8687D120B85F0AD7D3AF4AE4E"
+				"download" "B26479E8687D120B85F0AD7D3AF4AE4E"
+			}
+			"programmer_test"
+			{
+				"gid" "21B175C5B95F7EB3DAA17F3A946E7203"
+				"size" "F72EE401E07E2A921C9C523E031A55A3"
+				"download" "E26592DC54F0428F50EA59E851FE96AE"
+			}
+		}
+	}
+	"1937502"
+	{
+		"config"
+		{
+			"oslist" "macos"
+			"osarch" "64"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14065256"
+			"timeupdated" "1713252043"
+		}
+		"2023_11_privatetest"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1710383184"
+			"sc_schinese" "社团测试"
+		}
+		"2023_12_13_test"
+		{
+			"buildid" "13365866"
+			"pwdrequired" "1"
+			"timeupdated" "1707115023"
+			"sc_schinese" "学院实验班"
+		}
+		"i18n_test_1020"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1710384490"
+			"sc_schinese" "多语言测试"
+		}
+		"jp_i18n_test"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1710384427"
+			"sc_schinese" "日语测试"
+		}
+		"mediareview"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1710383196"
+			"sc_schinese" "媒体测试分支"
+		}
+		"principal-version"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1710384594"
+			"sc_schinese" "内部先行版"
+		}
+		"ru__test"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1710384536"
+			"sc_schinese" "俄语测试"
+		}
+		"steam_china_only"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1710383042"
+			"sc_schinese" "仅中国"
+		}
+		"build-test"
+		{
+			"buildid" "14793174"
+			"pwdrequired" "1"
+			"timeupdated" "1718966249"
+			"sc_schinese" "构建测试"
+		}
+		"build-test2"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1718687837"
+			"sc_schinese" "构建测试2"
+		}
+		"modtest"
+		{
+			"buildid" "11163283"
+			"pwdrequired" "1"
+			"timeupdated" "1718687853"
+			"sc_schinese" "Mod功能测试"
+		}
+		"programmer_test"
+		{
+			"buildid" "14685596"
+			"pwdrequired" "1"
+			"timeupdated" "1718156900"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "99999999999"
+	"maxnumfiles" "10000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Pathea Games/LetsSchool/Saves"
+			"pattern" "*"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Pathea Games/LetsSchool/Saves"
+					"replace" "unity.Pathea Games.LetsSchool/Saves"
+				}
+			}
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "Linux"
+			"oscompare" "="
+			"useinstead" "LinuxHome"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Pathea Games/LetsSchool/Saves"
+					"replace" ".config/unity3d/Pathea Games/LetsSchool/Saves"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24064647"
+"_sha" "8a39d1201564cf190f769e3fd4dd1cad20a0dd2f"
+"_size" "10541"
