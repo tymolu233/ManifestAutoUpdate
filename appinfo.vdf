@@ -1,0 +1,739 @@
+"appid" "2375750"
+"common"
+{
+	"name" "Railway Empire 2 - Original Soundtrack"
+	"type" "Music"
+	"parent" "1644320"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "d59d75a5ddfab9b2342f8b470035e9a1132ba2bb"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1683720282"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gaming Minds Studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Kalypso Media"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_50" "1"
+	}
+	"steam_release_date" "1685034355"
+	"gameid" "2375750"
+	"exfgls" "6"
+}
+"extended"
+{
+	"musicalbumforappid" "1644320"
+	"developer" "Gaming Minds Studios"
+	"publisher" "Kalypso Media"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Railway Empire 2 Soundtrack"
+}
+"depots"
+{
+	"2375751"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4385711669159547863"
+				"size" "212119774"
+				"download" "185440432"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"update-1"
+			{
+				"gid" "C829FF64D2CDE7F06380780D1B491C2D"
+				"size" "986E1AFDC5B204B10636A78E9A4D57AF"
+				"download" "E1E4DB435102C2C7423B83D793F2500F"
+			}
+		}
+	}
+	"2375752"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6404909797479707309"
+				"size" "1170986644"
+				"download" "1023428192"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"update-1"
+			{
+				"gid" "0FE8AA15220C006C2121FF779C2B59D9"
+				"size" "BF8197F8FDDEFAC5D021E57F7F2B016A"
+				"download" "6FC20A57F74A9B069F5B777DBB821DCA"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "12990694"
+			"timeupdated" "1708007393"
+		}
+		"update-1"
+		{
+			"buildid" "12990694"
+			"pwdrequired" "1"
+			"timeupdated" "1702912663"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "a03ff526a8f1f95bb49482fdab98d9f52fa906e0"
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "Dag Winderlich"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"english" "Dag Winderlich"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"english" "Kalypso Media"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"english" "Developed by Gaming Minds Studios. Published by Kalypso Media."
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "Arriving in Seattle"
+			"m" "1"
+			"s" "10"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Beethoven - Groschen - Part 1"
+			"m" "3"
+			"s" "29"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Beethoven - Groschen - Part 2"
+			"m" "3"
+			"s" "16"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Dirty Strat Jingle"
+			"m" "0"
+			"s" "21"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Europe Flute"
+			"m" "0"
+			"s" "55"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Fairytale of a Bridge"
+			"m" "1"
+			"s" "54"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Flutes Play Steams"
+			"m" "1"
+			"s" "29"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "German Hanshorns"
+			"m" "1"
+			"s" "59"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "German March Mono Grammo"
+			"m" "4"
+			"s" "12"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Go West"
+			"m" "1"
+			"s" "15"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Grand Canyon Duduk"
+			"m" "1"
+			"s" "16"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Hillslider"
+			"m" "3"
+			"s" "9"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Ireland Cinescape"
+			"m" "0"
+			"s" "35"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "Just Jazz 1"
+			"m" "1"
+			"s" "49"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "Just Jazz 2"
+			"m" "0"
+			"s" "56"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "Nordic Fiddles"
+			"m" "1"
+			"s" "56"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "Northern Europe"
+			"m" "1"
+			"s" "20"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "Norway Icebreaker"
+			"m" "1"
+			"s" "29"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "Nylon Dudu Strings Jingle"
+			"m" "0"
+			"s" "27"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "Nylon Uni Jingle 1"
+			"m" "0"
+			"s" "18"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "Nylon Uni Jingle 2"
+			"m" "0"
+			"s" "26"
+		}
+		"21"
+		{
+			"discnumber" "1"
+			"tracknumber" "22"
+			"originalname" "Railway One Memorial"
+			"m" "1"
+			"s" "31"
+		}
+		"22"
+		{
+			"discnumber" "1"
+			"tracknumber" "23"
+			"originalname" "Seattle Memphis in only 57 hours"
+			"m" "4"
+			"s" "9"
+		}
+		"23"
+		{
+			"discnumber" "1"
+			"tracknumber" "24"
+			"originalname" "Slow Jazz to Jersey"
+			"m" "1"
+			"s" "3"
+		}
+		"24"
+		{
+			"discnumber" "1"
+			"tracknumber" "25"
+			"originalname" "Strat &amp; Harmonic Jingle"
+			"m" "0"
+			"s" "24"
+		}
+		"25"
+		{
+			"discnumber" "1"
+			"tracknumber" "26"
+			"originalname" "The Longest Train"
+			"m" "2"
+			"s" "5"
+		}
+		"26"
+		{
+			"discnumber" "1"
+			"tracknumber" "27"
+			"originalname" "Trails of Lakewood"
+			"m" "2"
+			"s" "37"
+		}
+		"27"
+		{
+			"discnumber" "1"
+			"tracknumber" "28"
+			"originalname" "Train to Basel"
+			"m" "1"
+			"s" "42"
+		}
+		"28"
+		{
+			"discnumber" "1"
+			"tracknumber" "29"
+			"originalname" "Train to Ireland 1"
+			"m" "1"
+			"s" "24"
+		}
+		"29"
+		{
+			"discnumber" "1"
+			"tracknumber" "30"
+			"originalname" "Train to Ireland 2"
+			"m" "1"
+			"s" "3"
+		}
+		"30"
+		{
+			"discnumber" "1"
+			"tracknumber" "31"
+			"originalname" "Western Swing"
+			"m" "2"
+			"s" "47"
+		}
+		"31"
+		{
+			"discnumber" "2"
+			"tracknumber" "1"
+			"originalname" "The Beauty of Our Homeland"
+			"m" "3"
+			"s" "45"
+		}
+		"32"
+		{
+			"discnumber" "2"
+			"tracknumber" "2"
+			"originalname" "Heroes of the Orient"
+			"m" "1"
+			"s" "29"
+		}
+		"33"
+		{
+			"discnumber" "2"
+			"tracknumber" "3"
+			"originalname" "The Greek Woman\'s Dance"
+			"m" "1"
+			"s" "17"
+		}
+		"34"
+		{
+			"discnumber" "2"
+			"tracknumber" "4"
+			"originalname" "Folk Dance"
+			"m" "0"
+			"s" "42"
+		}
+		"35"
+		{
+			"discnumber" "2"
+			"tracknumber" "5"
+			"originalname" "Balkan Romance"
+			"m" "0"
+			"s" "41"
+		}
+		"36"
+		{
+			"discnumber" "2"
+			"tracknumber" "6"
+			"originalname" "Laying Tracks to the East"
+			"m" "1"
+			"s" "51"
+		}
+		"37"
+		{
+			"discnumber" "2"
+			"tracknumber" "7"
+			"originalname" "Sunset Over the Empire"
+			"m" "2"
+			"s" "20"
+		}
+		"38"
+		{
+			"discnumber" "2"
+			"tracknumber" "8"
+			"originalname" "The Pearl of the Adria"
+			"m" "2"
+			"s" "5"
+		}
+		"39"
+		{
+			"discnumber" "2"
+			"tracknumber" "9"
+			"originalname" "A Long Ride From Home"
+			"m" "1"
+			"s" "14"
+		}
+		"40"
+		{
+			"discnumber" "2"
+			"tracknumber" "10"
+			"originalname" "A Morning Aboard the Rolling Hotel"
+			"m" "1"
+			"s" "7"
+		}
+		"41"
+		{
+			"discnumber" "2"
+			"tracknumber" "11"
+			"originalname" "The Musician\'s Tale"
+			"m" "0"
+			"s" "45"
+		}
+		"42"
+		{
+			"discnumber" "2"
+			"tracknumber" "12"
+			"originalname" "The Balkan Ladiesman"
+			"m" "0"
+			"s" "50"
+		}
+		"43"
+		{
+			"discnumber" "2"
+			"tracknumber" "13"
+			"originalname" "Accordion Melancholy"
+			"m" "0"
+			"s" "40"
+		}
+		"44"
+		{
+			"discnumber" "2"
+			"tracknumber" "14"
+			"originalname" "Gazing Eastward"
+			"m" "0"
+			"s" "19"
+		}
+		"45"
+		{
+			"discnumber" "2"
+			"tracknumber" "15"
+			"originalname" "Welcome to Constantinople"
+			"m" "0"
+			"s" "26"
+		}
+		"46"
+		{
+			"discnumber" "2"
+			"tracknumber" "16"
+			"originalname" "The Peddler\'s Tune"
+			"m" "0"
+			"s" "34"
+		}
+		"47"
+		{
+			"discnumber" "2"
+			"tracknumber" "17"
+			"originalname" "Exotic Fragrances"
+			"m" "0"
+			"s" "25"
+		}
+		"48"
+		{
+			"discnumber" "2"
+			"tracknumber" "18"
+			"originalname" "Look At My Oud"
+			"m" "0"
+			"s" "10"
+		}
+		"49"
+		{
+			"discnumber" "2"
+			"tracknumber" "19"
+			"originalname" "Listen to My Story"
+			"m" "0"
+			"s" "13"
+		}
+		"50"
+		{
+			"discnumber" "2"
+			"tracknumber" "20"
+			"originalname" "Oud Intermezzo"
+			"m" "0"
+			"s" "20"
+		}
+		"51"
+		{
+			"discnumber" "2"
+			"tracknumber" "21"
+			"originalname" "Good Night, Rolling Hotel"
+			"m" "0"
+			"s" "14"
+		}
+		"52"
+		{
+			"discnumber" "2"
+			"tracknumber" "22"
+			"originalname" "A Kiss of the Hand"
+			"m" "0"
+			"s" "12"
+		}
+		"53"
+		{
+			"discnumber" "2"
+			"tracknumber" "23"
+			"originalname" "The Greek Woman\'s Goodbye"
+			"m" "0"
+			"s" "21"
+		}
+		"54"
+		{
+			"discnumber" "2"
+			"tracknumber" "24"
+			"originalname" "The Road Ahead"
+			"m" "0"
+			"s" "25"
+		}
+		"55"
+		{
+			"discnumber" "2"
+			"tracknumber" "25"
+			"originalname" "Majesty of the Mountains"
+			"m" "3"
+			"s" "23"
+		}
+		"56"
+		{
+			"discnumber" "2"
+			"tracknumber" "26"
+			"originalname" "Arabesque Beat"
+			"m" "2"
+			"s" "3"
+		}
+		"57"
+		{
+			"discnumber" "2"
+			"tracknumber" "27"
+			"originalname" "Scirocco"
+			"m" "1"
+			"s" "12"
+		}
+		"58"
+		{
+			"discnumber" "2"
+			"tracknumber" "28"
+			"originalname" "Our Eastern Adventure"
+			"m" "2"
+			"s" "25"
+		}
+		"59"
+		{
+			"discnumber" "2"
+			"tracknumber" "29"
+			"originalname" "Sitar Cruiser"
+			"m" "1"
+			"s" "1"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "22829738"
+"_sha" "b43a3d84410ff9ee172ccf7fe00317e7159514e2"
+"_size" "12317"
