@@ -1,0 +1,347 @@
+"appid" "622970"
+"common"
+{
+	"name" "Pavlov VR Dedicated Server"
+	"type" "Tool"
+	"parent" "555160"
+	"oslist" ""
+	"osarch" ""
+	"logo" "55d800ee937a747d99d5c887eb3c7938ea902090"
+	"logo_small" "55d800ee937a747d99d5c887eb3c7938ea902090_thumb"
+	"icon" "dd6b12c785905be249de30bec09fe996170ce880"
+	"clienttga" "147d1ede6093cd93f1626703311d5221fe88cfb7"
+	"clienticon" "99bd6b7384b2024a23f8c8f415c509f2c5ff0ab0"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "622970"
+	"exfgls" "9"
+}
+"config"
+{
+	"installdir" "PavlovVRServer"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Pavlov/Binaries/Linux/PavlovServer"
+			"arguments" "office_map\?listen\?bots=1"
+			"type" "none"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1004"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7747775778018907449"
+				"size" "46727128"
+				"download" "14307024"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1005"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2135359612286175146"
+				"size" "0"
+				"download" "0"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"1006"
+	{
+		"config"
+		{
+			"oslist" "linux"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7138471031118904166"
+				"size" "78382436"
+				"download" "21254752"
+			}
+		}
+		"depotfromapp" "1007"
+	}
+	"622971"
+	{
+		"config"
+		{
+			"oslist" "linux"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8177743822106612474"
+				"size" "8280560901"
+				"download" "1509874176"
+			}
+			"beta_server"
+			{
+				"gid" "2574992561859345758"
+				"size" "1944942831"
+				"download" "399402416"
+			}
+			"docker"
+			{
+				"gid" "6227886927471103421"
+				"size" "3116916540"
+				"download" "769319520"
+			}
+			"docker_beta"
+			{
+				"gid" "5147461459264594208"
+				"size" "3108157472"
+				"download" "767135120"
+			}
+			"docker_shack"
+			{
+				"gid" "7518500948355498942"
+				"size" "3108163559"
+				"download" "767138752"
+			}
+			"docker_shack_beta"
+			{
+				"gid" "3868511002947623350"
+				"size" "3263681349"
+				"download" "803852160"
+			}
+			"dummy"
+			{
+				"gid" "3425611114712832410"
+				"size" "969"
+				"download" "736"
+			}
+			"legacy"
+			{
+				"gid" "6227886927471103421"
+				"size" "3116916540"
+				"download" "769319520"
+			}
+			"shack_beta"
+			{
+				"gid" "510778677660452160"
+				"size" "1852138741"
+				"download" "384684432"
+			}
+			"shack_docker"
+			{
+				"gid" "7912308253716083771"
+				"size" "2280802128"
+				"download" "521779744"
+			}
+			"vrml"
+			{
+				"gid" "3787550360311027215"
+				"size" "6194829343"
+				"download" "1143440832"
+			}
+			"shack"
+			{
+				"gid" "3575104004511894411"
+				"size" "2995201754"
+				"download" "729344272"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"nighly_arm64"
+			{
+				"gid" "210881CDCC747DEF1A58D52308186623"
+				"size" "DFBEAB39F61924703D171CD192A1F902"
+				"download" "50AEEDEEEF51087873AD92E9842EB882"
+			}
+			"nighly_shack_arm64"
+			{
+				"gid" "029B858C9A1C4F82669D148C9A948E1D"
+				"size" "ACAA9BFC0BE87833D90DCA6B3BC1FD73"
+				"download" "8E03223931F278F01FE55D98307E50C7"
+			}
+			"shacktesters"
+			{
+				"gid" "7E7EB4B639055DD04BD86C54A145CBB2"
+				"size" "F038C54D679DA72ED5D6DBD427CA3E01"
+				"download" "CE7EBA17B676247569859B819B834D3D"
+			}
+			"stable_rc"
+			{
+				"gid" "D3F360E5F5549ED5013E5A45F0350D98"
+				"size" "0DB5D041E3A69B92A062457892F153AC"
+				"download" "85D9DE6FD56035EFB51D44F6CBDC3549"
+			}
+			"wizards"
+			{
+				"gid" "C4C26AF068AF4427AB19F100C1851CB9"
+				"size" "A5CBA2D1FC31B3FF250B67CCA13EC817"
+				"download" "67CB7A2430D25843E8ABBDDC1BA8B50D"
+			}
+			"wizards_shack"
+			{
+				"gid" "3CBC337801D35BA40D7E8027A5CE3099"
+				"size" "A787BD70ED18763A39C49F5707261306"
+				"download" "78765CAF019657F8C610F8F1F0A42CDF"
+			}
+			"nighly"
+			{
+				"gid" "EEFE455110986B60CF3CF089BB905BE5"
+				"size" "A5E3B540A442587232BAA86A338DF97C"
+				"download" "43AA5E2A36142473BC3CB690626C7B86"
+			}
+			"nighly_shack"
+			{
+				"gid" "DE6D6E06C4EFE57432571CD442925E22"
+				"size" "B7BA92B373303FF40B4250622F82DCDC"
+				"download" "6EE5824BF3932852E955325B9BD35099"
+			}
+		}
+	}
+	"workshopdepot" "622970"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14259945"
+			"timeupdated" "1714771518"
+		}
+		"beta_server"
+		{
+			"buildid" "11886699"
+			"timeupdated" "1691521177"
+		}
+		"docker"
+		{
+			"buildid" "8076883"
+			"timeupdated" "1686586692"
+		}
+		"docker_beta"
+		{
+			"buildid" "7929609"
+			"timeupdated" "1640212157"
+		}
+		"docker_shack"
+		{
+			"buildid" "7915932"
+			"description" "new docker branch"
+			"timeupdated" "1640035871"
+		}
+		"docker_shack_beta"
+		{
+			"buildid" "8953572"
+			"description" "new"
+			"timeupdated" "1655433703"
+		}
+		"dummy"
+		{
+			"buildid" "6028084"
+			"description" "empty shell don\'t delete"
+			"timeupdated" "1609417460"
+		}
+		"legacy"
+		{
+			"buildid" "8076883"
+			"description" "Update 28 with Workshop"
+			"timeupdated" "1686261512"
+		}
+		"nighly_arm64"
+		{
+			"buildid" "8774567"
+			"pwdrequired" "1"
+			"timeupdated" "1653004510"
+		}
+		"nighly_shack_arm64"
+		{
+			"buildid" "8816294"
+			"pwdrequired" "1"
+			"timeupdated" "1653585272"
+		}
+		"shack_beta"
+		{
+			"buildid" "12137074"
+			"description" "beta"
+			"timeupdated" "1694544278"
+		}
+		"shack_docker"
+		{
+			"buildid" "6282543"
+			"timeupdated" "1614724243"
+		}
+		"shacktesters"
+		{
+			"buildid" "12181847"
+			"pwdrequired" "1"
+			"timeupdated" "1694637623"
+		}
+		"stable_rc"
+		{
+			"buildid" "12034897"
+			"pwdrequired" "1"
+			"timeupdated" "1693441242"
+		}
+		"vrml"
+		{
+			"buildid" "11886816"
+			"description" "Season 13"
+			"timeupdated" "1712154978"
+		}
+		"wizards"
+		{
+			"buildid" "14101045"
+			"pwdrequired" "1"
+			"timeupdated" "1713546744"
+		}
+		"wizards_shack"
+		{
+			"buildid" "14136550"
+			"pwdrequired" "1"
+			"timeupdated" "1713813913"
+		}
+		"nighly"
+		{
+			"buildid" "14710742"
+			"pwdrequired" "1"
+			"timeupdated" "1718314071"
+		}
+		"nighly_shack"
+		{
+			"buildid" "14682610"
+			"pwdrequired" "1"
+			"timeupdated" "1718136681"
+		}
+		"shack"
+		{
+			"buildid" "14629990"
+			"timeupdated" "1717720289"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23963309"
+"_sha" "46184de25e706467bd60d619cd5c5f084d7e101f"
+"_size" "6517"
