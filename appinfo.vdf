@@ -1,0 +1,91 @@
+"appid" "2943070"
+"common"
+{
+	"name" "Desynced Dedicated Server"
+	"type" "Tool"
+	"parent" "1450900"
+	"releasestate" "released"
+	"clienttga" "eccb2fcb85871fec1e258c0965df8cf9b054387a"
+	"icon" "38473f8d3bebdc8750fe28e57fe47fd8f552a373"
+	"clienticon" "14c6979272e89a87a0c5dec813f6cb2234b31c3e"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"gameid" "2943070"
+}
+"extended"
+{
+	"gamedir" "Desynced"
+	"serverbrowsername" "Desynced"
+}
+"config"
+{
+	"installdir" "Desynced Dedicated Server"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Desynced\\Binaries\\Win64\\DedicatedServerLauncher.exe"
+			"workingdir" "Desynced\\Binaries\\Win64"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2943071"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7810410889684109446"
+				"size" "109839396"
+				"download" "38873312"
+			}
+			"experimental_ue5"
+			{
+				"gid" "7810410889684109446"
+				"size" "109839396"
+				"download" "38873312"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14855463"
+			"timeupdated" "1719494091"
+		}
+		"experimental_ue5"
+		{
+			"buildid" "14855463"
+			"description" "Experimental Branch, use at your own risk!"
+			"timeupdated" "1719475240"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24158110"
+"_sha" "16d8d6ca5b2e4a5b0fc61bd9bb43bf66bb2338ae"
+"_size" "1524"
