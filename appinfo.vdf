@@ -1,0 +1,119 @@
+"appid" "1849580"
+"common"
+{
+	"name" "The Riftbreaker - Tools"
+	"type" "Tool"
+	"parent" "780310"
+	"clienticon" "464c2ef7bed634b0671da9d95ce5b3f9d365c267"
+	"clienttga" "ddfe367334485ae6527f2269e5ac92dde6c65248"
+	"icon" "0b857e062de70768f4bfded1f98db209a2820535"
+	"logo" "730132fe6302278f197d613a860ce7733e3d1b6d"
+	"logo_small" "730132fe6302278f197d613a860ce7733e3d1b6d_thumb"
+	"releasestate" "released"
+	"associations"
+	{
+	}
+	"gameid" "1849580"
+}
+"config"
+{
+	"installdir" "Riftbreaker"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "tools\\bin\\workspace_editor_win_release.exe"
+			"workingdir" "tools\\bin"
+			"type" "editor"
+		}
+	}
+}
+"depots"
+{
+	"1849581"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1315121601139878520"
+				"size" "1100049148"
+				"download" "178756592"
+			}
+			"closed_beta"
+			{
+				"gid" "1315121601139878520"
+				"size" "1100049148"
+				"download" "178756592"
+			}
+			"experimental"
+			{
+				"gid" "1315121601139878520"
+				"size" "1100049148"
+				"download" "178756592"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"beta_dev"
+			{
+				"gid" "0FCCA1291F19841258371B17305C3E00"
+				"size" "C08729C972465F75E04BD7428D7298E9"
+				"download" "54BDFDF3A0D9A7EB3F9B0F46A840E74D"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14956935"
+			"timeupdated" "1720370350"
+		}
+		"beta_dev"
+		{
+			"buildid" "14956935"
+			"pwdrequired" "1"
+			"timeupdated" "1720370366"
+		}
+		"closed_beta"
+		{
+			"buildid" "14956935"
+			"description" "Tools branch for the closed_beta Riftbreaker branch."
+			"timeupdated" "1720370384"
+		}
+		"experimental"
+		{
+			"buildid" "14956935"
+			"description" "Unstable Experimental Branch"
+			"timeupdated" "1720370375"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000000"
+	"maxnumfiles" "10000"
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#exor tools/level editor" "EXOR Level Editor"
+				"#exor tools/model editor" "EXOR Model Editor"
+				"#exor tools/mission editor" "EXOR Mission Editor"
+				"#exor tools/gui editor" "EXOR GUI Editor"
+				"#exor tools/workspace editor" "EXOR Workspace Editor"
+				"#exor tools/riftbreaker editor" "EXOR Riftbreaker Editor"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24267937"
+"_sha" "7b5e67341b0eb3cf4ca9eb1ccf84bc464cebdf14"
+"_size" "2308"
