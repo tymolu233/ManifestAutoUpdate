@@ -1,0 +1,274 @@
+"appid" "2180340"
+"common"
+{
+	"name" "Mirror of Heaven"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "海山：昆仑镜"
+		"english" "Mirror of Heaven"
+		"tchinese" "海山：崑崙鏡"
+	}
+	"icon" "34befbf38842e50b17cce73bb301762a2cb2f428"
+	"clienttga" "7bd5f7a2b1d403715988136baf6a10a761588985"
+	"clienticon" "ec0f2a54983cebe98fd53d0c9180a93d0d4dd8c3"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"releasestate" "released"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-tw,zh-cn"
+		"library_hero" "en,zh-cn"
+		"library_logo" "en,zh-cn,zh-tw"
+		"library_header" "en,zh-tw,zh-cn"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "102.73257376236248"
+			"height_pct" "65.27529012617177"
+		}
+	}
+	"store_asset_mtime" "1717779191"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "EnjoyPlay Ltd"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Leyo Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+			"full_audio" "true"
+		}
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1717307531"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2180340"
+	"store_tags"
+	{
+		"0" "3959"
+		"1" "42804"
+		"2" "4158"
+		"3" "4106"
+		"4" "1646"
+		"5" "19"
+		"6" "1720"
+		"7" "6915"
+		"8" "1716"
+		"9" "16094"
+		"10" "4791"
+		"11" "4608"
+		"12" "4046"
+		"13" "3993"
+		"14" "122"
+		"15" "3987"
+		"16" "4057"
+		"17" "4191"
+		"18" "4182"
+		"19" "4975"
+	}
+	"review_score" "8"
+	"review_percentage" "84"
+}
+"extended"
+{
+	"developer" "EnjoyPlay Ltd"
+	"publisher" "Leyo Games"
+}
+"config"
+{
+	"installdir" "HaiShan"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "HaiShan/海山.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+			"description_loc"
+			{
+				"schinese" "启动海山游戏"
+			}
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"2180341"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3873208416509626028"
+				"size" "9664390470"
+				"download" "3265074608"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"test"
+			{
+				"gid" "5056A59F649026B8020E63617495CEF8"
+				"size" "3431AF824E276D468C97589A4DDB1A2F"
+				"download" "6B7E91D48772F302A8B2A0DD62712FFD"
+			}
+			"test_gm"
+			{
+				"gid" "5AF640F284C17C5C95463197F28AA569"
+				"size" "6B09B6070C0499111A547DE5B8A03FAE"
+				"download" "2EDDACDF80C843C8BDFC044B2AB66E20"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14940851"
+			"timeupdated" "1720171221"
+		}
+		"test"
+		{
+			"buildid" "14940851"
+			"pwdrequired" "1"
+			"timeupdated" "1720171199"
+		}
+		"test_gm"
+		{
+			"buildid" "14845003"
+			"pwdrequired" "1"
+			"timeupdated" "1719406576"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "104857600"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"path" "Saves"
+			"pattern" "*.save"
+			"recursive" "1"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24248087"
+"_sha" "f32dabe2f62b5a35d2d33b58aa9b6af7b0b23c3a"
+"_size" "4503"
