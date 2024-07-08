@@ -1,0 +1,494 @@
+"appid" "1043260"
+"common"
+{
+	"name" "Gladiator Guild Manager"
+	"type" "Game"
+	"logo" "e2c86545a84e33c62437d844647f28e2dd94bdfc"
+	"logo_small" "e2c86545a84e33c62437d844647f28e2dd94bdfc_thumb"
+	"icon" "690e3861c13f06580a324b1a44ef81207ba378cc"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"clienticon" "aebd396df14e5b082815593d47031876fc749ff5"
+	"clienttga" "09cbe12329d84a665873f3037e5df249c4014957"
+	"releasestate" "released"
+	"name_localized"
+	{
+		"schinese" "角斗士公会经理"
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"czech" "1"
+		"turkish" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"content_descriptors"
+	{
+		"0" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1652313600"
+		"tested_build_id" "8110951"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "other"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Gladiator Guild Manager"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "64.93582263710616"
+			"height_pct" "90.87987150056729"
+		}
+	}
+	"store_asset_mtime" "1719079620"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Entertainment Forge"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "GrabTheGames"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "Gamera Games"
+		}
+		"3"
+		{
+			"type" "publisher"
+			"name" "UpgradePoint"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "GrabTheGames Publishing"
+		}
+	}
+	"primary_genre" "2"
+	"genres"
+	{
+		"0" "23"
+		"1" "28"
+		"2" "2"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_25" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1719076137"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1043260"
+	"store_tags"
+	{
+		"0" "9"
+		"1" "1084988"
+		"2" "12472"
+		"3" "122"
+		"4" "17305"
+		"5" "1708"
+		"6" "1643"
+		"7" "4172"
+		"8" "3959"
+		"9" "21725"
+		"10" "14139"
+		"11" "7332"
+		"12" "1676"
+		"13" "3964"
+		"14" "1677"
+		"15" "4328"
+		"16" "4182"
+		"17" "492"
+		"18" "1741"
+		"19" "8945"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"developer" "Entertainment Forge"
+	"publisher" "GrabTheGames"
+}
+"config"
+{
+	"installdir" "Gladiator Guild Manager"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Gladiator Manager.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"1"
+		{
+			"executable" "Gladiator Manager.app"
+			"type" "none"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"2"
+		{
+			"executable" "Gladiator Manager.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "32"
+			}
+		}
+	}
+}
+"depots"
+{
+	"1043261"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2727945905770002267"
+				"size" "3618561953"
+				"download" "650050912"
+			}
+			"beta_pre_release"
+			{
+				"gid" "5371630236795408632"
+				"size" "3604539702"
+				"download" "646755616"
+			}
+			"beta_pre_release_v0.946.8"
+			{
+				"gid" "3581566533364210254"
+				"size" "3582162661"
+				"download" "644314560"
+			}
+			"earlyaccess0.942"
+			{
+				"gid" "6049674293360489414"
+				"size" "3498562076"
+				"download" "628334752"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"release_test_1_0"
+			{
+				"gid" "73A5FD4383044554E59F33856BB304DB"
+				"size" "EFB702AC6D49006C7205228FC357811C"
+				"download" "4DAAB3E6AB4F63E0B5CA2965C1782A99"
+			}
+		}
+	}
+	"1043262"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3283270946860453943"
+				"size" "3621598536"
+				"download" "651151856"
+			}
+			"beta_pre_release"
+			{
+				"gid" "2641489503647785662"
+				"size" "3615344751"
+				"download" "650712912"
+			}
+			"beta_pre_release_v0.946.8"
+			{
+				"gid" "2178919094847619290"
+				"size" "3585199252"
+				"download" "645619936"
+			}
+			"earlyaccess0.942"
+			{
+				"gid" "2653950258066560486"
+				"size" "3501576299"
+				"download" "629501344"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"release_test_1_0"
+			{
+				"gid" "38BDB7251D50CB8CBA90585B9FF103BA"
+				"size" "61553F347770BF0CA0460F54E442962E"
+				"download" "1F25BA991BA8760C5AD9D92A42D7A130"
+			}
+		}
+	}
+	"1043263"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "32"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8368103423483790780"
+				"size" "3602741089"
+				"download" "646892016"
+			}
+			"beta_pre_release"
+			{
+				"gid" "5958399545150229743"
+				"size" "3499875004"
+				"download" "628478624"
+			}
+			"beta_pre_release_v0.946.8"
+			{
+				"gid" "5958399545150229743"
+				"size" "3499875004"
+				"download" "628478624"
+			}
+			"earlyaccess0.942"
+			{
+				"gid" "5958399545150229743"
+				"size" "3499875004"
+				"download" "628478624"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"release_test_1_0"
+			{
+				"gid" "972932F16D40879091F214F6850FCA3F"
+				"size" "399F47C97DC5CB2B459F4F0BA7377E28"
+				"download" "04E7B964DEA6F74ADD55987599BA3522"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14872685"
+			"timeupdated" "1719581903"
+		}
+		"beta_pre_release"
+		{
+			"buildid" "14804164"
+			"description" "Beta Pre Release"
+			"timeupdated" "1719059822"
+		}
+		"beta_pre_release_v0.946.8"
+		{
+			"buildid" "14657426"
+			"description" "beta pre release v0.946.8 (before latest Trait and Gladiator Buildings Update - Save Purpose Only)"
+			"timeupdated" "1718144520"
+		}
+		"earlyaccess0.942"
+		{
+			"buildid" "13633720"
+			"description" "Early Access v0.942"
+			"timeupdated" "1718982120"
+		}
+		"release_test_1_0"
+		{
+			"buildid" "14805406"
+			"pwdrequired" "1"
+			"timeupdated" "1719075312"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "40"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Entertainment Forge/Gladiator Manager"
+			"pattern" "*"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"os" "MacOS"
+			"oscompare" "="
+			"useinstead" "MacAppSupport"
+			"pathtransforms"
+			{
+				"0"
+				{
+					"find" "Entertainment Forge\\Gladiator Manager"
+					"replace" "com.EntertainmentForge.GladiatorManager"
+				}
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24182253"
+"_sha" "89140b00a7433886360d5fed2c8d18336486126e"
+"_size" "8787"
