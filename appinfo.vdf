@@ -1,0 +1,1094 @@
+"appid" "686810"
+"common"
+{
+	"name" "Hell Let Loose"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"clienticon" "ff6cb9cead3dd68eb9f67bab6612abacde0c23d9"
+	"clienttga" "073c5b3b4d1f18443b11382dea5cde73e286a122"
+	"icon" "34a4b24b1132045d8e59e56b9c24bed725af55c7"
+	"logo" "da1a34ca8923a4a64b5ee281bdfc9e043c5d8b19"
+	"logo_small" "da1a34ca8923a4a64b5ee281bdfc9e043c5d8b19_thumb"
+	"releasestate" "released"
+	"eulas"
+	{
+		"0"
+		{
+			"id" "686810_eula_0"
+			"name" "Hell Let Loose EULA"
+			"url" "https://store.steampowered.com//eula/686810_eula_0"
+			"version" "5"
+		}
+	}
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"brazilian" "1"
+	}
+	"name_localized"
+	{
+		"schinese" "人间地狱"
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1718841600"
+		"tested_build_id" "14188787"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_TextInputDoesNotAutomaticallyInvokesKeyboard"
+			}
+			"3"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"5"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "1"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-1RC"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "Hell Let Loose"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "zh-xc,zh-cn,en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "77.24362355677829"
+			"height_pct" "77.77777777777777"
+		}
+	}
+	"store_asset_mtime" "1714119729"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Team17"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Team17"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Team17"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "23"
+		"2" "29"
+		"3" "28"
+		"4" "2"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1627401600"
+	"metacritic_score" "79"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/hell-let-loose\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "686810"
+	"store_tags"
+	{
+		"0" "1774"
+		"1" "4175"
+		"2" "1663"
+		"3" "4150"
+		"4" "3859"
+		"5" "1678"
+		"6" "4182"
+		"7" "19"
+		"8" "4168"
+		"9" "1708"
+		"10" "599"
+		"11" "3839"
+		"12" "128"
+		"13" "4345"
+		"14" "3987"
+		"15" "1775"
+		"16" "9"
+		"17" "5611"
+		"18" "4667"
+		"19" "492"
+	}
+	"review_score" "8"
+	"review_percentage" "82"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"appid" "1826330"
+			"comment" "EAC runtime"
+		}
+	}
+	"anti_cheat_support_url" "https://www.easy.ac/r/steam/gamebans/\?steamAppId=686810"
+	"gamedir" "hlldir"
+	"serverbrowsername" "Hell Let Loose"
+	"developer" "Team17"
+	"publisher" "Team17"
+	"homepage" "https://www.hellletloose.com/"
+	"listofdlc" "1091850,1091851,1205050,1313020,1647950,1647960,1647961,1647962,1647963,1647964,1647965,1647966,1647967,1647968,1656970,1656971,1656972,1656973,1656974,1793010,1793011,1793012,1793013,2175550,2331690,2331691,2401900,2401901,2475320,2623000,2677820,2709180,2805150,2805160,2819760,2885540,3012950"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Hell Let Loose"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Launch_HLL.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+		"13"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"description" "Development (no EAC)"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_testing"
+			}
+		}
+		"14"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Shipping.exe"
+			"description" "Shipping (no EAC)"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "qa_testing"
+			}
+		}
+		"26"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"27"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "internal_team17"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"28"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_main_build"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"29"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_main_build"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"30"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_wip_1_build"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"31"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_wip_1_build"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"34"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"37"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_release_update15_1_build"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"38"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "hll_release_update15_1_build"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"39"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "oss_testing"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"40"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team2"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"41"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team2"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+		"42"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL.exe"
+			"arguments" "-noEAC"
+			"type" "option1"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team3"
+			}
+			"description_loc"
+			{
+				"english" "Development (no EAC)"
+			}
+			"description" "Development (no EAC)"
+		}
+		"43"
+		{
+			"executable" "HLL\\Binaries\\Win64\\HLL-Win64-Test.exe"
+			"arguments" "-noEAC"
+			"type" "option2"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+				"betakey" "dev_team3"
+			}
+			"description_loc"
+			{
+				"english" "Test (no EAC)"
+			}
+			"description" "Test (no EAC)"
+		}
+	}
+	"uselaunchcommandline" "1"
+}
+"depots"
+{
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"686811"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1594899768493071607"
+				"size" "46535892111"
+				"download" "21221681056"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"cert"
+			{
+				"gid" "3AFA034F825EA8F7C1C56D4CA3AE57A9"
+				"size" "FF21733DC18BF3AEE64A4A702E203910"
+				"download" "03310A23D4B5633737F7E0DFEA729A70"
+			}
+			"internal_team17"
+			{
+				"gid" "EEC406C41B1EE2A952A3309B15698F06"
+				"size" "0F8506FAAAE501CD8B08A886C7E3A6C1"
+				"download" "769DCC861A6F4E6594EE4902B9E32760"
+			}
+			"dev_team"
+			{
+				"gid" "629C70F0F8AEE07B2EAAA758E595CF71"
+				"size" "81AFAF74A6480F153C7F593B64B309FF"
+				"download" "F844004A87CBD3DAD2FDA340F69F3C54"
+			}
+			"dev_team2"
+			{
+				"gid" "BA6EEA8EC3E3ABB3C0ECCCA5882F1B46"
+				"size" "B46B16AD017063206472969300CBE503"
+				"download" "239E14765C3E0A6D1C36849F821D150E"
+			}
+			"dev_team3"
+			{
+				"gid" "9931CA67DA507F38EC7EE0C81E901821"
+				"size" "6FB38D50EC63591E69792FD01F19427F"
+				"download" "371255E13E8D00AEAE54F0B2972E8F33"
+			}
+			"gsp_testing"
+			{
+				"gid" "4588D1B3D0C9944C919BC22C8379162E"
+				"size" "2A25385FAE7DBF3E22C8BE123230357C"
+				"download" "2661C1D05DBE60D4114FA6B74F6F8C19"
+			}
+			"hll_main_build"
+			{
+				"gid" "E35BF2936BE141E93E3B9F1FC6B67A9C"
+				"size" "353AE41B793DE6DE8B1F9BED884B5D24"
+				"download" "91D15E25E61034DD05B1C380BFCBEC37"
+			}
+			"hll_release_update15_1_build"
+			{
+				"gid" "4CDF95F4A8FD99682955E9D50DFA97D6"
+				"size" "B33B8FC4F24BE7A7B05D223393EC4615"
+				"download" "D31B4AAF2938142407F55721AC5B05E6"
+			}
+			"hll_wip_1_build"
+			{
+				"gid" "DDA5DE18D6F96FA15E765324B1641288"
+				"size" "E773293D7D8047AFE10570B7BF054F3F"
+				"download" "542CA1CB8E4A6F760E741E6A3AD11E24"
+			}
+			"prod_hll_release_u15_1_build"
+			{
+				"gid" "ABB93012FDE1E9DF67C6F5AD61C40F61"
+				"size" "DF64484C8C88B4DFCFC19CC89B68E154"
+				"download" "C83E2894FAF5ED80B42A6BFADE01E8D8"
+			}
+			"prod_release_a"
+			{
+				"gid" "AC87DC2FF5516334DAFA60E00EFBC580"
+				"size" "0CC03BBB83E54AF435B4689E4BB20B64"
+				"download" "BD5CDA4BC84467E1D2BC31E81A8D6A93"
+			}
+			"qa_testing"
+			{
+				"gid" "929EAC1AE9E1BA95001FDB5D6F0F6C67"
+				"size" "6D70C4A3D4E6F06F1D49D9517509CF3E"
+				"download" "AE6F591B1CA4007001B8AFE8414DD603"
+			}
+			"release_a"
+			{
+				"gid" "35AA1ED8C289629C8E63129254818CF7"
+				"size" "B6E591931340B38635645E86B0402019"
+				"download" "914FDD892EA8405B9890C6E9A85B38F7"
+			}
+			"wc_playtest"
+			{
+				"gid" "58143EA0E294D43D2864CDD5B55B5987"
+				"size" "264DA9D9BD48680B74CD2AE85E771655"
+				"download" "5335B655339BB3117FA194BF03F5F385"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15016075"
+			"timeupdated" "1721123906"
+		}
+		"cert"
+		{
+			"buildid" "13419960"
+			"pwdrequired" "1"
+			"timeupdated" "1707753579"
+		}
+		"internal_team17"
+		{
+			"buildid" "12062931"
+			"pwdrequired" "1"
+			"timeupdated" "1693344996"
+		}
+		"dev_team"
+		{
+			"buildid" "15041070"
+			"pwdrequired" "1"
+			"timeupdated" "1721111253"
+		}
+		"dev_team2"
+		{
+			"buildid" "14968985"
+			"pwdrequired" "1"
+			"timeupdated" "1720473866"
+		}
+		"dev_team3"
+		{
+			"buildid" "15040497"
+			"pwdrequired" "1"
+			"timeupdated" "1721076006"
+		}
+		"gsp_testing"
+		{
+			"buildid" "14849477"
+			"pwdrequired" "1"
+			"timeupdated" "1719824346"
+		}
+		"hll_main_build"
+		{
+			"buildid" "15040525"
+			"pwdrequired" "1"
+			"timeupdated" "1721076209"
+		}
+		"hll_release_update15_1_build"
+		{
+			"buildid" "14849477"
+			"pwdrequired" "1"
+			"timeupdated" "1719430581"
+		}
+		"hll_wip_1_build"
+		{
+			"buildid" "15041070"
+			"pwdrequired" "1"
+			"timeupdated" "1721080801"
+		}
+		"prod_hll_release_u15_1_build"
+		{
+			"buildid" "14849333"
+			"pwdrequired" "1"
+			"timeupdated" "1719429566"
+		}
+		"prod_release_a"
+		{
+			"buildid" "15016075"
+			"pwdrequired" "1"
+			"timeupdated" "1720800862"
+		}
+		"qa_testing"
+		{
+			"buildid" "14842095"
+			"pwdrequired" "1"
+			"timeupdated" "1720098488"
+		}
+		"release_a"
+		{
+			"buildid" "15016452"
+			"pwdrequired" "1"
+			"timeupdated" "1720803240"
+		}
+		"wc_playtest"
+		{
+			"buildid" "14401819"
+			"pwdrequired" "1"
+			"timeupdated" "1717174729"
+		}
+	}
+}
+"localization"
+{
+	"richpresence"
+	{
+		"english"
+		{
+			"tokens"
+			{
+				"#status_default" "In game"
+				"#status_atmainmenu" "At the main menu"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%} Commander"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "Warfare"
+				"#mode_offnsv" "Offensive"
+				"#team_al" "Allied"
+				"#team_ax" "Axis"
+				"#map_stmarie" "St Marie Du Mont"
+				"#map_hurtgen" "Hürtgen Forest"
+				"#map_foy" "Foy"
+				"#map_utah" "Utah Beach"
+				"#map_omaha" "Omaha Beach"
+				"#map_sme" "Sainte-Mère-Église"
+				"#map_phl" "Purple Heart Lane"
+				"#map_hill400" "Hill 400"
+				"#map_ct" "Carentan"
+				"#map_kursk" "Kursk"
+				"#map_stalin" "Stalingrad"
+			}
+		}
+		"french"
+		{
+			"tokens"
+			{
+				"#status_default" "Dans le jeu"
+				"#status_atmainmenu" "Dans le menu principal"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, commandant de l\'équipe {#Team_%Team%}"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "Combat"
+				"#mode_offnsv" "Offensive"
+				"#team_al" "Alliés"
+				"#team_ax" "Axe"
+				"#map_stmarie" "Sainte-Marie-du-Mont"
+				"#map_hurtgen" "Forêt de Hürtgen"
+				"#map_foy" "Foy"
+				"#map_utah" "Utah Beach"
+				"#map_omaha" "Omaha Beach"
+				"#map_sme" "Sainte-Mère-Église"
+				"#map_phl" "Purple Heart Lane"
+				"#map_hill400" "Colline 400"
+				"#map_ct" "Carentan"
+				"#map_kursk" "Koursk"
+				"#map_stalin" "Stalingrad"
+			}
+		}
+		"german"
+		{
+			"tokens"
+			{
+				"#status_default" "Im Spiel"
+				"#status_atmainmenu" "Im Hauptmenü"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%} Kommandant"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "Kriegführung"
+				"#mode_offnsv" "Offensive"
+				"#team_al" "Alliierte"
+				"#team_ax" "Achsenmächte"
+				"#map_stmarie" "Sainte-Marie-du-Mont"
+				"#map_hurtgen" "Hürtgenwald"
+				"#map_foy" "Foy"
+				"#map_utah" "Utah Beach"
+				"#map_omaha" "Omaha Beach"
+				"#map_sme" "Sainte-Mère-Église"
+				"#map_phl" "Purple Heart Lane"
+				"#map_hill400" "Hill 400"
+				"#map_ct" "Carentan"
+				"#map_kursk" "Kursk"
+				"#map_stalin" "Stalingrad"
+			}
+		}
+		"polish"
+		{
+			"tokens"
+			{
+				"#status_default" "W grze"
+				"#status_atmainmenu" "W menu głównym"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%} – Dowodzący"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "Działania wojenne"
+				"#mode_offnsv" "Ofensywa"
+				"#team_al" "Alianci"
+				"#team_ax" "Oś"
+				"#map_stmarie" "Sainte Marie Du Mont"
+				"#map_hurtgen" "Las Hürtgen"
+				"#map_foy" "Foy"
+				"#map_utah" "Plaża Utah"
+				"#map_omaha" "Plaża Omaha"
+				"#map_sme" "Sainte-Mère-Église"
+				"#map_phl" "Linia Purpurowego Serca"
+				"#map_hill400" "Wzgórze 400"
+				"#map_ct" "Carentan"
+				"#map_kursk" "Kursk"
+				"#map_stalin" "Stalingrad"
+			}
+		}
+		"portuguese"
+		{
+			"tokens"
+			{
+				"#status_default" "Em jogo"
+				"#status_atmainmenu" "No menu principal"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, Comandante da {#Team_%Team%}"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "Guerra"
+				"#mode_offnsv" "Ofensiva"
+				"#team_al" "Aliados"
+				"#team_ax" "Eixo"
+				"#map_stmarie" "St Marie Du Mont"
+				"#map_hurtgen" "Floresta de Hürtgen"
+				"#map_foy" "Foy"
+				"#map_utah" "Praia de Utah"
+				"#map_omaha" "Praia de Omaha"
+				"#map_sme" "Sainte-Mère-Église"
+				"#map_phl" "Via Purple Heart"
+				"#map_hill400" "Colina 400"
+				"#map_ct" "Carentan"
+				"#map_kursk" "Kursk"
+				"#map_stalin" "Stalingrado"
+			}
+		}
+		"brazilian"
+		{
+			"tokens"
+			{
+				"#status_default" "Em jogo"
+				"#status_atmainmenu" "No menu principal"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, Comandante da {#Team_%Team%}"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "Guerra"
+				"#mode_offnsv" "Ofensiva"
+				"#team_al" "Aliados"
+				"#team_ax" "Eixo"
+				"#map_stmarie" "St Marie Du Mont"
+				"#map_hurtgen" "Floresta de Hürtgen"
+				"#map_foy" "Foy"
+				"#map_utah" "Praia de Utah"
+				"#map_omaha" "Praia de Omaha"
+				"#map_sme" "Sainte-Mère-Église"
+				"#map_phl" "Via Purple Heart"
+				"#map_hill400" "Colina 400"
+				"#map_ct" "Carentan"
+				"#map_kursk" "Kursk"
+				"#map_stalin" "Stalingrado"
+			}
+		}
+		"russian"
+		{
+			"tokens"
+			{
+				"#status_default" "В игре"
+				"#status_atmainmenu" "В главном меню"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%} %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, командир ({#Team_%Team%})"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%}, %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "Война"
+				"#mode_offnsv" "Наступление"
+				"#team_al" "Союзники"
+				"#team_ax" "Ось"
+				"#map_stmarie" "Сент-Мари-дю-Мон"
+				"#map_hurtgen" "Хюртгенский лес"
+				"#map_foy" "Фой"
+				"#map_utah" "Юта-Бич"
+				"#map_omaha" "Омаха-Бич"
+				"#map_sme" "Сент-Мер-Эглиз"
+				"#map_phl" "Аллея Пурпурного сердца"
+				"#map_hill400" "Высота 400"
+				"#map_ct" "Карантан"
+				"#map_kursk" "Курск"
+				"#map_stalin" "Сталинград"
+			}
+		}
+		"spanish"
+		{
+			"tokens"
+			{
+				"#status_default" "En el juego"
+				"#status_atmainmenu" "En el menú principal"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} (%SCount%/%SMax%), {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} (%SCount%/%SMax%), comandante ({#Team_%Team%})"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} (%SCount%/%SMax%), {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} (%SCount%/%SMax%)"
+				"#mode_wrfr" "Guerra"
+				"#mode_offnsv" "Ofensiva"
+				"#team_al" "Aliados"
+				"#team_ax" "Eje"
+				"#map_stmarie" "Sainte-Marie-Du-Mont"
+				"#map_hurtgen" "Bosque de Hürtgen"
+				"#map_foy" "Foy"
+				"#map_utah" "Playa de Utah"
+				"#map_omaha" "Playa de Omaha"
+				"#map_sme" "Sainte-Mère-Église"
+				"#map_phl" "Purple Heart Lane"
+				"#map_hill400" "Colina 400"
+				"#map_ct" "Carentan"
+				"#map_kursk" "Kursk"
+				"#map_stalin" "Stalingrado"
+			}
+		}
+		"schinese"
+		{
+			"tokens"
+			{
+				"#status_default" "正在游戏"
+				"#status_atmainmenu" "正在主菜单"
+				"#status_ingameinunit" "{#Map_%Map%}，{#Mode_%Mode%} %SCount%/%SMax%，{#Team_%Team%}，%UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}，{#Mode_%Mode%} %SCount%/%SMax%，{#Team_%Team%}指挥官"
+				"#status_ingame" "{#Map_%Map%}，{#Mode_%Mode%} %SCount%/%SMax%，{#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}，{#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "冲突模式"
+				"#mode_offnsv" "进攻模式"
+				"#team_al" "同盟国"
+				"#team_ax" "轴心国"
+				"#map_stmarie" "圣玛丽德蒙特"
+				"#map_hurtgen" "许特根森林"
+				"#map_foy" "佛依"
+				"#map_utah" "犹他海滩"
+				"#map_omaha" "奥马哈海滩"
+				"#map_sme" "圣梅尔埃格利斯"
+				"#map_phl" "紫心小道"
+				"#map_hill400" "400号高地"
+				"#map_ct" "卡朗唐"
+				"#map_kursk" "库尔斯克"
+				"#map_stalin" "斯大林格勒"
+			}
+		}
+		"tchinese"
+		{
+			"tokens"
+			{
+				"#status_default" "在遊戲內"
+				"#status_atmainmenu" "在主選單"
+				"#status_ingameinunit" "{#Map_%Map%}，{#Mode_%Mode%}%SCount%/%SMax%，{#Team_%Team%}，%UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}，{#Mode_%Mode%}%SCount%/%SMax%，{#Team_%Team%}指揮官"
+				"#status_ingame" "{#Map_%Map%}，{#Mode_%Mode%}%SCount%/%SMax%，{#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}，{#Mode_%Mode%}%SCount%/%SMax%"
+				"#mode_wrfr" "戰爭模式"
+				"#mode_offnsv" "進攻模式"
+				"#team_al" "同盟國"
+				"#team_ax" "軸心國"
+				"#map_stmarie" "聖瑪麗·迪蒙"
+				"#map_hurtgen" "許特根森林"
+				"#map_foy" "佛依"
+				"#map_utah" "猶他海灘"
+				"#map_omaha" "奧馬哈海灘"
+				"#map_sme" "聖梅爾埃格利斯"
+				"#map_phl" "紫心巷"
+				"#map_hill400" "400號丘陵"
+				"#map_ct" "卡靈頓"
+				"#map_kursk" "庫斯克"
+				"#map_stalin" "史達林格勒"
+			}
+		}
+		"japanese"
+		{
+			"tokens"
+			{
+				"#status_default" "In game"
+				"#status_atmainmenu" "At the main menu"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%} Commander"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "会戦"
+				"#mode_offnsv" "進攻戦"
+				"#team_al" "連合軍"
+				"#team_ax" "枢軸軍"
+				"#map_stmarie" "サンマリー・デュモン"
+				"#map_hurtgen" "ヒュルトゲンの森"
+				"#map_foy" "フォイ"
+				"#map_utah" "ユタビーチ"
+				"#map_omaha" "オマハビーチ"
+				"#map_sme" "サンメール・エグリーズ"
+				"#map_phl" "パープルハート・レーン"
+				"#map_hill400" "400高地"
+				"#map_ct" "カランタン"
+				"#map_kursk" "クルスク"
+				"#map_stalin" "スターリングラード"
+			}
+		}
+		"koreana"
+		{
+			"tokens"
+			{
+				"#status_default" "게임 내"
+				"#status_atmainmenu" "메인 메뉴"
+				"#status_ingameinunit" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}, %UCount%/%UMax%"
+				"#status_ingamecommander" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%} 지휘관"
+				"#status_ingame" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%, {#Team_%Team%}"
+				"#status_ingamenotplaying" "{#Map_%Map%}, {#Mode_%Mode%} %SCount%/%SMax%"
+				"#mode_wrfr" "전투"
+				"#mode_offnsv" "공격"
+				"#team_al" "연합군"
+				"#team_ax" "추축국"
+				"#map_stmarie" "생트마리뒤몽"
+				"#map_hurtgen" "휘르트겐 숲"
+				"#map_foy" "포이"
+				"#map_utah" "유타 해변"
+				"#map_omaha" "오마하 해변"
+				"#map_sme" "생트메르에글리즈"
+				"#map_phl" "퍼플 하트 레인"
+				"#map_hill400" "400 고지"
+				"#map_ct" "카랑탕"
+				"#map_kursk" "쿠르스크"
+				"#map_stalin" "스탈린그라드"
+			}
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24380666"
+"_sha" "f10029306fbef5a24d37db0f72ed372f45d350d1"
+"_size" "27927"
