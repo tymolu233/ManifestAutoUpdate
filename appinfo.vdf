@@ -1,0 +1,179 @@
+"appid" "326130"
+"common"
+{
+	"name" "Alcatraz Builder"
+	"type" "Game"
+	"releasestate" "released"
+	"logo" "6c040336444af3afd10f30aece1c86c0d50eb9db"
+	"logo_small" "6c040336444af3afd10f30aece1c86c0d50eb9db_thumb"
+	"oslist" "windows,macos"
+	"clienticon" "cf26f32e250868dd0a882f0c0545cdecea0d4a65"
+	"clienttga" "6b5d4c4524bb111c755365365cd00affbc29d423"
+	"icon" "d05ef5441f18447d0462197108627fce1005f1c6"
+	"metacritic_name" "Monument Builders: Alcatraz"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "76.37106184364063"
+			"height_pct" "100"
+		}
+	}
+	"store_asset_mtime" "1569230535"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Little World Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "M.INDIE"
+		}
+	}
+	"primary_genre" "4"
+	"genres"
+	{
+		"0" "4"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1402556400"
+	"steam_release_date" "1414192029"
+	"community_hub_visible" "1"
+	"gameid" "326130"
+	"store_tags"
+	{
+		"0" "597"
+		"1" "16689"
+	}
+	"review_score" "5"
+	"review_percentage" "48"
+}
+"extended"
+{
+	"developer" "Little World Studio"
+	"publisher" "M.INDIE"
+}
+"config"
+{
+	"contenttype" "3"
+	"installdir" "Monument Builders Alcatraz"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Alcatraz.exe"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Alcatraz.app"
+			"description" "Launch"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"baselanguages" "english,german,french,italian,spanish"
+	"326131"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1970414841123615731"
+				"size" "327415213"
+				"download" "127700864"
+			}
+		}
+	}
+	"326132"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1264613520789166246"
+				"size" "333013784"
+				"download" "126239600"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "399217"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "23591175"
+"_sha" "12c78d3da7759aef0b32ab1c1bf6341be39d098b"
+"_size" "2747"
