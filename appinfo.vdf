@@ -1,0 +1,888 @@
+"appid" "1364780"
+"common"
+{
+	"name" "Street Fighter™ 6"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"japanese" "1"
+		"polish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"latam" "1"
+	}
+	"clienttga" "e64756b566b4fc71f9693ac66ecadfce17a612fd"
+	"clienticon" "e7414b4ede024fedd2ab36bf8c9a3fdf981d27bf"
+	"icon" "5e1421a150aaded0c7c175bc6f6843eab9a4d27d"
+	"name_localized"
+	{
+		"japanese" "Street Fighter 6"
+		"koreana" "Street Fighter 6"
+		"schinese" "Street Fighter 6"
+		"tchinese" "Street Fighter 6"
+	}
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"eulas"
+	{
+		"0"
+		{
+			"id" "1364780_eula_0"
+			"name" "Street Fighter™ 6 EULA"
+			"url" "https://store.steampowered.com//eula/1364780_eula_0"
+			"version" "2"
+		}
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1695340800"
+		"tested_build_id" "11908601"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-8.0-4"
+			"requires_h264" "1"
+			"gamescope_frame_limiter_not_supported" "1"
+		}
+	}
+	"metacritic_name" "Street Fighter 6"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "34.37820183050965"
+			"height_pct" "26.824364097079084"
+		}
+	}
+	"store_asset_mtime" "1719364814"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "CAPCOM Co., Ltd."
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Street Fighter"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_1" "1"
+		"category_49" "1"
+		"category_36" "1"
+		"category_37" "1"
+		"category_24" "1"
+		"category_27" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_35" "1"
+		"category_29" "1"
+		"category_18" "1"
+		"category_45" "1"
+		"category_46" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1685689200"
+	"metacritic_score" "92"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/street-fighter-6\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1364780"
+	"store_tags"
+	{
+		"0" "4736"
+		"1" "1743"
+		"2" "4747"
+		"3" "19"
+		"4" "1773"
+		"5" "3859"
+		"6" "21"
+		"7" "3878"
+		"8" "1775"
+		"9" "5055"
+		"10" "1695"
+		"11" "4182"
+		"12" "7368"
+		"13" "7481"
+		"14" "4191"
+		"15" "4231"
+		"16" "1756"
+		"17" "3810"
+		"18" "6915"
+		"19" "4085"
+	}
+	"review_score" "8"
+	"review_percentage" "86"
+}
+"extended"
+{
+	"additional_dependencies"
+	{
+		"0"
+		{
+			"src_os" "windows"
+			"dest_os" "linux"
+			"h264" "1"
+		}
+	}
+	"developer" "CAPCOM Co., Ltd."
+	"publisher" "CAPCOM Co., Ltd."
+	"homepage" "https://www.streetfighter.com/6/en-us/"
+	"listofdlc" "1792750,1792751,2224460,2224461,2224462,2825190,2825200"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Street Fighter 6"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "StreetFighter6.exe"
+		}
+	}
+	"app_mappings"
+	{
+		"1"
+		{
+			"platform" "linux"
+			"tool" "proton_experimental"
+			"comment" "experimental needed"
+		}
+	}
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "65535"
+	"steamcontrollertemplateindex" "4"
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,japanese,polish,arabic,brazilian,latam"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1364781"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7340441221814650125"
+				"size" "60101918201"
+				"download" "54717762032"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"co_qs_ce_00"
+			{
+				"gid" "280492BF39A7882A401623E85DEBFB5D"
+				"size" "037C71F11E122E9159ECB1D2BA422233"
+				"download" "3EA29F3BC751F92507FE2EE9594FB47B"
+			}
+			"co_qs_cu_01"
+			{
+				"gid" "5347ED74A4D72B8C88A3159E56821C6F"
+				"size" "8CBC30413EFF04E5978AE4B6B69009B6"
+				"download" "D478BAC494EEECAE66F53759ADB702C2"
+			}
+			"co_qs_ev_00"
+			{
+				"gid" "588062CB0A2F3AD47FA53C30329552C6"
+				"size" "50A942A463391B8CF1F7E48FC355F0A0"
+				"download" "E26424A4CD2053B3A4385FFFB09445C2"
+			}
+			"co_qs_ev_01"
+			{
+				"gid" "6492E7B98010FDC34C66E2AF7B7D9B3D"
+				"size" "A39B2D7F1CD448145BD11863E26D13F1"
+				"download" "904720E55C3D3A12CAC10C2D17F1A116"
+			}
+			"co_qs_ev_01_a"
+			{
+				"gid" "934A3EA1412B0BA71524B24B81233F18"
+				"size" "80072D53497EE0A5FF1623DA124758A4"
+				"download" "D8CACA7C64C3AE891F43D05250325785"
+			}
+			"co_qs_ev_01_b"
+			{
+				"gid" "48E272EA3DDA8E6EB6E08C2DF49935C8"
+				"size" "FF62C2E96CF5754603A9AE019732EE5F"
+				"download" "6C61252081E074A7E439745FF8DC7C81"
+			}
+			"co_qs_ev_02"
+			{
+				"gid" "0BEBD00DB42111787D8543F5785FC699"
+				"size" "5D4F806727A40903A59C8638CBD1370D"
+				"download" "874FF3CD0498A37D9DB658B989A89C36"
+			}
+			"co_qsd_tt_06_0000"
+			{
+				"gid" "1FEBAADEADFCDBB22E4F46B427643446"
+				"size" "81722A22A48335412D73F0986683D330"
+				"download" "29C7A13C5FE2DE595EA6A01AC7A05D39"
+			}
+			"dev_q_99_0000"
+			{
+				"gid" "A924CEDB65EAFDF72F24EB6F0564D8BE"
+				"size" "48F281292C034455F5F8249B81C429B2"
+				"download" "3F8A20F7DA4F4BA3734638BFE9CF7250"
+			}
+			"dev_q_mk"
+			{
+				"gid" "32E54A311AA91B637DF30A17B018C325"
+				"size" "801796E8E5E4634CA1C4F1652BE1118D"
+				"download" "713B97996858D4E19DB3A1D5B3E343ED"
+			}
+			"qa_m_me_01_0003"
+			{
+				"gid" "DEB95F9380AEB5F9E43575CA39D8ABDD"
+				"size" "6573730A91F2EACE3517D8141B9B75A6"
+				"download" "AD2BB618718C9D3A3038FC58F2B7D48A"
+			}
+			"qa_m_prd_01_0003"
+			{
+				"gid" "B205F74EBAFEF198A3790E4C3D42E7A5"
+				"size" "B42C8AE43014D40258C1C22E1166BF36"
+				"download" "D5FFD9C2A50D0E450FE7561152E3E29C"
+			}
+			"qa_m_prd_02_0001"
+			{
+				"gid" "07CDC0F2BA6D39491718FDB7FF4BC875"
+				"size" "D79D9D34333AAEC4E320DEFE4496EEA7"
+				"download" "3D0237DCC0C582692D300D5E1BAC36D4"
+			}
+			"qa_m_prd_03_0001"
+			{
+				"gid" "0137A78532FD346CA3B54049A067A5BC"
+				"size" "DE0B60172731A6CC95BF57F7C1AA0062"
+				"download" "9D57AD40FDC27A0C3809EBC7CF4A9520"
+			}
+			"qa_m_prd_03_0013"
+			{
+				"gid" "8D549A7F91F4546DB771D0A3971D859D"
+				"size" "E6BB5AE7348DA4727E7A1A9DEEBC15DC"
+				"download" "CC520C8D8716DCFBC79F3E790DAF79DD"
+			}
+			"qa_m_prd_03_0021"
+			{
+				"gid" "5B6A4F9A86842237A2FD729457D71A41"
+				"size" "3411BD08E48FE7EF416960D857881A8A"
+				"download" "3EA0AD1453D1820D925FC729773B4493"
+			}
+			"qa_m_prd_04_0000"
+			{
+				"gid" "66B05AD557116BA6ED0A9B926F6A611C"
+				"size" "88779CEC8E1F8BFF3A89B6FD29F396D9"
+				"download" "9AC3505D9E66ACAD17D1DFEE2BEE423B"
+			}
+			"qa_m_prd_04_0013"
+			{
+				"gid" "40D961D4AEC101799B629EBB3165902A"
+				"size" "A6F6035BC79B9DCC34ED5A995540A810"
+				"download" "4B1B874D5AF99C760F8A35A839E4B61A"
+			}
+			"qa_m_prd_04_0020"
+			{
+				"gid" "B317EABF3A39A49A5A428947465F1F55"
+				"size" "3D8D4E6E81E6C456BB85837B936C6F40"
+				"download" "FC8F9890E056DB2A50517BC9D2F7633A"
+			}
+			"qa_m_prd_05_0003"
+			{
+				"gid" "1C9087D9B63728A6E121EBF7064B083B"
+				"size" "BA975624385B328C39AF1D1A41E057B2"
+				"download" "D184D96F5D58A6D9721346CFF3FB1A3A"
+			}
+			"qa_m_prd_05_0010"
+			{
+				"gid" "96C711E7117AB9E45064B0F40CA338A4"
+				"size" "514418122E62999200038D077AF3A2D7"
+				"download" "2CC0163EC36974BA2542139D03723329"
+			}
+			"qa_m_prd_05_0021"
+			{
+				"gid" "1EA61B0FDEE3855202E8A43D2DAA2402"
+				"size" "1167C34DC7C3B8DD1F90CD5D99885F5A"
+				"download" "7392B02A8704B1E6C805C831DF9DFC49"
+			}
+			"qa_m_prd_06_0001"
+			{
+				"gid" "4A8413044AD24E998681F12BC2248ED8"
+				"size" "E0B6DC91AB887FA674F0ADADEC2BD9C5"
+				"download" "70F79962691F4F74A85DB94FFB559105"
+			}
+			"qa_m_prd_07_0000"
+			{
+				"gid" "F3877160D50021D8BE9B23122DA79F3B"
+				"size" "5A47982BFB46500A92170A63AF13AF14"
+				"download" "6090E118F939DC17385E597DA53959EC"
+			}
+			"qa_m_qa_05_0021"
+			{
+				"gid" "19E6C3F46B4CFC65948B0258D7315E7C"
+				"size" "585496BEA4915BD7603E6D97023A0AE6"
+				"download" "431D30EA6F117F820200412D971F8580"
+			}
+			"qa_m_qa_06_0001"
+			{
+				"gid" "354312E79A8BB9C7AE23A653FB8F9B7D"
+				"size" "9A9DF7B51A3857A2E9DF7AFCB54649EC"
+				"download" "13AC7A96BC2454A611346803EDC88125"
+			}
+			"qa_m_qa_07_0000"
+			{
+				"gid" "828BCE4314D1CA3EC498E58D8CF6C02E"
+				"size" "8088C7105A6D244001B08AEE3AF3EA9C"
+				"download" "FCC905FDB305CBD7F38C2E754C73ABE9"
+			}
+			"qa_q_qa_05_0021"
+			{
+				"gid" "471FFC1E0CA0AA2984932D99FAA0A368"
+				"size" "D0E206E222B38299A128091AA71DE658"
+				"download" "7FD561D356D73B3F01B5945434724AFF"
+			}
+			"qa_q_qa_06_0001"
+			{
+				"gid" "689929714D29FDA4DB6191B3BA7F2420"
+				"size" "A5FD6B433C7BB4C25474D173177AFB05"
+				"download" "6D69A88783F646B580024EBDAE289A70"
+			}
+			"qa_q_qa_07_0000"
+			{
+				"gid" "E92B956413AB563150C3E4B73A5D2992"
+				"size" "F34488CD6E1CD8E21ABF045608E61DF8"
+				"download" "626FA3E09F455761BC5A3D354DC48B61"
+			}
+			"qa_m_prd_08_0002"
+			{
+				"gid" "5356C11C51351BAC139D32D2DC0373EE"
+				"size" "5F30729EBB80708958BF320043B8F378"
+				"download" "36C2BA8561852627C44EDEE7045727E9"
+			}
+			"qa_m_prd_08_0020"
+			{
+				"gid" "09A2EED9424AB5A8FB3968AA2DE6A34F"
+				"size" "2C6308668196475AD50862CAFDE6C781"
+				"download" "89A788AFB2852FE8EDAC5EDBACE48315"
+			}
+			"qa_m_prd_08_0021"
+			{
+				"gid" "6E0455E1B34E9375B5849A9C804633FB"
+				"size" "23E3C5BE03BC5F290064966C7F99B77E"
+				"download" "AB98D95FAE77C16D449263E0D76F05C1"
+			}
+			"qa_m_qa_08_0002"
+			{
+				"gid" "ACC664BB5E1069599F2CA7A3080DDA37"
+				"size" "A92E5EDF5E45E97092AB002641A7A195"
+				"download" "68B75553E7ED9274CEC4FE6933494800"
+			}
+			"qa_m_qa_08_0020"
+			{
+				"gid" "5763A09396058783467557FEC178F99F"
+				"size" "3180C7CE24578498BCFF3CA0D4C4E389"
+				"download" "F5794452C61E275D0BCEB97F1CA78DEE"
+			}
+			"qa_m_qa_08_0021"
+			{
+				"gid" "F4E3AC203DF81F601555F7B26F6F63EE"
+				"size" "473050AE297E8EA8068E8AA23ED7D032"
+				"download" "12CAC93470B35C4CF1A1A8601ABF292B"
+			}
+			"qa_q_qa_08_0002"
+			{
+				"gid" "D63BEC0EB7B530A859B2B7E2663672C0"
+				"size" "88AC729B6275458109537784AA3372CA"
+				"download" "016243D369148CE7C00B20744216B79B"
+			}
+			"qa_q_qa_08_0020"
+			{
+				"gid" "1DC5FB79DD52302D33D1FC6309964B1B"
+				"size" "B004C85125483C86D04291C38167C0D7"
+				"download" "95D9E43779AED34AA5C3853818302E77"
+			}
+			"qa_q_qa_08_0021"
+			{
+				"gid" "F97466706E3468C1260B605F65316762"
+				"size" "F2C63F69828F6172BBF072F258AE8089"
+				"download" "4D0AB39D36962946BAAD647E5D0AA138"
+			}
+			"qa_q_wk_09_0000"
+			{
+				"gid" "75F735AED5B6B4E6BAEDAE7C6B051187"
+				"size" "7E728163D7CEF2A234ECC855F6968576"
+				"download" "2FB24C360DAB6217E9B9B1BC6353228A"
+			}
+			"qa_q_wk_09_0001"
+			{
+				"gid" "31F3145E1C7607AE35B1F8FCCEED0663"
+				"size" "DEA5F64B4E38B631265A063C45E2696B"
+				"download" "49C7CB07993EB016E693354BA769949A"
+			}
+			"qa_q_wk_09_0002"
+			{
+				"gid" "63F84392FF186D594D616BFC270EBDA8"
+				"size" "CA306482700C6EDA7053BEFDF10B4D06"
+				"download" "4B630B6789905314B6D0CF90035D4B84"
+			}
+			"qa_q_wk_09_0003"
+			{
+				"gid" "CD5C571C9472F97AC589DF21F42436CD"
+				"size" "E19BB944A45DFFA7B21D692982A72A27"
+				"download" "073893721E546F58C76C61890946AAD7"
+			}
+		}
+	}
+	"1364782"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "14671916"
+			"timeupdated" "1719370804"
+		}
+		"co_qs_ce_00"
+		{
+			"buildid" "10061741"
+			"pwdrequired" "1"
+			"timeupdated" "1669958425"
+		}
+		"co_qs_cu_01"
+		{
+			"buildid" "10697438"
+			"pwdrequired" "1"
+			"timeupdated" "1678067433"
+		}
+		"co_qs_ev_00"
+		{
+			"buildid" "10915635"
+			"pwdrequired" "1"
+			"timeupdated" "1680496283"
+		}
+		"co_qs_ev_01"
+		{
+			"buildid" "10915799"
+			"pwdrequired" "1"
+			"timeupdated" "1680501641"
+		}
+		"co_qs_ev_01_a"
+		{
+			"buildid" "10510424"
+			"pwdrequired" "1"
+			"timeupdated" "1675906089"
+		}
+		"co_qs_ev_01_b"
+		{
+			"buildid" "11082223"
+			"pwdrequired" "1"
+			"timeupdated" "1682392832"
+		}
+		"co_qs_ev_02"
+		{
+			"buildid" "10916035"
+			"pwdrequired" "1"
+			"timeupdated" "1680501650"
+		}
+		"co_qsd_tt_06_0000"
+		{
+			"buildid" "12897845"
+			"pwdrequired" "1"
+			"timeupdated" "1701933343"
+		}
+		"dev_q_99_0000"
+		{
+			"buildid" "13769621"
+			"pwdrequired" "1"
+			"timeupdated" "1713328903"
+		}
+		"dev_q_mk"
+		{
+			"buildid" "11187828"
+			"pwdrequired" "1"
+			"timeupdated" "1699509227"
+		}
+		"qa_m_me_01_0003"
+		{
+			"buildid" "11186505"
+			"pwdrequired" "1"
+			"timeupdated" "1683613163"
+		}
+		"qa_m_prd_01_0003"
+		{
+			"buildid" "10699282"
+			"pwdrequired" "1"
+			"timeupdated" "1678093876"
+		}
+		"qa_m_prd_02_0001"
+		{
+			"buildid" "11269164"
+			"pwdrequired" "1"
+			"timeupdated" "1684479581"
+		}
+		"qa_m_prd_03_0001"
+		{
+			"buildid" "11619539"
+			"pwdrequired" "1"
+			"timeupdated" "1688447179"
+		}
+		"qa_m_prd_03_0013"
+		{
+			"buildid" "11778842"
+			"pwdrequired" "1"
+			"timeupdated" "1690253504"
+		}
+		"qa_m_prd_03_0021"
+		{
+			"buildid" "11908601"
+			"pwdrequired" "1"
+			"timeupdated" "1691647869"
+		}
+		"qa_m_prd_04_0000"
+		{
+			"buildid" "12064767"
+			"pwdrequired" "1"
+			"timeupdated" "1693365386"
+		}
+		"qa_m_prd_04_0013"
+		{
+			"buildid" "12458618"
+			"pwdrequired" "1"
+			"timeupdated" "1697523723"
+		}
+		"qa_m_prd_04_0020"
+		{
+			"buildid" "12635896"
+			"pwdrequired" "1"
+			"timeupdated" "1699326632"
+		}
+		"qa_m_prd_05_0003"
+		{
+			"buildid" "12727156"
+			"pwdrequired" "1"
+			"timeupdated" "1700191924"
+		}
+		"qa_m_prd_05_0010"
+		{
+			"buildid" "12875156"
+			"pwdrequired" "1"
+			"timeupdated" "1701745332"
+		}
+		"qa_m_prd_05_0021"
+		{
+			"buildid" "12896601"
+			"pwdrequired" "1"
+			"timeupdated" "1701920148"
+		}
+		"qa_m_prd_06_0001"
+		{
+			"buildid" "13410251"
+			"pwdrequired" "1"
+			"timeupdated" "1707444277"
+		}
+		"qa_m_prd_07_0000"
+		{
+			"buildid" "14090155"
+			"pwdrequired" "1"
+			"timeupdated" "1713403213"
+		}
+		"qa_m_qa_05_0021"
+		{
+			"buildid" "12897307"
+			"pwdrequired" "1"
+			"timeupdated" "1701927483"
+		}
+		"qa_m_qa_06_0001"
+		{
+			"buildid" "13438846"
+			"pwdrequired" "1"
+			"timeupdated" "1707788914"
+		}
+		"qa_m_qa_07_0000"
+		{
+			"buildid" "14092643"
+			"pwdrequired" "1"
+			"timeupdated" "1713424242"
+		}
+		"qa_q_qa_05_0021"
+		{
+			"buildid" "12896470"
+			"pwdrequired" "1"
+			"timeupdated" "1701918895"
+		}
+		"qa_q_qa_06_0001"
+		{
+			"buildid" "13412275"
+			"pwdrequired" "1"
+			"timeupdated" "1707466403"
+		}
+		"qa_q_qa_07_0000"
+		{
+			"buildid" "14089673"
+			"pwdrequired" "1"
+			"timeupdated" "1713399277"
+		}
+		"qa_m_prd_08_0002"
+		{
+			"buildid" "14671916"
+			"pwdrequired" "1"
+			"timeupdated" "1718072835"
+		}
+		"qa_m_prd_08_0020"
+		{
+			"buildid" "14937834"
+			"pwdrequired" "1"
+			"timeupdated" "1720146606"
+		}
+		"qa_m_prd_08_0021"
+		{
+			"buildid" "15009358"
+			"pwdrequired" "1"
+			"timeupdated" "1720761008"
+		}
+		"qa_m_qa_08_0002"
+		{
+			"buildid" "14672936"
+			"pwdrequired" "1"
+			"timeupdated" "1718081212"
+		}
+		"qa_m_qa_08_0020"
+		{
+			"buildid" "14926913"
+			"pwdrequired" "1"
+			"timeupdated" "1720069452"
+		}
+		"qa_m_qa_08_0021"
+		{
+			"buildid" "15008543"
+			"pwdrequired" "1"
+			"timeupdated" "1720752644"
+		}
+		"qa_q_qa_08_0002"
+		{
+			"buildid" "14670967"
+			"pwdrequired" "1"
+			"timeupdated" "1718065360"
+		}
+		"qa_q_qa_08_0020"
+		{
+			"buildid" "14925207"
+			"pwdrequired" "1"
+			"timeupdated" "1720053579"
+		}
+		"qa_q_qa_08_0021"
+		{
+			"buildid" "15007479"
+			"pwdrequired" "1"
+			"timeupdated" "1720743495"
+		}
+		"qa_q_wk_09_0000"
+		{
+			"buildid" "14838222"
+			"pwdrequired" "1"
+			"timeupdated" "1719361556"
+		}
+		"qa_q_wk_09_0001"
+		{
+			"buildid" "14938385"
+			"pwdrequired" "1"
+			"timeupdated" "1720154065"
+		}
+		"qa_q_wk_09_0002"
+		{
+			"buildid" "14983063"
+			"pwdrequired" "1"
+			"timeupdated" "1720573367"
+		}
+		"qa_q_wk_09_0003"
+		{
+			"buildid" "15068979"
+			"pwdrequired" "1"
+			"timeupdated" "1721263809"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "209715200"
+	"maxnumfiles" "1024"
+}
+"_missing_token" "False"
+"_change_number" "24407330"
+"_sha" "06f75e568d1be5351db1b81a053746ad6b4cd65b"
+"_size" "19185"
