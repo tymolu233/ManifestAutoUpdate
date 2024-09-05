@@ -1,0 +1,392 @@
+"appid" "1280"
+"common"
+{
+	"name" "Darkest Hour: Europe \'44-\'45"
+	"clienttga" "3c99658fe76b931cd6d5033e7da614564eb99f86"
+	"clienticon" "89f0cf88c1d02e917a0a2fd3fdc63fa761fd410c"
+	"logo" "579d13efc4040d06404c7a0e612d54463f64da0a"
+	"logo_small" "579d13efc4040d06404c7a0e612d54463f64da0a_thumb"
+	"icon" "fb56136d0327b403e276460aca1ff0f559b02215"
+	"oslist" "windows,macos,linux"
+	"type" "game"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1658275200"
+		"tested_build_id" "8871239"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-7.0-3"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Darkest Hour: Europe \'44-\'45"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1679904899"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Darklight Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Darklight Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "28"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_19" "1"
+		"category_17" "1"
+		"category_36" "1"
+		"category_49" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+	}
+	"original_release_date" "1244530800"
+	"steam_release_date" "1244577600"
+	"community_hub_visible" "1"
+	"gameid" "1280"
+	"exfgls" "3"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "4150"
+		"2" "599"
+		"3" "1663"
+		"4" "3859"
+		"5" "1678"
+		"6" "1774"
+		"7" "4175"
+		"8" "113"
+		"9" "1708"
+		"10" "5348"
+		"11" "5711"
+		"12" "4168"
+		"13" "3987"
+		"14" "4182"
+		"15" "3839"
+		"16" "9"
+	}
+	"review_score" "8"
+	"review_percentage" "90"
+}
+"extended"
+{
+	"developer" "Darklight Games"
+	"gamedir" "darkesthour"
+	"homepage" "http://www.darkesthourgame.com/"
+	"icon" ""
+	"noservers" "0"
+	"order" "1"
+	"primarycache" "1281"
+	"serverbrowsername" "Darkest Hour: Europe \'44-\'45"
+	"state" "eStateAvailable"
+	"publisher" "Darklight Games"
+	"isfreeapp" "1"
+}
+"config"
+{
+	"launch"
+	{
+		"0"
+		{
+			"executable" "System/RedOrchestraLargeAddressAware.exe"
+			"arguments" "-mod=DarkestHour"
+			"description" "Darkest Hour"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "System/redorchestra-bin"
+			"arguments" "-mod=DarkestHour"
+			"description" "Darkest Hour"
+			"workingdir" "System"
+			"config"
+			{
+				"oslist" "linux"
+			}
+		}
+		"2"
+		{
+			"executable" "Red Orchestra.app"
+			"arguments" "-mod=DarkestHour"
+			"description" "Darkest Hour"
+			"workingdir" "System"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+		"3"
+		{
+			"executable" "System/RedOrchestraLargeAddressAware.exe"
+			"arguments" "-mod=DarkestHour"
+			"description" "Darkest Hour"
+			"type" "none"
+			"config"
+			{
+				"oslist" "windows"
+				"betakey" "beta"
+			}
+		}
+	}
+	"contenttype" "3"
+	"installdir" "red orchestra"
+	"steamcontrollertemplateindex" "6"
+}
+"depots"
+{
+	"1202"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "1200"
+		"sharedinstall" "2"
+	}
+	"1201"
+	{
+		"systemdefined" "1"
+		"depotfromapp" "1200"
+		"sharedinstall" "2"
+	}
+	"1282"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2311641851827444207"
+				"size" "2040544288"
+				"download" "901940592"
+			}
+			"legacy-v6.0.0"
+			{
+				"gid" "6043955557276725025"
+				"size" "839188951"
+				"download" "379969744"
+			}
+			"public-playtest"
+			{
+				"gid" "2109429908393677624"
+				"size" "2044867054"
+				"download" "903640512"
+			}
+			"previous"
+			{
+				"gid" "1459208706515356575"
+				"size" "2040540758"
+				"download" "901939984"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "EFC21F9D4A1EB5EF7493B210A292C660"
+				"size" "31FBB6AAEA25E8BDCEA3FC4A40D3CD78"
+				"download" "748B463CF7D496EFBABA70184B06711C"
+			}
+			"prerelease"
+			{
+				"gid" "1CBDAE4DA9A31CD903E41922807A2B35"
+				"size" "7755B3EB0DFE1A457A738C935CFB7CF3"
+				"download" "5AE1A27D9014B4674BEC9266907570F4"
+			}
+			"playtest"
+			{
+				"gid" "26312C4189270B5765C75E6D5A306879"
+				"size" "B77B7A33F0E03764588F7971F49DC660"
+				"download" "42D395A7ACC1A1949B36385D777B5B37"
+			}
+		}
+	}
+	"1281"
+	{
+		"systemdefined" "1"
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6000917341990286079"
+				"size" "10214487456"
+				"download" "2816966048"
+			}
+			"legacy-v6.0.0"
+			{
+				"gid" "4376981082077672751"
+				"size" "2130157052"
+				"download" "627444112"
+			}
+			"public-playtest"
+			{
+				"gid" "8853197227526971481"
+				"size" "9507129702"
+				"download" "2637421104"
+			}
+			"previous"
+			{
+				"gid" "808072036026966968"
+				"size" "10003039748"
+				"download" "2769512224"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"development"
+			{
+				"gid" "D2706515F7DC64C008A1ECA7DEC61200"
+				"size" "4BDC853F574C3D5BEC311327EFD0E9A6"
+				"download" "A3C9BD3E14177ADBBB6C2D9A586A9E9B"
+			}
+			"prerelease"
+			{
+				"gid" "F820D5754E63AA9FD2D0FC25F542DD8D"
+				"size" "4BCDAFD8568D01BBEEC462C9865B0F82"
+				"download" "41B4CFF9287F756F05160483C57799FE"
+			}
+			"playtest"
+			{
+				"gid" "A5D4BA1E762070EBE767FBA9F6366FCE"
+				"size" "32FE296536AAAF8A040AA20A6B7B80E4"
+				"download" "81120216CB8C3D88FC7DE72FDAF6D7CC"
+			}
+		}
+	}
+	"overridescddb" "1"
+	"workshopdepot" "0"
+	"baselanguages" "english,german,french,italian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15575676"
+			"timeupdated" "1725355166"
+		}
+		"development"
+		{
+			"buildid" "7084714"
+			"pwdrequired" "1"
+			"timeupdated" "1695719358"
+		}
+		"legacy-v6.0.0"
+		{
+			"buildid" "1026292"
+			"description" "v6.0.0"
+			"timeupdated" "1677240308"
+		}
+		"prerelease"
+		{
+			"buildid" "12027407"
+			"pwdrequired" "1"
+			"timeupdated" "1692921622"
+		}
+		"public-playtest"
+		{
+			"buildid" "12027407"
+			"description" "Public playtesting branch"
+			"timeupdated" "1692948750"
+		}
+		"playtest"
+		{
+			"buildid" "15412563"
+			"pwdrequired" "1"
+			"timeupdated" "1724008884"
+		}
+		"previous"
+		{
+			"buildid" "13972700"
+			"description" "Rollback to previous version"
+			"timeupdated" "1714221316"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "0"
+	"maxnumfiles" "0"
+}
+"_missing_token" "False"
+"_change_number" "25054460"
+"_sha" "f6d603c03cdc0519cb9ac5bd774da97f2766326b"
+"_size" "7693"
