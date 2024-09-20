@@ -1,0 +1,249 @@
+"appid" "585560"
+"common"
+{
+	"name" "Finnish Roller"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows,linux"
+	"osarch" ""
+	"clienticon" "a0ca87452b5483d6795786dfe16adce81c396470"
+	"clienttga" "e990fafb7dc6f00b8e524d059317ce8d46e1223d"
+	"icon" "74d81d3dda42f85679c28138f506b236ca93898a"
+	"logo" "a5b333bb5650935e0b371fa4c9a3720be13574cb"
+	"logo_small" "a5b333bb5650935e0b371fa4c9a3720be13574cb_thumb"
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "1"
+		"test_timestamp" "1683244800"
+		"tested_build_id" "1826849"
+		"tests"
+		{
+			"0"
+			{
+				"display" "2"
+				"token" "#SteamDeckVerified_TestResult_SteamOSDoesNotSupport"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-stable"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+		}
+	}
+	"metacritic_name" "Finnish Roller"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "38.2147024504084"
+			"height_pct" "79.10235098551414"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "38.2147024504084"
+				"height_pct" "79.10235098551414"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1713295901"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Tero Lunkka"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Morning Shift Studios"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "4"
+		"3" "23"
+		"4" "28"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_29" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1485882767"
+	"community_hub_visible" "1"
+	"gameid" "585560"
+	"store_tags"
+	{
+		"0" "492"
+		"1" "599"
+		"2" "597"
+		"3" "21"
+		"4" "1773"
+		"5" "19"
+		"6" "1625"
+		"7" "3798"
+		"8" "4191"
+		"9" "4175"
+		"10" "4791"
+		"11" "1644"
+		"12" "10397"
+		"13" "3942"
+		"14" "1695"
+		"15" "3968"
+		"16" "4747"
+		"17" "4182"
+	}
+	"review_score" "5"
+	"review_percentage" "50"
+}
+"extended"
+{
+	"developer" "Tero Lunkka"
+	"publisher" "Morning Shift Studios"
+}
+"config"
+{
+	"installdir" "FR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "FR.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228986"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"585561"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8977795802057270552"
+				"size" "7244138741"
+				"download" "2639688208"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "1826849"
+			"timeupdated" "1496768515"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24981165"
+"_sha" "9be78e823f4cceaf17b3e7beababf3401e7eeb71"
+"_size" "4121"
