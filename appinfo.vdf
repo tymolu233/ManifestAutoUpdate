@@ -1,0 +1,402 @@
+"appid" "703940"
+"common"
+{
+	"name" "Ball 2D: Soccer Online"
+	"type" "Game"
+	"releasestate" "released"
+	"clienticon" "1e7a20e6983f90226f4fd2f8be240e4a5331c09f"
+	"clienttga" "acde71f90d36ce589af9f0138b75488f194f4133"
+	"icon" "b2d443ab770144483d81297639e4a186f84df47f"
+	"clienticns" "eddc679800cdc56374b6710defa27d772a967886"
+	"logo" "ae477a0d263b442693781cfa8379ccea9001886f"
+	"logo_small" "ae477a0d263b442693781cfa8379ccea9001886f_thumb"
+	"oslist" "windows,macos"
+	"osarch" ""
+	"osextended" "macos64"
+	"aicontenttype" "1"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "50"
+			"height_pct" "50"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "50"
+				"height_pct" "50"
+			}
+		}
+	}
+	"store_asset_mtime" "1725012694"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Unusualsoft"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Unusualsoft"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Unusualsoft"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "Soccer Online"
+		}
+	}
+	"primary_genre" "18"
+	"genres"
+	{
+		"0" "18"
+	}
+	"category"
+	{
+		"category_36" "1"
+		"category_38" "1"
+		"category_27" "1"
+		"category_1" "1"
+		"category_9" "1"
+		"category_49" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"bulgarian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"danish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"finnish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"norwegian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"romanian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"swedish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"vietnamese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+	}
+	"original_release_date" "1504854000"
+	"steam_release_date" "1504886400"
+	"community_hub_visible" "1"
+	"gameid" "703940"
+	"store_tags"
+	{
+		"0" "1254546"
+		"1" "324176"
+		"2" "3859"
+		"3" "3878"
+		"4" "701"
+		"5" "5711"
+		"6" "3843"
+		"7" "1685"
+		"8" "5055"
+		"9" "1775"
+		"10" "19"
+		"11" "492"
+		"12" "1773"
+		"13" "3968"
+		"14" "599"
+		"15" "3871"
+		"16" "1734"
+		"17" "4136"
+		"18" "4161"
+		"19" "5350"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Unusualsoft"
+	"publisher" "Unusualsoft"
+}
+"config"
+{
+	"installdir" "Ball 2D"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Ball 2D.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+		"1"
+		{
+			"executable" "Ball 2D.app"
+			"type" "default"
+			"config"
+			{
+				"oslist" "macos"
+			}
+		}
+	}
+}
+"depots"
+{
+	"703941"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6494324980275014592"
+				"size" "50355098"
+				"download" "12065600"
+			}
+		}
+	}
+	"703942"
+	{
+		"config"
+		{
+			"oslist" "macos"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8968561487100542835"
+				"size" "69500314"
+				"download" "16344352"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15496915"
+			"timeupdated" "1724699858"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25009159"
+"_sha" "1869777105f0f336b417bd0562420a75daa89345"
+"_size" "6301"
