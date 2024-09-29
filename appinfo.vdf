@@ -1,0 +1,306 @@
+"appid" "2361680"
+"common"
+{
+	"name" "Path of Kung Fu"
+	"type" "Game"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "2e9590f8a3dd48389f88eaebea649134de560042"
+	"clienticon" "db7369409c0cd64a547f1dd2d0717328871cc976"
+	"clienttga" "6090590ad990f6b1bebcdd691f68d6f6d6ab8076"
+	"name_localized"
+	{
+		"schinese" "刀剑江湖路"
+		"tchinese" "刀劍江湖路"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "e54fd0730e03c3791b62ebe2f825130b56b0deec/capsule_231x87_schinese.jpg"
+		"tchinese" "e54fd0730e03c3791b62ebe2f825130b56b0deec/capsule_231x87_tchinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw"
+		"library_hero" "en,zh-cn,zh-tw"
+		"library_logo" "zh-cn,en,zh-tw"
+		"library_header" "en,zh-cn,zh-tw"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "23.236137022066046"
+			"height_pct" "70.77884647052409"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"schinese" "logo_schinese.png"
+				"english" "logo.png"
+				"tchinese" "logo_tchinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "23.236137022066046"
+				"height_pct" "70.77884647052409"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726755017"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "游鲤化龙工作室"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Captcha Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "3"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_18" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1726730322"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2361680"
+	"store_tags"
+	{
+		"0" "122"
+		"1" "6915"
+		"2" "1742"
+		"3" "3834"
+		"4" "1695"
+		"5" "5984"
+		"6" "4158"
+		"7" "21"
+		"8" "4231"
+		"9" "3810"
+		"10" "19"
+		"11" "9551"
+		"12" "3854"
+		"13" "4608"
+		"14" "4182"
+		"15" "1684"
+		"16" "4004"
+		"17" "3871"
+		"18" "492"
+		"19" "4777"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "游鲤化龙工作室"
+	"publisher" "Captcha Games"
+}
+"config"
+{
+	"installdir" "The road of Jianghu"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "daojianjianghulu.exe"
+			"arguments" "hualong123_xgedf432wasddfs_hualong456"
+		}
+	}
+	"steamcontrollertemplateindex" "4"
+	"steamdecktouchscreen" "1"
+	"steamconfigurator3rdpartynative" "13"
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"2361688"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2756700741705922144"
+				"size" "9685915047"
+				"download" "3912990144"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"kaifazheceshi"
+			{
+				"gid" "6B2A44D10650B08F3C61DACDB66BC048"
+				"size" "D3200C4E267D0618E93D48F02F1BE2CE"
+				"download" "92A4549117EA39DC867282A487AE1517"
+			}
+			"neibucheshi_2"
+			{
+				"gid" "86C3FEBC8921D91EEC19D6A7EF16EE52"
+				"size" "EAC6CA5A0B9D9863238CF47A7F54D36D"
+				"download" "DCDB64039303A45B5026135AA29B0C54"
+			}
+		}
+	}
+	"2361689"
+	{
+		"config"
+		{
+			"language" "tchinese"
+			"oslist" "windows"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8300897930219980161"
+				"size" "9686322148"
+				"download" "3913265888"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"kaifazheceshi"
+			{
+				"gid" "FE847C8F648E10F0BE77E1B18B515277"
+				"size" "B2F76DE076DB92CEC3D381FD350CE2EB"
+				"download" "8016D98AFD400F11F63BC89F7DE76D3B"
+			}
+			"neibucheshi_2"
+			{
+				"gid" "7634070FF40B27F9FA6FC358E90246CE"
+				"size" "68FBEF08647772182E6057EEAC6EA43B"
+				"download" "30F285B3117150D587F4B58792E18F14"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15861616"
+			"timeupdated" "1727537232"
+		}
+		"kaifazheceshi"
+		{
+			"buildid" "15795791"
+			"pwdrequired" "1"
+			"timeupdated" "1727100799"
+		}
+		"neibucheshi_2"
+		{
+			"buildid" "15861546"
+			"pwdrequired" "1"
+			"timeupdated" "1727536363"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "532480000"
+	"maxnumfiles" "1000"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "HuaLongZ/saves"
+			"pattern" "*.save"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25439198"
+"_sha" "cae43e17e742afd271417c72003b2d98a70e0bfb"
+"_size" "5812"
