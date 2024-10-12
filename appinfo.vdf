@@ -1,0 +1,321 @@
+"appid" "3070070"
+"common"
+{
+	"name" "TCG Card Shop Simulator"
+	"type" "Game"
+	"clienticon" "68b35c825db370d9b5e538e280c3793f56e8027a"
+	"clienttga" "9b01476f1f533ba35082a2ff90a9e7fd044fabba"
+	"icon" "ade567b04584ff71000ff91a8dd65aac4833206b"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"releasestate" "released"
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1728000000"
+		"tested_build_id" "15867331"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigNotFullyFunctional"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsNotLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_ExternalControllersNotSupportedPrimaryPlayer"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "1"
+			"non_deck_display_glyphs" "1"
+			"small_text" "1"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "1"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "46.37883236265765"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "46.37883236265765"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1726385799"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "OPNeon Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "OPNeon Games"
+		}
+	}
+	"primary_genre" "28"
+	"genres"
+	{
+		"0" "28"
+		"1" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_22" "1"
+		"category_23" "1"
+		"category_55" "1"
+		"category_57" "1"
+		"category_29" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+		}
+	}
+	"steam_release_date" "1726399387"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "3070070"
+	"store_tags"
+	{
+		"0" "599"
+		"1" "12472"
+		"2" "4695"
+		"3" "5652"
+		"4" "4845"
+		"5" "4182"
+		"6" "493"
+		"7" "9204"
+		"8" "9271"
+		"9" "4202"
+		"10" "1666"
+		"11" "10235"
+		"12" "4191"
+		"13" "3839"
+		"14" "1654"
+		"15" "597"
+		"16" "3859"
+	}
+	"review_score" "9"
+	"review_percentage" "96"
+}
+"extended"
+{
+	"developer" "OPNeon Games"
+	"publisher" "OPNeon Games"
+}
+"config"
+{
+	"installdir" "TCG Card Shop Simulator"
+	"launch"
+	{
+		"1"
+		{
+			"executable" "Card Shop Simulator.exe"
+			"type" "default"
+		}
+	}
+}
+"depots"
+{
+	"3070071"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "4842178856415824267"
+				"size" "3157234827"
+				"download" "1068406288"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"betatest"
+			{
+				"gid" "44BDE0CBC70F3EC2564CD616BA344970"
+				"size" "B6279942E5E5A03C411F7951269BB8F7"
+				"download" "7BE31DDDE68CD1D86D8871633813DD3A"
+			}
+			"internal"
+			{
+				"gid" "7DBB4EB703B19DE93B8B1AC1B40EF414"
+				"size" "B26F43F0B0F2DB9625A0AC05A9B5005E"
+				"download" "D83B531179D3DA2FC415B1C8EC743796"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15975526"
+			"timeupdated" "1728447031"
+		}
+		"betatest"
+		{
+			"buildid" "15975526"
+			"pwdrequired" "1"
+			"timeupdated" "1728446998"
+		}
+		"internal"
+		{
+			"buildid" "15975526"
+			"pwdrequired" "1"
+			"timeupdated" "1728446711"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "100000000"
+	"maxnumfiles" "20"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "OPNeonGames/Card Shop Simulator/"
+			"pattern" "*.gd"
+		}
+		"1"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "OPNeonGames/Card Shop Simulator/"
+			"pattern" "*.json"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25660306"
+"_sha" "d9154db964dc3e230eb10c4e2a85b29aa3571168"
+"_size" "5533"
