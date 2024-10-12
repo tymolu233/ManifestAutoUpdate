@@ -1,0 +1,739 @@
+"appid" "2469350"
+"common"
+{
+	"name" "Jagged Alliance 3 Soundtrack"
+	"type" "Music"
+	"parent" "1084160"
+	"releasestate" "released"
+	"oslist" "windows,macos,linux"
+	"icon" "93ac5cddb908ebca5010e579a314810c27906093"
+	"clienticon" "846fe0f06478b8b27b98d0e94111f4441cc09bf9"
+	"clienttga" "e2f31417b1477cacc5031f27a77036bf708bd906"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"store_asset_mtime" "1689336066"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Haemimont Games"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "THQ Nordic"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Jagged Alliance"
+		}
+	}
+	"primary_genre" "0"
+	"category"
+	{
+		"category_50" "1"
+	}
+	"steam_release_date" "1689341719"
+	"gameid" "2469350"
+	"exfgls" "6"
+}
+"extended"
+{
+	"musicalbumforappid" "1084160"
+	"developer" "Haemimont Games"
+	"publisher" "THQ Nordic"
+	"homepage" "https://jaggedalliance.com"
+	"musicalbumavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "Jagged Alliance 3 Soundtrack"
+}
+"depots"
+{
+	"2469351"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "1142654528176957091"
+				"size" "1253884054"
+				"download" "626253136"
+			}
+		}
+	}
+	"2469352"
+	{
+		"config"
+		{
+			"highqualityaudio" "1"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7453962181113467881"
+				"size" "3740373418"
+				"download" "3578634272"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "11692958"
+			"timeupdated" "1689245273"
+		}
+	}
+}
+"albummetadata"
+{
+	"cdn_assets"
+	{
+		"album_cover" "ccde57b090e08aead91ad11e29a18c02bf9ac0e2"
+	}
+	"tracks"
+	{
+		"0"
+		{
+			"discnumber" "1"
+			"tracknumber" "1"
+			"originalname" "The Jagged Alliance"
+			"m" "3"
+			"s" "10"
+		}
+		"1"
+		{
+			"discnumber" "1"
+			"tracknumber" "2"
+			"originalname" "Merc\'s Flow"
+			"m" "3"
+			"s" "33"
+		}
+		"2"
+		{
+			"discnumber" "1"
+			"tracknumber" "3"
+			"originalname" "Tin Roofs"
+			"m" "3"
+			"s" "30"
+		}
+		"3"
+		{
+			"discnumber" "1"
+			"tracknumber" "4"
+			"originalname" "Biff\'s Call"
+			"m" "3"
+			"s" "28"
+		}
+		"4"
+		{
+			"discnumber" "1"
+			"tracknumber" "5"
+			"originalname" "Payday"
+			"m" "4"
+			"s" "41"
+		}
+		"5"
+		{
+			"discnumber" "1"
+			"tracknumber" "6"
+			"originalname" "Storming The Fortress"
+			"m" "3"
+			"s" "26"
+		}
+		"6"
+		{
+			"discnumber" "1"
+			"tracknumber" "7"
+			"originalname" "Working in the Mines"
+			"m" "2"
+			"s" "9"
+		}
+		"7"
+		{
+			"discnumber" "1"
+			"tracknumber" "8"
+			"originalname" "Babu Mnumzane"
+			"m" "3"
+			"s" "20"
+		}
+		"8"
+		{
+			"discnumber" "1"
+			"tracknumber" "9"
+			"originalname" "Carnival Queen"
+			"m" "3"
+			"s" "42"
+		}
+		"9"
+		{
+			"discnumber" "1"
+			"tracknumber" "10"
+			"originalname" "Entering The Village"
+			"m" "4"
+			"s" "52"
+		}
+		"10"
+		{
+			"discnumber" "1"
+			"tracknumber" "11"
+			"originalname" "Satellite View"
+			"m" "3"
+			"s" "15"
+		}
+		"11"
+		{
+			"discnumber" "1"
+			"tracknumber" "12"
+			"originalname" "Legion\'s March"
+			"m" "3"
+			"s" "33"
+		}
+		"12"
+		{
+			"discnumber" "1"
+			"tracknumber" "13"
+			"originalname" "Raising The Stakes"
+			"m" "3"
+			"s" "21"
+		}
+		"13"
+		{
+			"discnumber" "1"
+			"tracknumber" "14"
+			"originalname" "Lock stock and Barrel"
+			"m" "3"
+			"s" "22"
+		}
+		"14"
+		{
+			"discnumber" "1"
+			"tracknumber" "15"
+			"originalname" "I Dream of Peace"
+			"m" "3"
+			"s" "53"
+		}
+		"15"
+		{
+			"discnumber" "1"
+			"tracknumber" "16"
+			"originalname" "Big Trouble in Little Fleatown"
+			"m" "5"
+			"s" "15"
+		}
+		"16"
+		{
+			"discnumber" "1"
+			"tracknumber" "17"
+			"originalname" "Senzeni Na"
+			"m" "3"
+			"s" "37"
+		}
+		"17"
+		{
+			"discnumber" "1"
+			"tracknumber" "18"
+			"originalname" "Magcina"
+			"m" "2"
+			"s" "39"
+		}
+		"18"
+		{
+			"discnumber" "1"
+			"tracknumber" "19"
+			"originalname" "Segniyahamba"
+			"m" "3"
+			"s" "30"
+		}
+		"19"
+		{
+			"discnumber" "1"
+			"tracknumber" "20"
+			"originalname" "The Guns Are Silent"
+			"m" "4"
+			"s" "15"
+		}
+		"20"
+		{
+			"discnumber" "1"
+			"tracknumber" "21"
+			"originalname" "Adjani Valley"
+			"m" "5"
+			"s" "21"
+		}
+		"21"
+		{
+			"discnumber" "1"
+			"tracknumber" "22"
+			"originalname" "Masks Off"
+			"m" "3"
+			"s" "14"
+		}
+		"22"
+		{
+			"discnumber" "1"
+			"tracknumber" "23"
+			"originalname" "Into The Fog"
+			"m" "3"
+			"s" "43"
+		}
+		"23"
+		{
+			"discnumber" "1"
+			"tracknumber" "24"
+			"originalname" "Breaking Bread"
+			"m" "3"
+			"s" "38"
+		}
+		"24"
+		{
+			"discnumber" "1"
+			"tracknumber" "25"
+			"originalname" "11 59"
+			"m" "3"
+			"s" "12"
+		}
+		"25"
+		{
+			"discnumber" "1"
+			"tracknumber" "26"
+			"originalname" "Executing The Plan"
+			"m" "3"
+			"s" "15"
+		}
+		"26"
+		{
+			"discnumber" "1"
+			"tracknumber" "27"
+			"originalname" "It\'s Too Quiet"
+			"m" "3"
+			"s" "32"
+		}
+		"27"
+		{
+			"discnumber" "1"
+			"tracknumber" "28"
+			"originalname" "Ukuphina"
+			"m" "3"
+			"s" "13"
+		}
+		"28"
+		{
+			"discnumber" "1"
+			"tracknumber" "29"
+			"originalname" "Scent of Arulco"
+			"m" "3"
+			"s" "16"
+		}
+		"29"
+		{
+			"discnumber" "1"
+			"tracknumber" "30"
+			"originalname" "Will to Survive"
+			"m" "3"
+			"s" "57"
+		}
+		"30"
+		{
+			"discnumber" "1"
+			"tracknumber" "31"
+			"originalname" "The Road To Pantagruel"
+			"m" "3"
+			"s" "46"
+		}
+		"31"
+		{
+			"discnumber" "1"
+			"tracknumber" "32"
+			"originalname" "Hangars"
+			"m" "4"
+			"s" "3"
+		}
+		"32"
+		{
+			"discnumber" "1"
+			"tracknumber" "33"
+			"originalname" "The Stage is set"
+			"m" "3"
+			"s" "42"
+		}
+		"33"
+		{
+			"discnumber" "1"
+			"tracknumber" "34"
+			"originalname" "The Fracture"
+			"m" "4"
+			"s" "34"
+		}
+		"34"
+		{
+			"discnumber" "1"
+			"tracknumber" "35"
+			"originalname" "Ukuphina (for Strings)"
+			"m" "2"
+			"s" "41"
+		}
+		"35"
+		{
+			"discnumber" "1"
+			"tracknumber" "36"
+			"originalname" "Izindlu Zodaka"
+			"m" "2"
+			"s" "16"
+		}
+		"36"
+		{
+			"discnumber" "1"
+			"tracknumber" "37"
+			"originalname" "Wandering Paths"
+			"m" "3"
+			"s" "26"
+		}
+		"37"
+		{
+			"discnumber" "1"
+			"tracknumber" "38"
+			"originalname" "Sanctuary"
+			"m" "5"
+			"s" "37"
+		}
+		"38"
+		{
+			"discnumber" "1"
+			"tracknumber" "39"
+			"originalname" "Of Hunters And Prey"
+			"m" "2"
+			"s" "15"
+		}
+		"39"
+		{
+			"discnumber" "1"
+			"tracknumber" "40"
+			"originalname" "Gunpowder and Tobacco"
+			"m" "3"
+			"s" "45"
+		}
+		"40"
+		{
+			"discnumber" "1"
+			"tracknumber" "41"
+			"originalname" "Cat &amp; Mouse"
+			"m" "3"
+			"s" "34"
+		}
+		"41"
+		{
+			"discnumber" "1"
+			"tracknumber" "42"
+			"originalname" "Bloody Rocks"
+			"m" "3"
+			"s" "25"
+		}
+		"42"
+		{
+			"discnumber" "1"
+			"tracknumber" "43"
+			"originalname" "Gathering Clouds"
+			"m" "2"
+			"s" "52"
+		}
+		"43"
+		{
+			"discnumber" "1"
+			"tracknumber" "44"
+			"originalname" "A Simple Life"
+			"m" "3"
+			"s" "38"
+		}
+		"44"
+		{
+			"discnumber" "1"
+			"tracknumber" "45"
+			"originalname" "Awaiting Orders"
+			"m" "4"
+			"s" "12"
+		}
+		"45"
+		{
+			"discnumber" "1"
+			"tracknumber" "46"
+			"originalname" "Growing Uncertainty"
+			"m" "4"
+			"s" "28"
+		}
+		"46"
+		{
+			"discnumber" "1"
+			"tracknumber" "47"
+			"originalname" "Dusty Roads"
+			"m" "2"
+			"s" "6"
+		}
+		"47"
+		{
+			"discnumber" "1"
+			"tracknumber" "48"
+			"originalname" "Rustling Leaves"
+			"m" "4"
+			"s" "4"
+		}
+		"48"
+		{
+			"discnumber" "1"
+			"tracknumber" "49"
+			"originalname" "Sign of Civilization"
+			"m" "3"
+			"s" "1"
+		}
+		"49"
+		{
+			"discnumber" "1"
+			"tracknumber" "50"
+			"originalname" "Thula Sizwe"
+			"m" "3"
+			"s" "14"
+		}
+		"50"
+		{
+			"discnumber" "1"
+			"tracknumber" "51"
+			"originalname" "Man-made Jungle"
+			"m" "1"
+			"s" "40"
+		}
+		"51"
+		{
+			"discnumber" "1"
+			"tracknumber" "52"
+			"originalname" "Magcina (Instrumental)"
+			"m" "2"
+			"s" "42"
+		}
+		"52"
+		{
+			"discnumber" "1"
+			"tracknumber" "53"
+			"originalname" "Segniyahamba (for Strings)"
+			"m" "3"
+			"s" "1"
+		}
+		"53"
+		{
+			"discnumber" "1"
+			"tracknumber" "54"
+			"originalname" "Whispers In The Rain"
+			"m" "3"
+			"s" "19"
+		}
+		"54"
+		{
+			"discnumber" "1"
+			"tracknumber" "55"
+			"originalname" "Time to go"
+			"m" "2"
+			"s" "57"
+		}
+		"55"
+		{
+			"discnumber" "1"
+			"tracknumber" "56"
+			"originalname" "The Aftermath"
+			"m" "3"
+			"s" "41"
+		}
+		"56"
+		{
+			"discnumber" "1"
+			"tracknumber" "57"
+			"originalname" "Thula Baba"
+			"m" "3"
+			"s" "32"
+		}
+		"57"
+		{
+			"discnumber" "1"
+			"tracknumber" "58"
+			"originalname" "Violet Skies"
+			"m" "3"
+			"s" "48"
+		}
+		"58"
+		{
+			"discnumber" "1"
+			"tracknumber" "59"
+			"originalname" "The Cost Of War"
+			"m" "3"
+			"s" "37"
+		}
+		"59"
+		{
+			"discnumber" "1"
+			"tracknumber" "60"
+			"originalname" "Poacher\'s Camp"
+			"m" "2"
+			"s" "49"
+		}
+		"60"
+		{
+			"discnumber" "1"
+			"tracknumber" "61"
+			"originalname" "Senzeni Na (for Strings)"
+			"m" "3"
+			"s" "6"
+		}
+		"61"
+		{
+			"discnumber" "1"
+			"tracknumber" "62"
+			"originalname" "Walled Garden"
+			"m" "2"
+			"s" "14"
+		}
+	}
+	"metadata"
+	{
+		"artist"
+		{
+			"english" "George Strezov"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"composer"
+		{
+			"english" "George Strezov"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"label"
+		{
+			"english" "THQ Nordic"
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+		"othercredits"
+		{
+			"english" ""
+			"french" ""
+			"italian" ""
+			"german" ""
+			"arabic" ""
+			"bulgarian" ""
+			"czech" ""
+			"danish" ""
+			"dutch" ""
+			"finnish" ""
+			"greek" ""
+			"hungarian" ""
+			"japanese" ""
+			"koreana" ""
+			"norwegian" ""
+			"polish" ""
+			"brazilian" ""
+			"portuguese" ""
+			"romanian" ""
+			"russian" ""
+			"schinese" ""
+			"latam" ""
+			"spanish" ""
+			"swedish" ""
+			"thai" ""
+			"tchinese" ""
+			"turkish" ""
+			"ukrainian" ""
+			"vietnamese" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "24328596"
+"_sha" "71a6c1690975d17be704a1a5b8c91bd4495a216a"
+"_size" "11981"
