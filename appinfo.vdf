@@ -1,0 +1,348 @@
+"appid" "2620730"
+"common"
+{
+	"name" "偏差者（DEVIATOR）"
+	"type" "Game"
+	"icon" "1ba2683de5c1c369cddfb634077b9ae05e85c8c5"
+	"clienttga" "37eb3b4510a08cda743c39bad4dc0f46a117056b"
+	"clienticon" "23fc96fdfe1b75fff0d69091cc1924e464231c09"
+	"name_localized"
+	{
+		"sc_schinese" "偏差者"
+		"english" "DEVIATOR"
+		"schinese" "偏差者"
+		"tchinese" "偏差者"
+		"japanese" "デビエーター 偏差者"
+		"koreana" "Deviator"
+	}
+	"releasestate" "released"
+	"releasestatesteamchina" "prerelease"
+	"oslist" "windows"
+	"osarch" ""
+	"osextended" ""
+	"steam_deck_compatibility"
+	{
+		"category" "2"
+		"test_timestamp" "1726876800"
+		"tested_build_id" "15288239"
+		"tests"
+		{
+			"0"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsDoNotMatchDeckDevice"
+			}
+			"1"
+			{
+				"display" "3"
+				"token" "#SteamDeckVerified_TestResult_NativeResolutionNotDefault"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"4"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "1"
+			"small_text" "0"
+			"requires_internet_for_setup" "0"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-2RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "capsule_231x87_schinese.jpg"
+		"tchinese" "capsule_231x87_tchinese.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+		"tchinese" "header_tchinese.jpg"
+		"sc_schinese" "header_sc_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-cn,zh-tw,zh-xc"
+		"library_hero" "en,zh-cn,zh-tw,zh-xc"
+		"library_logo" "en,zh-cn,zh-tw,zh-xc"
+		"library_header" "en,zh-cn,zh-tw,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "CenterCenter"
+			"width_pct" "75.67094515752623"
+			"height_pct" "97.72025647114698"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"schinese" "library_600x900_schinese.jpg"
+				"tchinese" "library_600x900_tchinese.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"schinese" "library_600x900_schinese_2x.jpg"
+				"tchinese" "library_600x900_tchinese_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"schinese" "library_hero_schinese.jpg"
+				"tchinese" "library_hero_tchinese.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"schinese" "library_hero_schinese_2x.jpg"
+				"tchinese" "library_hero_tchinese_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "CenterCenter"
+				"width_pct" "75.67094515752623"
+				"height_pct" "97.72025647114698"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"schinese" "logo_schinese.png"
+				"tchinese" "logo_tchinese.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"schinese" "logo_schinese_2x.png"
+				"tchinese" "logo_tchinese_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"schinese" "library_header_schinese.jpg"
+				"tchinese" "library_header_tchinese.jpg"
+				"sc_schinese" "library_header_sc_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1722568233"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Gami Studio"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "SapStaR Games"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1722567385"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2620730"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "1628"
+		"2" "5379"
+		"3" "29482"
+		"4" "1625"
+		"5" "6815"
+		"6" "21"
+		"7" "4604"
+		"8" "4166"
+		"9" "3993"
+		"10" "492"
+		"11" "4182"
+		"12" "3834"
+		"13" "3798"
+		"14" "3871"
+		"15" "9541"
+		"16" "4057"
+		"17" "4342"
+		"18" "4026"
+		"19" "4878"
+	}
+	"review_score" "6"
+	"review_percentage" "71"
+}
+"extended"
+{
+	"developer" "Gami Studio"
+	"publisher" "SapStaR Games"
+}
+"config"
+{
+	"installdir" "DEVIATOR"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Deviator.exe"
+			"config"
+			{
+				"oslist" "windows"
+			}
+		}
+	}
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "0"
+	}
+}
+"depots"
+{
+	"2620731"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "458475882410389815"
+				"size" "6351113121"
+				"download" "935437120"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"gaimi2077"
+			{
+				"gid" "1FBAA561D4E5AA694C595D7D1DECE930"
+				"size" "1C7D40A02672A4AD1C0BEE20D44CCE8B"
+				"download" "5C5363EA9B492970C9AF97AFE2465557"
+			}
+			"gametest"
+			{
+				"gid" "DAF3EEAD5630B80CBC490DA9C8CE4EDA"
+				"size" "62A8B7F78E71DC6EBAE01339E8A545CE"
+				"download" "94F38076512C200B6BDA930CC1BE8780"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15357042"
+			"timeupdated" "1724403896"
+		}
+		"gaimi2077"
+		{
+			"buildid" "12761388"
+			"pwdrequired" "1"
+			"timeupdated" "1700578333"
+		}
+		"gametest"
+		{
+			"buildid" "15256423"
+			"pwdrequired" "1"
+			"timeupdated" "1727224704"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "500"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "GamiGames/Deviator/Saves"
+			"pattern" "*.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25433518"
+"_sha" "d0043db375be13dcad59dd737ee2e7240e845729"
+"_size" "6981"
