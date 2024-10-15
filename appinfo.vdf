@@ -1,0 +1,600 @@
+"appid" "2322010"
+"common"
+{
+	"name" "God of War Ragnarök"
+	"type" "Game"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"languages"
+	{
+		"english" "1"
+		"german" "1"
+		"french" "1"
+		"italian" "1"
+		"koreana" "1"
+		"spanish" "1"
+		"schinese" "1"
+		"tchinese" "1"
+		"russian" "1"
+		"thai" "1"
+		"japanese" "1"
+		"portuguese" "1"
+		"polish" "1"
+		"dutch" "1"
+		"hungarian" "1"
+		"czech" "1"
+		"turkish" "1"
+		"arabic" "1"
+		"brazilian" "1"
+		"greek" "1"
+		"latam" "1"
+	}
+	"icon" "1e04d2b41906d6851f21c8d20c9db63f7eb10e64"
+	"clienticon" "3c7629ad56ac95b1314512861a01bfb186701c97"
+	"clienttga" "270d0dc2fe763aa153472b5304960014e76e2cb3"
+	"name_localized"
+	{
+		"japanese" "ゴッド・オブ・ウォー ラグナロク"
+		"koreana" "갓 오브 워 라그나로크"
+		"russian" "God of War Рагнарёк"
+		"thai" "ก็อดออฟวอร์ แร็กนาร็อก"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2322010_eula_0"
+			"name" "God of War Ragnarök EULA"
+			"url" "https://store.steampowered.com//eula/2322010_eula_0"
+			"version" "3"
+		}
+	}
+	"releasestate" "released"
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"steam_deck_compatibility"
+	{
+		"category" "3"
+		"test_timestamp" "1726790400"
+		"tested_build_id" "15752266"
+		"tests"
+		{
+			"0"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultControllerConfigFullyFunctional"
+			}
+			"1"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_ControllerGlyphsMatchDeckDevice"
+			}
+			"2"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_InterfaceTextIsLegible"
+			}
+			"3"
+			{
+				"display" "4"
+				"token" "#SteamDeckVerified_TestResult_DefaultConfigurationIsPerformant"
+			}
+			"4"
+			{
+				"display" "1"
+				"token" "#SteamDeckVerified_TestResult_FirstTimeSetupRequiresActiveInternetConnection"
+			}
+		}
+		"configuration"
+		{
+			"supported_input" "gamepad"
+			"requires_manual_keyboard_invoke" "0"
+			"requires_non_controller_launcher_nav" "0"
+			"primary_player_is_controller_slot_0" "0"
+			"non_deck_display_glyphs" "0"
+			"small_text" "0"
+			"requires_internet_for_setup" "1"
+			"requires_internet_for_singleplayer" "0"
+			"recommended_runtime" "proton-9.0-3RC"
+			"requires_h264" "0"
+			"gamescope_frame_limiter_not_supported" "0"
+			"hdr_support" "0"
+		}
+	}
+	"metacritic_name" "God of War: Ragnarok"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "BottomLeft"
+			"width_pct" "36.97339536112908"
+			"height_pct" "100"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image2x"
+			{
+				"english" "8886984a9a1da221a8e043908c6e4918205ef784/library_hero_2x.jpg"
+			}
+			"image"
+			{
+				"english" "8886984a9a1da221a8e043908c6e4918205ef784/library_hero.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "BottomLeft"
+				"width_pct" "36.97339536112908"
+				"height_pct" "100"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1728067750"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Santa Monica Studio"
+		}
+		"1"
+		{
+			"type" "developer"
+			"name" "Jetpack Interactive"
+		}
+		"2"
+		{
+			"type" "publisher"
+			"name" "PlayStation Publishing LLC"
+		}
+		"3"
+		{
+			"type" "franchise"
+			"name" "PlayStation Studios"
+		}
+		"4"
+		{
+			"type" "franchise"
+			"name" "God of War"
+		}
+	}
+	"primary_genre" "25"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "3"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_22" "1"
+		"category_61" "1"
+		"category_28" "1"
+		"category_55" "1"
+		"category_56" "1"
+		"category_57" "1"
+		"category_58" "1"
+		"category_59" "1"
+		"category_23" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"czech"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"dutch"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"greek"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"hungarian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"full_audio" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"croatian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1726757986"
+	"metacritic_score" "90"
+	"metacritic_fullurl" "https://www.metacritic.com/game/pc/god-of-war-ragnarok\?ftag=MCD-06-10aaa1f"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "2322010"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "21"
+		"2" "122"
+		"3" "4106"
+		"4" "4231"
+		"5" "1646"
+		"6" "4145"
+		"7" "4191"
+		"8" "1697"
+		"9" "16094"
+		"10" "4166"
+		"11" "5608"
+		"12" "5984"
+		"13" "1684"
+		"14" "3993"
+		"15" "1742"
+		"16" "1695"
+		"17" "4182"
+		"18" "4345"
+		"19" "44868"
+	}
+	"review_score" "6"
+	"review_percentage" "77"
+}
+"extended"
+{
+	"developer" "Santa Monica Studio"
+	"publisher" "PlayStation Publishing LLC"
+	"listofdlc" "2974320,2974330,2974340"
+	"dlcavailableonstore" "1"
+}
+"config"
+{
+	"installdir" "God of War Ragnarok"
+	"steamcontrollertemplateindex" "1"
+	"steamdecktouchscreen" "1"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GoWR.exe"
+			"type" "default"
+			"config"
+			{
+				"osarch" "64"
+			}
+		}
+	}
+	"steamcontrollertouchtemplateindex" "8"
+	"steamconfigurator3rdpartynative" "65532"
+	"steamcontrollerconfigdetails"
+	{
+		"3324037238"
+		{
+			"controller_type" "controller_ps5"
+			"enabled_branches" "default,amd_partner,compat,intel_partner,jpi_rollback,jpi_rollback2,latest_platinum,nvidia_partner,qa_gold,ratings"
+			"use_action_block" "true"
+		}
+		"3334547309"
+		{
+			"controller_type" "controller_xboxone"
+			"enabled_branches" "default,amd_partner,compat,intel_partner,jpi_rollback,jpi_rollback2,latest_platinum,nvidia_partner,qa_gold,ratings"
+			"use_action_block" "false"
+		}
+	}
+}
+"depots"
+{
+	"baselanguages" "english,german,french,italian,koreana,spanish,schinese,tchinese,russian,thai,japanese,portuguese,polish,danish,dutch,finnish,norwegian,swedish,hungarian,czech,romanian,turkish,arabic,brazilian,bulgarian,greek,latam,vietnamese,indonesian"
+	"hasdepotsindlc" "1"
+	"228988"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2322011"
+	{
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "8578441647152409881"
+				"size" "188659116481"
+				"download" "107428328320"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"amd_partner"
+			{
+				"gid" "C35A54ED25F31C3AB76069E5E9639996"
+				"size" "04B39308CF3E1079E6DAAD68C544E364"
+				"download" "66DA3A4C2D1CA7195D49FE3D03D16EFB"
+			}
+			"compat"
+			{
+				"gid" "AB614CDCE6E595D383C55DC0056852C7"
+				"size" "2ADF114DD725ECEA40504230230FA942"
+				"download" "D74951442F0289ED3F02FBFA6098E1B8"
+			}
+			"intel_partner"
+			{
+				"gid" "9A1D8BBB47C4664E023A19275AE3E245"
+				"size" "CE921B95E3247E4DB5649A3207EC7794"
+				"download" "8A2725ACEC2264DAADFDDCC590FEF86F"
+			}
+			"jpi_rollback"
+			{
+				"gid" "CEDB833878DAF91E25EE564AC525B490"
+				"size" "64350C6C5F7F581054D7BFEF00264FB9"
+				"download" "F9F8C7411267DA4896D59EB066B6FB70"
+			}
+			"jpi_rollback2"
+			{
+				"gid" "24FEE315A36EF2B34CB04FE7A5BF1136"
+				"size" "B8B6178244A69E32BC2E543D599446BD"
+				"download" "66ECB27543CD8FA461DA02B2783E7B84"
+			}
+			"latest_platinum"
+			{
+				"gid" "C94CBF73E23C706C3242C43E82408CB8"
+				"size" "BC7F87FDCFA5A7DDD39480065E6C3C0F"
+				"download" "CA0C818F8EC2D300DD6FF8142A9E319D"
+			}
+			"nvidia_partner"
+			{
+				"gid" "BB95E6E6B1E6CD1ACB6FCC68294417F5"
+				"size" "794B8CEAD7D7EEE53131E1524036C5BD"
+				"download" "CF7EB98F7FCF185430F5292A82917930"
+			}
+			"qa_gold"
+			{
+				"gid" "5781EE35AE91BD79228D56704C29BE12"
+				"size" "D4311C2F762B38EBE94516BEDA0AA63E"
+				"download" "3FA84AE0B7D1F01E5B18D26BF63C4AD3"
+			}
+			"ratings"
+			{
+				"gid" "5D438DCEC5B646BF4F8A634902CE84AD"
+				"size" "ACEA2D41B65200F4C252A72069C2BC2E"
+				"download" "960FD5B77BEB6B31B38B0A76B143E8F1"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15931660"
+			"timeupdated" "1728067451"
+		}
+		"amd_partner"
+		{
+			"buildid" "15853613"
+			"pwdrequired" "1"
+			"timeupdated" "1727457440"
+		}
+		"compat"
+		{
+			"buildid" "15661494"
+			"pwdrequired" "1"
+			"timeupdated" "1726066810"
+		}
+		"intel_partner"
+		{
+			"buildid" "15853613"
+			"pwdrequired" "1"
+			"timeupdated" "1727457454"
+		}
+		"jpi_rollback"
+		{
+			"buildid" "15763201"
+			"pwdrequired" "1"
+			"timeupdated" "1726935673"
+		}
+		"jpi_rollback2"
+		{
+			"buildid" "15493110"
+			"pwdrequired" "1"
+			"timeupdated" "1724973905"
+		}
+		"latest_platinum"
+		{
+			"buildid" "15976981"
+			"pwdrequired" "1"
+			"timeupdated" "1728457049"
+		}
+		"nvidia_partner"
+		{
+			"buildid" "15977066"
+			"pwdrequired" "1"
+			"timeupdated" "1728584291"
+		}
+		"qa_gold"
+		{
+			"buildid" "15977066"
+			"pwdrequired" "1"
+			"timeupdated" "1728457702"
+		}
+		"ratings"
+		{
+			"buildid" "14232263"
+			"pwdrequired" "1"
+			"timeupdated" "1714756887"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "200000000"
+	"maxnumfiles" "73"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinSavedGames"
+			"path" "God of War Ragnarök/{Steam3AccountID}"
+			"pattern" "GOWRSAVE*"
+		}
+		"1"
+		{
+			"root" "WinSavedGames"
+			"path" "God of War Ragnarök/{Steam3AccountID}"
+			"pattern" "*.dat"
+		}
+	}
+	"sync_while_suspended" "1"
+}
+"_missing_token" "False"
+"_change_number" "25689296"
+"_sha" "2d2a4bbcd584449df10e5f9ab8d7062dc57a5df0"
+"_size" "11728"
