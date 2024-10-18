@@ -1,0 +1,316 @@
+"appid" "1909840"
+"common"
+{
+	"name" "JIANGHU CHRONICLES"
+	"type" "Game"
+	"languages"
+	{
+		"english" "1"
+		"schinese" "1"
+	}
+	"clienttga" "6dfab02b3c6faa918460cd9ece3b14b2889e5533"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "江湖录"
+		"tchinese" "江湖錄"
+		"japanese" "江湖年代記"
+		"sc_schinese" "江湖录"
+	}
+	"clienticon" "528e9751fda384136b500a16d8a078bf0acd4b0e"
+	"icon" "947df13a56594f35c64e08c44ac16f6ef1cc8690"
+	"releasestate" "released"
+	"releasestatesteamchina" "prerelease"
+	"controllertagwizard" "1"
+	"controller_support" "full"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"sc_schinese" "capsule_231x87_sc_schinese.jpg"
+	}
+	"header_image"
+	{
+		"sc_schinese" "header_sc_schinese.jpg"
+		"english" "header.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en,zh-xc"
+		"library_hero" "en,zh-xc"
+		"library_logo" "en,zh-xc"
+		"library_header" "en,zh-xc"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "62.36872812135357"
+			"height_pct" "50.00000000000001"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+				"sc_schinese" "library_600x900_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+				"sc_schinese" "library_600x900_sc_schinese_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+				"sc_schinese" "library_hero_sc_schinese.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+				"sc_schinese" "library_hero_sc_schinese_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "62.36872812135357"
+				"height_pct" "50.00000000000001"
+			}
+			"image"
+			{
+				"english" "logo.png"
+				"sc_schinese" "logo_sc_schinese.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+				"sc_schinese" "logo_sc_schinese_2x.png"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+				"sc_schinese" "library_header_sc_schinese.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1727428631"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "一品阁"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "方块游戏(CubeGame)"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "CubeGame"
+		}
+	}
+	"primary_genre" "23"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "23"
+		"3" "28"
+		"4" "70"
+	}
+	"category"
+	{
+		"category_2" "1"
+		"category_28" "1"
+		"category_23" "1"
+		"category_22" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1722481112"
+	"community_visible_stats" "1"
+	"community_hub_visible" "1"
+	"gameid" "1909840"
+	"store_tags"
+	{
+		"0" "19"
+		"1" "7332"
+		"2" "6915"
+		"3" "1720"
+		"4" "4106"
+		"5" "21"
+		"6" "3987"
+		"7" "3813"
+		"8" "4975"
+		"9" "4791"
+		"10" "5300"
+		"11" "599"
+		"12" "4182"
+		"13" "4231"
+		"14" "9204"
+		"15" "3993"
+		"16" "3834"
+		"17" "4191"
+		"18" "15172"
+		"19" "492"
+	}
+	"review_score" "6"
+	"review_percentage" "72"
+}
+"extended"
+{
+	"developer" "一品阁"
+	"publisher" "方块游戏(CubeGame)"
+}
+"config"
+{
+	"installdir" "JianghuChronicles"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "JHL.exe"
+			"type" "default"
+			"description_loc"
+			{
+				"english" "JHL_Game"
+			}
+			"description" "JHL_Game"
+		}
+	}
+	"steamdecktouchscreen" "5"
+	"steamcontrollertemplateindex" "4"
+	"steamcontrollertouchtemplateindex" "8"
+	"steamconfigurator3rdpartynative" "65526"
+	"steam_china_only"
+	{
+		"steam_china_enable_duration_control" "1"
+	}
+}
+"depots"
+{
+	"baselanguages" "schinese"
+	"1909841"
+	{
+		"config"
+		{
+			"language" "schinese"
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "521778573447011145"
+				"size" "3010378631"
+				"download" "811570640"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"modtest"
+			{
+				"gid" "D453F2EB49A1D4197AB3D83888C17945"
+				"size" "E65A8A20AFD28494A1F292E25FB800DB"
+				"download" "6DAB83C58DD2DE32DE3A16EE0EECF6A1"
+			}
+			"test"
+			{
+				"gid" "69756A136B223FE346E18D529EA0A5D4"
+				"size" "B37266F9B500D00056F5382E8FC58E55"
+				"download" "1F0F7D21812260580FBDFDC8F9358D1B"
+			}
+			"test2"
+			{
+				"gid" "9AE9B0CEAB67C5DA5E2F9C3401570235"
+				"size" "B345884BEFB68687931ED690C9CB68F4"
+				"download" "8246B7D66B68CC982F0790CCD643914F"
+			}
+		}
+	}
+	"workshopdepot" "1909840"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "15873213"
+			"timeupdated" "1727689023"
+		}
+		"modtest"
+		{
+			"sc_schinese" "mod外部测试"
+			"buildid" "15944724"
+			"pwdrequired" "1"
+			"timeupdated" "1728359134"
+		}
+		"test"
+		{
+			"sc_schinese" "内部人员测试"
+			"buildid" "14984287"
+			"pwdrequired" "1"
+			"timeupdated" "1720582326"
+		}
+		"test2"
+		{
+			"buildid" "16019290"
+			"pwdrequired" "1"
+			"timeupdated" "1728721701"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "150"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocalLow"
+			"path" "Yipinge/JHL/JHL_SAV/"
+			"pattern" "*.sav"
+		}
+	}
+	"rootoverrides"
+	{
+		"0"
+		{
+			"root" "gameinstall"
+			"os" "Windows"
+			"oscompare" "="
+			"useinstead" "gameinstall"
+			"addpath" ""
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25765416"
+"_sha" "e5f89ff21ef3edafc1025ef8b233e0c00db63920"
+"_size" "5669"
