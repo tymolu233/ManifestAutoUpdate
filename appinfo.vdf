@@ -1,0 +1,407 @@
+"appid" "2208570"
+"common"
+{
+	"name" "Dark Hours"
+	"type" "Game"
+	"icon" "092ab63a14b24564ca7865452c002605f55d7905"
+	"clienticon" "3d5a74391777b69269eeb08e25de5b4f4595ca0b"
+	"clienttga" "50c02f1dec05a77b0b0a53ef688353f61d1c154f"
+	"releasestate" "released"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"name_localized"
+	{
+		"schinese" "劫盗惊魂夜"
+	}
+	"eulas"
+	{
+		"0"
+		{
+			"id" "2208570_eula_0"
+			"name" "Dark Hours EULA"
+			"url" "https://store.steampowered.com//eula/2208570_eula_0"
+			"version" "3"
+		}
+	}
+	"content_descriptors"
+	{
+		"0" "2"
+		"1" "5"
+	}
+	"controllertagwizard" "1"
+	"controller_support" "partial"
+	"small_capsule"
+	{
+		"english" "capsule_231x87.jpg"
+		"schinese" "b81142378e1ede03f36394d1406deb5bb7735b69/capsule_231x87_schinese.jpg"
+	}
+	"header_image"
+	{
+		"english" "header.jpg"
+		"schinese" "header_schinese.jpg"
+	}
+	"library_assets"
+	{
+		"library_capsule" "en"
+		"library_hero" "en"
+		"library_logo" "en"
+		"library_header" "en"
+		"logo_position"
+		{
+			"pinned_position" "UpperCenter"
+			"width_pct" "97.89964994165695"
+			"height_pct" "69.60341961529326"
+		}
+	}
+	"library_assets_full"
+	{
+		"library_capsule"
+		{
+			"image"
+			{
+				"english" "library_600x900.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_600x900_2x.jpg"
+			}
+		}
+		"library_hero"
+		{
+			"image"
+			{
+				"english" "library_hero.jpg"
+			}
+			"image2x"
+			{
+				"english" "library_hero_2x.jpg"
+			}
+		}
+		"library_logo"
+		{
+			"image"
+			{
+				"english" "logo.png"
+			}
+			"image2x"
+			{
+				"english" "logo_2x.png"
+			}
+			"logo_position"
+			{
+				"pinned_position" "UpperCenter"
+				"width_pct" "97.89964994165695"
+				"height_pct" "69.60341961529326"
+			}
+		}
+		"library_header"
+		{
+			"image"
+			{
+				"english" "library_header.jpg"
+			}
+		}
+	}
+	"store_asset_mtime" "1729854832"
+	"associations"
+	{
+		"0"
+		{
+			"type" "developer"
+			"name" "Piece of Cake studios"
+		}
+		"1"
+		{
+			"type" "publisher"
+			"name" "Piece of Cake studios"
+		}
+		"2"
+		{
+			"type" "franchise"
+			"name" "Piece of Cake studios"
+		}
+	}
+	"primary_genre" "1"
+	"genres"
+	{
+		"0" "1"
+		"1" "25"
+		"2" "70"
+	}
+	"category"
+	{
+		"category_1" "1"
+		"category_38" "1"
+		"category_9" "1"
+		"category_2" "1"
+		"category_18" "1"
+		"category_62" "1"
+	}
+	"supported_languages"
+	{
+		"english"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"french"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"german"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"spanish"
+		{
+			"subtitles" "true"
+			"supported" "true"
+		}
+		"japanese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"koreana"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"brazilian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"schinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"arabic"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"polish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"russian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"tchinese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"turkish"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"italian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"indonesian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"portuguese"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"latam"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"thai"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+		"ukrainian"
+		{
+			"supported" "true"
+			"subtitles" "true"
+		}
+	}
+	"steam_release_date" "1729786168"
+	"community_hub_visible" "1"
+	"gameid" "2208570"
+	"store_tags"
+	{
+		"0" "1667"
+		"1" "3859"
+		"2" "3843"
+		"3" "4136"
+		"4" "3978"
+		"5" "5711"
+		"6" "1662"
+		"7" "1721"
+		"8" "4166"
+		"9" "5125"
+		"10" "1720"
+		"11" "1680"
+		"12" "5716"
+		"13" "6730"
+		"14" "1687"
+		"15" "19"
+		"16" "1685"
+		"17" "4342"
+		"18" "10808"
+		"19" "3834"
+	}
+	"review_score" "8"
+	"review_percentage" "83"
+}
+"extended"
+{
+	"developer" "Piece of Cake studios"
+	"publisher" "Piece of Cake studios"
+	"homepage" "https://www.darkhours-thegame.com"
+}
+"config"
+{
+	"installdir" "Dark Hours"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "Dark Hours.exe"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"228989"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"2208571"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "2073079075986732615"
+				"size" "2577803269"
+				"download" "2452814256"
+			}
+		}
+		"encryptedmanifests"
+		{
+			"notyetavailable"
+			{
+				"gid" "4AC386E48323AC4136451D21A8A32EAC"
+				"size" "4BBEBAD12BF5926ED7BF07578A19E2E1"
+				"download" "CB33516BEA04D4D3AE5A90F37A452234"
+			}
+			"playtest"
+			{
+				"gid" "CFEB506D84D75B1D637FD5424B6B2308"
+				"size" "7407CE412606D5516CC9BEC48DD5C717"
+				"download" "5C8371F0B1268A5055765A8CB924605F"
+			}
+			"internal"
+			{
+				"gid" "306B29070F256DCDEAD5729045E11AB8"
+				"size" "9DA5B8330CF29EBA5CFAFF5BCB9A3AC8"
+				"download" "AFA95BA7BBCF8202739A2ACE92656CDD"
+			}
+			"lastworking"
+			{
+				"gid" "46506582147997C198E78FE3B7FDC527"
+				"size" "79D25B1541422CDC611AB3A7775FCC8A"
+				"download" "310EAD1216510F635EAFF07BDFF3BA3D"
+			}
+		}
+	}
+	"baselanguages" "english,german,french,koreana,spanish,schinese,tchinese,russian,japanese,polish,turkish,arabic,brazilian"
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "16179211"
+			"timeupdated" "1729858947"
+		}
+		"notyetavailable"
+		{
+			"buildid" "14147989"
+			"pwdrequired" "1"
+			"timeupdated" "1714064302"
+		}
+		"playtest"
+		{
+			"buildid" "16182828"
+			"pwdrequired" "1"
+			"timeupdated" "1729872105"
+		}
+		"internal"
+		{
+			"buildid" "16182828"
+			"pwdrequired" "1"
+			"timeupdated" "1729872028"
+		}
+		"lastworking"
+		{
+			"buildid" "16170118"
+			"pwdrequired" "1"
+			"timeupdated" "1729867491"
+		}
+	}
+}
+"ufs"
+{
+	"quota" "10000000000"
+	"maxnumfiles" "50"
+	"hidecloudui" "1"
+	"ignoreexternalfiles" "1"
+	"savefiles"
+	{
+		"0"
+		{
+			"root" "WinAppDataLocal"
+			"path" "darkhours/Saved/SaveGames"
+			"pattern" "XdhGameplayData.sav"
+		}
+	}
+}
+"_missing_token" "False"
+"_change_number" "25922597"
+"_sha" "4da9bbd6856f73ce63c13f53317b45742f387634"
+"_size" "6763"
