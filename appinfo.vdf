@@ -1,0 +1,147 @@
+"appid" "3450250"
+"common"
+{
+	"name" "TS:AC Modding Tool"
+	"type" "Tool"
+	"parent" "470310"
+	"oslist" "windows"
+	"osarch" "64"
+	"osextended" ""
+	"icon" "c2febdaad36fb30c51972b3d2cde1526bbd4969c"
+	"clienticon" "115d3890e3d129b254738d55d2d4f2be2c13cd98"
+	"clienttga" "5b3f7319f66dd2bad4d2bc4e65ab13cd70d003a0"
+	"releasestate" "released"
+	"gameid" "3450250"
+}
+"config"
+{
+	"installdir" "TSAC Modding Tool"
+	"launch"
+	{
+		"0"
+		{
+			"executable" "GameInstallPathFinder.exe"
+			"type" "default"
+			"config"
+			{
+				"oslist" "windows"
+				"osarch" "64"
+			}
+		}
+	}
+}
+"depots"
+{
+	"workshopdepot" "3450250"
+	"hasdepotsindlc" "0"
+	"228983"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228985"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"228990"
+	{
+		"config"
+		{
+			"oslist" "windows"
+		}
+		"depotfromapp" "228980"
+		"sharedinstall" "1"
+	}
+	"1466129"
+	{
+		"config"
+		{
+			"oslist" "windows"
+			"osarch" "64"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3607598903597518335"
+				"size" "104413921"
+				"download" "25267936"
+			}
+		}
+	}
+	"1345801"
+	{
+		"config"
+		{
+			"language" "koreana"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "7948161642525576948"
+				"size" "1009"
+				"download" "480"
+			}
+		}
+	}
+	"1345802"
+	{
+		"config"
+		{
+			"language" "japanese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "6443122698982599163"
+				"size" "1009"
+				"download" "480"
+			}
+		}
+	}
+	"1345803"
+	{
+		"config"
+		{
+			"language" "schinese"
+		}
+		"manifests"
+		{
+			"public"
+			{
+				"gid" "3381008121374074795"
+				"size" "1009"
+				"download" "480"
+			}
+		}
+	}
+	"branches"
+	{
+		"public"
+		{
+			"buildid" "17451261"
+			"timeupdated" "1740124430"
+		}
+	}
+	"privatebranches" "1"
+}
+"ufs"
+{
+	"quota" "1000000000"
+	"maxnumfiles" "30"
+}
+"_missing_token" "False"
+"_change_number" "27589983"
+"_sha" "09fe0a3ebe16323e5072519f0cfae0d3f5eb2010"
+"_size" "2039"
