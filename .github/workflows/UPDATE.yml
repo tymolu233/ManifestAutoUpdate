@@ -58,3 +58,4 @@ jobs:
           git config --local user.name AutoUpdate[bot]
           git config --local user.email AutoUpdate[bot]@users.noreply.github.com
           python main.py -l ${{ github.event.inputs.level || 'INFO' }} -p ${{ github.event.inputs.pool || 8 }} -r ${{ github.event.inputs.retry || 3 }} -t ${{ github.event.inputs.time || 1 }} -k ${{ secrets.KEY }} -u ${{ github.event.inputs.args }}
+          shell: bash
